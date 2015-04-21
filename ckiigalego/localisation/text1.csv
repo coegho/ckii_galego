@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+#CODE;GALEGO;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! is past childbearing age;§Y[GetTitledFirstName]§! n’est plus en âge d’avoir des enfants.;§Y[GetTitledFirstName]§! hat das gebärfähige Alter überschritten;;§Y[GetTitledFirstName]§! ha superado la edad fértil;;;;;;;;;x
 AIREASON_OPINION;Opinion of §Y[GetTitledFirstName]§!;Opinion de : §Y[GetTitledFirstName]§!;Meinung von §Y[GetTitledFirstName]§!;;Opinión de §Y[GetTitledFirstName]§!;;;;;;;;;x
 AIREASON_SKILLS;Skills of §Y[GetTitledFirstName]§!;Compétences de : §Y[GetTitledFirstName]§!;Fähigkeiten von §Y[GetTitledFirstName]§!;;Habilidades de §Y[GetTitledFirstName]§!;;;;;;;;;x
@@ -5004,13 +5004,13 @@ FE_JOIN_LAN_GAME;Join Lan Game;Rejoindre partie LAN;LAN-Spiel beitreten;Do³¹cz d
 FE_JOIN_INTERNET_GAME;Join Internet Game;Rejoindre partie Internet;Internetspiel beitreten;Do³¹cz do gry internetowej.;Unirse a partida Internet;Partecipa a partita Internet;Csatlakozás Internetes játékhoz;;;;;;;x
 FE_SCAN;scan;rechercher;Scannen;skanuj;Buscar;scansione;keresés;;;;;;;x
 FE_METASERVER;Metaserver;Métaserveur;Metaserver;Metaserwer;Metaservidor;Metaserver;Köztes szerver;;;;;;;x
-FE_BACK;Back;Retour;Zurück;Powrót;Anterior;Indietro;Vissza;;;;;;;x
-FE_PLAYER;Player;Joueur;Spieler;Gracz;Jugador;Giocatore;Játékos;;;;;;;x
-FE_PLAYER_NAME;Player name:;Nom du joueur :;Spielername:;Nazwa gracza:;Nombre jugador:;Nome giocatore:;Játékos név:;;;;;;;x
-FE_SINGLE_PLAYER;Single Player;Un joueur;Einzelspieler;Gra pojedyncza;Un jugador;Giocatore singolo;Egyjátékos mód;;;;;;;x
-FE_MULTI_PLAYER;Multiplayer;Multijoueur;Mehrspieler;Gra wieloosobowa;Multijugador;Multigiocatore;Többjátékos mód;;;;;;;x
-FE_OPTIONS;Options;Options;Optionen;Opcje;Opciones;Opzioni;Beállítások;;;;;;;x
-FE_CREDITS;Credits;Crédits;Credits;Twórcy gry;Créditos;Riconoscimenti;Készítõk;;;;;;;x
+FE_BACK;Retornar;;;;;;;;;;;;;x
+FE_PLAYER;Xogador;;;;;;;;;;;;;x
+FE_PLAYER_NAME;Nome de xogador:;;;;;;;;;;;;;x
+FE_SINGLE_PLAYER;Un xogador;;;;;;;;;;;;;x
+FE_MULTI_PLAYER;Multixogador;;;;;;;;;;;;;x
+FE_OPTIONS;Opcións;;;;;;;;;;;;;x
+FE_CREDITS;Créditos;;;;;;;;;;;;;x
 FE_NATION_TO_PLAY;Click the nation you wish to play...;Cliquez sur la nation avec laquelle vous voulez jouer...;Klickt auf das Land, dessen Geschicke Ihr leiten möchtet …;Kliknij pañstwo, którym chcesz w³adaæ...;Selecciona la nación con la que quieres jugar...;Scegli la nazione con cui desideri giocare;Kattints arra a nemzetre, amelyikkel játszani szeretnél;Klepnutím vyberte národ, za který chcete hrát...;;;;;;x
 FE_NEW_GAME;New Game;Nouvelle partie;Neues Spiel;Nowa gra;Partida nueva;Nuova partita;Új játék;Nová hra;;;;;;x
 FE_SAVE_GAME;Save Games;Sauvegarder les parties;Spiele speichern;Zapisz grê;Guardar partida;Salva partite;Mentések;Uložit hry;;;;;;x

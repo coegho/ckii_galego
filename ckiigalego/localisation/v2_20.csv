@@ -1,4 +1,4 @@
-#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;
+#CODE;GALEGO;FRENCH;GERMAN;;SPANISH;;;;;;;;;x;;
 e_germany;Germania;Germanie;Ostfrankenreich;;Germania;;;;;;;;;x;;
 e_germany_adj;German;germanique;Deutsch;;Germano;;;;;;;;;x;;
 k_lotharingia;Middle Francia;Francie Médiane;Mittleres Frankenreich;;Francia Media;;;;;;;;;x;;
@@ -27,7 +27,7 @@ LOMBARD_KINGDOM;Lombardy;Lombardie;Lombardei;;Lombardía;;;;;;;;;x;;
 LOMBARD_KINGDOM_ADJ;Lombard;Lombard;Lombardisch;;Lombardo;;;;;;;;;x;;
 k_lombardy;Lombardy;Lombardie;Lombardei;;Lombardía;;;;;;;;;x;;
 k_lombardy_adj;Lombard;Lombard;Lombardisch;;Lombardo;;;;;;;;;x;;
-WELCOME_HEADER;Welcome to Crusader Kings II;Bienvenue à Crusader Kings II;Willkommen zu Crusader Kings II;;Bienvenido a Crusader Kings II;;;;;;;;;x;;
+WELCOME_HEADER;Benvido ao Crusader Kings II;;;;;;;;;;;;;x;;
 #WELCOME_TEXT;You can play as any medieval ruler at any point in time, from a lowly count to an all-powerful emperor. When your character dies, you will need an heir to take over, and so on, down the ages. The starting situation is historical - and thus completely unbalanced. Check the difficulty estimation of a ruler before you start playing!;Vous pouvez incarner tous les souverains du Moyen Âge, quelle que soit leur période historique, de l'humble comte jusqu'à l'empereur tout puissant. Quand votre personnage mourra, vous devrez avoir un héritier pour reprendre le contrôle et faire ainsi perdurer votre royaume à travers les âges. Les situations de départ sont historiques, donc déséquilibrées. Assurez-vous de vérifier le niveau de difficulté de chaque souverain avant de commencer !;Ihr könnt zum Spielen jeden mittelalterlichen Herrscher zu jedem beliebigen Zeitpunkt auswählen, vom einfachen Grafen bis zum mächtigen Kaiser. Jedes Mal, wenn Eure Spielfigur stirbt, benötigt Ihr einen Erben, der Euer Erbe weiterführt, und so schreitet Ihr fort durch die Zeitalter. Die Ausgangssituation ist historisch und damit absolut unausgewogen. Beachtet vor dem Start eines neuen Spiels den voraussichtlichen Schwierigkeitsgrad des Herrschers, den Ihr auswählen möchtet!;;Puedes jugar como gobernante medieval de cualquier época, ya sea como modesto conde o como emperador todopoderoso. Cuando muera tu personaje, precisarás un heredero que tome el poder, y así sucesivamente a lo largo del tiempo. La situación inicial es histórica, por lo tanto totalmente desequilibrada. ¡Comprueba la estimación de dificultad de un gobernante antes de empezar a jugar!;;;;;;;;;x;;
 WELCOME_FIRST_PLAY_RECOMMEND;\n\nFor your first game we strongly recommend playing a special learning scenario as §YKing Alfonso VI of León§!. When it ends you can keep playing as normal.;\nPour votre première expérience, nous vous recommandons fortement d'incarner le §YRoi Alphonse VI de León§! lors d'un scénario d'apprentissage. À la fin du scénario, vous pourrez poursuivre votre partie en mode normal.;\nFür das erste Spiel empfehlen wir das Übungsszenario und die Auswahl von §YKönig Alfons VI. von León§!. Im Anschluss daran könnt Ihr normal weiterspielen.;;\n¡Te recomendamos que en tu primera partida elijas un escenario especial de aprendizaje y juegues como el §YRey Alfonso VI de León§! Después de ello, podrás seguir jugando de manera normal.;;;;;;;;;x;;
 WELCOME_PLAY_LEARNING_SCENARIO;Learning Scenario;Scénario d'apprentissage;Übungsszenario;;Escenario de Aprendizaje;;;;;;;;;x;;
@@ -1255,57 +1255,57 @@ vice_royalty;Viceroyalty;Vice-royauté;Vizekönigswürde;;Virreinato;;;;;;;;;x;;
 AIREASON_STRATEGIC_INTEREST;For the good of the realm;Pour le bien du royaume;Zum Wohl des Reiches;;Por el bien del reino;;;;;;;;;x;;
 EVTDESCCM15000;You've been thrown into a pit dug out in the middle of the desert. The guards explain to you that you are to be judged by Zun the Justice-Giver. If you are guilty, the Sun will punish you for your crimes.;Vous avez été jeté dans un trou creusé en plein milieu du désert. Les gardes vous expliquent que vous allez subir le jugement de Zun, le Justicier. Si vous êtes coupable, le Soleil vous punira pour vos crimes.;Man hat Euch in eine Grube mitten in der Wüste geworfen. Die Wachen erklären Euch, dass Ihr von Zun, dem Geber der Gerechtigkeit, gerichtet werden sollt. Wenn Ihr schuldig seid, wird die Sonne Euch für Eure Verbrechen bestrafen.;;Te han lanzado en un hoyo cavado en medio del desierto. Los guardias te cuentan que serás juzgado por Zun, el que Imparte Justicia. Si eres culpable, el Sol te castigará por tus crímenes.;;;;;;;;;x;;
 norse_pagan_DESC;In the Early Middle Ages, the ancient Germanic belief system is still dominant in Scandinavia and northern Germany. A pantheon of gods under the wise warrior god Odin (or Wodan) rules all the branches of the worldtree, Yggdrasil. The other two main gods are Thor (Thunar), friend to mankind, and Frey, god of fertility. Defining features in-game:\n§Y*§! Can perform coastal raids anywhere\n§Y*§! Fleets can navigate major rivers\n§Y*§! Rulers can Prepare Invasions\n§Y*§! Low-tech non-pagans have very low Supply Limit in Pagan counties\n§Y*§! Can declare Subjugation Wars against all other pagans\n§Y*§! Rulers are limited to Gavelkind Succession\n§Y*§! Rulers cannot declare Holy Wars\n§Y*§! Inferior at conversion and vulnerable to non-pagan missionaries\n§Y*§! Rulers lose Prestige if at peace for too long\n§Y*§! The Germanic Pagan faith can be Reformed;Pendant le haut Moyen Âge, le système de croyances germanique est prédominant en Scandinavie et en Allemagne du Nord. Un panthéon de divinités sous l'égide du dieu de la guerre Odin (ou Wodan) dirige toutes les branches de l'Arbre-Monde, Yggdrasil. Les deux autres dieux principaux sont Thor (Thunar), protecteur de l'humanité, et Freyr, dieu de la fertilité. Caractéristiques en jeu :\n§Y*§! Peut réaliser des raids côtiers partout\n§Y*§! Les flottes peuvent naviguer sur les principaux fleuves\n§Y*§! Les dirigeants peuvent préparer des invasions\n§Y*§! Les non-païens qui ont peu de moyens techniques ont une très basse limite de stock dans les comtés païens.\n§Y*§! Peuvent déclarer des guerres d'assujettissement à tous les autres païens\n§Y*§! Les dirigeants n'ont accès qu'à la succession Gavelkind.\n§Y*§! Les dirigeants ne peuvent déclarer de guerres saintes\n§Y*§! Inférieurs en conversion et vulnérables aux missionnaires non-païens\n§Y*§! Les dirigeants perdent du prestige lors d'une période de paix prolongée\n§Y*§! La foi païenne germanique peut être réformée;Im frühen Mittelalter ist das alte germanische Glaubensgebäude in Skandinavien und Norddeutschland immer noch vorherrschend. Ein Pantheon der Götter unter dem weisen Kriegergott Odin (oder Wotan) herrscht über alle Zweige der Weltesche Yggdrasil. Die anderen beiden Hauptgötter sind Thor (Thunar), Freund der Menschheit, und Frey, Gott der Fruchtbarkeit. Besondere Merkmale im Spiel:\n§Y*§! Kann überall Küsten überfallen\n§Y*§! Flotten können größere Flüsse befahren\n§Y*§! Herrscher können Invasionen vorbereiten\n§Y*§! Nicht-Heiden mit niedriger Technologie haben in heidnischen Grafschaften ein sehr niedriges Versorgungslimit\n§Y*§! Kann gegen alle anderen Heiden Unterwerfungskriege erklären\n§Y*§! Herrscher sind auf Realteilungs-Nachfolge beschränkt\n§Y*§! Herrscher können keinen Heiligen Kriege erklären\n§Y*§! Schwach bei Bekehrungen und anfällig für nicht-heidnische Missionare\n§Y! Herrscher verlieren Prestige, wenn zu lange Frieden herrscht\n§Y*§! Der germanische Glaube kann reformiert werden;;En la Temprana Edad Media, el antiguo sistema de creencias germano aún predomina en Escandinavia y el norte de Alemania. Un panteón de dioses bajo el sabio dios guerreo Odín (o Wotan) que gobierna todas las ramas del Árbol del Mundo. Los otros dos dioses principales son Thor, amigo de la humanidad, y Frey, dios de la fertilidad. Características distintivas en el juego:\n§Y*§! Puede llevar a cabo asaltos costeros en cualquier parte\n§Y*§! Las Flotas pueden navegar por ríos principales\n§Y*§! Los Gobernantes pueden Preparar Invasiones\n§Y*§! Los no paganos poco desarrollados tienen un Límite de Suministros muy bajo en países paganos\n§Y*§! Pueden declarar Guerras de Subyugación contra todos los demás paganos\n§Y*§! Los Gobernantes estan limitados a la Sucesión Gavelkind\n§Y*§! Los Gobernantes no pueden declarar Guerras Santas\n§Y*§! Inferioridad en la conversión y vulnerabilidad ante misioneros no paganos\n§Y*§! Los Gobernantes pierden Prestigio si están en paz demasiado tiempo\n§Y*§! La fe Pagana Germánica puede ser Reformada;;;;;;;;;x;;
-d_pskov_adj;Pskovian;Pskovienne;Pskower;Pskoviense;;;;;;;;;x;;
-tribal_emperor_altaic;Khagan;Khagan;Khagan;;Gran Kan;;;;;;;;;x
-tribal_emperor_female_altaic;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x
-tribal_empire_of_altaic;Khaganate of;Khaganat de;Großkhanat von;;Kaganato de;;;;;;;;;x
-tribal_king_altaic;Khan;Khan;Khan;;Kan;;;;;;;;;x
-tribal_king_female_altaic;Khanum;Khanoum;Khanum;;Khanum;;;;;;;;;x
-tribal_kingdom_of_altaic;Khanate of;Khanat de;Khanat von;;Kanato de;;;;;;;;;x
-tribal_king_arabic;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x
-tribal_king_female_arabic;Sultana;Sultane;Sultanin;;Sultana;;;;;;;;;x
-tribal_kingdom_of_arabic;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
-tribal_emperor_arabic;Badshah;Badshah;Badshah;;Badshah;;;;;;;;;x
-tribal_emperor_russian;Tsar;Tsar;Zar;;Zar;;;;;;;;;x
-tribal_emperor_female_russian;Tsaritsa;Tsarine;Zarin;;Zarina;;;;;;;;;x
-tribal_emperor_dravidian_group;Samrat;Samrat;Samrat;;Samrat;;;;;;;;;x;;;;;;;;;;;;
-tribal_emperor_female_dravidian_group;Samrajni;Samrajni;Samrajni;;Samrajní;;;;;;;;;x;;;;;;;;;;;;
-tribal_king_dravidian_group;Maharaja;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x;;;;;;;;;;;;
-tribal_king_female_dravidian_group;Maharani;Maharani;Maharani;;Maharaní;;;;;;;;;x;;;;;;;;;;;;
-tribal_duke_dravidian_group;Raja;Raja;Radscha;;Rajá;;;;;;;;;x;;;;;;;;;;;;
-tribal_duke_female_dravidian_group;Rani;Rani;Rani;;Raní;;;;;;;;;x;;;;;;;;;;;;
-tribal_count_dravidian_group;Thakur;Thakur;Thakur;;Thakur;;;;;;;;;x;;;;;;;;;;;;
-tribal_count_female_dravidian_group;Thakurani;Thakurani;Thakurani;;Thakuraní;;;;;;;;;x;;;;;;;;;;;;
-tribal_baron_dravidian_group;Damapati;Damapati;Damapati;;Damapati;;;;;;;;;x;;;;;;;;;;;;
-tribal_baron_female_dravidian_group;Damapatni;Damapatni;Damapatni;;Damapatní;;;;;;;;;x;;;;;;;;;;;;
-tribal_title_prince_c_indian;Rajkumar;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x;;;;;;;;;;;;
-tribal_title_prince_female_c_indian;Rajkumari;Rajkumari;Radschkumari;;Rajkumarí;;;;;;;;;x;;;;;;;;;;;;
-tribal_duchy_dravidian_group;Raj;Raj;Radsch;;Raj;;;;;;;;;x;;;;;;;;;;;;
-tribal_county_dravidian_group;Thikana;Thikana;Thikana;;Thikana;;;;;;;;;x;;;;;;;;;;;;
-tribal_barony_dravidian_group;Dama;Dama;Dama;;Dama;;;;;;;;;x;;;;;;;;;;;;
-tribal_duchy_of_dravidian_group;Raj of;Raj de;Radsch von;;Raj de;;;;;;;;;x;;;;;;;;;;;;
-tribal_county_of_dravidian_group;Thikana of;Thikana de;Thikana von;;Thikana de;;;;;;;;;x;;;;;;;;;;;;
-tribal_barony_of_dravidian_group;Dama of;Dama de;Dama von;;Dama de;;;;;;;;;x;;;;;;;;;;;;
-tribal_emperor_indo_aryan_group;Samrat;Samrat;Samrat;;Samrat;;;;;;;;;x;;;;;;;;;;;;
-tribal_emperor_female_indo_aryan_group;Samrajni;Samrajni;Samrajni;;Samrajní;;;;;;;;;x;;;;;;;;;;;;
-tribal_king_indo_aryan_group;Maharaja;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x;;;;;;;;;;;;
-tribal_king_female_indo_aryan_group;Maharani;Maharani;Maharani;;Maharaní;;;;;;;;;x;;;;;;;;;;;;
-tribal_duke_indo_aryan_group;Raja;Raja;Radscha;;Rajá;;;;;;;;;x;;;;;;;;;;;;
-tribal_duke_female_indo_aryan_group;Rani;Rani;Rani;;Raní;;;;;;;;;x;;;;;;;;;;;;
-tribal_count_indo_aryan_group;Thakur;Thakur;Thakur;;Thakur;;;;;;;;;x;;;;;;;;;;;;
-tribal_count_female_indo_aryan_group;Thakurani;Thakurani;Thakurani;;Thakuraní;;;;;;;;;x;;;;;;;;;;;;
-tribal_baron_indo_aryan_group;Damapati;Damapati;Damapati;;Damapati;;;;;;;;;x;;;;;;;;;;;;
-tribal_baron_female_indo_aryan_group;Damapatni;Damapatni;Damapatni;;Damapatní;;;;;;;;;x;;;;;;;;;;;;
-tribal_title_prince_indo_aryan_group;Rajkumar;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x;;;;;;;;;;;;
-tribal_title_prince_female_indo_aryan_group;Rajkumari;Rajkumari;Radschkumari;;Rajkumarí;;;;;;;;;x;;;;;;;;;;;;
-tribal_duchy_indo_aryan_group;Raj;Raj;Radsch;;Raj;;;;;;;;;x;;;;;;;;;;;;
-tribal_county_indo_aryan_group;Thikana;Thikana;Thikana;;Thikana;;;;;;;;;x;;;;;;;;;;;;
-tribal_barony_indo_aryan_group;Dama;Dama;Dama;;Dama;;;;;;;;;x;;;;;;;;;;;;
-tribal_duchy_of_indo_aryan_group;Raj of;Raj de;Radsch von;;Raj de;;;;;;;;;x;;;;;;;;;;;;
-tribal_county_of_indo_aryan_group;Thikana of;Thikana de;Thikana von;;Thikana de;;;;;;;;;x;;;;;;;;;;;;
-tribal_barony_of_indo_aryan_group;Dama of;Dama de;Dama von;;Dama de;;;;;;;;;x;;;;;;;;;;;;
-job_marshal_greek;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x
-city_job_marshal_greek;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x
-temple_king_finnish_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x
-temple_king_slavic_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x
-temple_king_baltic_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x
+d_pskov_adj;Pskovian;Pskovienne;Pskower;Pskoviense;;;;;;;;;x;;;
+tribal_emperor_altaic;Khagan;Khagan;Khagan;;Gran Kan;;;;;;;;;x;;
+tribal_emperor_female_altaic;Khatun;Khatoun;Khatun;;Khatun;;;;;;;;;x;;
+tribal_empire_of_altaic;Khaganate of;Khaganat de;Großkhanat von;;Kaganato de;;;;;;;;;x;;
+tribal_king_altaic;Khan;Khan;Khan;;Kan;;;;;;;;;x;;
+tribal_king_female_altaic;Khanum;Khanoum;Khanum;;Khanum;;;;;;;;;x;;
+tribal_kingdom_of_altaic;Khanate of;Khanat de;Khanat von;;Kanato de;;;;;;;;;x;;
+tribal_king_arabic;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x;;
+tribal_king_female_arabic;Sultana;Sultane;Sultanin;;Sultana;;;;;;;;;x;;
+tribal_kingdom_of_arabic;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x;;
+tribal_emperor_arabic;Badshah;Badshah;Badshah;;Badshah;;;;;;;;;x;;
+tribal_emperor_russian;Tsar;Tsar;Zar;;Zar;;;;;;;;;x;;
+tribal_emperor_female_russian;Tsaritsa;Tsarine;Zarin;;Zarina;;;;;;;;;x;;
+tribal_emperor_dravidian_group;Samrat;Samrat;Samrat;;Samrat;;;;;;;;;x;;
+tribal_emperor_female_dravidian_group;Samrajni;Samrajni;Samrajni;;Samrajní;;;;;;;;;x;;
+tribal_king_dravidian_group;Maharaja;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x;;
+tribal_king_female_dravidian_group;Maharani;Maharani;Maharani;;Maharaní;;;;;;;;;x;;
+tribal_duke_dravidian_group;Raja;Raja;Radscha;;Rajá;;;;;;;;;x;;
+tribal_duke_female_dravidian_group;Rani;Rani;Rani;;Raní;;;;;;;;;x;;
+tribal_count_dravidian_group;Thakur;Thakur;Thakur;;Thakur;;;;;;;;;x;;
+tribal_count_female_dravidian_group;Thakurani;Thakurani;Thakurani;;Thakuraní;;;;;;;;;x;;
+tribal_baron_dravidian_group;Damapati;Damapati;Damapati;;Damapati;;;;;;;;;x;;
+tribal_baron_female_dravidian_group;Damapatni;Damapatni;Damapatni;;Damapatní;;;;;;;;;x;;
+tribal_title_prince_c_indian;Rajkumar;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x;;
+tribal_title_prince_female_c_indian;Rajkumari;Rajkumari;Radschkumari;;Rajkumarí;;;;;;;;;x;;
+tribal_duchy_dravidian_group;Raj;Raj;Radsch;;Raj;;;;;;;;;x;;
+tribal_county_dravidian_group;Thikana;Thikana;Thikana;;Thikana;;;;;;;;;x;;
+tribal_barony_dravidian_group;Dama;Dama;Dama;;Dama;;;;;;;;;x;;
+tribal_duchy_of_dravidian_group;Raj of;Raj de;Radsch von;;Raj de;;;;;;;;;x;;
+tribal_county_of_dravidian_group;Thikana of;Thikana de;Thikana von;;Thikana de;;;;;;;;;x;;
+tribal_barony_of_dravidian_group;Dama of;Dama de;Dama von;;Dama de;;;;;;;;;x;;
+tribal_emperor_indo_aryan_group;Samrat;Samrat;Samrat;;Samrat;;;;;;;;;x;;
+tribal_emperor_female_indo_aryan_group;Samrajni;Samrajni;Samrajni;;Samrajní;;;;;;;;;x;;
+tribal_king_indo_aryan_group;Maharaja;Maharaja;Maharadscha;;Maharaja;;;;;;;;;x;;
+tribal_king_female_indo_aryan_group;Maharani;Maharani;Maharani;;Maharaní;;;;;;;;;x;;
+tribal_duke_indo_aryan_group;Raja;Raja;Radscha;;Rajá;;;;;;;;;x;;
+tribal_duke_female_indo_aryan_group;Rani;Rani;Rani;;Raní;;;;;;;;;x;;
+tribal_count_indo_aryan_group;Thakur;Thakur;Thakur;;Thakur;;;;;;;;;x;;
+tribal_count_female_indo_aryan_group;Thakurani;Thakurani;Thakurani;;Thakuraní;;;;;;;;;x;;
+tribal_baron_indo_aryan_group;Damapati;Damapati;Damapati;;Damapati;;;;;;;;;x;;
+tribal_baron_female_indo_aryan_group;Damapatni;Damapatni;Damapatni;;Damapatní;;;;;;;;;x;;
+tribal_title_prince_indo_aryan_group;Rajkumar;Rajkumar;Radschkumar;;Rajkumar;;;;;;;;;x;;
+tribal_title_prince_female_indo_aryan_group;Rajkumari;Rajkumari;Radschkumari;;Rajkumarí;;;;;;;;;x;;
+tribal_duchy_indo_aryan_group;Raj;Raj;Radsch;;Raj;;;;;;;;;x;;
+tribal_county_indo_aryan_group;Thikana;Thikana;Thikana;;Thikana;;;;;;;;;x;;
+tribal_barony_indo_aryan_group;Dama;Dama;Dama;;Dama;;;;;;;;;x;;
+tribal_duchy_of_indo_aryan_group;Raj of;Raj de;Radsch von;;Raj de;;;;;;;;;x;;
+tribal_county_of_indo_aryan_group;Thikana of;Thikana de;Thikana von;;Thikana de;;;;;;;;;x;;
+tribal_barony_of_indo_aryan_group;Dama of;Dama de;Dama von;;Dama de;;;;;;;;;x;;
+job_marshal_greek;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x;;
+city_job_marshal_greek;Protostrator;Protostrator;Protostrator;;Protostrator;;;;;;;;;x;;
+temple_king_finnish_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x;;
+temple_king_slavic_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x;;
+temple_king_baltic_pagan;Witch-King;Roi-Sorcier;Hexenkönig;;Rey Brujo;;;;;;;;;x;;
