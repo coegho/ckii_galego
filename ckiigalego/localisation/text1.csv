@@ -1,197 +1,197 @@
-#CODE;GALEGO;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! is past childbearing age;§Y[GetTitledFirstName]§! n’est plus en âge d’avoir des enfants.;§Y[GetTitledFirstName]§! hat das gebärfähige Alter überschritten;;§Y[GetTitledFirstName]§! ha superado la edad fértil;;;;;;;;;x
-AIREASON_OPINION;Opinion of §Y[GetTitledFirstName]§!;Opinion de : §Y[GetTitledFirstName]§!;Meinung von §Y[GetTitledFirstName]§!;;Opinión de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_SKILLS;Skills of §Y[GetTitledFirstName]§!;Compétences de : §Y[GetTitledFirstName]§!;Fähigkeiten von §Y[GetTitledFirstName]§!;;Habilidades de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_REALPOLITIK;Political Concerns;Politique;Politische Vorbehalte;;Intereses políticos;;;;;;;;;x
-AIREASON_REALPOLITIK_VS;Political Concerns vs §Y[GetTitledFirstName]§!;Politique contre : §Y[GetTitledFirstName]§!;Politische Vorbehalte gegen §Y[GetTitledFirstName]§!;;Intereses políticos versus §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_WRONG_RELIGION;False Religion;Fausse religion;Falsche Religion;;Religión falsa;;;;;;;;;x
-AIREASON_WRONG_CULTURE;Foreign Culture;Culture étrangère;Ausländische Kultur;;Cultura extranjera;;;;;;;;;x
-AIREASON_TOO_WEAK;Weaker than I am;Plus faible que moi;Schwächer als ich;;Más débil que yo;;;;;;;;;x
-AIREASON_WEAKNESS;Lack of Power;Absence de pouvoir;Machtmangel;;Falta de poder;;;;;;;;;x
-AIREASON_STRENGTH;Power;Pouvoir;Macht;;Poder;;;;;;;;;x
-AIREASON_IS_RULER;Is a Ruler;Est un Suzerain;Ist ein Herrscher;;Es un gobernante;;;;;;;;;x
-AIREASON_NOT_DE_JURE_LIEGE;Not my de jure Liege;N’est pas mon suzerain de Jure;Nicht mein de jure-Lehnsherr;;No es mi señor de iure;;;;;;;;;x
-AIREASON_CANNOT_AFFORD;Cannot Afford;Moyens insuffisants;Zu teuer;;No puedo permitírmelo;;;;;;;;;x
-AIREASON_NO_INTEREST_IN_CHAR;No interest in §Y[GetTitledFirstName]§!;Aucun intérêt pour : §Y[GetTitledFirstName]§!;Kein Interesse an §Y[GetTitledFirstName]§!;;Sin interés en §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_SAME_DYNASTY_AS_TARGET;Same Dynasty as §Y[GetTitledFirstName]§!;Même dynastie que : §Y[GetTitledFirstName]§!;Gleiche Dynastie wie §Y[GetTitledFirstName]§!;;La misma dinastía que §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§! is too high in the line of succession;§Y[GetTitledFirstName]§! occupe un rang trop élevé dans la ligne de succession.;§Y[GetTitledFirstName]§! steht in der Erbfolge zu hoch;;§Y[GetTitledFirstName]§! está demasiado arriba en la línea de sucesión;;;;;;;;;x
-AIREASON_SUCC_LOWLY_RANK;§Y[GetTitledFirstName]§! is of too lowly rank for a regular marriage;§Y[GetTitledFirstName]§! occupe un rang trop bas pour un mariage classique.;§Y[GetTitledFirstName]§! steht für eine reguläre Heirat im Rang zu niedrig;;§Y[GetTitledFirstName]§! es de una clase demasiado baja para un matrimonio normal;;;;;;;;;x
-AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§! would prefer a Matrilineal Marriage;§Y[GetTitledFirstName]§! préférerait un mariage matrilinéaire.;§Y[GetTitledFirstName]§! würde eine matrilineale Heirat bevorzugen;;§Y[GetTitledFirstName]§! prefiere un matrimonio matrilineal;;;;;;;;;x
-AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§! has the power to press my claims;§Y[GetTitledFirstName]§! a le pouvoir d’appuyer mes revendications.;§Y[GetTitledFirstName]§! hat die Macht, meine Ansprüche voranzutreiben;;§Y[GetTitledFirstName]§! tiene el poder de instar mis reivindicaciones;;;;;;;;;x
-AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§! is unable to press my claims;§Y[GetTitledFirstName]§! n’a pas le pouvoir d’appuyer mes revendications.;§Y[GetTitledFirstName]§! kann meine Ansprüche nicht vorantreiben;;§Y[GetTitledFirstName]§! no puede instar mis reivindicaciones;;;;;;;;;x
-AIREASON_REBELLIOUS;Rebellious;Rebelle;Rebellisch;;Rebelde;;;;;;;;;x
-AIREASON_AGE_FACTOR;Age of §Y[GetTitledFirstName]§!;Âgé de : §Y[GetTitledFirstName]§!;Alter von §Y[GetTitledFirstName]§!;;Edad de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_IS_MY_LIEGE;§Y[GetTitledFirstName]§! is my Liege;§Y[GetTitledFirstName]§! est mon suzerain.;§Y[GetTitledFirstName]§! ist mein Lehnsherr;;§Y[GetTitledFirstName]§! es mi señor;;;;;;;;;x
-AIREASON_PRESTIGE_EFFECTS;Prestige Effects;Effets du prestige;Prestige-Effekte;;Efectos del prestigio;;;;;;;;;x
-AIREASON_WANTS_FREEDOM;Wants Freedom;Veut la liberté;Möchte Freiheit;;Desea libertad;;;;;;;;;x
-AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§! is a Close Relative;§Y[GetTitledFirstName]§! est un proche parent.;§Y[GetTitledFirstName]§! ist ein naher Verwandter;;§Y[GetTitledFirstName]§! es un pariente cercano;;;;;;;;;x
-AIREASON_DARE_NOT_REFUSE;Dare not refuse;N’ose pas refuser;Wagt keinen Widerstand;;No osa negarse;;;;;;;;;x
-AIREASON_CONFLICTING_INTERESTS;Conflicting Interests;Conflits d’intérêt;Gegensätzliche Interessen;;Intereses contrapuestos;;;;;;;;;x
-AIREASON_SAME_REALM;Same Realm;Même royaume;Gleiches Reich;;El mismo reino;;;;;;;;;x
-AIREASON_GREED;Greed;Cupidité;Gier;;Codicia;;;;;;;;;x
-AIREASON_LAND_IS_GOOD;Land is Good;La terre, c’est bien;Land ist gut;;La tierra es buena;;;;;;;;;x
-AIREASON_FEAR;Fear of §Y[GetTitledFirstName]§!;Peur de §Y[GetTitledFirstName]§!;Angst vor §Y[GetTitledFirstName]§!;;Miedo de §Y[GetTitledFirstName]§!;;;;;;;;;x
-AIREASON_GOLD_IS_GOOD;Gold is Good;L’or, c’est bien;Gold ist gut;;El oro es bueno;;;;;;;;;x
-AIREASON_CONSANGUINITY;Consanguinity;Consanguinité;Blutsverwandschaft;;Consanguinidad;;;;;;;;;x
-AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§! is too young;§Y[GetTitledFirstName]§! est trop jeune.;§Y[GetTitledFirstName]§! ist zu jung;;§Y[GetTitledFirstName]§! es demasiado joven;;;;;;;;;x
-AIREASON_GOT_MORE_ADVANCED_PLOT;Already leading a similar Plot;Déjà à la tête d’un complot similaire;Führt bereits eine vergleichbare Verschwörung;;Ya lidera un complot similar;;;;;;;;;x
-AIREASON_GOT_SAME_PLOT;Has got the same Plot;Même complot;Hat dieselbe Verschwörung;;Tiene el mismo complot;;;;;;;;;x
-AIREASON_BACKING_SIMILAR_PLOT;Already backing a similar Plot;Soutient déjà un complot similaire;Unterstützt bereits eine vergleichbare Verschwörung;;Ya apoya un complot similar;;;;;;;;;x
-AIREASON_LIEGE_REALM_ATTACKED;Realm under Foreign Attack;Royaume sous attaque étrangère;Ausländische Macht greift Reich an;;Reino bajo ataque extranjero;;;;;;;;;x
-AIREASON_FIGHTING_WAR;Busy Fighting a War;En guerre;Beschäftigt mit einem Krieg;;Ocupado combatiendo;;;;;;;;;x
-AIREASON_WARY_OF_FOREIGN_INTERVENTION;Wary of Foreign Intervention;Redoute une intervention étrangère;Ausländischer Intervention gegenüber skeptisch;;Cauto respecto a la intervención extranjera;;;;;;;;;x
-AIREASON_AGE_POWER_DIFFERENCE;Age vs Suitor Power;Âge contre pouvoir du soupirant;Alter gegen Bewerbermacht;;Edad versus poder del aspirante;;;;;;;;;x
-AIREASON_WE_LIKE_ENEMY_BETTER;We like your enemies too much;Nous apprécions trop vos ennemis;Wir mögen Eure Feinde zu sehr;;Nos gustan mucho tus enemigos;;;;;;;;;x
-AIREASON_WE_LIKE_YOU_BETTER;We like you more than your enemies;Nous vous préférons à vos ennemis;Wir mögen Euch mehr als Eure Feinde;;Nos gustas más que tus enemigos;;;;;;;;;x
-AIREASON_BASE_RELUCTANCE;Base Reluctance;Réticence de base;Grundzurückhaltung;;Reticencia de base;;;;;;;;;x
-AIREASON_SMALL_TIER_DIFF;Small difference in Rank;Légère différence de rang;Geringfügiger Rangunterschied;;Ligera diferencia de clase;;;;;;;;;x
-AIREASON_NOT_NEIGHBOR;Distant Realm;Royaume lointain;Entferntes Reich;;Reino lejano;;;;;;;;;x
-AIREASON_INFERTILE;Unlikely to have Children;Faible probabilité d’avoir des enfants;Wird wohl kinderlos bleiben;;Improbable tener hijos;;;;;;;;;x
-AIREASON_WANTS_GOOD_ALLIANCE;Desires a better Alliance;Souhaite une meilleure alliance;Wünscht ein besseres Bündnis;;Desea una alianza mejor;;;;;;;;;x
-alert_casus_belli_will_expire_instant;§YTemporary Casus belli against:§!;§YCasus belli temporaire contre :§!;§YTemporärer Kriegsgrund gegen:§!;§YCasus belli§!;§YCasus belli temporal contra§!;§YCasus belli§!;§YA Casus belli lejár:§!;§YDoèasná záminka k válce proti:§!;;;;;;x
-alert_casus_belli_will_expire_delayed;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$.;$LIST$ Casus Bellije hamarosan lejár.;$LIST$.;;;;;;x
-alert_build_province_improvement_instant;§YYou can build province improvements!§!;§YVous pouvez procéder à des améliorations provinciales !§!;§YIhr könnt Provinzverbesserungen bauen!§!;§YMo¿esz budowaæ ulepszenia w prowincji!§!;§YPodéis construir mejoras de la provincia§!;§YPuoi costruire miglioramenti per la provincia!§!;§YFejlesztheted a tartományaidat!§!;§YMùžete budovat provinciální vylepšení!§!;;;;;;x
-alert_build_province_improvement_delayed;$LIST$;$LIST$;$LIST$;$LIST$;$LIST$;$LIST$;$LIST$;$LIST$;;;;;;x
-alert_troops_in_foreign_territory_instant;§YYou have troops in foreign territory.§!;§YVous avez des troupes à l’étranger.§!;§YIhr habt Truppen auf fremdem Territorium.§!;§YMasz oddzia³y na terytorium obcego pañstwa.§!;§YTenéis tropas en territorio extranjero.§!;§YHai truppe in territorio straniero.§!;§YCsapataid vannak idegen területen.§!;§YVaši vojáci se nacházejí v cizím teritoriu.§!;;;;;;x
-alert_troops_in_foreign_territory_delayed;In $LIST$.;En $LIST$.;In $LIST$.;W $LIST$.;En $LIST$.;In $LIST$.;Itt: $LIST$.;V $LIST$.;;;;;;x
-alert_revoltrisk_in_provinces_instant;§YRevolts Possible§!;§YRévoltes possibles§!;§YRevolten möglich§!;§YMo¿liwoœæ buntu§!;§YPosibles rebeliones§!;Possibili rivolte;§YLázadás lehetséges§!;§YMožné revolty§!;;;;;;x
-alert_revoltrisk_in_provinces_delayed;The following provinces run a risk of having a revolt:\n$LIST$;Les provinces suivantes courent un risque de révolte.\n$LIST$.;In folgenden Provinzen gibt es die Gefahr einer Rebellion:\n$LIST$ ;Nastêpuj¹ce prowincje s¹ zagro¿one buntem.\n$LIST$;Las siguientes provincias corren el riego de sufrir una rebelión.\n$LIST$;Le seguenti province sono a rischio di rivolta.\n$LIST$;A következõ provinciákon áll fent lázadás esélye.\n$LIST$;V*následujících provinciích mùže propuknout revolta.\n$LIST$;;;;;;x
-alert_noheir_delayed;If your ruler dies now the game will end!;Si votre souverain meurt maintenant, la partie prendra fin !;Wenn Euer Herrscher jetzt stirbt, endet das Spiel!;;¡Si tu gobernante muere ahora terminará la partida!;;;;;;;;;x
-alert_court_not_filled_instant;§YOpen Council Positions§!;§YOuvrir des postes au conseil§!;§YOffene Ratspositionen§!;;§YPuestos en el consejo§!;;;;;;;;;x
-alert_court_not_filled_delayed;The following spots need to be filled:\n$LIST$\n§GClick to go to Court View§!;Les emplacements suivants doivent être complétés :\n$LIST$\n§GCliquez pour accéder à la vue Cour.§!;Folgende Spots müssen gefüllt werden:\n$LIST$\n§GKlickt zum Aufruf der Hofansicht§!;;Deben cubrirse las siguientes posiciones:\n$LIST$\n§GClic para ir a vista de corte§!;;;;;;;;;x
-alert_lose_title_on_succ_instant;§YTitle Loss on Succession§!;§YPerte de titre lors de la succession§!;§YTitelverlust bei Nachfolge§!;;§YPérdida de títulos en la sucesión§!;;;;;;;;;x
-alert_lose_title_on_succ_delayed;The following titles will be lost on succession:\n$LIST$;Les titres suivants seront perdus lors de la succession :\n$LIST$;Folgende Titel gehen bei Nachfolge verloren:\n$LIST$;;Se perderán los siguientes títulos en la sucesión:\n$LIST$;;;;;;;;;x
-alert_should_nominate_heir_instant;§YSuccessor Nomination§!;§YNomination d’un successeur§!;§YNachfolgernominierung§!;;§YDesignación de sucesores§!;;;;;;;;;x
-alert_should_nominate_heir_delayed;You should nominate successors for these titles:\n$LIST$;Vous devriez nommer des successeurs pour les titres suivants :\n$LIST$;Ihr solltet für diese Titel Nachfolger nominieren:\n$LIST$;;Deberías nombrar sucesores para estos títulos:\n$LIST$;;;;;;;;;x
-alert_you_can_create_titles_instant;§Y$NUM$ Title(s) can be Created§!;§Y$NUM$ titre(s) peut(vent) être créé(s)§!;§Y$NUM$ Titel kann/können geschaffen werden§!;;§YPueden crearse $NUM$ título(s)§!;;;;;;;;;x
-alert_you_can_create_titles_delayed;The following titles can be created:\n$LIST$;Les titres suivants peuvent être créés :\n$LIST$;Folgende Titel können geschaffen werden:\n$LIST$;;Pueden crearse los siguientes títulos:\n$LIST$;;;;;;;;;x
-alert_you_can_usurp_titles_instant;§Y$NUM$ Title(s) can be Usurped§!;§Y$NUM$ titre(s) peut(vent) être usurpé(s)§!;§Y$NUM$ Titel kann/können übernommen werden§!;;§YPueden usurparse $NUM$ título(s)§!;;;;;;;;;x
-alert_you_can_usurp_titles_delayed;The following titles can be usurped:\n$LIST$;Les titres suivants peuvent être usurpés :\n$LIST$;Folgende Titel können übernommen werden:\n$LIST$;;Pueden usurparse los siguientes títulos:\n$LIST$;;;;;;;;;x
-alert_ruler_should_marry_instant;§YRuler Unmarried§!;§YSouverain non marié§!;§YHerrscher unverheiratet§!;;§YGobernante soltero§!;;;;;;;;;x
-alert_ruler_should_marry_delayed;You should get married\n§GClick to go to Character View§!;Vous devriez vous marier.\n§GCliquez pour accéder à la vue Personnage.§!;Ihr solltet heiraten\n§GKlickt zum Aufruf der Charakteransicht§!;;Deberías casarte\n§GClic para ir a vista de personajes§!;;;;;;;;;x
-alert_heir_should_marry_instant;§YUnmarried Heir§!;§YHéritier non marié§!;§YUnverheirateter Erbe§!;;§YHeredero soltero§!;;;;;;;;;x
-alert_heir_should_marry_delayed;$HEIR$ should get married\n§GClick to go to Character View§!;$HEIR$ devrait se marier.\n§GCliquez pour accéder à la vue Personnage.§!;$HEIR$ sollte heiraten\n§GKlickt zum Aufruf der Charakteransicht§!;;$HEIR$ debería casarse\n§GClic para ir a vista de personajes§!;;;;;;;;;x
-alert_should_appoint_guardian_instant;§Y$NUM$ Children Lack a Guardian§!;§Y$NUM$ enfants n’ont pas de tuteur§!;§Y$NUM$ Kindern fehlt ein Vormund§!;;§YHay $NUM$ niños sin guardián§!;;;;;;;;;x
-alert_should_appoint_guardian_delayed;The following children need a guardian:\n$LIST$;Les enfants suivants ont besoin d’un tuteur :\n$LIST$;Folgende Kinder benötigen einen Vormund:\n$LIST$;;Los siguientes niños necesitan un guardián:\n$LIST$;;;;;;;;;x
-#alert_demesne_too_big_instant;§YDemesne too Big§!;§YDomaine trop vaste§!;§YDomäne zu groß§!;;§YHeredad demasiado grande§!;;;;;;;;;x
-#alert_demesne_too_big_delayed;Your demesne has §Y$NUM$§!/§Y$MAX$§! holdings, causing inefficient taxation and resentment among your vassals.;Votre domaine compte §Y$NUM$§!/§Y$MAX$§! fiefs, ce qui rend les impôts inefficaces et provoque du ressentiment parmi vos vassaux.;Eure Domäne hat §Y$NUM$§!/§Y$MAX$§! Besitztümer, was zu ineffizienter Besteuerung führt und für Groll bei Euren Vasallen sorgt.;;Tu heredad tiene §Y$NUM$§!/§Y$MAX$§! posesiones que originan impuestos inútiles y resentimiento entre tus vasallos.;;;;;;;;;x
-alert_adult_sons_notitle_instant;§YUnlanded Sons§!;§YFils sans terres§!;§YLandlose Söhne§!;;§YHijos sin tierra§!;;;;;;;;;x
-alert_adult_sons_notitle_delayed;The following adult sons do not hold any land:\n$LIST$;Les fils adultes suivants n’ont pas de terres :\n$LIST$;Folgende erwachsene Söhne haben keinerlei Landbesitz:\n$LIST$;;Los siguientes hijos adultos no poseen ninguna tierra:\n$LIST$;;;;;;;;;x
-alert_betrothed_should_marry_instant;§YBetrothed can Marry§!;§YLes fiancés peuvent se marier§!;§YVerlobte können heiraten§!;;§YLos prometidos pueden casarse§!;;;;;;;;;x
-alert_betrothed_should_marry_delayed;The following betrothed characters can get married:\n$LIST$;Les fiancés suivants peuvent se marier :\n$LIST$;Folgende verlobte Charaktere können heiraten:\n$LIST$;;Los siguientes personajes prometidos pueden casarse:\n$LIST$;;;;;;;;;x
-alert_can_imprison_instant;§YRighteous Imprisonment§!;§YEmprisonnement justifié§!;§YRechtmäßige Einkerkerung§!;;§YEncarcelamiento justo§!;;;;;;;;;x
-alert_can_imprison_delayed;You can imprison the following subjects without incurring tyranny:\n$LIST$;Vous pouvez emprisonner les sujets suivants sans paraître tyrannique :\n$LIST$;Folgende Untertanen könnt Ihr einkerkern, ohne Tyrannei hervorzurufen:\n$LIST$;;Puedes encarcelar a los siguientes sujetos sin incurrir en tiranía:\n$LIST$;;;;;;;;;x
-alert_titles_may_pass_from_realm_instant;§YVassal Inheritance Warning§!;§YAvertissement sur la succession de certains vassaux§!;§YVasallen-Nachfolgewarnung§!;;§YAviso de herencia de vasallos§!;;;;;;;;;x
-alert_titles_may_pass_from_realm_delayed;There are vassals with worrisome lines of succession.\nOn death, their titles might pass from your Realm:\n$LIST$;Les lignes de succession de certains vassaux sont préoccupantes.\nÀ leur mort, leurs titres risquent de quitter votre royaume :\n$LIST$;Die Nachfolgesituation mancher Vasallen ist beunruhigend.\nNach ihrem Tod könnten ihre Titel aus Eurem Reich verschwinden:\n$LIST$;;Hay vasallos con inquietantes líneas de sucesión.\nA su muerte, sus títulos podrían salir de tu reino:\n$LIST$;;;;;;;;;x
-alert_can_call_vassals_to_arms_instant;§YWe can call in vassals of our former liege§!;§YNous pouvons faire appel à des vassaux de notre ancien suzerain.§!;§YVasallen unseres ehemaligen Lehnsherrn können uns unterstützen§!;;§YPodemos convocar a los vasallos de nuestro antiguo señor§!;;;;;;;;;x
-alert_can_call_vassals_to_arms_delayed;The following vassals can join our war against our former liege:\n$LIST$;Les vassaux suivants peuvent se joindre à notre guerre contre notre ancien suzerain :\n$LIST$;Folgende Vasallen können unserem Krieg gegen unseren ehemaligen Lehnsherrn beitreten:\n$LIST$;;Los siguientes vasallos pueden unirse a nuestra guerra contra nuestro antiguo señor:\n$LIST$;;;;;;;;;x
-CLICK_TO_ROTATE;§GClick to cycle through the list§!;§GCliquez pour parcourir la liste.§!;§GKlickt zum Navigieren durch die Liste§!;;§GClic para recorrer el listado§!;;;;;;;;;x
-ALERT_RIGHTCLICK;§GRight-click to show dismiss buttons§!;§GFaites un clic droit pour afficher les boutons de refus.§!;§GRechtsklickt zur Anzeige der Ablehnungsschaltflächen§!;;§GClic derecho para mostrar los botones desactivados§!;;;;;;;;;x
-ALERT_DISMISS;Dismiss for now;Refuser pour le moment;Fürs Erste ablehnen;;Por ahora desactivado;;;;;;;;;x
-ALERT_DISMISS_ALWAYS;Disable;Désactiver;Deaktivieren;;Desactivar;;;;;;;;;x
-alert_available_decision_instant;§YNew Important Decisions are Available§!;§YDe nouvelles décisions importantes sont disponibles.§!;§YNeue wichtige Entscheidungen verfügbar§!;;§YHay disponibles nuevas decisiones importantes§!;;;;;;;;;x
-alert_available_decision_delayed;The following important Decisions are available:\n$LIST$;Les décisions importantes suivantes sont disponibles :\n$LIST$;Folgende wichtige Entscheidungen sind verfügbar:\n$LIST$;;Están disponibles las siguientes decisiones importantes:\n$LIST$;;;;;;;;;x
-alert_available_plot_instant;§YNew Plots are Available§!;§YDe nouveaux complots sont disponibles.§!;§YNeue Verschwörungen verfügbar§!;;§YHay nuevos complots disponibles§!;;;;;;;;;x
-alert_available_plot_delayed;The following Plots have become available:\n$LIST$;Les complots suivants sont désormais disponibles :\n$LIST$;Folgende Verschwörungen sind jetzt verfügbar:\n$LIST$;;Están disponibles los siguientes complots:\n$LIST$;;;;;;;;;x
-#ca_wall_q_1;Shallow Castle Moat;Douves;Seichter Burggraben;;Foso de castillo poco profundo;;;;;;;;;x
-#ca_wall_q_2;Arrow Slits;Meurtrières;Schießscharte;;Hendiduras para lanzar flechas;;;;;;;;;x
-#ca_wall_q_3;Portcullis;Herse;Fallgitter;;Rastrillo;;;;;;;;;x
-#ca_wall_q_4;Deep Castle Moat;Pont-levis;Tiefer Burggraben;;Foso de castillo profundo;;;;;;;;;x
-#ca_wall_q_5;Barbicans;Barbacanes;Vorwerke;;Barbacanas;;;;;;;;;x
-#ca_wall_1;Wooden Palisade;Palissade;Holzpalisade;;Empalizada de madera;;;;;;;;;x
-#ca_wall_2;Low Stone Wall;Murs;Niedrige Steinmauer;;Muro de piedra bajo;;;;;;;;;x
-#ca_wall_3;Medium Stone Wall;Remparts;Mittlere Steinmauer;;Muro de piedra mediano;;;;;;;;;x
-#ca_wall_4;Large Stone Wall;Murailles;Große Steinmauer;;Muro de piedra grande;;;;;;;;;x
-#ca_wall_5;Huge Stone Wall;Grandes murailles;Riesige Steinmauer;;Muro de piedra muy grande;;;;;;;;;x
-#ca_keep_1;Castle Donjon;Logis;Burgfried;;Torre del homenaje;;;;;;;;;x
-ca_keep_1;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-ca_keep_2;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-ca_keep_3;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-ca_keep_4;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-ca_keep_5;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-ca_keep_6;Keep;Tour;Bergfried;;Torreón;;;;;;;;;x
-#ca_keep_3;Expanded Keep;Donjon;Erweiterter Bergfried;;Torreón ampliado;;;;;;;;;x
-#ca_keep_4;Large Keep;Châtelet;Großer Bergfried;;Torreón grande;;;;;;;;;x
-ca_militia_barracks_1;Militia Training Ground;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
-ca_militia_barracks_2;Militia Training Ground;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
-ca_militia_barracks_3;Militia Training Ground;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
-ca_militia_barracks_4;Militia Training Ground;Camp des miliciens;Miliz-Übungsplatz;;Campo de entrenamiento de la milicia;;;;;;;;;x
-#ca_militia_barracks_2;Archery Range;Archerie;Bogenschießplatz;;Arquería;;;;;;;;;x
-#ca_militia_barracks_3;Large Archery Range;Guilde des archers;Großer Bogenschießplatz;;Arquería grande;;;;;;;;;x
-ca_training_grounds_1;Training Grounds;Champ de tir à l'arc;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
-ca_training_grounds_2;Training Grounds;Champ de tir à l'arc;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
-ca_training_grounds_3;Training Grounds;Champ de tir à l'arc;Übungsplätze;;Campo de entrenamiento;;;;;;;;;x
-ca_warrior_cult;Warrior Cult;Culte du guerrier;Kriegerkult;;Culto guerrero;;;;;;;;;x
-ca_culture_saxon_english_1;Longbow Range;Archerie d’arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
-ca_culture_saxon_english_2;Longbow Range;Archerie d’arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
-ca_culture_saxon_english_3;Longbow Range;Archerie d’arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
-ca_culture_saxon_english_4;Longbow Range;Archerie d’arc long;Langbogen-Schießplatz;;Arquería de arco largo;;;;;;;;;x
-#ca_culture_saxon_english_3;Expanded Longbow Range;Grande archerie d’arc long;Erweiterter Langbogen-Schießplatz;;Arquería de arco largo ampliada;;;;;;;;;x
-#ca_culture_saxon_english_4;Large Longbow Range;Arbalétrerie;Großer Langbogen-Schießplatz;;Arquería de arco largo grande;;;;;;;;;x
-ca_culture_group_baltic_1;Warrior Gathering Ground;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
-ca_culture_group_baltic_2;Warrior Gathering Ground;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
-ca_culture_group_baltic_3;Warrior Gathering Ground;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
-ca_culture_group_baltic_4;Warrior Gathering Ground;Lieu de rassemblement de guerriers;Krieger-Sammelplatz;;Zona de reunión de guerreros;;;;;;;;;x
-#ca_culture_frank_norman_german_1;Squire Lists;Lices des écuyers;Knappenlisten;;Listas de escuderos;;;;;;;;;x
-#ca_culture_frank_norman_german_2;Knight Lists;Lice des cavaliers;Ritterlisten;;Listas de caballeros;;;;;;;;;x
-#ca_culture_frank_norman_german_3;Chevalier Lists;Lice des chevaliers;Chevalier-Listen;;Listas de caballeros;;;;;;;;;x
-ca_culture_frank_norman_german_1;Jousting Lists;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
-ca_culture_frank_norman_german_2;Jousting Lists;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
-ca_culture_frank_norman_german_3;Jousting Lists;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
-ca_culture_frank_norman_german_4;Jousting Lists;Lice de joutes;Turnierlisten;;Listas de justas;;;;;;;;;x
-ca_culture_group_iberian_1;Caballero Training Ground;Grand enclos des cabelleros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-ca_culture_group_iberian_2;Caballero Training Ground;Grand enclos des cabelleros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-ca_culture_group_iberian_3;Caballero Training Ground;Grand enclos des cabelleros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-ca_culture_group_iberian_4;Caballero Training Ground;Grand enclos des cabelleros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-#ca_culture_group_iberian_1;Small Caballero Training Ground;Enclos des cabelleros;Kleiner Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros pequeña;;;;;;;;;x
-#ca_culture_group_iberian_2;Caballero Training Ground;Grand enclos des cabelleros;Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros;;;;;;;;;x
-#ca_culture_group_iberian_3;Large Caballero Training Ground;Lice des cabelleros;Großer Cabarello-Übungsplatz;;Zona de entrenamiento de caballeros grande;;;;;;;;;x
-#ca_culture_italian_1;Small Pike Training Ground;Terrain des picchiere;Kleiner Pikenier-Übungsplatz;;Zona de entrenamiento con lanza pequeña;;;;;;;;;x
-ca_culture_italian_1;Pike Training Ground;Camp des picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
-ca_culture_italian_2;Pike Training Ground;Camp des picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
-ca_culture_italian_3;Pike Training Ground;Camp des picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
-ca_culture_italian_4;Pike Training Ground;Camp des picchiere;Pikenier-Übungsplatz;;Zona de entrenamiento con lanza;;;;;;;;;x
-#ca_culture_italian_3;Large Pike Training Ground;Quartier des picchiere;Großer Pikenier-Übungsplatz;;Zona de entrenamiento con lanza grande;;;;;;;;;x
-#ca_culture_russian_1;Small Druzhina Training Ground;Camp des druzhinas;Kleiner Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas pequeña;;;;;;;;;x
-ca_culture_russian_1;Druzhina Training Ground;Garde des druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
-ca_culture_russian_2;Druzhina Training Ground;Garde des druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
-ca_culture_russian_3;Druzhina Training Ground;Garde des druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
-ca_culture_russian_4;Druzhina Training Ground;Garde des druzhinas;Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas;;;;;;;;;x
-#ca_culture_russian_3;Large Druzhina Training Ground;Garnison des druzhinas;Großer Druschina-Übungsplatz;;Zona de entrenamiento de tropas selectas grande;;;;;;;;;x
-city_barracks;Militia Barracks;Quartier de la milice;Milizkaserne;;Cuartel de la milicia;;;;;;;;;x
-city_barracks_2;Enlarged Militia Barracks;Garnison de la milice;Vergrößerte Milizkaserne;;Cuartel de la milicia ampliado;;;;;;;;;x
-city_stable;Militia Stable;Écurie de la milice;Milizstall;;Establo de la milicia;;;;;;;;;x
-#ct_wall_q_1;City Moat;Fossé;Stadtgraben;;Foso de la villa;;;;;;;;;x
-#ct_wall_q_2;City Gatehouse;Portes fortifiées;Stadt-Torhaus;;Torre de Acceso a la villa;;;;;;;;;x
-#ct_wall_q_3;City Portcullis;Herse;Stadtfallgitter;;Rastrillo de la villa;;;;;;;;;x
-#ct_wall_q_4;Deep City Moat;Douves;Tiefer Stadtgraben;;Foso profundo de la villa;;;;;;;;;x
-#ct_wall_q_5;City Barbicans;Barbacanes;Stadtvorwerke;;Barbacanas de la villa;;;;;;;;;x
-#ct_wall_1;Town Palisade;Palissade;Stadtpalisade;;Empalizada de la villa;;;;;;;;;x
-#ct_wall_2;Small City Wall;Murs;Kleine Stadtmauer;;Muro pequeño de la villa;;;;;;;;;x
-#ct_wall_3;Medium City Wall;Remparts;Mittlere Stadtmauer;;Muro mediano de la villa;;;;;;;;;x
-#ct_wall_4;Large City Wall;Doubles remparts;Große Stadtmauer;;Muro grande de la villa;;;;;;;;;x
-#ct_wall_5;Huge City Wall;Murailles;Riesige Stadtmauer;;Muro inmenso de la villa;;;;;;;;;x
-#ct_training_grounds_2;Small Militia Training Grounds;Maison de la milice;Kleiner Miliz-Übungsplatz;;Zona de entrenamiento de la milicia pequeña;;;;;;;;;x
-#ct_training_grounds_3;Medium Militia Training Grounds;Quartier de la milice;Mittlerer Miliz-Übungsplatz;;Zona de entrenamiento de la milicia mediana;;;;;;;;;x
-#ct_training_grounds_4;Large Militia Training Grounds;Garnison de la milice;Großer Miliz-Übungsplatz;;Zona de entrenamiento de la milicia grande;;;;;;;;;x
-#ct_training_grounds_5;Huge Militia Training Grounds;Caserne la milice;Riesiger Miliz-Übungsplatz;;Zona de entrenamiento de la milicia muy grande;;;;;;;;;x
-#ct_barracks_1;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_2;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_3;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_4;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_5;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_6;Militia Mustering Grounds;Camp de tir de la milice;Miliz-Antrittsplatz;;Zona de reunión de la milicia;;;;;;;;;x
-#ct_barracks_2;City Archery Range;Archerie de la milice;Stadt-Bogenschießplatz;;Arquería de la villa;;;;;;;;;x
-#ct_barracks_3;Large Militia Mustering Grounds;Grande archerie de la milice;Großer Miliz-Antrittsplatz;;Zona de reunión de la milicia grande;;;;;;;;;x
-#ct_barracks_4;Large City Archery Range;Guilde des francs-archers;Großer Stadt-Bogenschießplatz;;Gran arquería de la villa;;;;;;;;;x
-#ct_barracks_5;Huge Militia Mustering Grounds;Arbalèterie de la milice;Riesiger Miliz-Antrittsplatz;;Zona de reunión de la milicia muy grande;;;;;;;;;x
-#ct_barracks_6;Huge City Archery Range;Grande arbalèterie de la milice;Riesiger Stadt-Bogenschießplatz;;magnífica arquería de la villa;;;;;;;;;x
-ct_marketplace_1;Town Market;Place de marché;Stadtmarkt;;Mercado de la villa;;;;;;;;;x
-ct_marketplace_2;City Guild Hall;Guilde des marchands;Stadt-Rathaus;;Ayuntamiento de la villa;;;;;;;;;x
-ct_marketplace_3;Toll Booth;Barrière de péage;Zollhaus;;Casa de peaje;;;;;;;;;x
-ct_marketplace_4;Court;Tribunal;Gericht;;Tribunal;;;;;;;;;x
-ct_marketplace_5;Assay Office;Hôtel des monnaies;Kontrollamt;;Casa de tasación;;;;;;;;;x
-ct_marketplace_6;Fair;Foire;Messe;;Feria;;;;;;;;;x
+#CODE;GALEGO;;;;;;;;;;;;;x
+AIREASON_TOO_OLD;§Y[GetTitledFirstName]§! superou a idade fértil;;;;;;;;;;;;;x
+AIREASON_OPINION;Opinión de §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_SKILLS;Habilidades de §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_REALPOLITIK;Cuestións políticas;;;;;;;;;;;;;x
+AIREASON_REALPOLITIK_VS;Cuestións políticas sobre de §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_WRONG_RELIGION;Relixión falsa;;;;;;;;;;;;;x
+AIREASON_WRONG_CULTURE;Cultura estranxeira;;;;;;;;;;;;;x
+AIREASON_TOO_WEAK;Máis débil ca min;;;;;;;;;;;;;x
+AIREASON_WEAKNESS;Carencia de poder;;;;;;;;;;;;;x
+AIREASON_STRENGTH;Poder;;;;;;;;;;;;;x
+AIREASON_IS_RULER;É gobernante;;;;;;;;;;;;;x
+AIREASON_NOT_DE_JURE_LIEGE;Non é o meu señor de iure;;;;;;;;;;;;;x
+AIREASON_CANNOT_AFFORD;Fondos insuficientes;;;;;;;;;;;;;x
+AIREASON_NO_INTEREST_IN_CHAR;Sen interese en §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_SAME_DYNASTY_AS_TARGET;Mesma dinastía que §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_TOO_CLOSE_FOR_SUCC_MARR;§Y[GetTitledFirstName]§! está nunha posición alta de máis na liña de sucesión;;;;;;;;;;;;;x
+AIREASON_SUCC_LOWLY_RANK;Rango de §Y[GetTitledFirstName]§! baixo de máis para un matrimonio tradicional;;;;;;;;;;;;;x
+AIREASON_NOT_A_SUCCESSION_MARRIAGE;§Y[GetTitledFirstName]§! preferiría un matrimonio matrilineal;;;;;;;;;;;;;x
+AIREASON_POWER_TO_PRESS_CLAIMS;§Y[GetTitledFirstName]§!  ten poder como para presionar as miñas reclamacións;;;;;;;;;;;;;x
+AIREASON_UNABLE_PRESS_CLAIMS;§Y[GetTitledFirstName]§! é incapaz de presionar as miñas reclamacións;;;;;;;;;;;;;x
+AIREASON_REBELLIOUS;Rebelde;;;;;;;;;;;;;x
+AIREASON_AGE_FACTOR;Idade de §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_IS_MY_LIEGE;§Y[GetTitledFirstName]§!é o meu señor;;;;;;;;;;;;;x
+AIREASON_PRESTIGE_EFFECTS;Efectos do prestixio;;;;;;;;;;;;;x
+AIREASON_WANTS_FREEDOM;Quere a liberdade;;;;;;;;;;;;;x
+AIREASON_CLOSE_RELATIVE;§Y[GetTitledFirstName]§! é un parente próximo;;;;;;;;;;;;;x
+AIREASON_DARE_NOT_REFUSE;Non ousa dicir que non;;;;;;;;;;;;;x
+AIREASON_CONFLICTING_INTERESTS;Intereses en conflito;;;;;;;;;;;;;x
+AIREASON_SAME_REALM;Mesmo reino;;;;;;;;;;;;;x
+AIREASON_GREED;Cobiza;;;;;;;;;;;;;x
+AIREASON_LAND_IS_GOOD;A terra é boa;;;;;;;;;;;;;x
+AIREASON_FEAR;Medo a §Y[GetTitledFirstName]§!;;;;;;;;;;;;;x
+AIREASON_GOLD_IS_GOOD;O ouro é bo;;;;;;;;;;;;;x
+AIREASON_CONSANGUINITY;Consanguineidade;;;;;;;;;;;;;x
+AIREASON_TOO_YOUNG;§Y[GetTitledFirstName]§! é novo de máis;;;;;;;;;;;;;x
+AIREASON_GOT_MORE_ADVANCED_PLOT;Xa lidera unha conxura semellante;;;;;;;;;;;;;x
+AIREASON_GOT_SAME_PLOT;Xa forma parte da mesma conxura;;;;;;;;;;;;;x
+AIREASON_BACKING_SIMILAR_PLOT;Xa está apoiando unha conxura semellante;;;;;;;;;;;;;x
+AIREASON_LIEGE_REALM_ATTACKED;Reino baixo ataque estranxeiro;;;;;;;;;;;;;x
+AIREASON_FIGHTING_WAR;Ocupado nunha guerra;;;;;;;;;;;;;x
+AIREASON_WARY_OF_FOREIGN_INTERVENTION;Cauteloso respecto as intervencións estranxeiras;;;;;;;;;;;;;x
+AIREASON_AGE_POWER_DIFFERENCE;Idade contra poder do pretendente;;;;;;;;;;;;;x
+AIREASON_WE_LIKE_ENEMY_BETTER;Os vosos inimigos gústannos demasiado;;;;;;;;;;;;;x
+AIREASON_WE_LIKE_YOU_BETTER;Gustádesnos máis vosa mercé cos vosos inimigos;;;;;;;;;;;;;x
+AIREASON_BASE_RELUCTANCE;Reticencias de base;;;;;;;;;;;;;x
+AIREASON_SMALL_TIER_DIFF;Diferencia de rango pequena;;;;;;;;;;;;;x
+AIREASON_NOT_NEIGHBOR;Reino distante;;;;;;;;;;;;;x
+AIREASON_INFERTILE;Poucas probabilidades de ter fillos;;;;;;;;;;;;;x
+AIREASON_WANTS_GOOD_ALLIANCE;Desexa unha alianza mellor;;;;;;;;;;;;;x
+alert_casus_belli_will_expire_instant;§YCasus belli temporal contra:§!;;;;;;;;;;;;;x
+alert_casus_belli_will_expire_delayed;$LIST$.;;;;;;;;;;;;;x
+alert_build_province_improvement_instant;§YPodedes facer melloras na provincia mediante a construción!§!;;;;;;;;;;;;;x
+alert_build_province_improvement_delayed;$LIST$;;;;;;;;;;;;;x
+alert_troops_in_foreign_territory_instant;§YTendes tropas en territorios estranxeiros.§!;;;;;;;;;;;;;x
+alert_troops_in_foreign_territory_delayed;In $LIST$.;;;;;;;;;;;;;x
+alert_revoltrisk_in_provinces_instant;§YPosibilidade de revoltas§!;;;;;;;;;;;;;x
+alert_revoltrisk_in_provinces_delayed;Hai risco de revoltas nas seguintes provincias:\n$LIST$;;;;;;;;;;;;;x
+alert_noheir_delayed;Se o teu gobernante morre agora, a partida rematará!;;;;;;;;;;;;;x
+alert_court_not_filled_instant;§YCargos sen asignar no consello§!;;;;;;;;;;;;;x
+alert_court_not_filled_delayed;deben encherse os seguintes postos:\n$LIST$\n§GPulsa para ir á Vista de corte§!;;;;;;;;;;;;;x
+alert_lose_title_on_succ_instant;§YPerda de títulos na sucesión§!;;;;;;;;;;;;;x
+alert_lose_title_on_succ_delayed;Na sucesión hanse perder os seguintes títulos:\n$LIST$;;;;;;;;;;;;;x
+alert_should_nominate_heir_instant;§YNomeamento do sucesor§!;;;;;;;;;;;;;x
+alert_should_nominate_heir_delayed;Debes nomear sucesores para estes títulos:\n$LIST$;;;;;;;;;;;;;x
+alert_you_can_create_titles_instant;§YPódense crear $NUM$ título(s)§!;;;;;;;;;;;;;x
+alert_you_can_create_titles_delayed;Pódense crear os seguintes títulos:\n$LIST$;;;;;;;;;;;;;x
+alert_you_can_usurp_titles_instant;§YPódense usurpar $NUM$ título(s)§!;;;;;;;;;;;;;x
+alert_you_can_usurp_titles_delayed;Pódense usurpar os seguintes títulos:\n$LIST$;;;;;;;;;;;;;x
+alert_ruler_should_marry_instant;§YGobernante solteiro§!;;;;;;;;;;;;;x
+alert_ruler_should_marry_delayed;Deberías casar\n§GPulsa para ir á Vista de personaxe§!;;;;;;;;;;;;;x
+alert_heir_should_marry_instant;§YHerdeiro solteiro§!;;;;;;;;;;;;;x
+alert_heir_should_marry_delayed;$HEIR$ debería casar\n§GPulsa para ir á Vista de personaxe§!;;;;;;;;;;;;;x
+alert_should_appoint_guardian_instant;§YHai $NUM$ nenos que non teñen gardián§!;;;;;;;;;;;;;x
+alert_should_appoint_guardian_delayed;Os seguintes nenos precisan un gardián:\n$LIST$;;;;;;;;;;;;;x
+#alert_demesne_too_big_instant;§YA herdade é grande de máis§!;;;;;;;;;;;;;x
+#alert_demesne_too_big_delayed;A túa herdade ten §Y$NUM$§!/§Y$MAX$§! propiedades, o cal causa unha recadación ineficiente e resentimento entre os teus vasalos.;;;;;;;;;;;;;x
+alert_adult_sons_notitle_instant;§YFillos sen terras§!;;;;;;;;;;;;;x
+alert_adult_sons_notitle_delayed;Os seguintes fillos adultos non teñen terras:\n$LIST$;;;;;;;;;;;;;x
+alert_betrothed_should_marry_instant;§YOs prometidos poden casar§!;;;;;;;;;;;;;x
+alert_betrothed_should_marry_delayed;Os seguintes personaxes están prometidos e poden casar:\n$LIST$;;;;;;;;;;;;;x
+alert_can_imprison_instant;§YCondena xustificada§!;;;;;;;;;;;;;x
+alert_can_imprison_delayed;Podes mandar os seguintes súbditos ao cárcere sen que se considere un acto tiránico:\n$LIST$;;;;;;;;;;;;;x
+alert_titles_may_pass_from_realm_instant;§YAdvertencia de herdanza de vasalo§!;;;;;;;;;;;;;x
+alert_titles_may_pass_from_realm_delayed;Hai vasalos con liñas de sucesión preocupantes.\nOs seus títulos poderían saír do teu reino cando morran:\n$LIST$;;;;;;;;;;;;;x
+alert_can_call_vassals_to_arms_instant;§YPodemos pedir axuda aos vasalos do noso antigo señor§!;;;;;;;;;;;;;x
+alert_can_call_vassals_to_arms_delayed;Os seguintes vasalos pódense unir á nosa guerra contra o noso antigo señor:\n$LIST$;;;;;;;;;;;;;x
+CLICK_TO_ROTATE;§GPulsa para percorrer a lista§!;;;;;;;;;;;;;x
+ALERT_RIGHTCLICK;§GPulsa co botón dereito para mostrar os botóns de ignorar avisos§!;;;;;;;;;;;;;x
+ALERT_DISMISS;Ignorar polo de agora;;;;;;;;;;;;;x
+ALERT_DISMISS_ALWAYS;Desactivar;;;;;;;;;;;;;x
+alert_available_decision_instant;§YHai novas Decisións importantes dispoñibles§!;;;;;;;;;;;;;x
+alert_available_decision_delayed;As seguintes Decisións importantes agora están dispoñibles:\n$LIST$;;;;;;;;;;;;;x
+alert_available_plot_instant;§YHai novas conxuras dispoñibles§!;;;;;;;;;;;;;x
+alert_available_plot_delayed;As seguintes conxuras agora están dispoñibles:\n$LIST$;;;;;;;;;;;;;x
+#ca_wall_q_1;Foso de castelo pouco profundo;;;;;;;;;;;;;x
+#ca_wall_q_2;Seteiras;;;;;;;;;;;;;x
+#ca_wall_q_3;Reixa levadiza;;;;;;;;;;;;;x
+#ca_wall_q_4;Foso de castelo profundo;;;;;;;;;;;;;x
+#ca_wall_q_5;Barbacás;;;;;;;;;;;;;x
+#ca_wall_1;Palizada de madeira;;;;;;;;;;;;;x
+#ca_wall_2;Muro baixo de pedra;;;;;;;;;;;;;x
+#ca_wall_3;Muro medio de pedra;;;;;;;;;;;;;x
+#ca_wall_4;Muro grande de pedra;;;;;;;;;;;;;x
+#ca_wall_5;Muro enorme de pedra;;;;;;;;;;;;;x
+#ca_keep_1;Torre de homenaxe;;;;;;;;;;;;;x
+ca_keep_1;Torre da homenaxe;;;;;;;;;;;;;x
+ca_keep_2;Torre da homenaxe;;;;;;;;;;;;;x
+ca_keep_3;Torre da homenaxe;;;;;;;;;;;;;x
+ca_keep_4;Torre da homenaxe;;;;;;;;;;;;;x
+ca_keep_5;Torre da homenaxe;;;;;;;;;;;;;x
+ca_keep_6;Torre da homenaxe;;;;;;;;;;;;;x
+#ca_keep_3;Torre da homenaxe ampliada;;;;;;;;;;;;;x
+#ca_keep_4;Torre da homenaxe grande;;;;;;;;;;;;;x
+ca_militia_barracks_1;Campo de adestramento da milicia;;;;;;;;;;;;;x
+ca_militia_barracks_2;Campo de adestramento da milicia;;;;;;;;;;;;;x
+ca_militia_barracks_3;Campo de adestramento da milicia;;;;;;;;;;;;;x
+ca_militia_barracks_4;Campo de adestramento da milicia;;;;;;;;;;;;;x
+#ca_militia_barracks_2;Zona de arqueiros;;;;;;;;;;;;;x
+#ca_militia_barracks_3;Zona de arqueiros grande;;;;;;;;;;;;;x
+ca_training_grounds_1;Campos de adestramento;;;;;;;;;;;;;x
+ca_training_grounds_2;Campos de adestramento;;;;;;;;;;;;;x
+ca_training_grounds_3;Campos de adestramento;;;;;;;;;;;;;x
+ca_warrior_cult;Culto guerreiro;;;;;;;;;;;;;x
+ca_culture_saxon_english_1;Zona de arqueiros de arco longo;;;;;;;;;;;;;x
+ca_culture_saxon_english_2;Zona de arqueiros de arco longo;;;;;;;;;;;;;x
+ca_culture_saxon_english_3;Zona de arqueiros de arco longo;;;;;;;;;;;;;x
+ca_culture_saxon_english_4;Zona de arqueiros de arco longo;;;;;;;;;;;;;x
+#ca_culture_saxon_english_3;Zona de arqueiros de arco longo ampliada;;;;;;;;;;;;;x
+#ca_culture_saxon_english_4;Zona de arqueiros de arco longo ampliada;;;;;;;;;;;;;x
+ca_culture_group_baltic_1;Campo de reunión de guerreiros;;;;;;;;;;;;;x
+ca_culture_group_baltic_2;Campo de reunión de guerreiros;;;;;;;;;;;;;x
+ca_culture_group_baltic_3;Campo de reunión de guerreiros;;;;;;;;;;;;;x
+ca_culture_group_baltic_4;Campo de reunión de guerreiros;;;;;;;;;;;;;x
+#ca_culture_frank_norman_german_1;Lizas de escudeiros;;;;;;;;;;;;;x
+#ca_culture_frank_norman_german_2;Lizas de cabaleiros;;;;;;;;;;;;;x
+#ca_culture_frank_norman_german_3;Lizas de cabaleiros franceses;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_1;Lizas de xustas;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_2;Lizas de xustas;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_3;Lizas de xustas;;;;;;;;;;;;;x
+ca_culture_frank_norman_german_4;Lizas de xustas;;;;;;;;;;;;;x
+ca_culture_group_iberian_1;Zona de adestramento de xinetes;;;;;;;;;;;;;x
+ca_culture_group_iberian_2;Zona de adestramento de xinetes;;;;;;;;;;;;;x
+ca_culture_group_iberian_3;Zona de adestramento de xinetes;;;;;;;;;;;;;x
+ca_culture_group_iberian_4;Zona de adestramento de xinetes;;;;;;;;;;;;;x
+#ca_culture_group_iberian_1;Zona de adestramento de xinetes pequena;;;;;;;;;;;;;x
+#ca_culture_group_iberian_2;Zona de adestramento de xinetes;;;;;;;;;;;;;x
+#ca_culture_group_iberian_3;Zona de adestramento de xinetes grande;;;;;;;;;;;;;x
+#ca_culture_italian_1;Zona de adestramento de piqueiros pequena;;;;;;;;;;;;;x
+ca_culture_italian_1;Zona de adestramento de piqueiros;;;;;;;;;;;;;x
+ca_culture_italian_2;Zona de adestramento de piqueiros;;;;;;;;;;;;;x
+ca_culture_italian_3;Zona de adestramento de piqueiros;;;;;;;;;;;;;x
+ca_culture_italian_4;Zona de adestramento de piqueiros;;;;;;;;;;;;;x
+#ca_culture_italian_3;Zona de adestramento de piqueiros grande;;;;;;;;;;;;;x
+#ca_culture_russian_1;Zona de adestramento da druzhina pequena;;;;;;;;;;;;;x
+ca_culture_russian_1;Zona de adestramento da druzhina;;;;;;;;;;;;;x
+ca_culture_russian_2;Zona de adestramento da druzhina;;;;;;;;;;;;;x
+ca_culture_russian_3;Zona de adestramento da druzhina;;;;;;;;;;;;;x
+ca_culture_russian_4;Zona de adestramento da druzhina;;;;;;;;;;;;;x
+#ca_culture_russian_3;Zona de adestramento da druzhina grande;;;;;;;;;;;;;x
+city_barracks;Barracóns da milicia;;;;;;;;;;;;;x
+city_barracks_2;Barracóns ampliados da milicia;;;;;;;;;;;;;x
+city_stable;Corte dos cabalos da milicia;;;;;;;;;;;;;x
+#ct_wall_q_1;Foso da cidade;;;;;;;;;;;;;x
+#ct_wall_q_2;Porta fortificada da cidade;;;;;;;;;;;;;x
+#ct_wall_q_3;Reixa levadiza da cidade;;;;;;;;;;;;;x
+#ct_wall_q_4;Foso profundo da cidade;;;;;;;;;;;;;x
+#ct_wall_q_5;Barbacás da cidade;;;;;;;;;;;;;x
+#ct_wall_1;Palizada da vila;;;;;;;;;;;;;x
+#ct_wall_2;Muro da cidade pequeno;;;;;;;;;;;;;x
+#ct_wall_3;Muro da cidade mediano;;;;;;;;;;;;;x
+#ct_wall_4;Muro da cidade grande;;;;;;;;;;;;;x
+#ct_wall_5;Muro da cidade enorme;;;;;;;;;;;;;x
+#ct_training_grounds_2;Campos de adestramento da milicia pequenos;;;;;;;;;;;;;x
+#ct_training_grounds_3;Campos de adestramento da milicia medios;;;;;;;;;;;;;x
+#ct_training_grounds_4;Campos de adestramento da milicia grandes;;;;;;;;;;;;;x
+#ct_training_grounds_5;Campos de adestramento da milicia enormes;;;;;;;;;;;;;x
+#ct_barracks_1;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_2;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_3;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_4;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_5;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_6;Campos de alistamento da milicia;;;;;;;;;;;;;x
+#ct_barracks_2;Zona de arqueiros da cidade;;;;;;;;;;;;;x
+#ct_barracks_3;Campos de alistamento da milicia grandes;;;;;;;;;;;;;x
+#ct_barracks_4;Campos de alistamento da milicia medios;;;;;;;;;;;;;x
+#ct_barracks_5;Campos de alistamento da milicia enormes;;;;;;;;;;;;;x
+#ct_barracks_6;Zona de arqueiros da cidade enorme;;;;;;;;;;;;;x
+ct_marketplace_1;Mercado da vila;;;;;;;;;;;;;x
+ct_marketplace_2;Casa do concello;;;;;;;;;;;;;x
+ct_marketplace_3;Portádego;;;;;;;;;;;;;x
+ct_marketplace_4;Tribunal;;;;;;;;;;;;;x
+ct_marketplace_5;Casa da moeda;;;;;;;;;;;;;x
+ct_marketplace_6;Feira;;;;;;;;;;;;;x
 #ct_port_1;Small Harbour;Embarcadère;Kleiner Hafen;;Puerto pequeño;;;;;;;;;x
 #ct_port_2;Harbour;Petit port;Hafen;;Puerto;;;;;;;;;x
 #ct_port_3;Small Port;Port;Kleiner Hafen;;Puerto pequeño;;;;;;;;;x
@@ -207,97 +207,97 @@ ct_marketplace_6;Fair;Foire;Messe;;Feria;;;;;;;;;x
 #tp_wall_4;Large Church Wall;Doubles remparts;Große Kirchenmauer;;Muro de iglesia grande;;;;;;;;;x
 #tp_wall_5;Huge Church Wall;Murailles;Riesige Kirchenmauer;;Muro de iglesia muy grande;;;;;;;;;x
 #tp_monastery_1;Small Church;Prieuré;Kleine Kirche;;Iglesia pequeña;;;;;;;;;x
-tp_monastery_1;Church;Église;Kirche;;Iglesia;;;;;;;;;x
-tp_monastery_2;Church;Église;Kirche;;Iglesia;;;;;;;;;x
-tp_monastery_3;Church;Église;Kirche;;Iglesia;;;;;;;;;x
+tp_monastery_1;Igrexa;;;;;;;;;;;;;x
+tp_monastery_2;Igrexa;;;;;;;;;;;;;x
+tp_monastery_3;Igrexa;;;;;;;;;;;;;x
 #tp_monastery_3;Large Church;Grande église;Große Kirche;;Iglesia grande;;;;;;;;;x
-tp_monastery_4;Cathedral;Abbaye;Kathedrale;;Catedral;;;;;;;;;x
-tp_monastery_5;Cathedral;Abbaye;Kathedrale;;Catedral;;;;;;;;;x
-tp_monastery_6;Cathedral;Abbaye;Kathedrale;;Catedral;;;;;;;;;x
+tp_monastery_4;Catedral;;;;;;;;;;;;;x
+tp_monastery_5;Catedral;;;;;;;;;;;;;x
+tp_monastery_6;Catedral;;;;;;;;;;;;;x
 #tp_monastery_5;Large Cathedral;Cathédrale;Große Kathedrale;;Catedral grande;;;;;;;;;x
 #tp_monastery_6;Grand Cathedral;Basilique;Majestätische Kathedrale;;Catedral muy grande;;;;;;;;;x
-tp_town_1;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-tp_town_2;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-tp_town_3;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-tp_town_4;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-tp_town_5;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
-tp_town_6;Church Town;Bourg;Kirchenstädtchen;;Pueblo de iglesia;;;;;;;;;x
+tp_town_1;Vila da igrexa;;;;;;;;;;;;;x
+tp_town_2;Vila da igrexa;;;;;;;;;;;;;x
+tp_town_3;Vila da igrexa;;;;;;;;;;;;;x
+tp_town_4;Vila da igrexa;;;;;;;;;;;;;x
+tp_town_5;Vila da igrexa;;;;;;;;;;;;;x
+tp_town_6;Vila da igrexa;;;;;;;;;;;;;x
 #tp_town_3;Large Church Town;Cité épiscopale;Großes Kirchenstädtchen;;Pueblo de iglesia grande;;;;;;;;;x
 #tp_town_4;Church City;Cité épiscopale;Kirchenstadt;;Ciudad de iglesia;;;;;;;;;x
 #tp_town_5;Large Church City;Cité archi-épiscopale;Große Kirchenstadt;;Ciudad de iglesia grande;;;;;;;;;x
-GIVEN_GOLD;$NAME$ receives $GOLD$¤;$NAME$ reçoit $GOLD$ pièces d’or;$NAME$ erhält $GOLD$¤;;$NAME$ recibe $GOLD$¤;;;;;;;;;x
-CB_NAME_CLAIM;Claim [Title.GetBaseName];Revendiquer [Title.GetName];[Title.GetBaseName] beanspruchen;;Reclama [Title.GetBaseName];;;;;;;;;x
-WAR_NAME_CLAIM;$ORDER$$FIRST_ADJ$ Claim on $OTHER_TITLE$ War;$ORDER$ Guerre de revendication $FIRST_ADJ$ pour : $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Anspruch auf $OTHER_TITLE$ Krieg;;$ORDER$ Guerra $FIRST_ADJ$ por el $OTHER_TITLE$;;;;;;;;;x
-CB_NAME_SENIORITY_SUCCESSION_LAW;Seniority Succession Law;Loi de succession basée sur l'Ancienneté;Alter-Nachfolgegesetz;;Ley de sucesión por antigüedad;;;;;;;;;x
-WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Seniority;$ORDER$ Guerre civile $SECOND_ADJ$ pour l'Ancienneté;$ORDER$$SECOND_ADJ$ Bürgerkrieg um Alter-Nachfolgegesetz;;$ORDER$ Guerra Civil $SECOND_ADJ$ por la Ley de Primogenitura;;;;;;;;;x
-CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Primogeniture Succession Law;Loi de Succession pour la Primogéniture;Ältestenrecht-Nachfolgegesetz;;Ley de sucesión por primogenitura;;;;;;;;;x
-WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Primogeniture;$ORDER$ Guerre civile $SECOND_ADJ$ pour la Primogéniture;$ORDER$$SECOND_ADJ$ Bürgerkrieg um Ältestenrecht;;$ORDER$Guerra civil $SECOND_ADJ$ por primogenitura;;;;;;;;;x
-CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Elective Monarchy Succession Law;Loi de Succession pour une Monarchie Élective;Wahlmonarchie-Nachfolgegesetz;;Ley de sucesión por monarquía electiva;;;;;;;;;x
-WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Elective Monarchy;$ORDER$ Guerre civile $SECOND_ADJ$ pour la Monarchie Élective;$ORDER$$SECOND_ADJ$ Bürgerkrieg um Wahlmonarchie;;$ORDER$ Guerra Civil $SECOND_ADJ$ por la Ley de Sucesión Electiva;;;;;;;;;x
-CB_NAME_RELIGIOUS;Holy War for [Title.GetBaseName];Guerre Sainte pour [Title.GetName];Heiliger Krieg um [Title.GetBaseName];;Guerra Santa por [Title.GetBaseName];;;;;;;;;x
-WAR_NAME_RELIGIOUS;$ORDER$$FIRST_ADJ$ Holy War for $OTHER_TITLE$;$ORDER$ Guerre Sainte $FIRST_ADJ$ pour : $OTHER_TITLE$;$ORDER$$FIRST_ADJ$ Heiliger Krieg um $OTHER_TITLE$;;$ORDER$ Guerra Santa $FIRST_ADJ$ por $OTHER_TITLE$;;;;;;;;;x
-CB_NAME_CRUSADE;$HOLY_WAR$ for [Title.GetBaseName];$HOLY_WAR$ pour [Title.GetName];$HOLY_WAR$ um [Title.GetBaseName];;$HOLY_WAR$ por [Title.GetBaseName];;;;;;;;;x
-CB_NAME_EXCOMMUNICATED_RULER;Excommunicated ruler;Suzerain excommunié;Exkommunizierter Herrscher;;Gobernante excomulgado;;;;;;;;;x
-WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Excommunication War;$ORDER$ Guerre d’excommunication $FIRST_ADJ$-$SECOND_ADJ$;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Exkommunizierungskrieg;;$ORDER$ Guerra $SECOND_ADJ$ por la Excomunión de $FIRST$;;;;;;;;;x
-CB_NAME_INDEPENDENCE;Independence;Indépendance;Unabhängigkeit;;Independencia;;;;;;;;;x
-WAR_NAME_INDEPENDENCE;$ORDER$War of $FIRST_ADJ$ Independence;$ORDER$ Guerre d’indépendance $FIRST_ADJ$;$ORDER$ Krieg der $FIRST_ADJ$ Unabhängigkeit;;$ORDER$ Guerra $FIRST_ADJ$ de Independencia;;;;;;;;;x
-CB_NAME_OVERTHROWRULER;Overthrow ruler;Renverser le Suzerain;Herrscher stürzen;;Gobernante derrocado;;;;;;;;;x
-WAR_NAME_OVERTHROWRULER;$ORDER$War against the Tyranny of $DEFENDER$;$ORDER$ Guerre contre la tyrannie du $DEFENDER$;$ORDER$ Krieg gegen die Tyrannei von $DEFENDER$;;$ORDER$ Guerra contra la Tiranía de $DEFENDER$;;;;;;;;;x
-CB_NAME_SUCCESSION;Dispute Succession;Querelle de succession;Nachfolge anfechten;;Conflicto en la sucesión;;;;;;;;;x
-WAR_NAME_SUCCESSION;$ORDER$$SECOND_ADJ$ Succession Crisis;$ORDER$ Guerre de Succession $SECOND_ADJ$;$ORDER$$SECOND_ADJ$ Nachfolgekrise;;$ORDER$ Guerra de Sucesión $SECOND_ADJ$;;;;;;;;;x
-CB_NAME_DEJUREBARONYCLAIM;County Claim on [Title.GetBaseName];Revendication comtale sur [Title.GetName];Gräflicher Anspruch auf [Title.GetBaseName];;Reclamación Condal sobre [Title.GetBaseName];;;;;;;;;x
-WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ County War over $OTHER_TITLE$;$ORDER$ Guerre comtale $FIRST_ADJ$-$SECOND_ADJ$ pour : $OTHER_TITLE$;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Grafenkrieg über $OTHER_TITLE$;;$ORDER$ Guerra Condal $FIRST_ADJ$-$SECOND_ADJ$ por $OTHER_TITLE$;;;;;;;;;x
-ON_CB_ADD_DESC;§YWhen we declare war:§W\n;§YLorsque nous déclarons la guerre :§W\n;§YWenn wir einen Krieg erklären:§W\n;;§YCuando declaremos la guerra:§W\n;;;;;;;;;x
-ON_CB_SUCCESS_DESC;§YIf we win the war:§W\n;§YSi nous gagnons la guerre :§W\n;§YWenn wir den Krieg gewinnen:§W\n;;§YSi ganamos la guerra:§W\n;;;;;;;;;x
-ON_CB_FAIL_DESC;§YIf we make a white peace:§W\n;§YSi nous concluons une paix blanche :§W\n;§YWenn wir einen Weißen Frieden schließen:§W\n;;§YSi hacemos la paz blanca:§W\n;;;;;;;;;x
-ON_CB_REVERSEDEMAND_DESC;§YIf we lose the war:§W\n;§YSi nous perdons la guerre :§W\n;§YWenn wir den Krieg verlieren:§W\n;;§YSi perdemos la guerra:§W\n;;;;;;;;;x
-ON_CB_ATTACKERDEATH_DESC;§YIf leader of attacking alliance dies:§W\n;§YSi le chef de l’alliance attaquante meurt :§W\n;§YWenn der Anführer eines angreifenden Bündnisses stirbt:§W\n;;§YSi el líder de la facción atacante muere:§W\n;;;;;;;;;x
-ON_CB_DEFENDERDEATH_DESC;§YIf leader of defending alliance dies:§W\n;§YSi le chef de l’alliance attaquée meurt :§W\n;§YWenn der Anführer eines verteidigenden Bündnisses stirbt:§W\n;;§YSi el líder de la facción que defiende muere:§W\n;;;;;;;;;x
-ON_CB_THIRDPARTY_DESC;§YIf $CHARACTER$ dies:§W\n;§YSi $CHARACTER$ meurt :§W\n;§YWenn $CHARACTER$ stirbt:§W\n;;§YSi $CHARACTER$ muere:§W\n;;;;;;;;;x
-CB_NAME_CLAIM_ALL;Press all Claims;Appuyer toute les revendications;Alle Ansprüche vorantreiben;;Instar todas las reclamaciones;;;;;;;;;x
-WAR_NAME_CLAIM_LIEGE;$ATTACKER$'s $ORDER$War for $OTHER_TITLE$;$ORDER$ Guerre de $ATTACKER$ pour : $OTHER_TITLE$;$ATTACKER$s $ORDER$ Krieg um $OTHER_TITLE$;;$ORDER$ Guerra de $ATTACKER$ por $OTHER_TITLE$;;;;;;;;;x
-claim_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$CLAIMANT$§! pour appuyer sa revendication vis-à-vis de §Y$TITLE$§!;§Y$CLAIMANT$§! kann diesen Kriegsgrund benutzen, um den Anspruch auf den Titel §Y$TITLE$§! voranzutreiben;;Este Casus Belli puede ser usado por §Y$CLAIMANT$§! para instar la reclamación de §Y$TITLE$§!;;;;;;;;;x
-claim_on_liege_desc;This Casus Belli can be used by §Y$CLAIMANT$§! to press the claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$CLAIMANT$§! pour appuyer sa revendication vis-à-vis de §Y$TITLE$§!;§Y$CLAIMANT$§! kann diesen Kriegsgrund benutzen, um den Anspruch auf den Titel §Y$TITLE$§! voranzutreiben;;Este Casus Belli puede ser usado por §Y$CLAIMANT$§! para instar la reclamación de §Y$TITLE$§!;;;;;;;;;x
-other_claim_on_liege_desc;This Casus Belli can be used by §Y$PRESSER$§! to press §Y$CLAIMANT$'s§! claim on the §Y$TITLE$§!;Ce casus belli peut être utilisé par le(la) §Y$PRESSER$§! pour appuyer la revendication de §Y$CLAIMANT$§! vis-à-vis du(de la) §Y$TITLE$§!;§Y$PRESSER$§! kann diesen Kriegsgrund benutzen, um §Y$CLAIMANT$s§! Anspruch auf den Titel §Y$TITLE$§! voranzutreiben;;Este Casus Belli puede ser usado por §Y$PRESSER$§! para instar la reclamación de §Y$CLAIMANT$§! de §Y$TITLE$§!;;;;;;;;;x
-invasion_desc;§Y$CLAIMANT$§! has been granted the right to invade the §Y$TITLE$§!. If successful, the titles to all currently occupied holdings will be seized.;§Y$CLAIMANT$§! a désormais le droit d’envahir le §Y$TITLE$§!. En cas de réussite, les titres de toutes les fiefs actuellement occupées seront saisis.;§Y$CLAIMANT$§! bekam das Recht zur Invasion für den Titel §Y$TITLE$§! gewährt. Im Erfolgsfall werden die Titel sämtlicher derzeit besetzter Besitztümer konfisziert.;;A §Y$CLAIMANT$§! se le ha concedido el derecho de invadir el §Y$TITLE$§!. Si triunfa se apoderará de los títulos de todas las posesiones actualmente ocupadas.;;;;;;;;;x
-religious_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;Le(la) §Y$CLAIMANT$§! peut utiliser ce casus belli pour s’emparer de tous les titres que possède l’infidèle §Y$TARGET$§! au sein du §Y$TITLE$§! de Jure.;§Y$CLAIMANT$§! kann diesen Kriegsgrund zur Konfiszierung aller Titel benutzen, die das ungläubige Ziel, §Y$TARGET$§!, unter dem de jure-Titel §Y$TITLE$§! bekleidet.;;§Y$CLAIMANT$§! puede usar este Casus Belli para apoderarse de todos los títulos que posee el infiel, §Y$TARGET$§!, dentro del §Y$TITLE$§! de iure.;;;;;;;;;x
-excommunicated_ruler_desc;§Y$TARGET$§! has been excommunicated, a just cause for war if ever there was one!;§Y$TARGET$§! a été excommunié(e), un motif de guerre légitime s’il en est !;§Y$TARGET$§! wurde exkommuniziert - einen besseren Kriegsgrund hat es noch nie gegeben!;;¡§Y$TARGET$§! ha sido excomulgado, una causa justa para la guerra si alguna vez hubo una!;;;;;;;;;x
-bid_for_independence_desc;§Y$CLAIMANT$§! can attempt to declare independence from §Y$TARGET$§!;Le(la) §Y$CLAIMANT$§! peut tenter de déclarer son indépendance vis-à-vis de : §Y$TARGET$§!;§Y$CLAIMANT$§! kann versuchen, von §Y$TARGET$§! die Unabhängigkeit zu erlangen;;§Y$CLAIMANT$§! puede intentar declarar la independencia de §Y$TARGET$§!;;;;;;;;;x
-overthrow_ruler_desc;§Y$TARGET$§! has tried and failed to imprison §Y$CLAIMANT$§!, which has resulted in an armed conflict;§Y$TARGET$§! a essayé en vain d’emprisonner le(la) §Y$CLAIMANT$§!, ce qui a déclenché un conflit armé.;§Y$TARGET$§! ist mit dem Versuch gescheitert, §Y$CLAIMANT$§! einzukerkern, was zu einem bewaffneten Konflikt geführt hat.;;§Y$TARGET$§! ha fracasado en su intento de apresar a §Y$CLAIMANT$§!, lo cual ha desembocado en conflicto armado;;;;;;;;;x
-dejure_county_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;Le §Y$TITLE$§! est, de Jure, un vassal de §Y$CLAIMANT$§!, ce qui constitue un motif de guerre suffisant.;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug für einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x
-dejure_barony_claim_desc;The §Y$TITLE$§! is, de jure, a vassal of §Y$CLAIMANT$'s§!, which is cause enough for war.;Le §Y$TITLE$§! est, de Jure, un vassal de §Y$CLAIMANT$§!, ce qui constitue un motif de guerre suffisant.;§Y$TITLE$§! Ist ein de jure-Vasall von §Y$CLAIMANT$§! - Grund genug für einen Krieg.;;El §Y$TITLE$§! es, de iure, vasallo de §Y$CLAIMANT$§!, lo cual es motivo suficiente de guerra.;;;;;;;;;x
-change_seniority_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to seniority!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur l'Ancienneté au(à la) §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Alter zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en la antigüedad!;;;;;;;;;x
-change_primogeniture_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to primogeniture!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur la primogéniture du §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Ältestenrecht zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en la primogenitura!;;;;;;;;;x
-change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to feudal elective!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi basée sur la succession élective féodale au(à la) §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Feudalwahl zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en el feudalismo electivo!;;;;;;;;;x
-crusade_desc;§Y$CLAIMANT$§! can use this Casus Belli to seize all titles held by the infidel, §Y$TARGET$§!, within the de jure §Y$TITLE$§!.;Le(la) §Y$CLAIMANT$§! peut utiliser ce casus belli pour s’emparer de tous les titres que possède l’infidèle §Y$TARGET$§! au sein du(de la) §Y$TITLE$§! de Jure.;§Y$CLAIMANT$§! kann diesen Kriegsgrund dazu benutzen, dem ungläubigen Ziel, §Y$TARGET$§!, sämtliche Titel unter dem de jure-Titel §Y$TITLE$§! abzunehmen.;;§Y$CLAIMANT$§! puede usar este Casus Belli para apoderarse de todos los títulos que posee el infiel, §Y$TARGET$§!, dentro del §Y$TITLE$§! de iure.;;;;;;;;;x
-change_gavelkind_succession_law_desc;§Y$CLAIMANT$§! can declare war to change the succession law in the §Y$TITLE$§! to gavelkind!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour imposer une loi de succession basée sur le Partage Salique au(à la) §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg erklären, um das Nachfolgerecht für den Titel §Y$TITLE$§! auf Gavelkind zu ändern.;;¡§Y$CLAIMANT$§! puede declarar la guerra para basar la ley de sucesión del §Y$TITLE$§! en la herencia a partes iguales!;;;;;;;;;x
-CB_NAME_GAVELKIND_SUCCESSION_LAW;Gavelkind Succession Law;Loi de succession basée sur le Partage Salique;Gavelkind-Nachfolgegesetz;;Ley de sucesión por herencia a partes iguales;;;;;;;;;x
-WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$$SECOND_ADJ$ Civil War for Gavelkind;$ORDER$ Guerre civile $SECOND_ADJ$ pour le Partage Salique;$ORDER$$SECOND_ADJ$ Bürgerkrieg um Gavelkind;;$ORDER$ Guerra Civil $SECOND_ADJ$ por la Sucesión a Partes Iguales;;;;;;;;;x
-lower_crown_authority_law_desc;§Y$CLAIMANT$§! can declare war to lower Crown Authority in the §Y$TITLE$§!;Le(la) §Y$CLAIMANT$§! peut déclarer la guerre pour affaiblir l’autorité de la Couronne du(de la) §Y$TITLE$§!;§Y$CLAIMANT$§! kann einen Krieg zur Reduzierung der Kronenautorität in §Y$TITLE$§! erklären;;§Y$CLAIMANT$§! puede declarar la guerra para reducir la autoridad de la Corona en el §Y$TITLE$§!;;;;;;;;;x
-CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Lower Crown Authority;Affaiblir l’autorité de la Couronne;Kronenautorität reduzieren;;Reducir autoridad de la Corona;;;;;;;;;x
-WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$$SECOND_ADJ$ Civil War to lower Crown Authority;$ORDER$ Guerre civile $SECOND_ADJ$ visant à affaiblir l’autorité de la Couronne;$ORDER$$SECOND_ADJ$ Bürgerkrieg zur Reduzierung der Kronenautorität;;$ORDER$ Guerra Civil $SECOND_ADJ$ para Reducir la Autoridad Regia;;;;;;;;;x
-SEARCH_ALL;Search All;Globale;Alle durchsuchen;;Buscar todos;;;;;;;;;x
-SEARCH_REALM;Search Realm;Royaume;Reich durchsuchen;;Buscar reino;;;;;;;;;x
-SEARCH_VASSALS;Search Vassals;Vassaux;Vasallen durchsuchen;;Buscar vasallos;;;;;;;;;x
-CHAR_MARRIED;Married;Mariés;Verheiratet;;Casado;;;;;;;;;x
-CHAR_UNMARRIED;Unmarried;Non mariés;Unverheiratet;;Soltero;;;;;;;;;x
-FILTER_YES;Yes;Oui;Ja;;Sí;;;;;;;;;x
-FILTER_NO;No;Non;Nein;;No;;;;;;;;;x
-FILTER_ANY;Any;Tous;Beliebig:;;Cualquiera;;;;;;;;;x
-FILTER_RULER;Ruler;Titré;Herrscher;;Gobernante;;;;;;;;;x
-FILTER_PRISON;In Prison;En prison;Eingekerkert;;En prisión;;;;;;;;;x
-FILTER_GENDER;Gender;Sexe;Geschlecht;;Sexo;;;;;;;;;x
-FILTER_MARRIAGE;Married;Marié(e);Verheiratet;;Casado;;;;;;;;;x
-FILTER_ADULT;Adult;Adulte;Erwachsen;;Adulto;;;;;;;;;x
-FILTER_LANDED_DYNASTY;Great House;Grande Famille;Dynastie mit Landbesitz;;Gran Dinastía;;;;;;;;;x
-CHAR_NAME;Name;Nom;Name;;Nombre;;;;;;;;;x
-CHAR_BOTH;Both;Les deux;Beide;;Ambos;;;;;;;;;x
-YOUR_RELATION;Your $RELATION$;Votre $RELATION$;Eure/Euer $RELATION$;;Tu $RELATION$;;;;;;;;;x
-YOU;You;Vous;Ihr;;Tú;;;;;;;;;x
-CHARACTER_TOOLTIP;§Y[GetBestName]§!§P[GetHumanNameLine]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];§Y[GetBestName]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];§Y[GetBestName]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];;§Y[GetBestName]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];;;;;;;;;x
-CHARACTER_TOOLTIP_DELAYED;[GetStatusInfo];[GetStatusInfo];[GetStatusInfo];;[GetStatusInfo];;;;;;;;;x
-no_tactic;No Tactic;Aucune tactique;Keine Taktik;;Sin táctica;;;;;;;;;x
-generic_skirmish_tactic;Generic Skirmish Tactic;Tactique Escarmouche générale;Allgemeine Scharmützeltaktik;;Táctica de escaramuza genérica;;;;;;;;;x
+GIVEN_GOLD;$NAME$ recibe $GOLD$¤;;;;;;;;;;;;;x
+CB_NAME_CLAIM;Reclama [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_CLAIM;$ORDER$ guerra $FIRST_ADJ$ pola reclamación do título: $OTHER_TITLE$;;;;;;;;;;;;;x
+CB_NAME_SENIORITY_SUCCESSION_LAW;Lei de sucesión por antigüidade;;;;;;;;;;;;;x
+WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola sucesión por antigüidade;;;;;;;;;;;;;x
+CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Lei de sucesión por primoxenitura;;;;;;;;;;;;;x
+WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola sucesión por primoxenitura;;;;;;;;;;;;;x
+CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Lei de sucesión da monarquía electiva;;;;;;;;;;;;;x
+WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola monarquía electiva;;;;;;;;;;;;;x
+CB_NAME_RELIGIOUS;Guerra santa por [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_RELIGIOUS;$ORDER$ guerra santa $FIRST_ADJ$ por $OTHER_TITLE$;;;;;;;;;;;;;x
+CB_NAME_CRUSADE;$HOLY_WAR$ por [Title.GetBaseName];;;;;;;;;;;;;x
+CB_NAME_EXCOMMUNICATED_RULER;Gobernante excomungado;;;;;;;;;;;;;x
+WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$ guerra $FIRST_ADJ$-$SECOND_ADJ$ de excomuñón;;;;;;;;;;;;;x
+CB_NAME_INDEPENDENCE;Independencia;;;;;;;;;;;;;x
+WAR_NAME_INDEPENDENCE;$ORDER$ guerra da independencia $FIRST_ADJ$;;;;;;;;;;;;;x
+CB_NAME_OVERTHROWRULER;Derrocamento do gobernante;;;;;;;;;;;;;x
+WAR_NAME_OVERTHROWRULER;$ORDER$ guerra contra a tiranía de $DEFENDER$;;;;;;;;;;;;;x
+CB_NAME_SUCCESSION;Disputa da sucesión;;;;;;;;;;;;;x
+WAR_NAME_SUCCESSION;$ORDER$ guerra de sucesión $SECOND_ADJ$;;;;;;;;;;;;;x
+CB_NAME_DEJUREBARONYCLAIM;Reclamación do condado en [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$ guerra condal $FIRST_ADJ$-$SECOND_ADJ$ sobre $OTHER_TITLE$;;;;;;;;;;;;;x
+ON_CB_ADD_DESC;§YAo declarar a guerra:§W\n;;;;;;;;;;;;;x
+ON_CB_SUCCESS_DESC;§YSe gañamos a guerra:§W\n;;;;;;;;;;;;;x
+ON_CB_FAIL_DESC;§YSe pactamos unha paz branca:§W\n;;;;;;;;;;;;;x
+ON_CB_REVERSEDEMAND_DESC;§YSe perdemos a guerra:§W\n;;;;;;;;;;;;;x
+ON_CB_ATTACKERDEATH_DESC;§YSe morre o líder da alianza que está a atacar:§W\n;;;;;;;;;;;;;x
+ON_CB_DEFENDERDEATH_DESC;§YSe morre o líder da alianza que se está a defender:§W\n;;;;;;;;;;;;;x
+ON_CB_THIRDPARTY_DESC;§YSe morre $CHARACTER$:§W\n;;;;;;;;;;;;;x
+CB_NAME_CLAIM_ALL;Aplicar todas as reclamacións;;;;;;;;;;;;;x
+WAR_NAME_CLAIM_LIEGE;$ORDER$ guerra de $ATTACKER$ polo título: $OTHER_TITLE$;;;;;;;;;;;;;x
+claim_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para aplicar a súa reclamación de §Y$TITLE$§!;;;;;;;;;;;;;x
+claim_on_liege_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para aplicar a súa reclamación de §Y$TITLE$§!;;;;;;;;;;;;;x
+other_claim_on_liege_desc;§Y$PRESSER$§! pode usar este Casus Belli para aplicar a reclamación de §Y$CLAIMANT$'s§! de §Y$TITLE$§!;;;;;;;;;;;;;x
+invasion_desc;Concedéuselle a §Y$CLAIMANT$§! o dereito de invadir o §Y$TITLE$§!. Se ten éxito, incautará os títulos de todas as propiedades do $TITLE$ actualmente ocupadas.;;;;;;;;;;;;;x
+religious_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para incautar todos os títulos que posúe o infiel §Y$TARGET$§! que dependan de iure do §Y$TITLE$§!.;;;;;;;;;;;;;x
+excommunicated_ruler_desc;Excomungouse a §Y$TARGET$§!, unha causa xusta para declararlle a guerra se é que tal cousa existe!;;;;;;;;;;;;;x
+bid_for_independence_desc;§Y$CLAIMANT$§! pode intentar declarar a súa independencia con respecto a §Y$TARGET$§!;;;;;;;;;;;;;x
+overthrow_ruler_desc;§Y$TARGET$§! tratou de meter en prisión a §Y$CLAIMANT$§! e non tivo éxito, iniciando coa súa acción un conflito armado;;;;;;;;;;;;;x
+dejure_county_claim_desc;O §Y$TITLE$§! é vasalo de iure do título de §Y$CLAIMANT$§!, o cal é motivo suficiente para unha guerra.;;;;;;;;;;;;;x
+dejure_barony_claim_desc;O §Y$TITLE$§! é vasalo de iure do título de §Y$CLAIMANT$§!, o cal é motivo suficiente para unha guerra.;;;;;;;;;;;;;x
+change_seniority_succession_law_desc;§Y$CLAIMANT$§! pode declarar a guerra para cambiar a lei de sucesión pola de antigüidade no §Y$TITLE$§!!;;;;;;;;;;;;;x
+change_primogeniture_succession_law_desc;§Y$CLAIMANT$§! pode declarar a guerra para cambiar a lei de sucesión pola de primoxenitura no §Y$TITLE$§!!;;;;;;;;;;;;;x
+change_feudal_elective_succession_law_desc;§Y$CLAIMANT$§! pode declarar a guerra para cambiar a lei de sucesión pola monarquía electiva no §Y$TITLE$§!!;;;;;;;;;;;;;x
+crusade_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para incautar todos os títulos posuídos polo infiel §Y$TARGET$§!, dentro do §Y$TITLE$§! de iure.;;;;;;;;;;;;;x
+change_gavelkind_succession_law_desc;§Y$CLAIMANT$§! pode declarar a guerra para cambiar a lei de sucesión pola de partes iguais no §Y$TITLE$§!!;;;;;;;;;;;;;x
+CB_NAME_GAVELKIND_SUCCESSION_LAW;Lei de sucesión por partes iguais;;;;;;;;;;;;;x
+WAR_NAME_GAVELKIND_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola sucesión por partes iguais;;;;;;;;;;;;;x
+lower_crown_authority_law_desc;§Y$CLAIMANT$§! pode declarar a guerra para esixir unha autoridade da Coroa máis limitada no §Y$TITLE$§!;;;;;;;;;;;;;x
+CB_NAME_LOWER_CROWN_AUTHORITY_LAW;Autoridade da Coroa máis limitada;;;;;;;;;;;;;x
+WAR_NAME_LOWER_CROWN_AUTHORITY_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola esixencia dunha limitación da autoridade da Coroa;;;;;;;;;;;;;x
+SEARCH_ALL;Global;;;;;;;;;;;;;x
+SEARCH_REALM;No reino;;;;;;;;;;;;;x
+SEARCH_VASSALS;Vasalos/as;;;;;;;;;;;;;x
+CHAR_MARRIED;Casados/as;;;;;;;;;;;;;x
+CHAR_UNMARRIED;Solteiros/as;;;;;;;;;;;;;x
+FILTER_YES;Si;;;;;;;;;;;;;x
+FILTER_NO;Non;;;;;;;;;;;;;x
+FILTER_ANY;Calquera;;;;;;;;;;;;;x
+FILTER_RULER;Gobernantes;;;;;;;;;;;;;x
+FILTER_PRISON;No cárcere;;;;;;;;;;;;;x
+FILTER_GENDER;Sexo;;;;;;;;;;;;;x
+FILTER_MARRIAGE;Casado/a;;;;;;;;;;;;;x
+FILTER_ADULT;Adulto;;;;;;;;;;;;;x
+FILTER_LANDED_DYNASTY;Gran dinastía;;;;;;;;;;;;;x
+CHAR_NAME;Nome;;;;;;;;;;;;;x
+CHAR_BOTH;Ambos;;;;;;;;;;;;;x
+YOUR_RELATION;O teu /A túa $RELATION$;;;;;;;;;;;;;x
+YOU;Ti;;;;;;;;;;;;;x
+CHARACTER_TOOLTIP;§Y[GetBestName]§!§P[GetHumanNameLine]§!§G[GetPlayerRelation]§!\n[GetHighestTitles];;;;;;;;;;;;;x
+CHARACTER_TOOLTIP_DELAYED;[GetStatusInfo];;;;;;;;;;;;;x
+no_tactic;Sen táctica;;;;;;;;;;;;;x
+generic_skirmish_tactic;Táctica de escaramuza xenérica;;;;;;;;;;;;;x
 harass_tactic;Harass Tactic;Tactique Harcèlement;Bedrängungstaktik;;Táctica de acoso;;;;;;;;;x
 volley_tactic;Volley Tactic;Tactique Salve;Salventaktik;;Táctica de salvas;;;;;;;;;x
 swarm_volley_tactic;Swarm Volley Tactic;Tactique Salve en essaim;Schwarm-Salventaktik;;Táctica de salvas en grupo;;;;;;;;;x
@@ -357,7 +357,7 @@ occitan;Occitan;Occitan;Okzitanisch;;Occitana;;;;;;;;;x
 basque;Basque;Basque;Baskisch;;Vasca;;;;;;;;;x
 castillan;Castilian;Castillan;Kastilisch;;Castellana;;;;;;;;;x
 catalan;Catalan;Catalan;Katalanisch;;Catalana;;;;;;;;;x
-portuguese;Portuguese;Portugais;Portugiesisch;;Portuguesa;;;;;;;;;x
+portuguese;Galegoportuguesa;;;;;;;;;;;;;x
 armenian;Armenian;Arménien;Armenisch;;Armenia;;;;;;;;;x
 abghazian;Abkhazian;Abkhazien;Abchasisch;;Abjaza;;;;;;;;;x
 greek;Greek;Grec;Griechisch;;Griega;;;;;;;;;x
@@ -12172,14 +12172,14 @@ b_ceret;Ceret;Ceret;Ceret;;Céret;;;;;;;;;x
 c_empuries_adj;Empuriesian;Empuriesiane;Empurieser;;Ampuriense;;;;;;;;;x
 b_empuries;Empúries;Empúries;Empúries;;Ampurias;;;;;;;;;x
 b_labisbaldemporda;La Bisbal d'Empordà;La Bisbal d'Empordà;La Bisbal d'Empordà;;La Bisbal del Ampurdán;;;;;;;;;x
-b_girona;Girona;Gérone;Girona;;Gerona;;;;;;;;;x
+b_girona;Girona;;;;;;;;;;;;;x
 b_figueras;Figueres;Figueras;Figueras;;Figueras;;;;;;;;;x
 b_cerdana;Cerdanya;Cerdaña;Cerdaña;;Cerdaña;;;;;;;;;x
 b_besalu;Besalú;Besalú;Besalú;;Besalú;;;;;;;;;x
 b_banyoles;Banyoles;Banyoles;Banyoles;;Banyoles;;;;;;;;;x
 b_castelldaro;Castell d'Aro;Castell d'Aro;Castell d'Aro;;Castell d'Aro;;;;;;;;;x
 c_lleida_adj;Lleidan;Léridanaise;Lleida-;;Leridano;;;;;;;;;x
-b_lleida;Lleida;Lérida;Lleida;;Lérida;;;;;;;;;x
+b_lleida;Lleida;;;;;;;;;;;;;x
 b_cervera;Cervera;Cervera;Cervera;;Cervera;;;;;;;;;x
 b_solsona;Solsona;Solsonès;Solsona;;Solsona;;;;;;;;;x
 b_agramunt;Agramunt;Agramunt;Agramunt;;Agramunt;;;;;;;;;x
@@ -12441,18 +12441,18 @@ b_almonte;Almonte;Almonte;Almonte;;Almonte;;;;;;;;;x
 b_aljaraque;Aljaraque;Aljaraque;Aljaraque;;Aljaraque;;;;;;;;;x
 k_leon;León;León;Leon;;León;;;;;;;;;x
 k_leon_adj;Léonese;Léonaise;Leoner;;Leonesa;;;;;;;;;x
-d_asturias;Asturias;Asturies;Asturias;;Asturias;;;;;;;;;x
-d_asturias_adj;Asturian;Asturienne;Asturischer;;Asturiana;;;;;;;;;x
+d_asturias;Asturies;;;;;;;;;;;;;x
+d_asturias_adj;asturiana;;;;;;;;;;;;;x
 c_asturias_de_oviedo_adj;Oviedonian;Oviédane;Oviedo-;;Ovetense;;;;;;;;;x
 b_oviedo;Oviedo;Oviedo;Oviedo;;Oviedo;;;;;;;;;x
-b_gijon;Gijón;Gijón;Gijón;;Gijón;;;;;;;;;x
+b_gijon;Xixón;;;;;;;;;;;;;x
 b_cangasdeonis;Cangas de Onís;Cangas de Onís;Cangas de Onís;;Cangas de Onís;;;;;;;;;x
 b_tineo;Tineo;Tineo;Tineo;;Tineo;;;;;;;;;x
 b_cangasdelnarcea;Cangas del Narcea;Cangas Del Narcea;Cangas del Narcea;;Cangas del Narcea;;;;;;;;;x
 b_villaviciosa;Villaviciosa;Villaviciosa;Villaviciosa;;Villaviciosa;;;;;;;;;x
 b_luarca;Luarca;Luarca;Luarca;;Luarca;;;;;;;;;x
 b_norena;Noreña;Noreña;Noreña;;Noreña;;;;;;;;;x
-c_asturias_de_santillana_adj;Asturias de Santillanian;Asturienne;Asturias de Santillana-;;De Asturias de Santillana;;;;;;;;;x
+c_asturias_de_santillana_adj;santillana;;;;;;;;;;;;;x
 b_santander;Santander;Santander;Santander;;Santander;;;;;;;;;x
 b_santillanadelmar;Santillana del Mar;Santillana Del Mar;Santillana del Mar;;Santillana del Mar;;;;;;;;;x
 b_laredo;Laredo;Laredo;Laredo;;Laredo;;;;;;;;;x
@@ -12461,10 +12461,10 @@ b_santona;Santoña;Santoña;Santoña;;Santoña;;;;;;;;;x
 b_reinosa;Reinosa;Reinosa;Reinosa;;Reinosa;;;;;;;;;x
 b_suances;Suances;Suances;Suances;;Suances;;;;;;;;;x
 b_camargo;Camargo;Camargo;Camargo;;Camargo;;;;;;;;;x
-d_galicia;Galicia;Galice;Galizien;;Galicia;;;;;;;;;x
-d_galicia_adj;Galician;Galicienne;Galizischer;;Gallega;;;;;;;;;x
+d_galicia;Galiza;;;;;;;;;;;;;x
+d_galicia_adj;galega;;;;;;;;;;;;;x
 c_coruna_adj;Coruñan;Corognaise;Coruñer;;Coruñés;;;;;;;;;x
-b_corunna;A Corunnã;La Corogne;A Corunnã;;La Coruña;;;;;;;;;x
+b_corunna;A Coruña;;;;;;;;;;;;;x
 b_mondonedo;Mondoñedo;Mondoñedo;Mondoñedo;;Mondoñedo;;;;;;;;;x
 b_lugo;Lugo;Lugo;Lugo;;Lugo;;;;;;;;;x
 b_ferrol;Ferrol;Ferrol;Ferrol;;Ferrol;;;;;;;;;x
@@ -12558,7 +12558,7 @@ b_villalbadelosbarros;Villalba de los Barros;Villalba de los Barros;Villalba de 
 b_guarena;Guareña;Guareña;Guareña;;Guareña;;;;;;;;;x
 b_fuentedelmaestre;Fuente del Maestre;Fuente Del Maestre;Fuente del Maestre;;Fuente del Maestre;;;;;;;;;x
 k_portugal;Portugal;Portugal;Portugal;;Portugal;;;;;;;;;x
-k_portugal_adj;Portuguese;Portugaise;Portugiesischer;;Portuguesa;;;;;;;;;x
+k_portugal_adj;galegoportuguesa;;;;;;;;;;;;;x
 d_porto;Portucale;Porto;Portucale;;Portucale;;;;;;;;;x
 d_porto_adj;Portucalese;Portuane;Portucalischer;;Portucalense;;;;;;;;;x
 c_porto_adj;Portan;Portuane;Porto-;;Portuense;;;;;;;;;x
@@ -12619,7 +12619,7 @@ b_monforte;Monforte;Monforte;Monforte;;Monforte;;;;;;;;;x
 b_ouguela;Ouguela;Ouguela;Ouguela;;Ouguela;;;;;;;;;x
 c_alcacer_do_sal_adj;Alcácer do Salian;Alcácer do Saliane;Alcácer do Sal-;;Alcacerino;;;;;;;;;x
 b_alcacerdosal;Alcácer do Sal;Alcácer Do Sal;Alcácer do Sal;;Alcázar de la Sal;;;;;;;;;x
-b_alcacovas;Alcáçovas;Alcáçovas;Alcáçovas;;Alcázovas;;;;;;;;;x
+b_alcacovas;Alcáçovas;;;;;;;;;;;;;x
 b_espinheiro;Espinheiro;Espinheiro;Espinheiro;;Espinheiro;;;;;;;;;x
 b_montemoronovo;Montemor-o-Novo;Montemor-O-Novo;Montemor-o-Novo;;Montemor-o-Novo;;;;;;;;;x
 b_alvito;Alvito;Alvito;Alvito;;Alvito;;;;;;;;;x
@@ -15036,8 +15036,8 @@ k_rum;Rum;Rum;Rum;;Rüm;;;;;;;;;x
 k_rum_adj;Rumite;Roumite;Rum-;;de Rüm;;;;;;;;;x
 k_saruhan;Saruhan;Saruhan;Saruhan;;Saruhan;;;;;;;;;x
 k_saruhan_adj;Saruhani;Saruhani;Saruhanischer;;Saruhaní;;;;;;;;;x
-k_spanish_galicia;Galicia;Galice;Galizien;;Galicia;;;;;;;;;x
-k_spanish_galicia_adj;Galician;Galicienne;Galizischer;;Gallega;;;;;;;;;x
+k_spanish_galicia;Galiza;;;;;;;;;;;;;x
+k_spanish_galicia_adj;galega;;;;;;;;;;;;;x
 k_tekke;Tekke;Tekke;Tekke;;Tekke;;;;;;;;;x
 k_trebizond;Trebizond;Trébizonde;Trebizond;;Trebisonda;;;;;;;;;x
 k_trebizond_adj;Trebizondian;Trébizondienne;Trebizonder;;Tresbisondesa;;;;;;;;;x
@@ -17329,15 +17329,15 @@ EVTDESC7265;I have no choice but to accept your despicable blackmail attempt. Yo
 EVTDESC7270;I will never succumb to blackmail! I rather face the embarrassment of having my plot exposed than giving you a single coin.;Jamais je ne céderai au chantage ! Je préfère que ma participation au complot soit connue plutôt que de devoir vous verser une seule pièce.;Niemals würde ich mich einer Erpressung beugen! Lieber stelle ich mich der Schande einer aufgedeckten Verschwörung, als Euch auch nur eine Münze zu bezahlen!;;¡Nunca cederé al chantaje! Prefiero el apuro de ver mi complot revelado antes que darte una sola moneda.;;;;;;;;;x
 EVTOPTA7270;Damn;Bon sang !;Verdammt;;Maldición;;;;;;;;;x
 EVTOPTA8000;I guess I have no choice...;Je suppose que je n’ai pas le choix...;Ich habe wohl keine andere Wahl ...;;Supongo que no tengo elección...;;;;;;;;;x
-EVTDESC8050;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and hand my title over to you. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et vous remettre mon titre. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und Euch meinen Titel zu übergeben, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y entregarte mi título. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
-EVTDESC8055;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Seniority. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de l'Ancienneté. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Alter zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión en función de la antigüedad. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
-EVTDESC8060;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Primogeniture. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de la primogéniture. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Ältestenrecht zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión en función de la primogenitura. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
-EVTDESC8065;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Elective Monarchy. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de la monarchie élective. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Wahlmonarchie zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión a una monarquía electiva. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8050;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and hand my title over to you. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et vous remettre mon titre. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und Euch meinen Titel zu übergeben, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y entregarte mi título. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8055;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Seniority. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de l'Ancienneté. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Alter zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión en función de la antigüedad. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8060;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Primogeniture. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de la primogéniture. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Ältestenrecht zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión en función de la primogenitura. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8065;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to Elective Monarchy. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession de la monarchie élective. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Wahlmonarchie zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión a una monarquía electiva. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
 EVTDESC8100;Your shameful attempt at blackmail has not succeeded. No matter how many corrupted souls you have enticed to help carry out your plan I will not give in without a fight. I'd rather die defending what is rightfully mine!\n\nSigned,\n[From.GetTitledName];Votre odieuse tentative de chantage a échoué. En dépit du nombre d’âmes que vous avez réussi à corrompre pour vous aider à exécuter votre plan, je ne renoncerai pas sans me battre. Je préfère mourir en défendant ce qui me revient de droit !\n\nSigné,\n[From.GetTitledName];Euer schändlicher Erpressungsversuch hatte keinen Erfolg. Ganz gleich, wie viele korrumpierte Seelen Ihr verleitet haben mögt, Euch bei Eurem Plan zu helfen: Kampflos werde ich mich nicht fügen. Lieber stürbe ich bei der Verteidigung meines rechtmäßigen Eigentums!\n\nGezeichnet,\n[From.GetTitledName];;Tu vergonzoso intento de chantaje no ha funcionado. No importa a cuántas almas corruptas hayas tentado para ayudarte a llevar a cabo tu plan, no me rendiré sin luchar. ¡Prefiero morir defendiendo lo que es mío por derecho!\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
 EVTOPTA8100;Then war it is!;La guerre est déclarée !;Das bedeutet Krieg!;;¡Entonces es la guerra!;;;;;;;;;x
 EVTOPTB8100;Actually going to war was not my plan...;Je n’avais pas envisagé de devoir faire la guerre...;Einen wirklichen Krieg hatte ich eigentlich nicht gewollt ...;;En realidad ir a la guerra no era mi plan...;;;;;;;;;x
-EVTDESC8066;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to gavelkind. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession du Partage Salique. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Gavelkind zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión dividiendo la herencia entre los hijos del difunto. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
-EVTDESC8067;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and lower the crown authority. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et revoir à la baisse l’autorité de la Couronne. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und die Autorität der Krone zu verringern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una guerra civil destroce el reino, he decidido ceder ante tu demanda y disminuir la autoridad de la Corona. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8066;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and change the laws of inheritance to gavelkind. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et adopter la loi de succession du Partage Salique. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und das Nachfolgerecht auf Gavelkind zu ändern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y cambiar la ley de sucesión dividiendo la herencia entre los hijos del difunto. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
+EVTDESC8067;Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and lower the crown authority. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, je préfère accéder à votre demande et revoir à la baisse l’autorité de la Couronne. Mais je n’oublierai pas cet odieux chantage...\n\nSigné,\n[From.GetTitledName];Ich habe beschlossen, mich lieber Eurer Forderung zu beugen und die Autorität der Krone zu verringern, als einen Bürgerkrieg zu riskieren, der das Reich auseinanderreißen würde. Diese heimtückische Erpressung werde ich allerdings niemals vergessen ...\n\nGezeichnet,\n[From.GetTitledName];;En vez de correr el riesgo de que una Guerra Civil destroce el reino, he decidido ceder ante tu demanda y disminuir la autoridad de la Corona. Pero este traidor acto de chantaje no será olvidado...\n\nFirmado,\n[From.GetTitledName];;;;;;;;;x
 EVTTOOLTIP7105;Receives a letter of rejection.;Lettre de refus reçue.;Einen Brief mit meiner Antwort schicken;;Recibe una carta de rechazo.;;;;;;;;;x
 plot_gain_title_decision;[Root.GetPlot];[Root.GetPlot];[Root.GetPlot];;[Root.GetPlot];;;;;;;;;x
 plot_gain_title_decision_desc;Put the plot into motion by sending an ultimatum to [Root.PlotTarget.GetTitledName].;Initiez le complot en envoyant un ultimatum à [Root.PlotTarget.GetTitledName].;Verschwörung durch Senden eines Ultimatums an [Root.PlotTarget.GetTitledName] in Bewegung setzen.;;Pon en marcha el complot enviando un ultimátum a [Root.PlotTarget.GetTitledName].;;;;;;;;;x
@@ -17356,7 +17356,7 @@ plot_kill_character_decision_75_desc;Put the plot into motion trying to assassin
 plot_kill_character_decision_100;[Root.GetPlot];[Root.GetPlot];[Root.GetPlot];;[Root.GetPlot];;;;;;;;;x
 plot_kill_character_decision_100_desc;Put the plot into motion trying to assassinate [Root.PlotTarget.GetTitledName]. Failure will have dire consequences...;Initiez le complot en essayant d’assassiner [Root.PlotTarget.GetTitledName]. En cas d’échec, les conséquences seront terribles...;Verschwörung zum Mordversuch an [Root.PlotTarget.GetTitledName] in Bewegung setzen. Ein Fehlschlag würde grässliche Konsequenzen haben ...;;Pon en marcha el complot tratando de asesinar a [Root.PlotTarget.GetTitledName]. El fracaso tendrá terribles consecuencias...;;;;;;;;;x
 EVTTOOLTIPKILLSPOUSE;The Plot being discovered.;Le complot a été découvert.;Die Verschwörung wird aufgedeckt.;;El complot ha sido descubierto.;;;;;;;;;x
-EVTDESC8070;Rather than letting civil war tear the realm apart, [FromFrom.PlotTarget.GetTitledName] has agreed to step down and let me [FromFrom.GetPlot]. Your valuable support in this conflict will not be forgotten.\n\nSincerely,\n[FromFrom.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, [FromFrom.PlotTarget.GetTitledName] a décidé de se retirer et de me laisser [FromFrom.GetPlot]. Je n’oublierai pas votre soutien indéfectible.\n\nCordialement,\n[FromFrom.GetTitledName];Damit das Reich nicht von einem Bürgerkrieg zerrissen wird, stimmte [FromFrom.PlotTarget.GetTitledName] seinem Rücktritt zu und lässt mich: [FromFrom.GetPlot]. Eure wertvolle Unterstützung in diesem Konflikt wird nicht vergessen werden.\n\nGezeichnet,\n[FromFrom.GetTitledName];;En vez de dejar que la guerra civil destroce el reino, [FromFrom.PlotTarget.GetTitledName] ha aceptado retirarse y dejarme [FromFrom.GetPlot]. Tu valioso apoyo en este conflicto no será olvidado.\n\nAtentamente,\n[FromFrom.GetTitledName];;;;;;;;;x
+EVTDESC8070;Rather than letting civil war tear the realm apart, [FromFrom.PlotTarget.GetTitledName] has agreed to step down and let me [FromFrom.GetPlot]. Your valuable support in this conflict will not be forgotten.\n\nSincerely,\n[FromFrom.GetTitledName];Plutôt qu’une guerre civile qui diviserait le Royaume, [FromFrom.PlotTarget.GetTitledName] a décidé de se retirer et de me laisser [FromFrom.GetPlot]. Je n’oublierai pas votre soutien indéfectible.\n\nCordialement,\n[FromFrom.GetTitledName];Damit das Reich nicht von einem Bürgerkrieg zerrissen wird, stimmte [FromFrom.PlotTarget.GetTitledName] seinem Rücktritt zu und lässt mich: [FromFrom.GetPlot]. Eure wertvolle Unterstützung in diesem Konflikt wird nicht vergessen werden.\n\nGezeichnet,\n[FromFrom.GetTitledName];;En vez de dejar que la Guerra Civil destroce el reino, [FromFrom.PlotTarget.GetTitledName] ha aceptado retirarse y dejarme [FromFrom.GetPlot]. Tu valioso apoyo en este conflicto no será olvidado.\n\nAtentamente,\n[FromFrom.GetTitledName];;;;;;;;;x
 EVTOPTA8070;Good;Bien;Gut;;Bien;;;;;;;;;x
 EVTDESC8120;Despite my threat of war, [From.PlotTarget.GetTitledName] rejected my demand to [From.GetPlot]. In light of this I have decided that open war might not be the best way to achieve our goal and so I have disolved the plot.\n\nSincerely,\n[FromFrom.GetTitledName];Malgré la menace d’une guerre, [From.PlotTarget.GetTitledName] a refusé ma demande visant à [From.GetPlot]. J’ai donc décidé que seule une guerre ouverte pouvait nous permettre de parvenir à nos fins et, dès lors, j’ai mis un terme au complot.\n\nCordialement,\n[FromFrom.GetTitledName];Trotz meiner Kriegsdrohung hat [From.PlotTarget.GetTitledName] meine Forderung nach [From.GetPlot] zurückgewiesen. In diesem Lichte habe ich entschieden, dass ein offener Krieg nicht der beste Weg zum Erreichen unseres Zieles ist und die Verschwörung daher aufgelöst.\n\nGezeichnet,\n[FromFrom.GetTitledName];;Pese a mi amenaza de guerra, [From.PlotTarget.GetTitledName] ha rechazado mi demanda de [From.GetPlot]. A la vista de esto, he decidido que una guerra abierta quizá no sea el mejor modo de lograr nuestra meta y por ello he disuelto el complot.\n\nAtentamente,\n[FromFrom.GetTitledName];;;;;;;;;x
 EVTOPTA8120;That coward!;Le lâche !;Dieser Feigling!;;¡Qué cobarde!;;;;;;;;;x
@@ -17512,12 +17512,12 @@ PROV149;Bordeaux;Guyenne;Bordeaux;;Burdeos;;;;;;;;;x
 PROV150;Marsan;Albret;Marsan;;Marsan;;;;;;;;;x
 PROV151;Dax;Lahourd;Dax;;Dax;;;;;;;;;x
 PROV152;Navarra;Navarre;Navarra;;Navarra;;;;;;;;;x
-PROV153;Viscaya;Biscaye;Viscaya;;Vizcaya;;;;;;;;;x
-PROV154;Asturias de Santillana;Asturies;Asturias de Santillana;;Asturias de Santillana;;;;;;;;;x
-PROV155;Asturias de Oviedo;Oviedo;Asturias de Oviedo;;Asturias de Oviedo;;;;;;;;;x
-PROV156;Coruña;La Corogne;Coruña;;La Coruña;;;;;;;;;x
+PROV153;Bizkaia;;;;;;;;;;;;;x
+PROV154;Santillana;;;;;;;;;;;;;x
+PROV155;Oviéu;;;;;;;;;;;;;x
+PROV156;A Coruña;;;;;;;;;;;;;x
 PROV157;Santiago;Saint-Jacques-de-Compostelle;Santiago;;Santiago;;;;;;;;;x
-PROV158;Porto;Porto;Porto;;Oporto;;;;;;;;;x
+PROV158;Porto;;;;;;;;;;;;;x
 PROV159;Coimbra;Coïmbra;Coimbra;;Coimbra;;;;;;;;;x
 PROV160;Lisboa;Lisbonne;Lisboa;;Lisboa;;;;;;;;;x
 PROV161;Alcácer do Sal;Alcácer do Sal;Alcácer do Sal;;Alcácer do Sal;;;;;;;;;x
