@@ -298,10 +298,10 @@ CHARACTER_TOOLTIP;§Y[GetBestName]§!§P[GetHumanNameLine]§!§G[GetPlayerRelation]§!
 CHARACTER_TOOLTIP_DELAYED;[GetStatusInfo];;;;;;;;;;;;;x
 no_tactic;Sen táctica;;;;;;;;;;;;;x
 generic_skirmish_tactic;Táctica de escaramuza xenérica;;;;;;;;;;;;;x
-harass_tactic;Harass Tactic;Tactique Harcèlement;Bedrängungstaktik;;Táctica de acoso;;;;;;;;;x
-volley_tactic;Volley Tactic;Tactique Salve;Salventaktik;;Táctica de salvas;;;;;;;;;x
-swarm_volley_tactic;Swarm Volley Tactic;Tactique Salve en essaim;Schwarm-Salventaktik;;Táctica de salvas en grupo;;;;;;;;;x
-swarm_tactic;Swarm Tactic;Tactique En essaim;Schwarmtaktik;;Táctica de ataque en grupo;;;;;;;;;x
+harass_tactic;Táctica de acoso;;;;;;;;;;;;;x
+volley_tactic;Táctica de salvas;;;;;;;;;;;;;x
+swarm_volley_tactic;Táctica de salvas en enxame;;;;;;;;;;;;;x
+swarm_tactic;Táctica de enxame;;;;;;;;;;;;;x
 shieldwall_tactic;Shieldwall Tactic;Tactique Mur de boucliers;Schildwalltaktik;;Táctica de muro de escudos;;;;;;;;;x
 fient_tactic;Feint Tactic;Tactique Feinte;Fintentaktik;;Táctica de fingimiento;;;;;;;;;x
 prepare_tactic;Prepare Tactic;Tactique Préparatifs;Vorbereitungstaktik;;Preparar táctica;;;;;;;;;x
@@ -19797,7 +19797,7 @@ cruel_desc;This character is an evil sadist, taking pleasure in the suffering of
 twin;Twin;Jumeau;Zwilling;;Gemelo;;;;;;;;;x
 TECHNOLOGY_LOWER_THAN; lower than ; inférieur(e) à ; geringer als ;;Inferior a ; inferior a ;;;;;;;;x
 TECHNOLOGY_HIGHER_THAN; at least ; supérieur(e) à ; höher als ;; superior a ; almeno ;;;;;;;;x
-OR_TRIGGER_STARTS;One of these must be true;L’un des éléments suivants doit être vrai;Einer der folgenden Punkte muss zutreffen:;; Algo de lo siguiente debe ser cierto;;;;;;;;x;
+OR_TRIGGER_STARTS;One of these must be true;L’un des éléments suivants doit être vrai;Einer der folgenden Punkte muss zutreffen:;; Algo de lo siguiente debe ser cierto;;;;;;;;x
 THE_YEAR_IS_BEFORE;The year is before ;L’année précédente ;Das Jahr ist vor;;El año es anterior a ;L'anno precede ;;;;;;;;x
 THE_YEAR_IS_AFTER;The year is after ;L’année suivante ;Das Jahr ist nach;;El año es posterior a ;L'anno segue ;;;;;;;;x
 HAVE_LESS_THAN;Have less than ;A moins de ;Hat weniger als;;Tiene menos que ;Ha meno di ;;;;;;;;x
