@@ -302,28 +302,28 @@ harass_tactic;Táctica de acoso;;;;;;;;;;;;;x
 volley_tactic;Táctica de salvas;;;;;;;;;;;;;x
 swarm_volley_tactic;Táctica de salvas en enxame;;;;;;;;;;;;;x
 swarm_tactic;Táctica de enxame;;;;;;;;;;;;;x
-shieldwall_tactic;Shieldwall Tactic;Tactique Mur de boucliers;Schildwalltaktik;;Táctica de muro de escudos;;;;;;;;;x
-fient_tactic;Feint Tactic;Tactique Feinte;Fintentaktik;;Táctica de fingimiento;;;;;;;;;x
-prepare_tactic;Prepare Tactic;Tactique Préparatifs;Vorbereitungstaktik;;Preparar táctica;;;;;;;;;x
-charge_of_opportunity_tactic;Charge of Opportunity;Charge opportuniste;Spontansturm;;Carga de oportunidad;;;;;;;;;x
-charge_tactic;Charge Tactic;Tactique Charge;Sturmtaktik;;Táctica de carga;;;;;;;;;x
-wait_tactic;Wait Tactic;Tactique Attente;Abwartetaktik;;Táctica de espera;;;;;;;;;x
-advance_tactic;Advance Tactic;Tactique Progression;Vormarschtaktik;;Táctica de avance;;;;;;;;;x
-awesome_advance_tactic;Awesome Advance Tactic;Tactique Progression impressionnante;Fantastische Vorrücktaktik;;Táctica de avance pavoroso;;;;;;;;;x
-stand_fast_tactic;Stand Fast Tactic;Tactique Maintien de position;Haltetaktik;;Táctica de mantener la posición;;;;;;;;;x
-slow_advance_tactic;Slow Advance;Progression lente;Langsames Vorrücken;;Avance lento;;;;;;;;;x
-barrage_tactic;Barrage Tactic;Tactique Barrage;Sperrfeuertaktik;;Táctica de bombardeo;;;;;;;;;x
-raid_tactic;Raid Tactic;Tactique Raid;Überfalltaktik;;Táctica de asalto;;;;;;;;;x
-pursue_tactic;Pursue Tactic;Tactique Poursuite;Verfolgungstaktik;;Táctica de persecución;;;;;;;;;x
-CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];[GetBornAndDeathDate];[GetBornAndDeathDate];;[GetBornAndDeathDate];;;;;;;;;x
-CHAR_INSTANT_PLAYER_OPINION;[GetInstantPlayerOpinion];[GetInstantPlayerOpinion];[GetInstantPlayerOpinion];;[GetInstantPlayerOpinion];;;;;;;;;x
-CHAR_DELAYED_PLAYER_OPINION;[GetDelayedPlayerOpinion];[GetDelayedPlayerOpinion];[GetDelayedPlayerOpinion];;[GetDelayedPlayerOpinion];;;;;;;;;x
-CHAR_INSTANT_LIEGE_OPINION;[GetInstantLiegeOpinion];[GetInstantLiegeOpinion];[GetInstantLiegeOpinion];;[GetInstantLiegeOpinion];;;;;;;;;x
-CHAR_DELAYED_LIEGE_OPINION;[GetDelayedLiegeOpinion];[GetDelayedLiegeOpinion];[GetDelayedLiegeOpinion];;[GetDelayedLiegeOpinion];;;;;;;;;x
-CHAR_DIPLOMACY;Diplomacy: §Y[GetDiplomacy]§W;Diplomatie : §Y[GetDiplomacy]§W;Diplomatie: §Y[GetDiplomacy]§W;;Diplomacia: §Y[GetDiplomacy]§W;;;;;;;;;x
-CHAR_DIPLOMACY_BREAKDOWN;[GetDiplomacyBreakdown];[GetDiplomacyBreakdown];[GetDiplomacyBreakdown];;[GetDiplomacyBreakdown];;;;;;;;;x
-CHAR_MARTIAL;Martial: §Y[GetMartial]§W;Martial : §Y[GetMartial]§W;Kriegskunst: §Y[GetMartial]§W;;Marcial: §Y[GetMartial]§W;;;;;;;;;x
-CHAR_MARTIAL_BREAKDOWN;[GetMartialBreakdown];[GetMartialBreakdown];[GetMartialBreakdown];;[GetMartialBreakdown];;;;;;;;;x
+shieldwall_tactic;Táctica de muro de escudos;;;;;;;;;;;;;x
+fient_tactic;Táctica de finta;;;;;;;;;;;;;x
+prepare_tactic;Táctica de preparacións;;;;;;;;;;;;;x
+charge_of_opportunity_tactic;Táctica de carga de oportunidade;;;;;;;;;;;;;
+charge_tactic;Táctica de carga;;;;;;;;;;;;;
+wait_tactic;Táctica de espera;;;;;;;;;;;;;
+advance_tactic;Táctica de progresión;;;;;;;;;;;;;
+awesome_advance_tactic;Táctica de avance desacougante;;;;;;;;;;;;;
+stand_fast_tactic;Táctica de manter posicións;;;;;;;;;;;;;
+slow_advance_tactic;Avance vagaroso;;;;;;;;;;;;;
+barrage_tactic;Táctica de tromba;;;;;;;;;;;;;
+raid_tactic;Táctica de incursión;;;;;;;;;;;;;
+pursue_tactic;Táctica de persecución;;;;;;;;;;;;;
+CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];;;;;;;;;;;;;
+CHAR_INSTANT_PLAYER_OPINION;[GetInstantPlayerOpinion];;;;;;;;;;;;;x
+CHAR_DELAYED_PLAYER_OPINION;[GetDelayedPlayerOpinion];;;;;;;;;;;;;x
+CHAR_INSTANT_LIEGE_OPINION;[GetInstantLiegeOpinion];;;;;;;;;;;;;x
+CHAR_DELAYED_LIEGE_OPINION;[GetDelayedLiegeOpinion];;;;;;;;;;;;;x
+CHAR_DIPLOMACY;Diplomacia: §Y[GetDiplomacy]§W;;;;;;;;;;;;;x
+CHAR_DIPLOMACY_BREAKDOWN;[GetDiplomacyBreakdown];;;;;;;;;;;;;x
+CHAR_MARTIAL;Marcial: §Y[GetMartial]§W;;;;;;;;;;;;;x
+CHAR_MARTIAL_BREAKDOWN;[GetMartialBreakdown];;;;;;;;;;;;;x
 CHAR_STEWARDSHIP;Stewardship: §Y[GetStewardship]§W;Intendance : §Y[GetStewardship]§W;Verwaltung: §Y[GetStewardship]§W;;Administración: §Y[GetStewardship]§W;;;;;;;;;x
 CHAR_STEWARDSHIP_BREAKDOWN;[GetStewardshipBreakdown];[GetStewardshipBreakdown];[GetStewardshipBreakdown];;[GetStewardshipBreakdown];;;;;;;;;x
 CHAR_INTRIGUE;Intrigue: §Y[GetIntrigue]§W;Intrigue : §Y[GetIntrigue]§W;Intrige: §Y[GetIntrigue]§W;;Intriga: §Y[GetIntrigue]§W;;;;;;;;;x
