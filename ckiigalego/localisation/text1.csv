@@ -305,17 +305,17 @@ swarm_tactic;Táctica de enxame;;;;;;;;;;;;;x
 shieldwall_tactic;Táctica de muro de escudos;;;;;;;;;;;;;x
 fient_tactic;Táctica de finta;;;;;;;;;;;;;x
 prepare_tactic;Táctica de preparacións;;;;;;;;;;;;;x
-charge_of_opportunity_tactic;Táctica de carga de oportunidade;;;;;;;;;;;;;
-charge_tactic;Táctica de carga;;;;;;;;;;;;;
-wait_tactic;Táctica de espera;;;;;;;;;;;;;
-advance_tactic;Táctica de progresión;;;;;;;;;;;;;
-awesome_advance_tactic;Táctica de avance desacougante;;;;;;;;;;;;;
-stand_fast_tactic;Táctica de manter posicións;;;;;;;;;;;;;
-slow_advance_tactic;Avance vagaroso;;;;;;;;;;;;;
-barrage_tactic;Táctica de tromba;;;;;;;;;;;;;
-raid_tactic;Táctica de incursión;;;;;;;;;;;;;
-pursue_tactic;Táctica de persecución;;;;;;;;;;;;;
-CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];;;;;;;;;;;;;
+charge_of_opportunity_tactic;Táctica de carga de oportunidade;;;;;;;;;;;;;x
+charge_tactic;Táctica de carga;;;;;;;;;;;;;x
+wait_tactic;Táctica de espera;;;;;;;;;;;;;x
+advance_tactic;Táctica de progresión;;;;;;;;;;;;;x
+awesome_advance_tactic;Táctica de avance desacougante;;;;;;;;;;;;;x
+stand_fast_tactic;Táctica de manter posicións;;;;;;;;;;;;;x
+slow_advance_tactic;Avance vagaroso;;;;;;;;;;;;;x
+barrage_tactic;Táctica de tromba;;;;;;;;;;;;;x
+raid_tactic;Táctica de incursión;;;;;;;;;;;;;x
+pursue_tactic;Táctica de persecución;;;;;;;;;;;;;x
+CHAR_BORN_AND_DEATH_DATE;[GetBornAndDeathDate];;;;;;;;;;;;;x
 CHAR_INSTANT_PLAYER_OPINION;[GetInstantPlayerOpinion];;;;;;;;;;;;;x
 CHAR_DELAYED_PLAYER_OPINION;[GetDelayedPlayerOpinion];;;;;;;;;;;;;x
 CHAR_INSTANT_LIEGE_OPINION;[GetInstantLiegeOpinion];;;;;;;;;;;;;x
@@ -340,7 +340,7 @@ CHAR_MONTHLY_PRESTIGE;[GetMonthlyPrestige];[GetMonthlyPrestige];[GetMonthlyPrest
 CHAR_MONTHLY_PRESTIGE_BREAKDOWN;[GetMonthlyPrestigeBreakdown];[GetMonthlyPrestigeBreakdown];[GetMonthlyPrestigeBreakdown];;[GetMonthlyPrestigeBreakdown];;;;;;;;;x
 CHAR_MONTHLY_PIETY;[GetMonthlyPiety];[GetMonthlyPiety];[GetMonthlyPiety];;[GetMonthlyPiety];;;;;;;;;x
 CHAR_MONTHLY_PIETY_BREAKDOWN;[GetMonthlyPietyBreakdown];[GetMonthlyPietyBreakdown];[GetMonthlyPietyBreakdown];;[GetMonthlyPietyBreakdown];;;;;;;;;x
-alpha_story_load;A test story;Histoire test;Eine Testgeschichte;;Historia de prueba;;;;;;;;;x
+alpha_story_load;Unha historia de proba;;;;;;;;;;;;;x
 alpha_story_title;Testing Story;Test de l’histoire;Testgeschichte;;Probar historia;;;;;;;;;x
 alpha_story_desc;This would describe it if it was a true story..;Description de l’histoire si celle-ci est vraie.;Diese Geschichte würde wie eine wahre Geschichte klingen ...;;Esto se contaría así si fuera una historia real...;;;;;;;;;x
 swedish;Swedish;Suédois;Schwedisch;;Sueca;;;;;;;;;x
