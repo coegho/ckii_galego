@@ -326,141 +326,141 @@ CHAR_MARTIAL;Marcial: §Y[GetMartial]§W;;;;;;;;;;;;;x
 CHAR_MARTIAL_BREAKDOWN;[GetMartialBreakdown];;;;;;;;;;;;;x
 CHAR_STEWARDSHIP;Stewardship: §Y[GetStewardship]§W;Intendance : §Y[GetStewardship]§W;Verwaltung: §Y[GetStewardship]§W;;Administración: §Y[GetStewardship]§W;;;;;;;;;x
 CHAR_STEWARDSHIP_BREAKDOWN;[GetStewardshipBreakdown];[GetStewardshipBreakdown];[GetStewardshipBreakdown];;[GetStewardshipBreakdown];;;;;;;;;x
-CHAR_INTRIGUE;Intrigue: §Y[GetIntrigue]§W;Intrigue : §Y[GetIntrigue]§W;Intrige: §Y[GetIntrigue]§W;;Intriga: §Y[GetIntrigue]§W;;;;;;;;;x
-CHAR_INTRIGUE_BREAKDOWN;[GetIntrigueBreakdown];[GetIntrigueBreakdown];[GetIntrigueBreakdown];;[GetIntrigueBreakdown];;;;;;;;;x
+CHAR_INTRIGUE;Intriga: §Y[GetIntrigue]§W;;;;;;;;;;;;;
+CHAR_INTRIGUE_BREAKDOWN;[GetIntrigueBreakdown];;;;;;;;;;;;;
 CHAR_LEARNING;Learning: §Y[GetLearning]§W;Érudition : §Y[GetLearning]§W;Bildung: §Y[GetLearning]§W;;Aprendizaje: §Y[GetLearning]§W;;;;;;;;;x
-CHAR_LEARNING_BREAKDOWN;[GetLearningBreakdown];[GetLearningBreakdown];[GetLearningBreakdown];;[GetLearningBreakdown];;;;;;;;;x
-CHAR_PRIMARY_TITLES;[GetPrimaryTitles];[GetPrimaryTitles];[GetPrimaryTitles];;[GetPrimaryTitles];;;;;;;;;x
-CHAR_ONLY_DYNASTYNAME;[GetOnlyDynastyName];[GetOnlyDynastyName];[GetOnlyDynastyName];;[GetOnlyDynastyName];;;;;;;;;x
-CHAR_DEBUG_INFO;[GetStatusInfo];[GetStatusInfo];[GetStatusInfo];;[GetStatusInfo];;;;;;;;;x
-CHAR_FULLNAME;[GetFullName];[GetFullName];[GetFullName];;[GetFullName];;;;;;;;;x
-CHAR_DEMESNESIZERATIO;[GetDemesneSizeRatio];[GetDemesneSizeRatio];[GetDemesneSizeRatio];;[GetDemesneSizeRatio];;;;;;;;;x
-CHAR_MONTHLY_INCOME;[GetMonthlyIncome];[GetMonthlyIncome];[GetMonthlyIncome];;[GetMonthlyIncome];;;;;;;;;x
-CHAR_MONTHLY_PRESTIGE;[GetMonthlyPrestige];[GetMonthlyPrestige];[GetMonthlyPrestige];;[GetMonthlyPrestige];;;;;;;;;x
-CHAR_MONTHLY_PRESTIGE_BREAKDOWN;[GetMonthlyPrestigeBreakdown];[GetMonthlyPrestigeBreakdown];[GetMonthlyPrestigeBreakdown];;[GetMonthlyPrestigeBreakdown];;;;;;;;;x
-CHAR_MONTHLY_PIETY;[GetMonthlyPiety];[GetMonthlyPiety];[GetMonthlyPiety];;[GetMonthlyPiety];;;;;;;;;x
-CHAR_MONTHLY_PIETY_BREAKDOWN;[GetMonthlyPietyBreakdown];[GetMonthlyPietyBreakdown];[GetMonthlyPietyBreakdown];;[GetMonthlyPietyBreakdown];;;;;;;;;x
+CHAR_LEARNING_BREAKDOWN;[GetLearningBreakdown];;;;;;;;;;;;;
+CHAR_PRIMARY_TITLES;[GetPrimaryTitles];;;;;;;;;;;;;
+CHAR_ONLY_DYNASTYNAME;[GetOnlyDynastyName];;;;;;;;;;;;;
+CHAR_DEBUG_INFO;[GetStatusInfo];;;;;;;;;;;;;
+CHAR_FULLNAME;[GetFullName];;;;;;;;;;;;;
+CHAR_DEMESNESIZERATIO;[GetDemesneSizeRatio];;;;;;;;;;;;;
+CHAR_MONTHLY_INCOME;[GetMonthlyIncome];;;;;;;;;;;;;
+CHAR_MONTHLY_PRESTIGE;[GetMonthlyPrestige];;;;;;;;;;;;;
+CHAR_MONTHLY_PRESTIGE_BREAKDOWN;[GetMonthlyPrestigeBreakdown];;;;;;;;;;;;;
+CHAR_MONTHLY_PIETY;[GetMonthlyPiety];;;;;;;;;;;;;
+CHAR_MONTHLY_PIETY_BREAKDOWN;[GetMonthlyPietyBreakdown];;;;;;;;;;;;;
 alpha_story_load;Unha historia de proba;;;;;;;;;;;;;x
-alpha_story_title;Testing Story;Test de l’histoire;Testgeschichte;;Probar historia;;;;;;;;;x
-alpha_story_desc;This would describe it if it was a true story..;Description de l’histoire si celle-ci est vraie.;Diese Geschichte würde wie eine wahre Geschichte klingen ...;;Esto se contaría así si fuera una historia real...;;;;;;;;;x
-swedish;Swedish;Suédois;Schwedisch;;Sueca;;;;;;;;;x
-norwegian;Norwegian;Norvégien;Norwegisch;;Noruega;;;;;;;;;x
-danish;Danish;Danois;Dänisch;;Danesa;;;;;;;;;x
-german;German;Allemand;Deutsch;;Alemana;;;;;;;;;x
-english;English;Anglais;Englisch;;Inglaterra;;;;;;;;;x
-saxon;Anglo-Saxon;Anglo-Saxon;Angel-Sächsisch;;Anglosajon;;;;;;;;;x
-dutch;Dutch;Hollandais;Holländisch;;Holandesa;;;;;;;;;x
+alpha_story_title;Historia de proba;;;;;;;;;;;;;
+alpha_story_desc;Esta sería a descrición da historia no caso de que fose certa...;;;;;;;;;;;;;
+swedish;Sueca;;;;;;;;;;;;;
+norwegian;Norueguesa;;;;;;;;;;;;;
+danish;Danesa;;;;;;;;;;;;;
+german;Alemana;;;;;;;;;;;;;
+english;Inglesa;;;;;;;;;;;;;
+saxon;Anglosaxona;;;;;;;;;;;;;
+dutch;Holandesa;;;;;;;;;;;;;
 #frankish;Frankish;Franc;Fränkisch;;Francesa;;;;;;;;;x
-norman;Norman;Normand;Normannisch;;Normanda;;;;;;;;;x
-italian;Italian;Italien;Italienisch;;Italiana;;;;;;;;;x
-occitan;Occitan;Occitan;Okzitanisch;;Occitana;;;;;;;;;x
-basque;Basque;Basque;Baskisch;;Vasca;;;;;;;;;x
-castillan;Castilian;Castillan;Kastilisch;;Castellana;;;;;;;;;x
-catalan;Catalan;Catalan;Katalanisch;;Catalana;;;;;;;;;x
-portuguese;Galegoportuguesa;;;;;;;;;;;;;x
-armenian;Armenian;Arménien;Armenisch;;Armenia;;;;;;;;;x
-abghazian;Abkhazian;Abkhazien;Abchasisch;;Abjaza;;;;;;;;;x
-greek;Greek;Grec;Griechisch;;Griega;;;;;;;;;x
-alan;Alan;Alain;Alanisch;;Alana;;;;;;;;;x
-georgian;Georgian;Géorgien;Georgisch;;Georgiana;;;;;;;;;x
-irish;Irish;Irlandais;Irisch;;Irlandesa;;;;;;;;;x
-scottish;Scottish;Écossais;Schottisch;;Escocesa;;;;;;;;;x
-welsh;Welsh;Gallois;Walisisch;;Galesa;;;;;;;;;x
-breton;Breton;Breton;Bretonisch;;Bretona;;;;;;;;;x
-finnish;Finnish;Finnois;Finnisch;;Finesa;;;;;;;;;x
-lappish;Lappish;Lapon;Lappländisch;;Lapona;;;;;;;;;x
-ugricbaltic;Estonian;Estonienne;Estländischer;;Estonia;;;;;;;;;x
-komi;Komi;Komi;Komi;;Komi;;;;;;;;;x
-lettigallish;Lettigallian;Latgaline;Lettigallisch;;Letigala;;;;;;;;;x
-lithuanian;Lithuanian;Lituanien;Lithauisch;;Lituana;;;;;;;;;x
-prussian;Prussian;Prussien;Preußisch;;Prusiana;;;;;;;;;x
-turkish;Turkish;Turc;Türkisch;;Turca;;;;;;;;;x
-mongol;Mongol;Mongol;Mongolisch;;Mongola;;;;;;;;;x
-cuman;Cuman;Couman;Kumanisch;;Cumana;;;;;;;;;x
-pecheneg;Pecheneg;Petchénègue;Petschenegisch;;Pechenega;;;;;;;;;x
-bedouin_arabic;Bedouin;Bédouin;Beduinisch;;Beduina;;;;;;;;;x
-levantine_arabic;Levantine;Levantin;Levantinisch;;Levantina;;;;;;;;;x
-egyptian_arabic;Egyptian;Égyptien;Ägyptisch;;Egipcia;;;;;;;;;x
-andalusian_arabic;Andalusian;Andalou;Andalusisch;;Andalusí;;;;;;;;;x
-russian;Russian;Russe;Russisch;;Rusa;;;;;;;;;x
+norman;Normanda;;;;;;;;;;;;;
+italian;Italiana;;;;;;;;;;;;;
+occitan;Occitana;;;;;;;;;;;;;
+basque;Vasca;;;;;;;;;;;;;
+castillan;Castelá;;;;;;;;;;;;;
+catalan;Catalá;;;;;;;;;;;;;
+portuguese;Galega;;;;;;;;;;;;;x
+armenian;Armenia;;;;;;;;;;;;;
+abghazian;Abkhaza;;;;;;;;;;;;;
+greek;Grega;;;;;;;;;;;;;
+alan;Alana;;;;;;;;;;;;;
+georgian;Xeorxiana;;;;;;;;;;;;;
+irish;Irlandesa;;;;;;;;;;;;;
+scottish;Escocesa;;;;;;;;;;;;;
+welsh;Galesa;;;;;;;;;;;;;
+breton;Bretoa;;;;;;;;;;;;;
+finnish;Finesa;;;;;;;;;;;;;
+lappish;Saami;;;;;;;;;;;;;
+ugricbaltic;Estoniana;;;;;;;;;;;;;
+komi;Komi;;;;;;;;;;;;;
+lettigallish;Latgalia;;;;;;;;;;;;;
+lithuanian;Lituana;;;;;;;;;;;;;
+prussian;Prusiana;;;;;;;;;;;;;
+turkish;Turca;;;;;;;;;;;;;
+mongol;Mongol;;;;;;;;;;;;;
+cuman;Cumana;;;;;;;;;;;;;
+pecheneg;Pechenega;;;;;;;;;;;;;
+bedouin_arabic;Beduína;;;;;;;;;;;;;
+levantine_arabic;Levantina;;;;;;;;;;;;;
+egyptian_arabic;Exipcia;;;;;;;;;;;;;
+andalusian_arabic;Andalusí;;;;;;;;;;;;;
+russian;Rusa;;;;;;;;;;;;;
 #pommeranian;Pommeranian;Poméranien;Pommerisch;;Pomerana;;;;;;;;;x
-bohemian;Bohemian;Bohémien;Bömisch;;Bohemia;;;;;;;;;x
-polish;Polish;Polonais;Polnisch;;Polaca;;;;;;;;;x
-croatian;Croatian;Croate;Kroatisch;;Croata;;;;;;;;;x
-serbian;Serbian;Serbe;Serbisch;;Serbia;;;;;;;;;x
+bohemian;Bohemia;;;;;;;;;;;;;
+polish;Polaca;;;;;;;;;;;;;
+croatian;Croata;;;;;;;;;;;;;
+serbian;Serbia;;;;;;;;;;;;;
 #romanian;Romanian;Roumain;Rumänisch;;Rumana;;;;;;;;;x
-bulgarian;Bulgarian;Bulgare;Bulgarisch;;Búlgara;;;;;;;;;x
-hungarian;Hungarian;Hongrois;Ungarisch;;Húngara;;;;;;;;;x
-persian;Persian;Perse;Persisch;;Persa;;;;;;;;;x
-ethiopian;Ethiopian;Éthiopien;Äthiopisch;;Etíope;;;;;;;;;x
-north_germanic;North Germanic;Scandinave;Nordgermarnisch;;Norgermánica;;;;;;;;;x
-central_germanic;Central Germanic;Germain;Zentralgermanisch;;Germánica Central;;;;;;;;;x
-west_germanic;West Germanic;Germanique occidental;Westgermanisch;;Germánica Occidental;;;;;;;;;x
-latin;Latin;Latin;Lateinisch;;Latina;;;;;;;;;x
-iberian;Iberian;Ibérique;Iberisch;;Ibérica;;;;;;;;;x
-byzantine;Byzantine;Byzantin;Byzantinisch;;Bizantina;;;;;;;;;x
-celtic;Celtic;Celte;Keltisch;;Céltica;;;;;;;;;x
-finno_ugric;Finno-Ugric;Finno-ougrien;Finnisch-ugrisch;;Ugro-finesa;;;;;;;;;x
-baltic;Baltic;Balte;Baltisch;;Báltica;;;;;;;;;x
-altaic;Altaic;Altaïque;Altaisch;;Altaica;;;;;;;;;x
-arabic;Arabic;Arabe;Arabisch;;Arábiga;;;;;;;;;x
-east_slavic;East Slavic;Slave oriental;Ostslawisch;;Eslava Oriental;;;;;;;;;x
-west_slavic;West Slavic;Slave occidental;Westslawisch;;Eslava Occidental;;;;;;;;;x
-south_slavic;South Slavic;Slave méridional;Südslawisch;;Sureslava;;;;;;;;;x
-magyar;Magyar;Magyar;Magyarisch;;Magiar;;;;;;;;;x
-iranian;Iranian;Iranien;Iranisch;;Iraní;;;;;;;;;x
-east_african;East African;Est-africain;Ostafrikanisch;;Africana Oriental;;;;;;;;;x
-ACTOR_EXTRA;[ActorExtra.GetBestName];[ActorExtra.GetBestName];[ActorExtra.GetBestName];;[ActorExtra.GetBestName];;;;;;;;;x
-RECIPIENT_EXTRA;[RecipientExtra.GetBestName];[RecipientExtra.GetBestName];[RecipientExtra.GetBestName];;[RecipientExtra.GetBestName];;;;;;;;;x
-GETISVALIDDESC;[GetIsValidDesc];[GetIsValidDesc];[GetIsValidDesc];;[GetIsValidDesc];;;;;;;;;x
-THIRDPARTYTITLE;[ThirdPartyTitle.GetFullName];[ThirdPartyTitle.GetFullName];[ThirdPartyTitle.GetFullName];;[ThirdPartyTitle.GetFullName];;;;;;;;;x
-DIPLOOPENING_RELATIVE;Dear $RELATION$,\n;cher(e) $RELATION$,\n;Seid geehrt, $RELATION$,\n;;$RELATION$ amada,\n;;;;;;;;;x
-DIPLOOPENING_OTHER;To the $ADJ$ $TO$,\n;À l’attention du(de la) $ADJ$ $TO$,\n;An den/die $ADJ$ $TO$,\n;;Al $ADJ$ $TO$,\n;;;;;;;;;x
-DIPLOOPENING_ABOVE_LIEGE;$FOA$,\n;$FOA$,\n;$FOA$,\n;;$FOA$,\n;;;;;;;;;x
-DIPLOOPENING_LIEGE;My Liege,\n;Mon bon Suzerain,\n;Mein Lehnsherr,\n;;Mi señor,\n;;;;;;;;;x
-DIPLOWINDOW_ACCEPT;Accept;Accepter;Akzeptieren;;Aceptar;;;;;;;;;x
-DIPLOWINDOW_REJECT;Decline;Refuser;Ablehnen;;Rechazar;;;;;;;;;x
-GREET_ADJ_BAD_0;Most Despicable;Méprisable;Schändlichst;;De lo más despreciable;;;;;;;;;x
-GREET_ADJ_BAD_1;Wretched;Misérable;Erbärmlich;;Miserable;;;;;;;;;x
-GREET_ADJ_BAD_2;Deplorable;Déplorable;Bedauerlich;;Deplorable;;;;;;;;;x
-GREET_ADJ_BAD_3;Pitiful;Pitoyable;Kläglich;;Penoso;;;;;;;;;x
-GREET_ADJ_GOOD_0;Great;Superbe;Großartig;;Estupendo;;;;;;;;;x
-GREET_ADJ_GOOD_1;Magnificent;Magnifique;Herrlich;;Magnífico;;;;;;;;;x
-GREET_ADJ_GOOD_2;Honorable;Honorable;Ehrenhaft;;Honorable;;;;;;;;;x
-GREET_ADJ_GOOD_3;Glorious;Illustre;Glorreich;;Glorioso;;;;;;;;;x
-GREET_ADJ_GOOD_4;Heroic;Héroïque;Heldenhaft;;Heróico;;;;;;;;;x
-GREET_ADJ_GOOD_5;Most Excellent;Formidable;Überragend;;De lo más excelente;;;;;;;;;x
-DIPLOFLAVOR_INSULT_0;Tales of your misdeeds are told from Ireland to Cathay.;Vos méfaits sont connus depuis l’Irlande jusqu’à Cathay.;Von Euren Missetaten erzählt man sich von Irland bis China!;;Se cuentan historias de tus fechorías desde Irlanda hasta Catay.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_1;Your low character is the subject of Greek plays.;Votre bassesse est telle qu’elle a inspiré des pièces de théâtre grecques !;Euer niederer Charakter ist Mittelpunkt griechischer Theaterstücke!;;Tu escaso carácter es el tema de las obras de teatro griegas.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_2;May your humors rot in your living body.;Puissent vos humeurs pourrir en vous !;Mögen Euch die Säfte im lebendigem Leib austrocknen!;;Que tus fluidos se pudran en tu cuerpo en vida.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_3;May your years be short and miserable.;Que votre vie soit brève et misérable !;Mögen Eure Jahre kurz und elend sein!;;Que tus años sean escasos y miserables.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_4;May wisdom ever elude you.;Puissiez-vous ne jamais connaître la sagesse !;Möge Euch Weisheit stets fremd bleiben!;;Que la sabiduría siempre te eluda.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_0;Damn your seventh grandfather.;Maudits soient vos aïeuls jusqu’au septième degré !;Verflucht sei Euer siebter Großvater!;;Maldigo a tu séptimo abuelo.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_1;May you be sewn up alive in the belly of a dead camel.;Soyez cousu vivant dans le ventre d’un chameau mort !;Mögt Ihr lebendig im Bauch eines toten Kamels eingenäht werden!;;Que te cosan vivo al vientre de un camello muerto.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_2;May Allah destroy your house.;Qu’Allah détruise votre Maison !;Möge Allah Euer Haus vernichten!;;Que Alá destruya tu casa.;;;;;;;;;x
-DIPLOFLAVOR_INSULT_muslim_3;You child of a mangy dog.;Espèce d’enfant de chien galeux !;Ihr Bastard eines räudigen Hundes!;;Hijo de un perro sarnoso.;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_0;Blessings upon you and your House.;Soyez bénis, vous et votre Maison !;Ihr und Euer Haus mögen gesegnet sein!;;Bendiciones para ti y tu casa.;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_1;Your wisdom and mercy are legendary.;Votre sagesse et votre clémence sont légendaires.;Eure Weisheit und Gnade sind legendär!;;Tu sabiduría y piedad son legendarias.;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_2;Peace be with you.;Que la paix soit avec vous !;Friede sei mit Euch!;;La paz sea contigo.;;;;;;;;;x
-DIPLOFLAVOR_FLATTERY_3;May you live in harmony and contentment.;Puissiez-vous vivre dans l’harmonie et la satisfaction !;Mögt Ihr in Harmonie und Zufriedenheit leben!;;Que vivas en goce y armonía.;;;;;;;;;x
-tuberculosis;Consumption;Phtisie;Schwindsucht;;Consunción;;;;;;;;;x
-TUBERCULOSIS_INFO;Consumption is an older name for the terrible scourge of Tuberculosis.;La phtisie est l’ancien nom de ce terrible fléau qu’est la tuberculose.;Schwindsucht ist ein älterer Ausdruck für die schreckliche Geißel Tuberkulose.;;Consunción es un antiguo nombre del terrible azote de la tuberculosis.;;;;;;;;;x
-typhoid_fever;Typhoid Fever;Fièvre typhoïde;Typhoides Fieber;;Fiebre tifoidea;;;;;;;;;x
-TYPHOID_FEVER_INFO;Typhoid Fever, or Slow Fever, is loose in this county.;La fièvre typhoïde, ou typhus abdominal, sévit dans ce pays.;In diesem Land ist typhoides Fieber bzw. schleichendes Fieber ausgebrochen.;;La fiebre tifoidea o fiebre lenta recorre este país.;;;;;;;;;x
-typhus;Typhus;Typhus;Typhus;;Tifus;;;;;;;;;x
-TYPHUS_INFO;Epidemic Typhus or Camp Fever, is rampant.;Le typhus épidémique, ou typhus à poux, sévit.;Eine Typhusepidemie bzw. Lagerfieber breitet sich ungebremst aus.;;El tifus o fiebre de campamento se extiende desenfrenadamente.;;;;;;;;;x
-bubonic_plague;Bubonic Plague;Peste bubonique;Beulenpest;;Peste bubónica;;;;;;;;;x
-BUBONIC_PLAGUE_INFO;The Pale Rider has brought the Black Death to this county.;Le cavalier solitaire a introduit la peste noire dans ce pays.;Der Schwarze Tod hat dieses Land heimgesucht.;;El Jinete Pálido ha traído la Muerte Negra a este país.;;;;;;;;;x
-measles;Measles;Rougeole;Masern;;Sarampión;;;;;;;;;x
-MEASLES_INFO;There is an epidemic of Measles in this county.;Ce pays connaît une épidémie de rougeole.;In diesem Land gibt es eine Masernepidemie.;;Hay una epidemia de sarampión en este país.;;;;;;;;;x
-small_pox;Smallpox;Variole;Blattern;;Viruela;;;;;;;;;x
-SMALL_POX_INFO;Smallpox has struck this county, killing almost half of those infected.;La variole a frappé ce pays, tuant près de la moitié des personnes infectées.;Dieses Land wurde von einer Blatternepidemie getroffen. Fast die Hälfte der Infizierten sind gestorben.;;La viruela ha golpeado este país matando a casi la mitad de los infectados.;;;;;;;;;x
-TIMELEFT;$MONTHS$ Months left;$MONTHS$ mois restants;$MONTHS$ Monate verbleibend;;$MONTHS$ Meses restantes;;;;;;;;;x
+bulgarian;Búlgara;;;;;;;;;;;;;
+hungarian;Maxiar;;;;;;;;;;;;;
+persian;Persa;;;;;;;;;;;;;
+ethiopian;Etíope;;;;;;;;;;;;;
+north_germanic;Escandinava;;;;;;;;;;;;;
+central_germanic;Xermánica Central;;;;;;;;;;;;;
+west_germanic;Xermánica Occidental;;;;;;;;;;;;;
+latin;Latina;;;;;;;;;;;;;
+iberian;Ibérica;;;;;;;;;;;;;
+byzantine;Bizantina;;;;;;;;;;;;;
+celtic;Celta;;;;;;;;;;;;;
+finno_ugric;Ugrofinesa;;;;;;;;;;;;;
+baltic;Báltica;;;;;;;;;;;;;
+altaic;Altaica;;;;;;;;;;;;;
+arabic;Árabe;;;;;;;;;;;;;
+east_slavic;Eslava Oriental;;;;;;;;;;;;;
+west_slavic;Eslava Occidental;;;;;;;;;;;;;
+south_slavic;Eslava Meridional;;;;;;;;;;;;;
+magyar;Maxiar;;;;;;;;;;;;;
+iranian;Irania;;;;;;;;;;;;;
+east_african;Africana Oriental;;;;;;;;;;;;;
+ACTOR_EXTRA;[ActorExtra.GetBestName];;;;;;;;;;;;;
+RECIPIENT_EXTRA;[RecipientExtra.GetBestName];;;;;;;;;;;;;
+GETISVALIDDESC;[GetIsValidDesc];;;;;;;;;;;;;
+THIRDPARTYTITLE;[ThirdPartyTitle.GetFullName];;;;;;;;;;;;;
+DIPLOOPENING_RELATIVE;$RELATION$,\n;;;;;;;;;;;;;
+DIPLOOPENING_OTHER;Á atención do/da $ADJ$ $TO$,\n*;;;;;;;;;;;;;
+DIPLOOPENING_ABOVE_LIEGE;$FOA$,\n;;;;;;;;;;;;;
+DIPLOOPENING_LIEGE;Meu señor,\n;;;;;;;;;;;;;
+DIPLOWINDOW_ACCEPT;Aceptar;;;;;;;;;;;;;
+DIPLOWINDOW_REJECT;Rexeitar;;;;;;;;;;;;;
+GREET_ADJ_BAD_0;desprezable;;;;;;;;;;;;;
+GREET_ADJ_BAD_1;miserento;;;;;;;;;;;;;
+GREET_ADJ_BAD_2;lamentable;;;;;;;;;;;;;
+GREET_ADJ_BAD_3;lamentoso;;;;;;;;;;;;;
+GREET_ADJ_GOOD_0;gran;;;;;;;;;;;;;
+GREET_ADJ_GOOD_1;magnífico;;;;;;;;;;;;;
+GREET_ADJ_GOOD_2;honorable;;;;;;;;;;;;;
+GREET_ADJ_GOOD_3;glorioso;;;;;;;;;;;;;
+GREET_ADJ_GOOD_4;heroico;;;;;;;;;;;;;
+GREET_ADJ_GOOD_5;excelentísimo;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_0;Por todo o camiño dende Irlanda ata a China nárranse contos sobre as vosas maldades.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_1;A vosa baixeza moral podería inspirar ao teatro grego.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_2;Que os vosos humores apodrezan no voso corpo aínda vivo.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_3;Que a vida que vos quede sexa curta e miserenta.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_4;Que a sabedoría vos evite ata a fin dos vosos días.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_muslim_0;Maldito sexa o teu sétimo avó.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_muslim_1;Que sexades cosido en vida ao bandullo dun camelo morto.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_muslim_2;Que Alá destrúa a vosa casa.;;;;;;;;;;;;;
+DIPLOFLAVOR_INSULT_muslim_3;Prole enferma dun can sarnento.;;;;;;;;;;;;;
+DIPLOFLAVOR_FLATTERY_0;Bendicións para vosa mercé e a vosa Casa.;;;;;;;;;;;;;
+DIPLOFLAVOR_FLATTERY_1;A vosa sabedoría e compaixón son lendarias.;;;;;;;;;;;;;
+DIPLOFLAVOR_FLATTERY_2;A paz sexa convosco.;;;;;;;;;;;;;
+DIPLOFLAVOR_FLATTERY_3;Que vosa mercé viva en alegre harmonía.;;;;;;;;;;;;;
+tuberculosis;Consunción;;;;;;;;;;;;;
+TUBERCULOSIS_INFO;Consunción é o nome co que antigamente se denominaba ao terrible flaxelo da tuberculose.;;;;;;;;;;;;;
+typhoid_fever;Febre tifoide;;;;;;;;;;;;;
+TYPHOID_FEVER_INFO;A febre tifoide, ou febre entérica, percorre libremente esta provincia.;;;;;;;;;;;;;
+typhus;Tifo;;;;;;;;;;;;;
+TYPHUS_INFO;A epidemia do tifo está fóra de control.;;;;;;;;;;;;;
+bubonic_plague;Peste negra;;;;;;;;;;;;;
+BUBONIC_PLAGUE_INFO;A peste negra trouxo a morte e a devastación a estas terras.;;;;;;;;;;;;;
+measles;Xarampón;;;;;;;;;;;;;
+MEASLES_INFO;Hai unha epidemia de xarampón nesta provincia.;;;;;;;;;;;;;
+small_pox;Varíola;;;;;;;;;;;;;
+SMALL_POX_INFO;A varíola sacude esta provincia, onde preto da metade dos que colleron as boas morreron.;;;;;;;;;;;;;
+TIMELEFT;$MONTHS$ meses restantes;;;;;;;;;;;;;
 COVERAGE;This outbreak currently covers $NUM$ provinces;Cette épidémie frappe actuellement $NUM$ provinces.;Dieser Ausbruch betriff derzeit $NUM$ Provinzen;;Este brote afecta actualmente a $NUM$ provincias;;;;;;;;;x
-PROVINCE_HAS_DISEASE;Has an outbreak of $DISEASE$;Connaît une épidémie de $DISEASE$;Leidet unter einem Ausbruch von $DISEASE$;;Tiene un brote de $DISEASE$;;;;;;;;;x
-PROVINCE_DOES_NOT_HAVE_DISEASE;Does not have an outbreak of $DISEASE$;Ne connaît pas d’épidémie de $DISEASE$;Leidet nicht unter einem Ausbruck von $DISEASE$;;No tiene un brote de $DISEASE$;;;;;;;;;x
-PROVINCE_HAS_ANY_DISEASE;Has any disease outbreak;Connaît une épidémie;Leidet unter dem Ausbruch einer Krankheit;;Tiene brotes de alguna enfermedad;;;;;;;;;x
-PROVINCE_DOES_NOT_HAVE_ANY_DISEASE;Does not have any disease outbreak;Ne connaît aucune épidémie;Leidet nicht unter dem Ausbruch einer Krankheit;;No tiene brotes de ninguna enfermedad;;;;;;;;;x
+PROVINCE_HAS_DISEASE;sufre dunha epidemia de $DISEASE$;;;;;;;;;;;;;
+PROVINCE_DOES_NOT_HAVE_DISEASE;non sufre dunha epidemia de $DISEASE$;;;;;;;;;;;;;
+PROVINCE_HAS_ANY_DISEASE;sufre unha epidemia dalgunha enfermidade;;;;;;;;;;;;;
+PROVINCE_DOES_NOT_HAVE_ANY_DISEASE;Non sufre de ningunha epidemia;;;;;;;;;;;;;
 CK2DLC001;Dynasty Coat of Arms Pack 1;Blasons des Dynasties Pack 1;Dynasty Coat of Arms Pack 1;;Caja 1 del Escudo heráldico de la dinastía;;;;;;;;;x
 CK2DLC001_DESC;Description for Dynasty Coat of Arms Pack 1;Description du Pack 1 des blasons des dynasties;Description for Dynasty Coat of Arms Pack 1;;Descripción de la caja 1 del Escudo heráldico de la dinastía;;;;;;;;;x
 CK2DLC002;Mongol Face Pack;Pack Portraits Mongols;Mongol Face Pack;;Caja de máscara mongol;;;;;;;;;x
@@ -12557,8 +12557,8 @@ b_almendralejo;Almendralejo;Almendralejo;Almendralejo;;Almendralejo;;;;;;;;;x
 b_villalbadelosbarros;Villalba de los Barros;Villalba de los Barros;Villalba de los Barros;;Villalba de los Barros;;;;;;;;;x
 b_guarena;Guareña;Guareña;Guareña;;Guareña;;;;;;;;;x
 b_fuentedelmaestre;Fuente del Maestre;Fuente Del Maestre;Fuente del Maestre;;Fuente del Maestre;;;;;;;;;x
-k_portugal;Portugal;Portugal;Portugal;;Portugal;;;;;;;;;x
-k_portugal_adj;galegoportuguesa;;;;;;;;;;;;;x
+k_portugal;Portugal;;;;;;;;;;;;;x
+k_portugal_adj;Galega;;;;;;;;;;;;;x
 d_porto;Portucale;Porto;Portucale;;Portucale;;;;;;;;;x
 d_porto_adj;Portucalese;Portuane;Portucalischer;;Portucalense;;;;;;;;;x
 c_porto_adj;Portan;Portuane;Porto-;;Portuense;;;;;;;;;x
