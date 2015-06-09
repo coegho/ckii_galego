@@ -324,11 +324,11 @@ CHAR_DIPLOMACY;Diplomacia: §Y[GetDiplomacy]§W;;;;;;;;;;;;;x
 CHAR_DIPLOMACY_BREAKDOWN;[GetDiplomacyBreakdown];;;;;;;;;;;;;x
 CHAR_MARTIAL;Marcial: §Y[GetMartial]§W;;;;;;;;;;;;;x
 CHAR_MARTIAL_BREAKDOWN;[GetMartialBreakdown];;;;;;;;;;;;;x
-CHAR_STEWARDSHIP;Stewardship: §Y[GetStewardship]§W;Intendance : §Y[GetStewardship]§W;Verwaltung: §Y[GetStewardship]§W;;Administración: §Y[GetStewardship]§W;;;;;;;;;x
-CHAR_STEWARDSHIP_BREAKDOWN;[GetStewardshipBreakdown];[GetStewardshipBreakdown];[GetStewardshipBreakdown];;[GetStewardshipBreakdown];;;;;;;;;x
+CHAR_STEWARDSHIP;Administración: §Y[GetStewardship]§W;;;;;;;;;;;;;x
+CHAR_STEWARDSHIP_BREAKDOWN;[GetStewardshipBreakdown];;;;;;;;;;;;;x
 CHAR_INTRIGUE;Intriga: §Y[GetIntrigue]§W;;;;;;;;;;;;;x
 CHAR_INTRIGUE_BREAKDOWN;[GetIntrigueBreakdown];;;;;;;;;;;;;x
-CHAR_LEARNING;Learning: §Y[GetLearning]§W;Érudition : §Y[GetLearning]§W;Bildung: §Y[GetLearning]§W;;Aprendizaje: §Y[GetLearning]§W;;;;;;;;;x
+CHAR_LEARNING;Erudición: §Y[GetLearning]§W;;;;;;;;;;;;;x
 CHAR_LEARNING_BREAKDOWN;[GetLearningBreakdown];;;;;;;;;;;;;x
 CHAR_PRIMARY_TITLES;[GetPrimaryTitles];;;;;;;;;;;;;x
 CHAR_ONLY_DYNASTYNAME;[GetOnlyDynastyName];;;;;;;;;;;;;x
@@ -2431,7 +2431,7 @@ EVTTOOLTIP452;I will go to [This.GetFirstName]'s chamber;Je vais me rendre dans 
 EVTOPTA452;What took [From.GetObjectPronoun] so long?;Pourquoi a-t-il tant tardé ?;Warum hat er so lange gebraucht?;;¿Por qué ha tardado tanto?;;;;;;;;;x
 EVTOPTB452;Dissuade [From.GetObjectPronoun];Dissuadez-le.;Es ihm ausreden;;Disuádele;;;;;;;;;x
 EVTOPTC452;Scream for help!;Appelez à l’aide !;Um Hilfe schreien!;;¡Pide ayuda!;;;;;;;;;x
-EVTOPTA453;It's good to be the [This.GetTitle];C’est bon d’être le(la) [This.GetTitle].;Es ist gut, [This.GetTitle] zu sein;;Es agradable ser el [This.GetTitle];;;;;;;;;x
+EVTOPTA453;É bo ser  [This.GetTitle];;;;;;;;;;;;;x
 EVTTOOLTIP453;[This.GetTitledFirstName] becomes my lover;[This.GetTitledFirstName] devient mon amant(ma maîtresse).;[This.GetTitledFirstName] wird mein Lover;;[This.GetTitledFirstName] se convierte en mi amante;;;;;;;;;x
 EVTDESC454;Lady [From.GetFirstName] has spurned my subtle advances.;Madame [From.GetFirstName] a repoussé mes subtiles avances.;Fürstin [From.GetFirstName] hat meine subtilen Annäherungen verschmäht.;;La dama [From.GetFirstName] ha rechazado mis sutiles insinuaciones.;;;;;;;;;x
 EVTTOOLTIP454;[This.GetTitledFirstName] becomes disappointed;[This.GetTitledFirstName] est déçu(e).;[This.GetTitledFirstName] ist enttäuscht;;[This.GetTitledFirstName] siente decepción;;;;;;;;;x
@@ -4999,20 +4999,20 @@ EVTOPTB256;I disapprove of [From.GetHerHis] conduct too;Moi aussi, je désapprouv
 EVTOPTC256;[From.GetSheHeCap]'s right, we should terrorise our enemy;J’approuve [From.GetTitledFirstName], nous devons terroriser notre ennemi.;[From.GetSheHeCap] hat Recht: Wir sollten unseren Feind terrorisieren!;;[From.GetSheHeCap] tiene razón, debemos intimidar al enemigo.;;;;;;;;;x
 CREATING_STORY;Loading '$NAME$'..;Chargement de '$NAME$'..;$NAME$' werden geladen ...;;Cargando '$NAME$'...;;;;;;;;;x
 WORLD_YEAR;The world $YEAR$;Le monde en $YEAR$;Die Welt $YEAR$;;El mundo $YEAR$;Il mondo nell'anno $YEAR$;;;;;;;;x
-FE_HOST;Host;Héberger;Host;Stwórz grê.;Anfitrión;Host;Hoszt;;;;;;;x
-FE_JOIN_LAN_GAME;Join Lan Game;Rejoindre partie LAN;LAN-Spiel beitreten;Do³¹cz do gry w sieci LAN.;Unirse a partida en LAN;Partecipa a partita LAN;Csatlakozás LAN játékhoz;;;;;;;x
-FE_JOIN_INTERNET_GAME;Join Internet Game;Rejoindre partie Internet;Internetspiel beitreten;Do³¹cz do gry internetowej.;Unirse a partida Internet;Partecipa a partita Internet;Csatlakozás Internetes játékhoz;;;;;;;x
-FE_SCAN;scan;rechercher;Scannen;skanuj;Buscar;scansione;keresés;;;;;;;x
-FE_METASERVER;Metaserver;Métaserveur;Metaserver;Metaserwer;Metaservidor;Metaserver;Köztes szerver;;;;;;;x
-FE_BACK;Retornar;;;;;;;;;;;;;x
+FE_HOST;Anfitrión;;;;;;;;;;;;;x
+FE_JOIN_LAN_GAME;Unirse a xogo LAN;;;;;;;;;;;;;x
+FE_JOIN_INTERNET_GAME;Unirse a xogo por Internet;;;;;;;;;;;;;x
+FE_SCAN;Procurar;;;;;;;;;;;;;x
+FE_METASERVER;Metaservidor;;;;;;;;;;;;;x
+FE_BACK;Volver;;;;;;;;;;;;;x
 FE_PLAYER;Xogador;;;;;;;;;;;;;x
 FE_PLAYER_NAME;Nome de xogador:;;;;;;;;;;;;;x
 FE_SINGLE_PLAYER;Un xogador;;;;;;;;;;;;;x
 FE_MULTI_PLAYER;Multixogador;;;;;;;;;;;;;x
 FE_OPTIONS;Opcións;;;;;;;;;;;;;x
 FE_CREDITS;Créditos;;;;;;;;;;;;;x
-FE_NATION_TO_PLAY;Click the nation you wish to play...;Cliquez sur la nation avec laquelle vous voulez jouer...;Klickt auf das Land, dessen Geschicke Ihr leiten möchtet …;Kliknij pañstwo, którym chcesz w³adaæ...;Selecciona la nación con la que quieres jugar...;Scegli la nazione con cui desideri giocare;Kattints arra a nemzetre, amelyikkel játszani szeretnél;Klepnutím vyberte národ, za který chcete hrát...;;;;;;x
-FE_NEW_GAME;New Game;Nouvelle partie;Neues Spiel;Nowa gra;Partida nueva;Nuova partita;Új játék;Nová hra;;;;;;x
+FE_NATION_TO_PLAY;Pulsa no país co que desexes xogar...;;;;;;;;;;;;;x
+FE_NEW_GAME;Nova partida;;;;;;;;;;;;;x
 FE_SAVE_GAME;Save Games;Sauvegarder les parties;Spiele speichern;Zapisz grê;Guardar partida;Salva partite;Mentések;Uložit hry;;;;;;x
 FE_HISTORICAL_START;Historical Start;Début historique;Historienstarts;Start historyczny;Inicio histórico;Scenari;Történelemhûség;Historický zaèátek;;;;;;x
 FE_SAVED_GAMES;Saved Games;Parties sauvegardées;Spielstände;Zapisane gry;Part. Salvadas;Partite salvate;Mentések;Uložené hry;;;;;;x
