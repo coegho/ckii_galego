@@ -465,25 +465,25 @@ CK2DLC001;Dynasty Coat of Arms Pack 1;Blasons des Dynasties Pack 1;Dynasty Coat 
 CK2DLC001_DESC;Description for Dynasty Coat of Arms Pack 1;Description du Pack 1 des blasons des dynasties;Description for Dynasty Coat of Arms Pack 1;;Descripción de la caja 1 del Escudo heráldico de la dinastía;;;;;;;;;x
 CK2DLC002;Mongol Face Pack;Pack Portraits Mongols;Mongol Face Pack;;Caja de máscara mongol;;;;;;;;;x
 CK2DLC002_DESC;Description for Mongol Face Pack;Description du Pack des Portraits des Mongols;Description for Mongol Face Pack;;Descripción de caja de máscara mongol;;;;;;;;;x
-DYNATREE_TOTALMEMBERS;Total Members: $TOTAL$;Famille : $TOTAL$ membres;Mitglieder gesamt: $TOTAL$;;Total de miembros: $TOTAL$;;;;;;;;;x
-DYNATREE_HOUSEOF;House $HOUSENAME$;Maison $HOUSENAME$;Haus $HOUSENAME$;;Casa $HOUSENAME$;;;;;;;;;x
-DYNATREE_LIVINGMEMBERS;Living Members: $LIVING$;Membres vivants : $LIVING$;Lebende Mitglieder: $LIVING$;;Miembros vivos: $LIVING$;;;;;;;;;x
-DYNATREE_GOTOHEAD;Go to head of dynasty;Accéder au Chef de la Dynastie;Zum Dynastie-Oberhaupt gehen;;Ir al líder de la dinastía;;;;;;;;;x
-DYNATREE_GOTOFOUNDER;Go to founder of dynasty;Accéder au Fondateur de la Dynastie;Zum Dynastiegründer gehen;;Ir al fundador de la dinastía;;;;;;;;;x
-DYNATREE_TOGGLETREE;Toggle family/dynasty tree;Basculer entre l’Arbre Familial et l’Arbre Dynastique;Familien-/Dynastiebaum umschalten;;Alternar árbol familiar/dinástico;;;;;;;;;x
-DYNATREE_FULLSCREEN;Toggle fullscreen;Activer/Désactiver Plein écran;Vollbildmodus umschalten;;Activar/desactivar pantalla completa;;;;;;;;;x
-DYNATREE_EXIT;Exit;Quitter;Beenden;;Salir;;;;;;;;;x
-DYNATREE_EXPAND;Expand/Collapse children;Développer/Réduire la descendance;Kinder einblenden/ausblenden;;Ampliar/reducir hijos;;;;;;;;;x
-DYNATREE_CLICKTOSWITCH;§GClick to switch to this dynasty§W;§GCliquez pour accéder à cette Dynastie.§W;§GZum Wechsel zu dieser Dynastie klicken§W;;§GClic para cambiar a esta dinastía§W;;;;;;;;;x
-DYNA_PRESTIGE;Prestige:;Prestige :;Prestige:;;Prestigio:;;;;;;;;;x
-DYNA_CHILDREN;Children;Enfants;Kinder;;Hijos;;;;;;;;;x
-DYNA_FAMILYTREE;Family Tree;Arbre Familial;Familienbaum;;Árbol familiar;;;;;;;;;x
-DYNA_PARENTS;Parents;Parents;Eltern;;Padres;;;;;;;;;x
-DYNA_GRANDPARENTS;Grandparents;Grands-parents;Großeltern;;Abuelos;;;;;;;;;x
-DYNA_GREATGRANDPARENTS;Great Grandparents;Aïeux;Urgroßeltern;;Bisabuelos;;;;;;;;;x
-BASTARD_CHILD;Bastard Child;Enfant illégitime;Bastard;;Hijo bastardo;;;;;;;;;x
-LINEAGE;Lineage;Lignée;Blutlinie;;Linaje;;;;;;;;;x
-OTHER_PARENT_IN_LINEAGE;Other Parent in Lineage;Autre parent dans la lignée;Anderer Elternteil in Blutlinie;;El otro padre en el linaje;;;;;;;;;x
+DYNATREE_TOTALMEMBERS;Membros totais: $TOTAL$;;;;;;;;;;;;;x
+DYNATREE_HOUSEOF;Casa $HOUSENAME$;;;;;;;;;;;;;x
+DYNATREE_LIVINGMEMBERS;Membros vivos: $LIVING$;;;;;;;;;;;;;x
+DYNATREE_GOTOHEAD;Ir ao xefe da dinastía;;;;;;;;;;;;;x
+DYNATREE_GOTOFOUNDER;Ir ao fundador da dinastía;;;;;;;;;;;;;x
+DYNATREE_TOGGLETREE;Alternar entre árbore familiar e dinástica;;;;;;;;;;;;;x
+DYNATREE_FULLSCREEN;Alternar pantalla completa;;;;;;;;;;;;;x
+DYNATREE_EXIT;Saír;;;;;;;;;;;;;x
+DYNATREE_EXPAND;Despregar/pregar lista de fillos;;;;;;;;;;;;;x
+DYNATREE_CLICKTOSWITCH;§GPulsa para acceder a esta dinastía§W;;;;;;;;;;;;;x
+DYNA_PRESTIGE;Prestixio:;;;;;;;;;;;;;x
+DYNA_CHILDREN;Fillos;;;;;;;;;;;;;x
+DYNA_FAMILYTREE;Árbore familiar;;;;;;;;;;;;;x
+DYNA_PARENTS;Pais;;;;;;;;;;;;;x
+DYNA_GRANDPARENTS;Avós;;;;;;;;;;;;;x
+DYNA_GREATGRANDPARENTS;Bisavós;;;;;;;;;;;;;x
+BASTARD_CHILD;Fillo natural;;;;;;;;;;;;;x
+LINEAGE;Liñaxe;;;;;;;;;;;;;x
+OTHER_PARENT_IN_LINEAGE;Outro pai na liñaxe;;;;;;;;;;;;;x
 RIGHT_CLICK_TREE;Right-Click and hold to move tree around.;Maintenez le bouton droit de la souris enfoncé pour parcourir l’arbre.;Rechte Maustaste zum Verschieben des Stammbaums gedrückt halten.;;Clic derecho y mantener para desplazar el árbol.;;;;;;;;;x
 SENDAASSSINEFFECT;§Y$WHO$§W will send assassins after §Y$TARGET$§W.\n;§Y$WHO$§W va envoyer des assassins contre §Y$TARGET$§W.\n;§Y$WHO$§W wird §Y$TARGET$§W Mörder auf den Hals hetzen.\n;;§Y$WHO$§W enviará asesinos tras §Y$TARGET$§W.\n;;;;;;;;;x
 ADD_SUB_UNIT_EFFECT;Get $UNIT$ in $WHERE$.;Envoyer $UNIT$ à $WHERE$.;Erhaltet $UNIT$ in $WHERE$.;Get $UNIT$ in $WHERE$.;Obtener una unidad de $UNIT$ en $WHERE$.;Porta $UNIT$ a $WHERE$.;Get $UNIT$ in $WHERE$.;Získat $UNIT$ v $WHERE$.;;;;;;x
@@ -692,7 +692,7 @@ ENDGAME_TEXT_DEATH;After a lineage of $NUMCHARS$ characters your line has ended 
 END_HISTORICAL_DYNASTIES;Historical Dynasties:;Dynasties historiques :;Historische Dynastien:;;Dinastías históricas:;;;;;;;;;x
 END_GAME_OVER;Game Over!;Fin de la partie !;Game Over!;;¡Juego terminado!;;;;;;;;;x
 END_YOUR_SCORE;Your Score;Votre score ;Eure Punkte;;Tu puntuación;;;;;;;;;x
-QUIT_TO_MENU;Quit To Menu;Quitter pour revenir au menu;Zum Menü beenden;;Salir a menú;;;;;;;;;x
+QUIT_TO_MENU;Saír ao menú;;;;;;;;;;;;;x
 DAYS_OF_RULE;Ruled for $DAYS$ days;a régné $DAYS$ jours.;Herrschte $DAYS$ Tage;;Gobernado durante $DAYS$ días;;;;;;;;;x
 MONTHS_OF_RULE;Ruled for $MONTHS$ months;a régné $MONTHS$ mois.;Herrschte $MONTHS$ Monate;;Gobernado durante $MONTHS$ meses;;;;;;;;;x
 YEARS_OF_RULE;Ruled for $YEARS$ years;a régné $YEARS$ ans.;Herrschte $YEARS$ Jahre;;Gobernado durante $YEARS$ años;;;;;;;;;x
@@ -5039,7 +5039,7 @@ SERVER_LOST_DESC;The server was lost. The game will end.;La connexion avec le se
 OK;Ok;OK;Ok;OK;Aceptar;Ok;Rendben;Ok;;;;;;x
 CANCEL;Cancel;Annuler;Abbrechen;Anuluj;Cancelar;Annullare;Mégsem;Zrušit;;;;;;x
 SAVE;Save;Sauvegarder;Speichern;Zapisz;Guardar;Salvare;Mentés;Uložit;;;;;;x
-QUIT;Quit;Quitter;Beenden;WyjdŸ;Salir;Uscire;Kilépés;Konec;;;;;;x
+QUIT;Saír;;;;;;;;;;;;;x
 START;Start;Démarrer;Start;Rozpocznij;Iniciar;Avviare;Indítás;Spustit;;;;;;x
 CONTINUE;Continue;Continuer;Fortfahren;Kontynuuj;Continuar;Continuare;Folytatás;Pokraèovat;;;;;;x
 CONNECTED;Connected.;Connecté.;Verbindung aktiv.;Po³¹czony.;Conectado.;Connesso.;Kapcsolódva.;Pøipojeno.;;;;;;x
@@ -16649,7 +16649,7 @@ MENU_BAR_SAVE_GAME;Save Game;Sauvegarder la partie;Spiel speichern;Zapisz grê;Gu
 MENU_BAR_GAME_OPTIONS;Game Options;Options de jeu;Spieloptionen;Opcje gry;Opciones del juego;Opzioni di gioco;Beállítások;Herní nastavení;;;;;;x
 MENU_BAR_GAME_RESIGN;Resign;Abandonner;Partie beenden;Zrezygnuj;Dimitir;Abbandonare;Feladás;Rezignovat;;;;;;x
 MENU_BAR_MESSAGE_SETTINGS;Message Settings;Paramètres des messages;Nachrichten-Einstellungen;Ustawienia wiadomoœci;Configuración mensajes;Impostazione dei messaggi;Üzenetek beállításai;Nastavení zpráv;;;;;;x
-MENU_BAR_QUIT;Quit;Quitter;Beenden;Wyjœcie;Salir;Uscire;Kilépés;Konec;;;;;;x
+MENU_BAR_QUIT;Saír;;;;;;;;;;;;;x
 MENU_ACHIEVEMENT;Achievements;Succès;Errungenschaften;;Logros;;;;;;;;;x
 MENU_BAR_CLOSE;Close;Fermer;Schließen;Zamknij;Cerrar;Chiudere;Bezárás;Zavøít;;;;;;x
 MENU_BAR_SAVE;Save;Sauvegarder;Speichern;Zapisz;Guardar;Salvare;Mentés;Uložit;;;;;;x
@@ -16672,8 +16672,8 @@ PROVIRO_SREL;State Religion;Religion d'État;Staatsreligion;Religia pañstwowa;Rel
 NO_GOVS_IN_CAP;Cannot appoint a governor to the capital province;Impossible de nommer un gouverneur pour la province capitale;Ihr könnt der Hauptstadtprovinz keinen Gouverneur zuweisen;;No se puede nombrar un gobernador para la capital de la provincia;Impossibile nominare un governatore nella provincia della capitale;;;;;;;;x
 NO_CONTROL;We do not control this province;Nous ne contrôlons pas cette province;Diese Provinz steht nicht unter unserer Kontrolle;;No controlamos esta provincia;Non controlliamo questa provincia;;;;;;;;x
 NO_GOVERNOR;No governor appointed;Aucun gouverneur nommé;Kein Gouverneur zugewiesen;;Gobernador no nombrado;Nessun governatore nominato;;;;;;;;x
-QUIT_TITLE;Quit Game;Quitter le jeu;Spiel beenden;WyjdŸ z gry;Salir del juego;Uscire dal gioco;Kilépés;Ukonèit hru;;;;;;x
-QUIT_DESC;Are you sure you want to quit and return to desktop?;Êtes-vous sûr de vouloir quitter et retourner au bureau ?;Möchtet Ihr wirklich beenden und zum Desktop zurückkehren?;Czy na pewno chcesz wyjœæ z gry do Windows?;¿Seguro que quieres salir y volver al escritorio?;Uscire e tornare al desktop?;Biztos vagy benne, hogy ki szeretnél lépni a játékból?;Opravdu chcete ukonèit hru?;;;;;;x
+QUIT_TITLE;Saír do xogo;;;;;;;;;;;;;x
+QUIT_DESC;Estás seguro de que queres saír e regresar ao escritorio?;;;;;;;;;;;;;x
 ##########################################;;;;;;;;;;;;;;x
 # History texts;;;;;;;;;;;;;;x
 ##########################################;;;;;;;;;;;;;;x
