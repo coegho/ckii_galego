@@ -5004,7 +5004,7 @@ FE_JOIN_LAN_GAME;Join Lan Game;Rejoindre partie LAN;LAN-Spiel beitreten;Do³¹cz d
 FE_JOIN_INTERNET_GAME;Join Internet Game;Rejoindre partie Internet;Internetspiel beitreten;Do³¹cz do gry internetowej.;Unirse a partida Internet;Partecipa a partita Internet;Csatlakozás Internetes játékhoz;;;;;;;x
 FE_SCAN;scan;rechercher;Scannen;skanuj;Buscar;scansione;keresés;;;;;;;x
 FE_METASERVER;Metaserver;Métaserveur;Metaserver;Metaserwer;Metaservidor;Metaserver;Köztes szerver;;;;;;;x
-FE_BACK;Retornar;;;;;;;;;;;;;x
+FE_BACK;Volver;;;;;;;;;;;;;x
 FE_PLAYER;Xogador;;;;;;;;;;;;;x
 FE_PLAYER_NAME;Nome de xogador:;;;;;;;;;;;;;x
 FE_SINGLE_PLAYER;Un xogador;;;;;;;;;;;;;x
