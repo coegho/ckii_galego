@@ -5013,25 +5013,25 @@ FE_OPTIONS;Opcións;;;;;;;;;;;;;x
 FE_CREDITS;Créditos;;;;;;;;;;;;;x
 FE_NATION_TO_PLAY;Pulsa no país co que desexes xogar...;;;;;;;;;;;;;x
 FE_NEW_GAME;Nova partida;;;;;;;;;;;;;x
-FE_SAVE_GAME;Save Games;Sauvegarder les parties;Spiele speichern;Zapisz grê;Guardar partida;Salva partite;Mentések;Uložit hry;;;;;;x
-FE_HISTORICAL_START;Historical Start;Début historique;Historienstarts;Start historyczny;Inicio histórico;Scenari;Történelemhûség;Historický zaèátek;;;;;;x
-FE_SAVED_GAMES;Saved Games;Parties sauvegardées;Spielstände;Zapisane gry;Part. Salvadas;Partite salvate;Mentések;Uložené hry;;;;;;x
-FE_SELECT_NATION;Click on the map to select a character...;Cliquez sur la carte pour sélectionner une nation...;Klickt zur Auswahl eines Landes auf die Karte …;Kliknij pañstwo na mapie, aby je wybraæ.;Clic en el mapa para seleccionar una nación...;Scegli sulla mappa una nazione;Kattints a térképre, hogy kiválassz egy nemzetet…;Klepnutím na mapu vyberete národ...;;;;;;x
-FE_NO_COUNTRY_SELECTED;No country selected;Aucun pays sélectionné;Kein Land ausgewählt;Nie wybrano pañstwa;Ningún país seleccionado;Nessun paese selezionato;Nincs ország kijelölve.;Nebyla vybrána žádná zemì;;;;;;x
-FE_MILITARY;Military;Ost;Militär;Wojsko;Militar;Militare;Hadsereg;Vojenství;;;;;;x
-FE_ECONOMY;Economy;Économie;Wirtschaft;Ekonomia;Economía;Economia;Gazdaság;Ekonomika;;;;;;x
-FE_DIPLOMACY;Diplomacy;Diplomatie;Diplomatie;Dyplomacja;Diplomacia;Diplomazia;Diplomácia;Diplomacie;;;;;;x
-FE_DIFFICULTY;Difficulty:;Difficulté :;Schwierigkeit:;Trudnoœæ:;Dificultad:;Difficoltà:;Nehézség:;Obtížnost:;;;;;;x
-FE_AT_WAR;At war:;En guerre :;Im Krieg:;W stanie wojny:;En guerra:;In guerra:;Háborúban:;Ve válce:;;;;;;x
-FE_ALLIES;Allies:;Alliés :;Bündnispartner:;Sojusze:;Aliados:;Alleati:;Szövetségesek:;Spojenci:;;;;;;x
+FE_SAVE_GAME;Garda partida;;;;;;;;;;;;;x
+FE_HISTORICAL_START;Comezo histórico;;;;;;;;;;;;;x
+FE_SAVED_GAMES;Partidas gardadas;;;;;;;;;;;;;x
+FE_SELECT_NATION;Pulsa no mapa para seleccionar un personaxe...;;;;;;;;;;;;;x
+FE_NO_COUNTRY_SELECTED;Ningún país seleccionado;;;;;;;;;;;;;x
+FE_MILITARY;Militar;;;;;;;;;;;;;x
+FE_ECONOMY;Economía;;;;;;;;;;;;;x
+FE_DIPLOMACY;Diplomacia;;;;;;;;;;;;;x
+FE_DIFFICULTY;Dificultade:;;;;;;;;;;;;;x
+FE_AT_WAR;En guerra:;;;;;;;;;;;;;x
+FE_ALLIES;Aliados:;;;;;;;;;;;;;x
 #FE_LOAD;LOAD;CHARGER;LADEN;WCZYTAJ;CARGAR;CARICARE;BETÖLTÉS;NAHRÁT;;;;;;x
-FE_BOOKEDMARKED;Bookmarked dates:;Dates avec signet :;Markierte Daten:;Oznaczone daty:;Fechas favoritas:;Date importanti:;Mentett idõpontok;Oznaèená data:;;;;;;x
-FE_STARTING_DATE;Starting Date;Date de départ;Startdatum;Data pocz¹tkowa;Fecha de inicio;Data di inizio;Kezdés dátuma;Datum startu;;;;;;x
-FE_BOOKMARK_TITLE;Bookmark Title;Titre signet;Titelmarkierung;Tytu³ zak³adki;Título favorito;Titolo importante;Könyvjelzõ neve;Titul záložky;;;;;;x
-FE_BOOKMARK_DATE;Bookmark date;Appliquer un signet à la date;Datumsmarkierung;Data zak³adki;Añadir fecha favorita;Data importante;Könyvjelzõ dátuma;Datum záložky;;;;;;x
-FE_LOCAL_GAMES;local games;parties locales;lokale Spiele;gry lokalne;partidas locales;partite locali;helyi játékok;místní hry;;;;;;x
-FE_MY_GAME;My Game;Ma partie;Mein Spiel;Moja gra;Mi partida;Partita personale;Saját játék;Má hra;;;;;;x
-FE_CANCEL;Cancel;Annuler;Abbrechen;Anuluj;Cancelar;Annullare;Mégse;Zrušit;;;;;;x
+FE_BOOKEDMARKED;Datas marcadas:;;;;;;;;;;;;;x
+FE_STARTING_DATE;Data de comezo;;;;;;;;;;;;;x
+FE_BOOKMARK_TITLE;Marcar título;;;;;;;;;;;;;x
+FE_BOOKMARK_DATE;Marcar data;;;;;;;;;;;;;x
+FE_LOCAL_GAMES;Partidas locais;;;;;;;;;;;;;x
+FE_MY_GAME;A miña partida;;;;;;;;;;;;;x
+FE_CANCEL;Cancelar;;;;;;;;;;;;;x
 PLAYER_LOST_TITLE;Player disconnected.;Joueur déconnecté.;Verbindung zum Spieler getrennt.;Gracz niedostêpny;Jugador desconectado.;Giocatore disconnesso.;Játékos lekapcsoldódott;Hráè byl odpojen.;;;;;;x
 PLAYER_LOST_DESC;Player(s) $playername$ disconnected. Choose your action.;Joueur(s) $playername$ déconnecté(s). Choisissez votre action.;Verbindung der/des Spieler/s $playername$ getrennt.;Gracz(e) $playername$ niedostêpny(-ni). Wybierz opcjê.;Jugador(es) $playername$ desconectado(s). Decide qué hacer.;Giocatore/i $playername$ disconnesso/i. Cosa intendi fare?;$playername$ játékos lekapcsolódott. Válassz valamit.;Hráè $playername$ byl odpojen. Vyberte akci.;;;;;;x
 SERVER_LOST_TITLE;Server Lost!;Connexion perdue avec le serveur !;Serververbindung getrennt!;Serwer niedostêpny!;Perdida la conexión con el servidor.;Server scollegato!;A szerverkapcsolat megszakadt!;Server ztracen!;;;;;;x
@@ -5072,7 +5072,7 @@ MS_CHANNEL_PLAYER;#Channelname/Playerlist;#Channelname/Playerlist;#Kanalname/Spi
 MS_CONNECTION_LOST;Connection Lost.;Connexion perdue.;Verbindung getrennt.;Po³¹czenie zerwane.;Conexión perdida.;Connessione interrotta.;A kapcsolat megszakadt;Pøipojení pøerušeno.;;;;;;x
 SCAN;Scan;Rechercher;Suchen;Skanuj;Buscar;Scansione;Keres;Skenování;;;;;;x
 STOP_SCAN;Stop Scan;Arrêter le Scan;Stop;Przerwij skanowanie;Detener ;Interrompere;Keresés megállítása;Zastavit skenování;;;;;;x
-FE_TUTORIAL;Tutorial;Didacticiel;Tutorial;;Tutorial;Tutorial;;;;;;;;x
+FE_TUTORIAL;Tutorial;;;;;;;;;;;;;x
 SHORTCUT_SHIELD;$TAG$ is an interesting choice during this period. Click to select it.;$TAG$ est un choix intéressant pour cette période. Cliquez pour le sélectionner.;$TAG$ ist während dieser Periode eine interessante Option. Zum Auswählen anklicken.;$TAG$ to interesuj¹cy wybór w tym okresie. Kliknij, aby wybraæ.;$TAG$ es una elección interesante para este período. Haz clic para elegirla.;$TAG$ è una scelta interessante in questo periodo. Fai clic per selezionare.;$TAG$ egy érdekes választás lehet ebben az idõszakban. Kattints rá a kijelöléshez.;$TAG$ je v tomto období zajímavou volbou. Volbu potvrdíte klepnutím.;;;;;;x
 MENU_MESSAGES_RESET;Reset  defaults;Rétablir les paramètres par défaut;Voreinst. wiederherstellen;Ustawienia domyœlne;Por defecto;Ripristina i predefiniti;Alapértékek visszaállítása;Resetovat nastavení (obnovit výchozí nastavení);;;;;;x
 MENU_MESSAGES_TAB_DIPLOMACY;Diplomacy;Diplomatie;Diplomatie;;Diplomacia;;;;;;;;;x
@@ -5084,14 +5084,14 @@ MENU_MESSAGES_TAB_GOVERNMENT;Government;Gouvernement;Regierung;;Gobierno;;;;;;;;
 MENU_MESSAGES_TAB_RELIGION;Religion;Religion;Religion;;Religión;;;;;;;;;x
 MENU_MESSAGES_TAB_OTHER;Other;Autre;Andere;;Otros;;;;;;;;;x
 MENU_MESSAGES_TAB_ALL;All;Tous;Alle;;Todo;;;;;;;;;x
-FE_BASE_SCORE;Base Score;Score de base;Basispunkte;;Puntuación base;;;;;;;;;x
-FE_WARS;Wars;Guerre;Kriege;;Guerras;;;;;;;;;x
-FE_YOUNG_RULER;Young Ruler;Jeune souverain;Junger Herrscher;;Joven soberano;;;;;;;;;x
-FE_SMALL_DYNASTY;Small Dynasty;Petite dynastie;Kleine Dynastie;;Pequeña dinastía;;;;;;;;;x
+FE_BASE_SCORE;Puntuación base;;;;;;;;;;;;;x
+FE_WARS;Guerras;;;;;;;;;;;;;x
+FE_YOUNG_RULER;Gobernante noviño;;;;;;;;;;;;;x
+FE_SMALL_DYNASTY;Dinastía pequena;;;;;;;;;;;;;x
 FE_SAVE_DELETE_TITLE;Save Deletion;Sauvegarder la suppression;Auswahl speichern;;Guardar datos eliminados;;;;;;;;;x
 FE_SAVE_DELETE_DESC;Are you sure you want to delete this save file? There is no way to bring it back once it is gone.;Voulez-vous vraiment supprimer ce fichier sauvegardé ? Cette action est définitive.;Möchtet Ihr diesen Spielstand wirklich löschen? Dadurch geht er unwiederbringlich verloren.;;¿Seguro que quieres eliminar este archivo guardado? Una vez eliminado, no habrá forma de recuperarlo.;;;;;;;;;x
-FE_INGAME_STORE;Ingame Store;Boutique;Ingame-Store;;Tienda del juego;;;;;;;;;x
-FE_MUST_LOG_IN;In order to use the ingame store, you must log on to Paradox Connect;Pour accéder à la boutique, vous devez vous connecter à Paradox Connect.;Zur Benutzung des Ingame-Stores müsst Ihr Euch bei Paradox Connect einloggen;;Para utilizar la tienda del juego, debes conectarte a Paradox Connect.;;;;;;;;;x
+FE_INGAME_STORE;Tenda no xogo;;;;;;;;;;;;;x
+FE_MUST_LOG_IN;Precisas iniciar sesión en Paradox Connect para usar a tenda no xogo;;;;;;;;;;;;;x
 STORE_ALREADY_BOUGHT_LIST;Already bought;Déjà acheté;Bereits gekauft;;Comprado;;;;;;;;;x
 STORE_NOT_ENOUGH_DUCATS;You need at least §Y$DUCATS_DIFF$§! more ducats to buy §Y$ITEM$§!;Il vous faut au moins §Y$DUCATS_DIFF$§! ducats de plus pour acheter §Y$ITEM$§!;Für den Kauf von §Y$ITEM$§! benötigt Ihr §Y$DUCATS_DIFF$§! mehr Dukaten;;Necesitas al menos §Y$DUCATS_DIFF$§! ducados más para comprar §Y$ITEM$§!.;;;;;;;;;x
 STORE_INVALID_VIRTUALGOODS;No item selected. Select an item from the list to left.;Aucun objet sélectionné. Sélectionnez un objet dans la liste de gauche.;Keine Position ausgewählt. Bitte eine Position in der Liste zur Linken auswählen.;;No se ha seleccionado ningún artículo. Selecciona uno de la lista de la izquierda.;;;;;;;;;x
@@ -16855,7 +16855,7 @@ COST;Cost: §Y$AMOUNT$§W Gold \nBuildtime: §Y$TIME$§W Days;Coût : §Y$AMOUNT$§W pi
 VASALLREJECTOTHER_BTN3;Go to;Aller à;Gehe zu;IdŸ do;Ir allí;Andare a;Ugrás;Pøejít na;;;;;;x
 VASALLWEACCEPT_SETUP;When we agree to pay tribute to another nation.;Lorsque nous refusons de payer un tribut à une autre nation;Wenn wir zustimmen, Tribut an ein anderes Land zu bezahlen;Kiedy zgadzamy siê zostaæ wasalami innego pañstwa;Cuando accedamos a pagar tributo a otra nación;Quando accettiamo di pagare un tributo a un'altra nazione;Mikor beleegyezünk abba, hogy egy másik nemzet hûbéresei legyünk;Když se odmítneme stát vazalem jiného národa;;;;;;x
 ENROUTE;We have a diplomat enroute, he will arrive on $DATE$;Nous avons un diplomate en route, il arrivera le $DATE$.;Einer unserer Diplomaten ist unterwegs. Er wird am $DATE$ ankommen;Dyplomata w drodze. Przybêdzie $DATE$;Tenemos un diplomático en camino, llegará el $DATE$.;Un nostro diplomatico è in viaggio, arriverà il $DATE$;Az egyik diplomatánk uton van, és visszatérésének várható ideje: $DATE$;Diplomat je na cestì, dorazí $DATE$;;;;;;x
-FE_NOALLIES;No Allies;Aucun allié;Keine Verbündeten;;Sin aliados;Nessun alleato;;;;;;;;x
+FE_NOALLIES;Sen aliados;;;;;;;;;;;;;x
 IS_EMPLOYED;Is Employed;Est employé(e);Ist beschäftigt;;Está empleado(a).;È occupato;;;;;;;;x
 ISNT_EMPLOYED;Is NOT employed;N'est pas employé(e);Ist NICHT beschäftigt;;No está empleado(a).;NON è occupato;;;;;;;;x
 THEYWAR;They are at war.;Ils sont en guerre.;Sie sind im Krieg;;Están en guerra.;Sono in guerra.;;;;;;;;x
@@ -19486,10 +19486,10 @@ TITULAR_TITLE;§YTitular Title§! (no de jure vassals);§YTitulaire du Titre§!;§YNo
 UNKNOWN_SUCCESSOR;Unknown Successor;Successeur inconnu;Unbekannter Nachfolger;;Sucesor desconocido;;;;;;;;;x
 ENEMY_OCCUPATION;Enemy Occupation;Occupation ennemie;Feindliche Besetzung;;Ocupación enemiga;;;;;;;;;x
 CANNOT_FIRE_YOUR_REGENT;You cannot dismiss your Regent from office!;Vous ne pouvez pas relever votre régent de ses fonctions !;Ihr könnt den Regenten nicht aus dem Amt entlassen!;;¡No puedes echar a tu regente del cargo!;;;;;;;;;x
-FE_INTERESTING_CHARACTERS;Interesting Characters;Personnages intéressants;Interessante Charaktere;;Personajes interesantes;;;;;;;;;x
-FE_CHARACTER;Character;Personnage;Charakter;;Personaje;;;;;;;;;x
-FE_PLAYERS;Players;Joueur;Spieler;;Jugadores;;;;;;;;;x
-FE_DIPLOMATIC_RELATIONS;Diplomatic Relations:;Relations diplomatiques :;Diplomatische Beziehungen:;;Relaciones diplomáticas:;;;;;;;;;x
+FE_INTERESTING_CHARACTERS;Personaxes interesantes;;;;;;;;;;;;;x
+FE_CHARACTER;Personaxe;;;;;;;;;;;;;x
+FE_PLAYERS;Xogadores;;;;;;;;;;;;;x
+FE_DIPLOMATIC_RELATIONS;Relacións diplomáticas:;;;;;;;;;;;;;x
 PAUSED_BY;§Y$PLAYER$§W paused the game.;§Y$PLAYER$§W a mis la partie en pause.;§Y$PLAYER$§W pausierte das Spiel.;;§Y$PLAYER$§W ha detenido el juego.;;;;;;;;;x
 LAG_PAUSE;$PLAYER$ is lagging behind, pausing game.;$PLAYER$ est à la traîne, partie en pause.;$PLAYER$ hinkt hinterher und pausiert das Spiel.;;$PLAYER$ se retarda, deteniendo el juego.;;;;;;;;;x
 LAG_DECREASE_SPEED;$PLAYER$ is lagging behind, decreasing speed.;$PLAYER$ est à la traîne, ralentissement.;$PLAYER$ hinkt hinterher und verlangsamt das Spiel.;;$PLAYER$ se retarda, disminuyendo velocidad.;;;;;;;;;x
@@ -20310,10 +20310,10 @@ HAS_NOT_EMPTY_SETTLEMENTSLOT;Does NOT have room for new holding.\n;Ne peut pas a
 ######################################################################;;;;;;;;;;;;;;x
 ##### Tutorial ;;;;;;;;;;;;;;x
 ######################################################################;;;;;;;;;;;;;;x
-FE_BASIC;Basic;De base;Basis-;;Básico;;;;;;;;;x
-FE_MEDIUM;Intermediate;Intermédiaire;Mittel-;;Normal;;;;;;;;;x
-FE_ADVANCED;Advanced;Avancé;Schluss-;;Avanzado;;;;;;;;;x
-FE_START_ALL_CHAPTERS;Start from the beginning...;Commencer depuis le début...;Neu beginnen ...;;Comenzar desde el principio...;;;;;;;;;x
+FE_BASIC;Básico;;;;;;;;;;;;;x
+FE_MEDIUM;Intermedio;;;;;;;;;;;;;x
+FE_ADVANCED;Avanzado;;;;;;;;;;;;;x
+FE_START_ALL_CHAPTERS;Comezar dende o principio...;;;;;;;;;;;;;x
 TUT_NEXT;Next;Suivant;Weiter;;Siguiente;;;;;;;;;x
 TUTORIAL_EXIT;Return to Tutorial Menu;Revenir au menu du didacticiel;Kehrt zum Hauptmenü zurück.;;Volver al menú del tutorial;;;;;;;;;x
 TUTORIAL_NEXT_CHAPTER;Skip to next chapter: $NAME$;Accéder à la section suivante : $NAME$;Springt zum nächsten Kapitel: $NAME$;;Pasar al capítulo siguiente: $NAME$;;;;;;;;;x

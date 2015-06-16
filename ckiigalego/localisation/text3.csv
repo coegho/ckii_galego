@@ -455,7 +455,7 @@ d_mecklemburg;Mecklenburg;Mecklenbourg;Mecklenburg;;Mecklemburgo;;;;;;;;;x
 d_mecklemburg_adj;Mecklenburgian;mecklenbourgeoise;Mecklenburgisch;;Mecklemburguesa;;;;;;;;;x
 c_mecklemburg_adj;Mecklenburgian;mecklenbourgeoise;Mecklenburgisch;;Mecklemburguesa;;;;;;;;;x
 b_mecklemburg;Mecklenburg;Mecklenbourg;Mecklenburg;;Mecklemburgo;;;;;;;;;x
-FE_EASE;Ease;;Leichtigkeit;;Facilidad;;;;;;;;;x
+FE_EASE;Facilidade;;;;;;;;;;;;;x
 INTERACTION_REQUIRES_ACTOR_RANSOM;[Actor.GetBestName] can afford the ransom of §Y$GOLD$§W gold;[Actor.GetBestName] a les moyens de payer la rançon de §Y$GOLD$§W pièces d’or.;[Actor.GetBestName] kann sich das Lösegeld in Höhe von §Y$GOLD$§W Gold leisten;;[Actor.GetBestName] puede permitirse el rescate de §Y$GOLD$§W de oro;;;;;;;;;x
 INTERACTION_REQUIRES_RECIPIENT_INCAPABLE;[Recipient.GetBestName] is incapable;[Recipient.GetBestName] est un(e) incapable.;[Recipient.GetBestName] ist unfähig;;[Recipient.GetBestName] es incapaz;;;;;;;;;x
 SEND_GIFT_INTERACTION_2;Send a gift of §Y$COST$§W¤ to §Y[Recipient.GetBestName]§!. §RThis will not increase [Recipient.GetPossPronoun] opinion of you further.§!;Envoyez un cadeau de §Y$COST$§W¤ à §Y[Recipient.GetBestName]§!. §RCela n’améliorera pas son opinion sur vous.§!;Ein Geschenk von §Y$COST$§W¤ an §Y[Recipient.GetBestName]§! schicken. §RDies wird [Recipient.GetPossPronoun] Meinung über Euch nicht weiter steigern.§!;;Envía un presente de §Y$COST$§W¤ a §Y[Recipient.GetBestName]§!. §REso no mejorará su opinión sobre ti.§!;;;;;;;;;x
