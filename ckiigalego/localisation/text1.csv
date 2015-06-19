@@ -456,15 +456,15 @@ MEASLES_INFO;Hai unha epidemia de xarampón nesta provincia.;;;;;;;;;;;;;x
 small_pox;Varíola;;;;;;;;;;;;;x
 SMALL_POX_INFO;A varíola sacude esta provincia, onde preto da metade dos que colleron as boas morreron.;;;;;;;;;;;;;x
 TIMELEFT;$MONTHS$ meses restantes;;;;;;;;;;;;;x
-COVERAGE;This outbreak currently covers $NUM$ provinces;Cette épidémie frappe actuellement $NUM$ provinces.;Dieser Ausbruch betriff derzeit $NUM$ Provinzen;;Este brote afecta actualmente a $NUM$ provincias;;;;;;;;;x
+COVERAGE;Esta epidemia actualmente afecta a $NUM$ provincias;;;;;;;;;;;;;x
 PROVINCE_HAS_DISEASE;sufre dunha epidemia de $DISEASE$;;;;;;;;;;;;;x
 PROVINCE_DOES_NOT_HAVE_DISEASE;non sufre dunha epidemia de $DISEASE$;;;;;;;;;;;;;x
 PROVINCE_HAS_ANY_DISEASE;sufre unha epidemia dalgunha enfermidade;;;;;;;;;;;;;x
 PROVINCE_DOES_NOT_HAVE_ANY_DISEASE;Non sufre de ningunha epidemia;;;;;;;;;;;;;x
-CK2DLC001;Dynasty Coat of Arms Pack 1;Blasons des Dynasties Pack 1;Dynasty Coat of Arms Pack 1;;Caja 1 del Escudo heráldico de la dinastía;;;;;;;;;x
-CK2DLC001_DESC;Description for Dynasty Coat of Arms Pack 1;Description du Pack 1 des blasons des dynasties;Description for Dynasty Coat of Arms Pack 1;;Descripción de la caja 1 del Escudo heráldico de la dinastía;;;;;;;;;x
-CK2DLC002;Mongol Face Pack;Pack Portraits Mongols;Mongol Face Pack;;Caja de máscara mongol;;;;;;;;;x
-CK2DLC002_DESC;Description for Mongol Face Pack;Description du Pack des Portraits des Mongols;Description for Mongol Face Pack;;Descripción de caja de máscara mongol;;;;;;;;;x
+CK2DLC001;Paquete de escudos de armas dinásticos 1;;;;;;;;;;;;;x
+CK2DLC001_DESC;Descrición do paquete de escudos de armas dinásticos 1;;;;;;;;;;;;;x
+CK2DLC002;Paquete de retratos mongois;;;;;;;;;;;;;x
+CK2DLC002_DESC;Descrición do paquete de retratos mongois;;;;;;;;;;;;;x
 DYNATREE_TOTALMEMBERS;Membros totais: $TOTAL$;;;;;;;;;;;;;x
 DYNATREE_HOUSEOF;Casa $HOUSENAME$;;;;;;;;;;;;;x
 DYNATREE_LIVINGMEMBERS;Membros vivos: $LIVING$;;;;;;;;;;;;;x
@@ -484,68 +484,68 @@ DYNA_GREATGRANDPARENTS;Bisavós;;;;;;;;;;;;;x
 BASTARD_CHILD;Fillo natural;;;;;;;;;;;;;x
 LINEAGE;Liñaxe;;;;;;;;;;;;;x
 OTHER_PARENT_IN_LINEAGE;Outro pai na liñaxe;;;;;;;;;;;;;x
-RIGHT_CLICK_TREE;Right-Click and hold to move tree around.;Maintenez le bouton droit de la souris enfoncé pour parcourir l’arbre.;Rechte Maustaste zum Verschieben des Stammbaums gedrückt halten.;;Clic derecho y mantener para desplazar el árbol.;;;;;;;;;x
-SENDAASSSINEFFECT;§Y$WHO$§W will send assassins after §Y$TARGET$§W.\n;§Y$WHO$§W va envoyer des assassins contre §Y$TARGET$§W.\n;§Y$WHO$§W wird §Y$TARGET$§W Mörder auf den Hals hetzen.\n;;§Y$WHO$§W enviará asesinos tras §Y$TARGET$§W.\n;;;;;;;;;x
-ADD_SUB_UNIT_EFFECT;Get $UNIT$ in $WHERE$.;Envoyer $UNIT$ à $WHERE$.;Erhaltet $UNIT$ in $WHERE$.;Get $UNIT$ in $WHERE$.;Obtener una unidad de $UNIT$ en $WHERE$.;Porta $UNIT$ a $WHERE$.;Get $UNIT$ in $WHERE$.;Získat $UNIT$ v $WHERE$.;;;;;;x
-CHANGE_CONTROLLER_EFFECT;$WHO$ takes control over $WHERE$.;$WHO$ prend le contrôle de $WHERE$.;$WHO$ übernimmt die Kontrolle über $WHERE$.;$WHO$ przejmuje kontrolê nad $WHERE$.;$WHO$ toma el control de $WHERE$.;$WHO$ assume il comando di $WHERE$.;$WHO$ átveszi az irányítást $WHERE$ felett.;$WHO$ pøebírá kontrolu nad $WHERE$.;;;;;;x
-WAR_EFFECT;Declare War on $WHO$;Déclarer la guerre à $WHO$;Erklärt $WHO$ den Krieg;Wypowiedz wojnê $WHO$;Declararle la guerra a $WHO$;Dichiarare guerra a $WHO$;Hadüzenet neki: $WHO$;Vyhlásit válku $WHO$;;;;;;x
-CHANGE_SIEGE;The defenders in the siege in $WHERE$ will get $SIZE$ penalties.;Les défenseurs du siège de $WHERE$ vont subir des pénalités $SIZE$.;Die Verteidiger der Belagerung von $WHERE$ erleiden $SIZE$ Punktabzüge.;Obroñcy w trakcie oblê¿enia $WHERE$ otrzymuj¹ karê $SIZE$.;Los defensores del asedio de $WHERE$ tendrán penalizaciones de $SIZE$.;$WHERE$: i difensori nell'assedio riceveranno $SIZE$ penalità.;$WHERE$ ostromában a védõk $SIZE$ büntetést kapnak.;Obránce obléhané pevnosti v $WHERE$ obdrží postih $SIZE$.;;;;;;x
-SIEGE_MINOR;minor;mineures;klein;Ma³a;pequeñas;minori;kis;menší;;;;;;x
-SIEGE_AVERAGE;average;moyennes;durchschnittlich;Œrednia;medias;medi;közepes mértékû;prùmìrný;;;;;;x
-SIEGE_MAJOR;major;majeures;groß;Du¿a;grandes;maggiori;nagy;velký;;;;;;x
-SPAWN_EVENT;The event '$WHICH$' happens.\n;L’événement '$WHICH$' se produit.\n;Das Ereignis '$WHICH$' passiert.\n;;El evento '$WHICH$' sucede.\n;otterrà l'evento: '$WHICH$'.\n;;;;;;;;x
-TREASURY_EFFECT;$DIRECTION$ $VALUE$ gold.\n;$DIRECTION$ $VALUE$ en or.\n;$DIRECTION$ $VALUE$ Gold.\n;$DIRECTION$ $VALUE$ dukatów.\n;Una $DIRECTION$ de $VALUE$ de oro.\n;Oro: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ dukát.\n;;;;;;;x
-PRESTIGE_EFFECT;$DIRECTION$ $VALUE$ Prestige.\n;$DIRECTION$ $VALUE$ en prestige.\n;$DIRECTION$ $VALUE$ Prestige.\n;$DIRECTION$ $VALUE$ presti¿u.\n;Una $DIRECTION$ de $VALUE$ en prestigio.\n;Prestigio: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ presztizs.\n;;;;;;;x
-WAREXHAUSTION_EFFECT;$DIRECTION$ $VALUE$ war exhaustion.\n;$DIRECTION$ $VALUE$ en lassitude de guerre.\n;$DIRECTION$ $VALUE$ Kriegsmüdigkeit.\n;$DIRECTION$ $VALUE$ wyczerpania wojn¹.\n;Una $DIRECTION$ de $VALUE$ en hastío bélico.\n;Sfinimento da guerra: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ háborús kimerültség.\n;;;;;;;x
-MANPOWER_EFFECT;$DIRECTION$ $VALUE$ manpower.\n;$DIRECTION$ $VALUE$ en effectifs.\n;$DIRECTION$ $VALUE$ Mannstärke.\n;$DIRECTION$ $VALUE$ si³y ludzkiej.\n;Una $DIRECTION$ de $VALUE$ en soldadesca.\n;Potenziale di reclutamento: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ munkaerõ.\n;;;;;;;x
-ARMYTRADITION_EFFECT;$DIRECTION$ $VALUE$ army tradition.\n;$DIRECTION$ $VALUE$ en tradition militaire.\n;$DIRECTION$ $VALUE$ Armeetradition.\n;$DIRECTION$ $VALUE$ tradycji wojskowej.\n;Una $DIRECTION$ de $VALUE$ en tradición del ejército.\n;Tradizione esercito: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ hadi szokás.\n;;;;;;;x
-NAVYTRADITION_EFFECT;$DIRECTION$ $VALUE$ navy tradition.\n;$DIRECTION$ $VALUE$ en tradition navale.\n;$DIRECTION$ $VALUE$ Flottentradition.\n;$DIRECTION$ $VALUE$ tradycji morskiej.\n;Una $DIRECTION$ de $VALUE$ en tradición de la armada.\n;Tradizione navale: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ hadiflotta tradíció.\n;;;;;;;x
-BADBOY_EFFECT;$DIRECTION$ $VALUE$ Infamy.\n;$DIRECTION$ $VALUE$ en déshonneur.\n;$DIRECTION$ $VALUE$ Aggressionswert.\n;$DIRECTION$ $VALUE$ reputacji.\n;Una $DIRECTION$ de $VALUE$ en infamia.\n;Reputazione: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ rosszfiú.\n;;;;;;;x
-CAPITAL_CHANGE;$NEW$ will become the new capital.\n;$NEW$ va devenir la Capitale.\n;$NEW$ wird zur Hauptstadt.\n;$NEW$ bêdzie odt¹d now¹ stolic¹.\n;$NEW$ se convertirá en la capital.\n;$NEW$ diventerà la nuova capitale.\n;$NEW$ fõvárossá válik.\n;;;;;;;x
-POLICY_CHANGE;$SLIDER$ $DIRECTION$ $VALUE$.\n;$SLIDER$ $DIRECTION$ $VALUE$.\n;$SLIDER$ $DIRECTION$ $VALUE$.\n;$SLIDER$ $DIRECTION$ $VALUE$.\n;Una $DIRECTION$ de $VALUE$ en $SLIDER$.\n;$SLIDER$: $DIRECTION$ $VALUE$.\n;$SLIDER$ $DIRECTION$ $VALUE$.\n;;;;;;;x
-NEW_CORE_EFFECT;Gain core on $NEW$.\n;Obtention d’une province légitime : $NEW$\n;Neue Kernprovinz in $NEW$.\n;Zyskujesz prowincjê narodow¹: $NEW$.\n;Ganancia de un núcleo en $NEW$.\n;Ottieni una provincia nazionale da: $NEW$.\n;Alapvetõ nyereség a következõn: $NEW$.\n;;;;;;;x
-LOSE_CORE_EFFECT;Lose core on $LOSE$.\n;Perte d’une province légitime : $NEW$\n;Kernprovinz in $LOSE$ verloren.\n;Tracisz prowincjê narodow¹: $LOSE$.\n;Pérdida de un núcleo en $LOSE$.\n;Perdi una provincia nazionale nei confronti di: $LOSE$.\n;Alapvetõ veszteség a következõn: $LOSE$.\n;;;;;;;x
-GAIN_CB;Gain casus-belli on $WHO$.\n;Obtention d’un casus belli sur $WHO$\n;Kriegsgrund gegen $WHO$ erhalten.\n;Zyskuje casus belli wzglêdem: $WHO$.\n;Obtención de un 'casus belli' contra $WHO$.\n;Ottieni casus belli per: $NEW$.\n;Casus Belli a következõvel szemben: $WHO$.\n;;;;;;;x
-REV_GAIN_CB;$ACTIVE$ gains a casus-belli on $PASSIVE$.\n;$ACTIVE$ obtient un casus belli sur $PASSIVE$.\n;$ACTIVE$ erhält einen Kriegsgrund gegen $PASSIVE$.\n;$ACTIVE$ zyskuje casus belli wobec: $PASSIVE$.\n;$ACTIVE$ obtiene un 'casus belli' contra $PASSIVE$.\n;$ACTIVE$ ottiene un casus belli per: $PASSIVE$.\n;$ACTIVE$ háborús okot talált $PASSIVE$ nemzetével szemben.\n;;;;;;;x
-ADVISOR_DEAD;The $TYPE$ $WHO$ dies.\n;Décés du : $TYPE$ $WHO$.\n;Der $TYPE$ $WHO$ stirbt.\n;$TYPE$ $WHO$ umiera.\n;Muere el $TYPE$ $WHO$.\n;$WHO$: $TYPE$ morto.\n;$WHO$ - $TYPE$ - meghalt.\n;;;;;;;x
-CULTURE_CHANGE;$NEW$ becomes the new primary culture.\n;$NEW$ devient la culture principale.\n;$NEW$ wird zur neuen Leitkultur.\n;$NEW$ bêdzie odt¹d nasz¹ now¹ podstawow¹ kultur¹.\n;La cultura $NEW$ se convierte en la nueva cultura principal.\n;La nuova cultura principale è: $NEW$.\n;$NEW$ lett az elsõdleges kultúra.\n;;;;;;;x
-BECOME_EMPEROR;You have become Emperor.\n;Vous êtes devenu Empereur.\n;Ihr seid nun Kaiser.\n;Zosta³eœ cesarzem.\n;Os habéis convertido en emperador.\n;Sei diventato imperatore.\n;Te lettél a császár.\n;;;;;;;x
-LOSE_EMPEROR;Abdicate as Emperor.\n;Abdiquez de votre trône impérial.\n;Als Kaiser abdanken.\n;Rezygnujesz z korony cesarskiej.\n;Abdicar como emperador.\n;Rinuncia alla carica di imperatore.\n;Lemondtál a császárságról.\n;;;;;;;x
-BECOME_ELECTOR;Become Elector.\n;Devenez électeur.\n;Kurfürst werden.\n;Zostajesz elektorem.\n;Convertirse en elector.\n;Diventa elettore.\n;Elektor lett.\n;;;;;;;x
-LOSE_ELECTOR;Will no longer be an Elector.\n;Ne sera plus électeur.\n;Wird nicht länger Kurfürst sein.\n;Nie bêdzie ju¿ d³u¿ej elektorem.;Ya no será elector.\n;Non sarà più un elettore.\n;Többé már nem elektor.\n;;;;;;;x
-ADD_IDEA;Gain a $NEW$ idea.\n;Obtention d’une idée : $NEW$.\n;$NEW$ Idee.\n;$NEW$ - zyskana doktryna.\n;Ganancia de una idea en '$NEW$'.\n;Ottieni un'idea per: $NEW$.\n;$NEW$ szerzett egy új ötletet.\n;;;;;;;x
-REM_IDEA;Lose a $LOSE$ idea.\n;Perte d’une idée : $LOSE$.\n;$LOSE$ Idee verlieren.\n;$LOSE$ - stracona doktryna.\n;Pérdida de una idea en '$LOSE$'.\n;Perdi un'idea per: $LOSE$.\n;$LOSE$ elveszített egy ötletet.\n;;;;;;;x
-GOV_CHANGE;The type of government changes to $GOV$;Changement de type de gouvernement : $GOV$;Die Regierungsform wurde zu $GOV$ geändert;Forma rz¹dów zmieni³a siê na: $GOV$.\n;Se ha cambiado la forma de gobierno a $GOV$.\n;La forma di governo è diventata: $GOV$.\n;Az államforma megváltozott, mostantól már $GOV$.\n;;;;;;;x
+RIGHT_CLICK_TREE;Pulsa e mantén co botón dereito para mover a árbore.;;;;;;;;;;;;;x
+SENDAASSSINEFFECT;§Y$WHO$§W vai enviar asasinos para matar a §Y$TARGET$§W.\n;;;;;;;;;;;;;x
+ADD_SUB_UNIT_EFFECT;Obter $UNIT$ en $WHERE$.;;;;;;;;;;;;;x
+CHANGE_CONTROLLER_EFFECT;$WHO$ toma o control de $WHERE$.;;;;;;;;;;;;;x
+WAR_EFFECT;Declarar guerra a $WHO$;;;;;;;;;;;;;x
+CHANGE_SIEGE;Os defensores no asedio de $WHERE$ terán penalizacións de $SIZE$.;;;;;;;;;;;;;x
+SIEGE_MINOR;pequenas;;;;;;;;;;;;;x
+SIEGE_AVERAGE;medias;;;;;;;;;;;;;x
+SIEGE_MAJOR;grandes;;;;;;;;;;;;;x
+SPAWN_EVENT;Ocorre o suceso '$WHICH$'.\n;;;;;;;;;;;;;x
+TREASURY_EFFECT;$DIRECTION$ de $VALUE$ de ouro.\n;;;;;;;;;;;;;x
+PRESTIGE_EFFECT;$DIRECTION$ de $VALUE$ puntos de prestixio.\n;;;;;;;;;;;;;x
+WAREXHAUSTION_EFFECT;$DIRECTION$ de $VALUE$ de fatiga de guerra.\n;;;;;;;;;;;;;x
+MANPOWER_EFFECT;$DIRECTION$ de $VALUE$ en efectivos.\n;;;;;;;;;;;;;x
+ARMYTRADITION_EFFECT;$DIRECTION$ de $VALUE$ en tradición militar.\n;;;;;;;;;;;;;x
+NAVYTRADITION_EFFECT;$DIRECTION$ de $VALUE$ en tradición naval.\n;;;;;;;;;;;;;x
+BADBOY_EFFECT;$DIRECTION$ de $VALUE$ en infamia.\n;;;;;;;;;;;;;x
+CAPITAL_CHANGE;A nova capital pasará a ser $NEW$.\n;;;;;;;;;;;;;x
+POLICY_CHANGE;$DIRECTION$ de $VALUE$ en $SLIDER$.\n;;;;;;;;;;;;;x
+NEW_CORE_EFFECT;Obtención dunha provincia lexítima en $NEW$.\n;;;;;;;;;;;;;x
+LOSE_CORE_EFFECT;Perda dunha provincia lexítima en $LOSE$.\n;;;;;;;;;;;;;x
+GAIN_CB;Obtención dun casus belli sobre $WHO$.\n;;;;;;;;;;;;;x
+REV_GAIN_CB;$ACTIVE$ obtén un casus belli sobre $PASSIVE$.\n;;;;;;;;;;;;;x
+ADVISOR_DEAD;Morre: $TYPE$ $WHO$.\n;;;;;;;;;;;;;x
+CULTURE_CHANGE;A cultura principal pasa a ser a $NEW$.\n;;;;;;;;;;;;;x
+BECOME_EMPEROR;Convertístesvos en emperador.\n;;;;;;;;;;;;;x
+LOSE_EMPEROR;Abdicastes do voso trono de emperador.\n;;;;;;;;;;;;;x
+BECOME_ELECTOR;Convertirse en elector.\n;;;;;;;;;;;;;x
+LOSE_ELECTOR;Non será máis elector.\n;;;;;;;;;;;;;x
+ADD_IDEA;Obtención dunha idea en $NEW$.\n;;;;;;;;;;;;;x
+REM_IDEA;Perda dunha idea en $LOSE$.\n;;;;;;;;;;;;;x
+GOV_CHANGE;O tipo de goberno cambia a $GOV$;;;;;;;;;;;;;x
 #TECH_INVEST;$DIRECTION$ $VALUE$ invested in $TECH$.\n;Investissement dans $TECH$ : $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ in $TECH$ investiert.\n;$DIRECTION$ $VALUE$ dukatów zainwestowanych w $TECH$.\n;Una $DIRECTION$ de $VALUE$ de oro invertidos en $TECH$.\n;$DIRECTION$ $VALUE$ ducati investiti in $TECH$.\n;$DIRECTION$ $VALUE$ dukátot fektettél a(z) $TECH$ kifejlesztésére.\n;;;;;;;x
-GROUP_CHANGE;Technology group changed to $GROUP$.\n;Changement de groupe technologique : $GROUP$\n;Technologiegruppe zu $GROUP$ geändert.\n;Grupa technologiczna zmieni³a siê na: $GROUP$.\n;Se ha cambiado el grupo de tecnología a $GROUP$.\n;Il gruppo tecnologico è cambiato in $GROUP$.\n;A technológia csoport megváltozott, mostantól $GROUP$.\n;;;;;;;x
-CHANGE_TAG;Become $NEW$.\n;Devenez $NEW$.\n;$NEW$ werden.\n;Nowy status: $NEW$.\n;Pasar a formar parte de $NEW$.\n;Diventa: $NEW$.\n;$NEW$ lett.\n;;;;;;;x
-CREATE_REVOLT;$SIZE$ regiment(s) rises up in revolt in $WHERE$.\n;$SIZE$ régiment(s) se révolte(nt) à : $WHERE$\n;$SIZE$ Regimenter revoltieren in $WHERE$.\n;$SIZE$ pu³k(-ów) wznieca bunt w: $WHERE$.\n;$SIZE$ regimiento(s) se rebela(n) en $WHERE$\n;$WHERE$: $SIZE$ reggimenti in rivolta\n;$SIZE$ hadsereg fellázadt a $WHERE$ -i forradalomban\n;;;;;;;x
-CREATE_PIRATE;$SIZE$ ship(s) with pirates will appear in $WHERE$.\n;$SIZE$ vaisseau(x) pirate(s) va(vont) apparaître en : $WHERE$\n;$SIZE$ Schiffe mit Piraten erscheinen in $WHERE$.\n;$SIZE$ okrêt(-ów) pirackich pojawia siê w $WHERE$.\n;$SIZE$ barco(s) pirata(s) aparecerá(n) en $WHERE$.\n;$WHERE$: appariranno $SIZE$ navi pirata\n;$SIZE$ kalózhajó jelent meg $WHERE$ közelében\n;;;;;;;x
-NATIVE_FEROCITY;Natives in $WHERE$ $DIRECTION$ $VALUE$ ferocity. ;Indigènes de $WHERE$ $DIRECTION$ $VALUE$ en férocité.;Eingeborene in $WHERE$ $DIRECTION$ $VALUE$ Wildheit.;Tubylcy w $WHERE$ Zaciek³oœæ: $DIRECTION$ $VALUE$.;Los indígenas de $WHERE$ tienen una $DIRECTION$ de $VALUE$ en ferocidad.;Nativi $WHERE$: ferocia $DIRECTION$ $VALUE$. ;$WHERE$ lakosai $DIRECTION$ $VALUE$ kegyetlenek.;;;;;;;x
-NATIVE_HOSTILENESS;Natives in $WHERE$ $DIRECTION$ $VALUE$ hostility. ;Indigènes de $WHERE$ $DIRECTION$ $VALUE$ en hostilité.;Eingeborene in $WHERE$ $DIRECTION$ $VALUE$ Feindseligkeit.;Tubylcy w $WHERE$ Wrogoœæ: $DIRECTION$ $VALUE$.;Los indígenas de $WHERE$ tienen una $DIRECTION$ de $VALUE$ en hostilidad.;Nativi $WHERE$: $DIRECTION$ $VALUE$ ostilità. ;$WHERE$ lakosai $DIRECTION$ $VALUE$ ellenségesek.;;;;;;;x
-NATIVE_SIZE;Natives in $WHERE$ $DIRECTION$ $VALUE$ size. ;Indigènes de $WHERE$ $DIRECTION$ $VALUE$ en taille.;Eingeborene in $WHERE$ $DIRECTION$ $VALUE$ Größe;Tubylcy w $WHERE$ Wielkoœæ: $DIRECTION$ $VALUE$.;Los indígenas de $WHERE$ tienen una $DIRECTION$ de $VALUE$ en tamaño.;Nativi $WHERE$: dimensioni $DIRECTION$ $VALUE$. ;$WHERE$ lakosai $DIRECTION$ $VALUE$ méretûek.;;;;;;;x
-BASE_TAX;$DIRECTION$ $VALUE$ base tax in $WHERE$.\n;$DIRECTION$ $VALUE$ d’impôts de base à $WHERE$.\n;$DIRECTION$ $VALUE$ Grundsteuer in $WHERE$.\n;$DIRECTION$ $VALUE$ podatek podstawowy w $WHERE$.\n;Una $DIRECTION$ de $VALUE$ en la base impositiva de $WHERE$.\n;$WHERE$: tasse base $DIRECTION$ $VALUE$.\n;$WHERE$ alapadója $DIRECTION$ $VALUE$.\n;;;;;;;x
-CITYSIZE;$DIRECTION$ $VALUE$ population in $WHERE$.\n;$DIRECTION$ $VALUE$ de population à $WHERE$.\n;$DIRECTION$ $VALUE$ Bevölkerung in $WHERE$.\n;$DIRECTION$ $VALUE$ ludnoœci w $WHERE$.\n;Una $DIRECTION$ de $VALUE$ en la población de $WHERE$.\n;$WHERE$: popolazione $DIRECTION$ $VALUE$.\n;$WHERE$ népessége $DIRECTION$ $VALUE$.\n;;;;;;;x
-MISSIONARIES;$DIRECTION$ $VALUE$ missionaries.\n;$DIRECTION$ $VALUE$ de missionnaires.\n;$DIRECTION$ $VALUE$ Missionare.\n;$DIRECTION$ $VALUE$ misjonarzy.\n;Una $DIRECTION$ de $VALUE$ misioneros.\n;Missionari: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ hittérítõ.\n;;;;;;;x
-MERCHANTS;$DIRECTION$ $VALUE$ merchants.\n;$DIRECTION$ $VALUE$ de marchands.\n;$DIRECTION$ $VALUE$ Händler.\n;$DIRECTION$ $VALUE$ kupców.\n;Una $DIRECTION$ de $VALUE$ comerciantes.\n;Mercanti: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ kereskedõ.\n;;;;;;;x
-COLONISTS;$DIRECTION$ $VALUE$ colonists.\n;$DIRECTION$ $VALUE$ de colons.\n;$DIRECTION$ $VALUE$ Kolonisten.\n;$DIRECTION$ $VALUE$ kolonistów.\n;Una $DIRECTION$ de $VALUE$ colonos.\n;Coloni: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ gyarmatosító.\n;;;;;;;x
-SPIES;$DIRECTION$ $VALUE$ spies.\n;$DIRECTION$ $VALUE$ d’espions.\n;$DIRECTION$ $VALUE$ Spione.\n;$DIRECTION$ $VALUE$ szpiegów.\n;Una $DIRECTION$ de $VALUE$ espías.\n;Spie: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ kém.\n;;;;;;;x
-DIPLOMATS;$DIRECTION$ $VALUE$ diplomats.\n;$DIRECTION$ $VALUE$ de diplomates.\n;$DIRECTION$ $VALUE$ Diplomaten.\n;$DIRECTION$ $VALUE$ dyplomatów.\n;Una $DIRECTION$ de $VALUE$ diplomáticos.\n;Diplomatici: $DIRECTION$ $VALUE$.\n;$DIRECTION$ $VALUE$ diplomata.\n;;;;;;;x
-HRE_STATUS;$WHERE$ will $DIRECTION$ a part of the Holy Roman Empire.\n;$WHERE$ va $DIRECTION$ membre du Saint Empire Romain.\n;$WHERE$ wird $DIRECTION$ ein Teil des Heiligen Römischen Reiches.\n;$WHERE$ $DIRECTION$ czêœci¹ Œwiêtego Cesarstwa Rzymskiego.\n;$WHERE$ habrá de $DIRECTION$ parte del Sacro Imperio Romano.\n;$WHERE$: $DIRECTION$ membro del Sacro Romano Impero.\n;$WHERE$ a $DIRECTION$ a Szent Római Birodalom része lesz.\n;;;;;;;x
-BECOME;become;devenir;wird;stanie siê;pasar a formar;diventa;lesz;;;;;;;x
-NOLONGER;no longer be;cesser d’être;ist nicht länger;nie bêdzie d³u¿ej;dejar de ser;cessa di essere;már nem az;;;;;;;x
-PROV_MANPOWER;$DIRECTION$ $VALUE$ manpower in $WHERE$.\n;$DIRECTION$ $VALUE$ d’effectifs à : $WHERE$.\n;$DIRECTION$ $VALUE$ Mannstärke in $WHERE$.\n;$DIRECTION$ $VALUE$ si³y ludzkiej w $WHERE$.\n;Una $DIRECTION$ de $VALUE$ en soldadesca en $WHERE$.\n;$WHERE$: potenziale di reclutamento $DIRECTION$ $VALUE$.\n;$WHERE$ munkaereje $DIRECTION$ $VALUE$.\n;;;;;;;x
-DISCOVER;Discover $WHERE$.\n;Découvrez $WHERE$.\n;$WHERE$ entdecken.\n;$WHERE$ - nowe odkrycie.\n;Descubrir $WHERE$.\n;Scopri: $WHERE$.\n;$WHERE$ felfedezése.\n;;;;;;;x
-COT_CHANGE;$DIRECTION$ centre of trade in $WHERE$.\n;$DIRECTION$ centre de commerce à $WHERE$.\n;$DIRECTION$ Handelszentrum in $WHERE$.\n;$DIRECTION$ oœrodek handlu w $WHERE$.\n;Una $DIRECTION$ de un centro de comercio en $WHERE$.\n;$WHERE$: $DIRECTION$ centro di commercio.\n;$WHERE$ kereskedelmi központja $DIRECTION$.\n;;;;;;;x
-ADD_BUILDING;Gain $NAME$ in $WHERE$.\n;Obtention de $NAME$ à l’endroit suivant : $WHERE$.\n;$NAME$ in $WHERE$ erhalten.\n;$NAME$ w $WHERE$ - zyskane.\n;Ganancia de un(a) $NAME$ en $WHERE$.\n;$WHERE$: ottieni $NAME$.\n;$WHERE$ $NAME$-t kapott.\n;;;;;;;x
-REM_BUILDING;Lose $NAME$ in $WHERE$.\n;Perte de $NAME$ à : $WHERE$.\n;$NAME$ in $WHERE$ verlieren.\n;$NAME$ w $WHERE$ - stracone.\n;Pérdida de un(a) $NAME$ en $WHERE$.\n;$WHERE$: perdi $NAME$.\n;$WHERE$ $NAME$-t veszített.\n;;;;;;;x
-GOODS_CHANGE;$NAME$ will now be produced in $WHERE$.\n;La production de $NAME$ se fera maintenant à : $WHERE$.\n;$NAME$ wird nun produziert in $WHERE$.\n;$NAME$ - bêdzie odt¹d produkowane w $WHERE$.\n;A partir de ahora se producirá(n) $NAME$ en $WHERE$.\n;$WHERE$: ora produrrà $NAME$.\n;$WHERE$ elindítja a(z) $NAME$ termelését.\n;;;;;;;x
-SECEDE_PROVINCE;Cede $WHERE$ to $WHO$.\n;Vous cédez $WHERE$ à $WHO$.\n; $WHERE$ an $WHO$ abtreten.\n;Zrzekasz siê $WHERE$ na rzecz $WHO$.\n;Ceder $WHERE$ a $WHO$.\n;Cedi $WHERE$ a $WHO$.\n;$WHERE$ $WHO$ országhoz kerül.\n;;;;;;;x
-INHERIT;Inherit $WHO$.\n;Vous héritez de $WHO$.\n;$WHO$ erben.\n;$WHO$ - dziedziczenie.\n;Heredar $WHO$.\n;Eredita $WHO$.\n;$WHO$ örökli.\n;;;;;;;x
-RELEASE;Release $WHO$.\n;Vous libérez $WHO$.\n;$WHO$ entlassen.\n;$WHO$ - uwolnienie.\n;Liberar a $WHO$.\n;Libera $WHO$.\n;$WHO$ elengedése.\n;;;;;;;x
-ADDTRAITEFFECT;§Y$WHO$§! gains the trait '§Y$TRAIT$§!'\n;§Y$WHO$§! acquiert la caractéristique '§Y$TRAIT$§!'\n;§Y$WHO$§! erhält die Eigenschaft '§Y$TRAIT$§!'\n;;§Y$WHO$§! gana el rasgo '§Y$TRAIT$§!'\n;§Y$WHO$§! acquista il tratto: '§Y$TRAIT$§!ì\n;;;;;;;;x
-REMOVETRAITEFFECT;§Y$WHO$§! loses the trait '§Y$TRAIT$§!'\n;§Y$WHO$§! perd la caractéristique '§Y$TRAIT$§!'\n;§Y$WHO$§! verliert die Eigenschaft '§Y$TRAIT$§!'\n;;§Y$WHO$§! pierde el rasgo '§Y$TRAIT$§!'\n;§Y$WHO$§! perde il tratto: '§Y$TRAIT$§!'\n;;;;;;;;x
-NEW_GOVERNOR_EFFECT_A;$NEW$ becomes governor of $WHERE$.\n;$NEW$ devient Gouverneur de $WHERE$.\n;$NEW$ wird Gouverneur von $WHERE$.\n;;$NEW$ se ha convertido en gobernador de $WHERE$.\n;$WHERE$: $NEW$ diventa governatore.\n;;;;;;;;x
+GROUP_CHANGE;O grupo tecnolóxico cambia a $GROUP$.\n;;;;;;;;;;;;;x
+CHANGE_TAG;Convertirse en $NEW$.\n;;;;;;;;;;;;;x
+CREATE_REVOLT;Un exército de $SIZE$ rexemento(s) sublévase en $WHERE$.\n;;;;;;;;;;;;;x
+CREATE_PIRATE;Unha flota de $SIZE$ barco(s) con piratas aparecerán en $WHERE$.\n;;;;;;;;;;;;;x
+NATIVE_FEROCITY;Os indíxenas nativos de $WHERE$ $DIRECTION$ $VALUE$ en ferocidade.;;;;;;;;;;;;;x
+NATIVE_HOSTILENESS;Os indíxenas nativos de $WHERE$ $DIRECTION$ $VALUE$ en hostilidade.;;;;;;;;;;;;;x
+NATIVE_SIZE;Os indíxenas nativos de $WHERE$ $DIRECTION$ $VALUE$ en tamaño.;;;;;;;;;;;;;x
+BASE_TAX;$DIRECTION$ de $VALUE$ no imposto base de $WHERE$.\n;;;;;;;;;;;;;x
+CITYSIZE;$DIRECTION$ de $VALUE$ na poboación de $WHERE$.\n;;;;;;;;;;;;;x
+MISSIONARIES;$DIRECTION$ de $VALUE$ misioneiros.\n;;;;;;;;;;;;;x
+MERCHANTS;$DIRECTION$ de $VALUE$ comerciantes.\n;;;;;;;;;;;;;x
+COLONISTS;$DIRECTION$ de $VALUE$ colonizadores.\n;;;;;;;;;;;;;x
+SPIES;$DIRECTION$ de $VALUE$ espías.\n;;;;;;;;;;;;;x
+DIPLOMATS;$DIRECTION$ de $VALUE$ diplomáticos.\n;;;;;;;;;;;;;x
+HRE_STATUS;$WHERE$ vai $DIRECTION$ unha parte do Sacro Imperio Romano Xermánico.\n;;;;;;;;;;;;;x
+BECOME;convertirse en;;;;;;;;;;;;;x
+NOLONGER;deixar de ser;;;;;;;;;;;;;x
+PROV_MANPOWER;$DIRECTION$ de $VALUE$ en efectivos en $WHERE$.\n;;;;;;;;;;;;;x
+DISCOVER;Descubrir $WHERE$.\n;;;;;;;;;;;;;x
+COT_CHANGE;$DIRECTION$ dun centro de comercio en $WHERE$.\n;;;;;;;;;;;;;x
+ADD_BUILDING;Obtención de $NAME$ en $WHERE$.\n;;;;;;;;;;;;;x
+REM_BUILDING;Perda de $NAME$ en $WHERE$.\n;;;;;;;;;;;;;x
+GOODS_CHANGE;$NAME$ agora vaise producir en $WHERE$.\n;;;;;;;;;;;;;x
+SECEDE_PROVINCE;Ceder $WHERE$ a $WHO$.\n;;;;;;;;;;;;;x
+INHERIT;Herdar $WHO$.\n;;;;;;;;;;;;;x
+RELEASE;Liberar $WHO$.\n;;;;;;;;;;;;;x
+ADDTRAITEFFECT;§Y$WHO$§! gaña o trazo  '§Y$TRAIT$§!'\n;;;;;;;;;;;;;x
+REMOVETRAITEFFECT;§Y$WHO$§! perde o trazo '§Y$TRAIT$§!'\n;;;;;;;;;;;;;x
+NEW_GOVERNOR_EFFECT_A;$NEW$ convírtese no gobernador de $WHERE$.\n;;;;;;;;;;;;;x
 NEW_GOVERNOR_EFFECT_B;$WHO$ becomes governor of $WHERE$.\n;$WHO$ devient Gouverneur de $WHERE$.\n;$WHO$ wird Gouverneur von $WHERE$.\n;;$WHO$ se ha convertido en gobernador de $WHERE$.\n;$WHERE$: $WHO$ diventa governatore.\n;;;;;;;;x
 MOVE_CHARACTER;$WHO$ joins $WHERE$.\n;$WHO$ rejoint $WHERE$.\n;$WHO$ schließt sich $WHERE$ an.\n;;$WHO$ se une a $WHERE$.\n;$WHO$ passa a $WHERE$.\n;;;;;;;;x
 WEALTH_EFFECT;$WHO$ $DIRECTION$ $VALUE$ wealth.\n;$WHO$ $DIRECTION$ $VALUE$ en richesse.\n;$WHO$ $DIRECTION$ $VALUE$ Reichtum.\n;;$WHO$ tiene una $DIRECTION$ de $VALUE$ en riqueza.\n;$WHO$: $DIRECTION$ $VALUE$ ricchezza.\n;;;;;;;;x
