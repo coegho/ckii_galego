@@ -227,7 +227,7 @@ tp_town_6;Vila da igrexa;;;;;;;;;;;;;x
 #tp_town_5;Large Church City;Cité archi-épiscopale;Große Kirchenstadt;;Ciudad de iglesia grande;;;;;;;;;x
 GIVEN_GOLD;$NAME$ recibe $GOLD$¤;;;;;;;;;;;;;x
 CB_NAME_CLAIM;Reclama [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_CLAIM;$ORDER$ guerra $FIRST_ADJ$ pola reclamación do título: $OTHER_TITLE$;;;;;;;;;;;;;x
+WAR_NAME_CLAIM;$ORDER$ Guerra $FIRST_ADJ$ pola reclamación do título: $OTHER_TITLE$;;;;;;;;;;;;;x
 CB_NAME_SENIORITY_SUCCESSION_LAW;Lei de sucesión por antigüidade;;;;;;;;;;;;;x
 WAR_NAME_SENIORITY_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola sucesión por antigüidade;;;;;;;;;;;;;x
 CB_NAME_PRIMOGENITURE_SUCCESSION_LAW;Lei de sucesión por primoxenitura;;;;;;;;;;;;;x
@@ -235,18 +235,18 @@ WAR_NAME_PRIOGENITURE_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola suce
 CB_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;Lei de sucesión da monarquía electiva;;;;;;;;;;;;;x
 WAR_NAME_FEUDAL_ELECTIVE_SUCCESSION_LAW;$ORDER$ Guerra Civil $SECOND_ADJ$ pola monarquía electiva;;;;;;;;;;;;;x
 CB_NAME_RELIGIOUS;Guerra santa por [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_RELIGIOUS;$ORDER$ guerra santa $FIRST_ADJ$ por $OTHER_TITLE$;;;;;;;;;;;;;x
+WAR_NAME_RELIGIOUS;$ORDER$ Guerra santa $FIRST_ADJ$ por $OTHER_TITLE$;;;;;;;;;;;;;x
 CB_NAME_CRUSADE;$HOLY_WAR$ por [Title.GetBaseName];;;;;;;;;;;;;x
 CB_NAME_EXCOMMUNICATED_RULER;Gobernante excomungado;;;;;;;;;;;;;x
-WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$ guerra $FIRST_ADJ$-$SECOND_ADJ$ de excomuñón;;;;;;;;;;;;;x
+WAR_NAME_EXCOMMUNICATED_RULER;$ORDER$ Guerra $FIRST_ADJ$-$SECOND_ADJ$ de excomuñón;;;;;;;;;;;;;x
 CB_NAME_INDEPENDENCE;Independencia;;;;;;;;;;;;;x
-WAR_NAME_INDEPENDENCE;$ORDER$ guerra da independencia $FIRST_ADJ$;;;;;;;;;;;;;x
+WAR_NAME_INDEPENDENCE;$ORDER$ Guerra da independencia $FIRST_ADJ$;;;;;;;;;;;;;x
 CB_NAME_OVERTHROWRULER;Derrocamento do gobernante;;;;;;;;;;;;;x
-WAR_NAME_OVERTHROWRULER;$ORDER$ guerra contra a tiranía de $DEFENDER$;;;;;;;;;;;;;x
+WAR_NAME_OVERTHROWRULER;$ORDER$ Guerra contra a tiranía de $DEFENDER$;;;;;;;;;;;;;x
 CB_NAME_SUCCESSION;Disputa da sucesión;;;;;;;;;;;;;x
-WAR_NAME_SUCCESSION;$ORDER$ guerra de sucesión $SECOND_ADJ$;;;;;;;;;;;;;x
+WAR_NAME_SUCCESSION;$ORDER$ Guerra de sucesión $SECOND_ADJ$;;;;;;;;;;;;;x
 CB_NAME_DEJUREBARONYCLAIM;Reclamación do condado en [Title.GetBaseName];;;;;;;;;;;;;x
-WAR_NAME_DEJUREBARONYCLAIM;$ORDER$ guerra condal $FIRST_ADJ$-$SECOND_ADJ$ sobre $OTHER_TITLE$;;;;;;;;;;;;;x
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$ Guerra condal $FIRST_ADJ$-$SECOND_ADJ$ sobre $OTHER_TITLE$;;;;;;;;;;;;;x
 ON_CB_ADD_DESC;§YAo declarar a guerra:§W\n;;;;;;;;;;;;;x
 ON_CB_SUCCESS_DESC;§YSe gañamos a guerra:§W\n;;;;;;;;;;;;;x
 ON_CB_FAIL_DESC;§YSe pactamos unha paz branca:§W\n;;;;;;;;;;;;;x
@@ -255,7 +255,7 @@ ON_CB_ATTACKERDEATH_DESC;§YSe morre o líder da alianza que está a atacar:§W\n;;;
 ON_CB_DEFENDERDEATH_DESC;§YSe morre o líder da alianza que se está a defender:§W\n;;;;;;;;;;;;;x
 ON_CB_THIRDPARTY_DESC;§YSe morre $CHARACTER$:§W\n;;;;;;;;;;;;;x
 CB_NAME_CLAIM_ALL;Aplicar todas as reclamacións;;;;;;;;;;;;;x
-WAR_NAME_CLAIM_LIEGE;$ORDER$ guerra de $ATTACKER$ polo título: $OTHER_TITLE$;;;;;;;;;;;;;x
+WAR_NAME_CLAIM_LIEGE;$ORDER$ Guerra de $ATTACKER$ polo título: $OTHER_TITLE$;;;;;;;;;;;;;x
 claim_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para aplicar a súa reclamación de §Y$TITLE$§!;;;;;;;;;;;;;x
 claim_on_liege_desc;§Y$CLAIMANT$§! pode usar este Casus Belli para aplicar a súa reclamación de §Y$TITLE$§!;;;;;;;;;;;;;x
 other_claim_on_liege_desc;§Y$PRESSER$§! pode usar este Casus Belli para aplicar a reclamación de §Y$CLAIMANT$'s§! de §Y$TITLE$§!;;;;;;;;;;;;;x
@@ -16947,9 +16947,9 @@ EV_HERS;hers;elle;ihr;;la;lei;;;;;;;;x
 EV_SHE_S;She;Elle;Sie;;Ella;Lei;;;;;;;;x
 AND;and ;et ;und ;i ;y ;e ; és ;a;;;;;;x
 OR;or;ou ;oder;lub;o ;o; vagy ;nebo;;;;;;x
-NORMAL_WAR_NAME;$ORDER$$FIRST$-$SECOND$ War;$ORDER$ Guerre $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ Krieg;Wojna $ORDER$$FIRST$-$SECOND$;$ORDER$ Guerra de $FIRST$ contra $SECOND$;$ORDER$ guerra $FIRST$-$SECOND$;$ORDER$$FIRST$-$SECOND$ háború;$ORDER$$FIRST$-$SECOND$ válka;;;;;;x
-SUCCESSION_WAR_NAME;$ORDER$$TARGET$ Succession War;$ORDER$ Guerre de succession $TARGET$;$ORDER$$TARGET$ Folgekrieg;Wojna o sukcesjê $ORDER$$TARGET$;$ORDER$ Guerra de Sucesión en $TARGET$;$ORDER$ guerra di successione $TARGET$;$ORDER$$TARGET$ örökösödési háború;$ORDER$$TARGET$ válka o dìdictví;;;;;;x
-AGRESSION_WAR_NAME;$ORDER$War of $FIRST$ Aggression;$ORDER$ Offensive Militaire $FIRST$;$ORDER$Krieg der $FIRST$ Aggression;Wojna $ORDER$ $FIRST$ ;$ORDER$ Guerra de Agresión de $FIRST$;$ORDER$ guerra di aggressione $FIRST$;$ORDER$War of $FIRST$ agresszió;$ORDER$ válka - $FIRST$ agrese;;;;;;x
+NORMAL_WAR_NAME;$ORDER$ Guerra $FIRST$-$SECOND$;;;;;;;;;;;;;x
+SUCCESSION_WAR_NAME;$ORDER$ Guerra de sucesión de $TARGET$;;;;;;;;;;;;;x
+AGRESSION_WAR_NAME;$ORDER$ Guerra de agresión de $FIRST$;;;;;;;;;;;;;x
 PROVINCE;Province;Province;Provinz;;Provincia;Provincia;;;;;;;;x
 FROM;from;de;von;;desde;da:;;;;;;;;x
 PAY_CASH;$WHO$ will pay $WHAT$ gold.;$WHO$ paiera $WHAT$ pièces d’or.;$WHO$ wird $WHAT$ Gold zahlen.;;$WHO$ pagará $WHAT$ de oro.;$WHO$ pagherà $WHAT$ oro.;;;;;;;;x
