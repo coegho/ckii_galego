@@ -1,0 +1,88 @@
+#CODE	ENGLISH	ENGLISH
+RD_APPEARANCE	Appearance	Appearance
+RD_COAT_OF_ARMS	Coat of Arms	Coat of Arms
+RD_ATTRIBUTES	Attributes	Attributes
+RD_ETHNICITY	Ethnicity	Ethnicity
+RD_EYES	Eyes	Eyes
+RD_NOSE	Nose	Nose
+RD_MOUTH	Mouth	Mouth
+RD_CHIN	Chin	Chin
+RD_NECK	Neck	Neck
+RD_CHEEKS	Cheeks	Cheeks
+RD_EARS	Ears	Ears
+RD_EYE_COLOR	Eye Color	Eye Color
+RD_HAIRSTYLE	Hairstyle	Hairstyle
+RD_HAIR_COLOR	Hair Color	Hair Color
+RD_BEARD	Beard	Beard
+RD_VISUALIZE	Visualize	Visualize
+RD_CLOTHES	Clothes	Clothes
+RD_HEADGEAR	Headgear	Headgear
+RD_AGE	Age	Age
+RD_BACKGROUND	Background	Background
+RD_CANCEL	Cancel	Cancel
+RD_NEXT	Next	Next
+RD_LAYOUT	Layout	Layout
+RD_SLOT_1	Slot 1	Slot 1
+RD_SLOT_2	Slot 2	Slot 2
+RD_SLOT_3	Slot 3	Slot 3
+RD_SLOT_4	Slot 4	Slot 4
+RD_COLOR_1	Color 1	Color 1
+RD_COLOR_2	Color 2	Color 2
+RD_COLOR_3	Color 3	Color 3
+RD_EMBLEM	Emblem	Emblem
+PORTRAIT_westerngfx	Western	Western
+PORTRAIT_italiangfx	Italian	Italian
+PORTRAIT_byzantinegfx	Byzantine	Byzantine
+PORTRAIT_muslimgfx	Muslim	Muslim
+RD_YOUNG	Young	Young
+RD_MIDDLEAGED	Middleaged	Middleaged
+RD_OLD	Old	Old
+coa_party_per_fess	Party Per Fess	Party Per Fess
+coa_party_per_pale	Party Per Pale	Party Per Pale
+coa_party_per_cross	Party Per Cross	Party Per Cross
+coa_party_triangle	Party Triangle	Party Triangle
+coa_plain	Plain	Plain
+RD_LINK_PATTERN	Links Patterns across all slots	Links Patterns across all slots
+RD_LINK_COLOR	Links Colors across all slots	Links Colors across all slots
+RD_MARRIED	Tick if you want the character to start married	Tick if you want the character to start married
+RD_CLEARTRAITS	Remove all Traits\nRight-click on a trait to remove individual traits	Remove all Traits\nRight-click on a trait to remove individual traits
+RD_DIPLOMACY	Diplomacy:	Diplomacy:
+RD_MARTIAL	Martial:	Martial:
+RD_STEWARDSHIP	Stewardship:	Stewardship:
+RD_INTRIGUE	Intrigue:	Intrigue:
+RD_LEARNING	Learning:	Learning:
+RD_HEALTH	Health:	Health:
+RD_FERTILITY	Fertility:	Fertility:
+RD_SONS	Sons:	Sons:
+RD_DAUGHTERS	Daughters:	Daughters:
+RD_FIRST_NAME	First Name	First Name
+RD_DYNASTY	Dynasty	Dynasty
+RD_MARRIED2	Married:	Married:
+RD_CULTURE	Culture:	Culture:
+RD_RELIGION	Religion:	Religion:
+RD_EDUCATION	Education	Education
+RD_TRAITS	Traits	Traits
+RD_FINISH	Finish	Finish
+RD_IS_MALE	Character is male, click to change	Character is male, click to change
+RD_IS_FEMALE	Character is female, click to change	Character is female, click to change
+RD_NOT_PLAYABLE	§RThis Religion is not playable§!	§RThis Religion is not playable§!
+RD_OPEN_RULER_DESIGNER	Open Ruler Designer	Open Ruler Designer
+RD_CHANGE_GRAPHICAL_CULTURE	Chance Graphical Culture	Chance Graphical Culture
+RD_CHANGE_CULTURE	Change Culture	Change Culture
+RD_CHANGE_RELIGION	Change Religion	Change Religion
+RD_CHANGE_EDUCATIONAL_TRAIT	Change Educational Trait	Change Educational Trait
+RD_CUSTOMIZED_AGE	Age: $AGE$ ( Max: $MAX$ )	Age: $AGE$ ( Max: $MAX$ )
+RD_RANDOMIZE	Randomize	Randomize
+RD_FAIL_AGE	Character is too old to start the game	Character is too old to start the game
+RD_FAIL_CHILDREN	Character is not old enough to have that many children, one year over 16 per child is required	Character is not old enough to have that many children, one year over 16 per child is required
+RD_EXTRA_CLICK	Click to change\nShift-click for x5 effect\nCtrl-click for x10 effect	Click to change\nShift-click for x5 effect\nCtrl-click for x10 effect
+RD_RESET	Reset	Reset
+RD_FAIL_NO_NAME	You need to specify a first name	You need to specify a first name
+RD_FAIL_NO_DYN_NAME	You need to specify a dynasty name	You need to specify a dynasty name
+RD_RULER_DESIGNER	Ruler Designer	Ruler Designer
+RD_FAIL_NO_UNPLAYABLE	§RCannot customize unplayable characters§!	§RCannot customize unplayable characters§!
+RD_FAIL_NO_DLC	§RYou need the Ruler Designer DLC to use this§!	§RYou need the Ruler Designer DLC to use this§!
+RD_FAIL_SAME_NAME	Cannot have the same name as the character you are replacing	Cannot have the same name as the character you are replacing
+RD_CHANGE_SONS	Change the number of sons this character has	Change the number of sons this character has
+RD_CHANGE_DAUGHTERS	Change the number of daughters this character has	Change the number of daughters this character has
+RD_ADD_TRAIT	Add Trait	Add Trait

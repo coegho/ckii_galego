@@ -1,0 +1,679 @@
+#CODE	ENGLISH
+set_government_type	Government is changed to §Y$GOVERNMENT$§!\n
+feudal_government	Feudal
+republic_government	Republic
+merchant_republic_government	Merchant Republic
+theocracy_government	Theocracy
+muslim_government	Iqta
+tribal_government	Tribal
+RETCAP_FROM_GOVERNMENT	From Government: $AMOUNT$\n
+GOVERNMENT_CANNOT_CREATE_KINGDOMS	Theocracies, Holy Orders and Mercenaries cannot create kingdoms!
+GOVERNMENT_CANNOT_USURP_KINGDOMS_AND_EMPIRES	Merchant Republics and Patricians cannot usurp kingdoms or empires
+GAME_STATE_WAS_CORRUPTED	Game State is corrupted. Please restart the game.
+TRIBAL_TAX	Tribal Tax
+GOVERNMENT_CANT_BUILD_HOLDINGS	§R$GOVERNMENT$ rulers Cannot Build new Holdings§!
+GOVERNMENT_NO_LIEGE_LEVY	Independent Tribal or Nomadic Rulers do not get liege levies from their vassal tribes
+PLAYERS_IN_UNIT	Player Characters in Unit
+PLAYERS_IN_ATTACKERS	Attacking Player Characters
+YOU_IN_ATTACKERS	You are an attacker in this battle
+PLAYERS_IN_DEFENDERS	Defending Player Characters
+YOU_IN_DEFENDERS	You are a defender in this battle
+destroy_title_interaction_LONG_DESC	Destroy this title.
+usurp_title_interaction_TITLE	Usurp Title
+usurp_title_interaction_LONG_DESC	Usurp this title.
+create_title_interaction_LONG_DESC	Create this title.
+make_primary_title_interaction_LONG_DESC	Make this your primary title.
+make_capital_settlement_interaction_TITLE	Make Capital
+make_capital_settlement_interaction_DESC	I can make this my capital.
+make_capital_settlement_interaction_LONG_DESC	Make this Holding your capital.
+WILL_CANCEL_OLD_PLOT	You can only have one Plot active at a time. Choosing a new Plot will cancel your current one.
+WILL_CANCEL_OLD_AMBITION	You can only have one Ambition active at a time. Choosing a new Ambition will cancel your current one.
+WILL_CANCEL_OLD_FOCUS	You can only have one Focus active at a time. Choosing a new Focus will cancel your current one.
+alert_available_targetted_decision_instant	§YSpecial Character Actions Possible§!
+alert_available_targetted_decision_delayed	The following Special Character Actions are available:\n$LIST$
+alert_available_title_decision_instant	§YSpecial Title Actions Possible§!
+alert_available_title_decision_delayed	The following Special Title Actions are available:\n$LIST$
+alert_available_settlement_decision_instant	§YSpecial Holding Actions Possible§!
+alert_available_settlement_decision_delayed	The following Special Holding Actions are available:\n$LIST$
+FLANK_DAMAGE_FINAL	Final Damage Values: §Y$DAMAGE$§! Damage (£1£), §Y$MORALE_DAMAGE$§! Morale Damage (£2£)
+TACTICAL_DISADVANTAGE	Penalty against §Y$TACTIC$§!: $PERC$
+TOTAL_DEFENCE	Total Defence: §Y$DEF$§!
+COMBATVIEW_TOTALTROOPS	Total Remaining Troops\n§GClick to show composition of Flanks§!
+COMBATVALUES	$NAME$\nDamage (£1£): §Y$DAMAGE$§!\nMorale Damage (£2£): §Y$MORALEDMG$§!\nDefence (£3£): §Y$DEFENCE$§!
+COMBATVALUES_SUBUNIT	Damage per Soldier: §Y$DAMAGE$§!\nDefence per Soldier: §Y$DEFENCE$§!\n\nTotal Damage: §Y$TOTAL_DAMAGE$§!\nTotal Defence: §Y$TOTAL_DEFENCE$§!
+COMBATVIEW_FLANK_MORALE	Average morale in this flank: $MORALE$ (§Y+$DELTA$§W / week)\nTotal Morale: §Y$TOTAL_MORALE$§!
+COMBATVIEW_MORALE	Average morale: §Y$MORALE$§W (§Y+$DELTA$§W / week)\nTotal Morale: §Y$TOTAL_MORALE$§!
+FLANK_DESIGNER_SHOW_VALUES	Show Values
+FLANK_DESIGNER_SHOW_TROOPS	Show Troops
+convert_tribal_to_city	Upgrade to City
+convert_tribal_to_city_named	Upgrade [Root.GetName] to a City
+#convert_tribal_to_city_desc	I can upgrade [Root.GetFullName] to a proper City.
+convert_tribal_to_castle	Upgrade to Castle
+convert_tribal_to_castle_named	Upgrade [Root.GetName] to a Castle
+#convert_tribal_to_castle_desc	I can upgrade [Root.GetFullName] to a proper Castle.
+MODIFIER_TRIBAL_OPINION	Tribal Vassal Opinion
+MODIFIER_UNREFORMED_TRIBAL_OPINION	Unreformed Pagan Tribal Vassal Opinion
+UNREFORMED_TRIBAL_VIEW_ON_TRAIT	Unreformed Pagan Tribal view on $TRAIT$: $VALUE$
+TRAIT_OPINION_UNREFORMED_TRIBAL	Unreformed Pagan Tribal Opinion: $VALUE$
+TRIBAL_VASSAL_OPINION	Tribal Vassal Opinion
+PROVINCE_HAS_NO_REGION	 This county does not belong to any region
+PROVINCE_HAS_REGION_SELECT	Press §YLeft Click§W to select next region.
+PROVINCE_HAS_REGION_DESELECT	Press §YRight Click§W to deselect region.
+PROVINCE_HAS_REGION	This county belongs to the following regions:
+FIND_PROVINCE	Find Title or Region
+REGION_OF	Region of
+HINT_DIPLO_VIEW_TITLE	The Diplomacy Menu
+EVTDESC107104	You currently have one unhappy Vassal. You can find this Vassal by clicking on your portrait and open the 'Vassals' tab. Try to increase the Opinion of this Vassal to a positive number. You can increase the Opinion of your Vassals towards you in several ways, for example by giving them more land (but do try to hold as much land as your Demesne Limit allows!). You can also give them an Honorary Title, or send them a gift. All this can be done in the Diplomacy Menu.
+EVTDESC107009	When you have found a good character to marry, right-click on their portrait to open the Diplomacy Menu. Here you may ask the Liege of your intended about the possibility of arranging a marriage. The Diplomacy Menu is the main way to interact with other characters. Go ahead and arrange the marriage!
+EVTDESC107300	You now have a Claim and it's time to let slip the dogs of War! Click on Canarias province and right-click the Ruler Portrait in the County View. Select 'Declare War' in the Diplomacy Menu and the 'Claim Canarias' Casus Belli. Send the War Declaration.
+#EVTDESC107301	Whenever you have Allies that can aid in your Wars, you will see an icon indicating this at the top of the screen. Clicking on this icon will open the Diplomacy Menu of your Allies, where you have the option to Call them to Arms, thus bringing them into your War (if they accept).
+EVTDESC107326	You are now over your Vassal Limit, meaning you have more Vassals than you can control. Your Vassals will then give you reduced Taxes and Levies, and you might even lose some Vassals when you die and your Heir takes over. In the long term you can increase your Vassal Limit by increasing your Diplomacy, but in the short term you can Transfer Vassalage so that you have fewer Direct Vassals. You can do this by clicking on the character you want to give Vassals to, and open their Diplomacy Menu. The target character must be of a higher tier than the Vassal you wish to give away.
+EVTDESC107334	One of your children is now old enough to be Tutored by a Guardian. By opening your Diplomacy Menu you can select the 'Educate Child' option. A Guardian will be automatically suggested, but feel free to click on the suggested Guardian in order to choose another one if you wish. You will want a Guardian with good Traits and Attributes, or use this opportunity and let a Vassal that dislike you to get the honor of becoming the Guardian of your child.
+EVTDESC107325	You are now over your Demesne Limit, meaning you have more Holdings than is seemly for you to rule personally. Your Vassals will dislike you for being over this limit, so you need to do something about it, and soon! In the long term, you can increase your demesne limit by increasing your Stewardship Attribute (and your wife's), but in the short term you need to give some of your Titles to your Vassals. You can do this by clicking on the character you want to give Titles to, and open their Diplomacy Menu. Look in the Character Finder or in the Court Tab in your Character View to find suitable characters.
+EVTDESC107310	You are now ready to make Peace. To do this, click on the War icon in the bottom right of the screen. You can also right-click the portrait of the character you are fighting and open their Diplomacy Menu.
+PART_OF_REGION	Part of $REGION$ region
+NOT_PART_OF_REGION	Not part of $REGION$ region
+SPAWN_UNIT_EFFECT_REINFORCE_RATE	Reinforce Speed: §Y$RATE$§!%
+SPAWN_UNIT_EFFECT_MAINTENANCE_FREE	Maintenance Free
+SPAWN_UNIT_EFFECT_NON_REINFORCING	Non Reinforcing
+SPAWN_UNIT_EFFECT_FORCED_LOOTING	These troops will always be raiding.
+TOGGLE_LOOTER_FAIL_FORCED_LOOT	 Unit is not forced to raid
+HorseLordsDLC	Horse Lords
+SETTLE_ADVENTURER_INTERACTION_TITLE	Settle Adventurer
+SETTLE_ADVENTURER_INTERACTION_DESC	Grant a landed title and settle the adventurer
+SETTLE_ADVENTURER_INTERACTION_LONG_DESC	Grant one of your landed titles to settle an adventurer. This will significantly improve their opinion of you. Settling an adventurer will stop them from raiding you, and the adventurer will also prevent other raiders from attacking for a long time.
+SETTLE_ADVENTURER_INTERACTION_0	Select a title to grant to §Y[Recipient.GetTitledFirstName]§W.
+SETTLE_ADVENTURER_INTERACTION_1	Grant the §Y[ThirdPartyTitle.GetFullName]§W to §Y[Recipient.GetTitledFirstName]§W, increasing [Recipient.GetPossPronoun] opinion of you by §G$OPINION$§W.
+SETTLE_ADVENTURER_INTERACTION_2	The capital will change from §Y$CURRENT$§W to §Y$NEW$§W.
+SETTLE_ADVENTURER_INTERACTION_3	Vassals going with the grant: 
+SETTLE_ADVENTURER_INTERACTION_4	[Player.Religion.GetPietyName] from temple grant: §G$PIETY$§!.
+SETTLE_ADVENTURER_INTERACTION_5	§RMaking [Recipient.GetObjectPronoun] a $TITLE$ will disqualify [Recipient.GetObjectPronoun] from the succession!§!
+SETTLE_ADVENTURER_INTERACTION_ACCEPT_SETUP	Offer to Settle Adventurer Accepted
+SETTLE_ADVENTURER_INTERACTION_ACCEPT_LOG	§Y[Actor.GetBestName]§W settled the adventurer §Y[Recipient.GetBestName]§W by giving [Recipient.GetHerHim] the [ThirdPartyTitle.GetFullName].
+SETTLE_ADVENTURER_INTERACTION_6	Grant the §Y[ThirdPartyTitle.GetFullName]§W and all titles under it to §Y[Recipient.GetTitledFirstName]§W, increasing [Recipient.GetPossPronoun] opinion of you by §G$OPINION$§W.
+SETTLE_ADVENTURER_INTERACTION_7	Decadence lost from grant to dynasty member: §G$DECADENCE$%§! (the effect is relative to the dynasty's current Decadence.)
+SETTLE_ADVENTURER_INTERACTION_9	Settling an adventurer will significantly reduce the risk of further raid attempts against you for a long time.
+IS_ALLOWED_TO_LOOT	Is allowed to raid
+CANNOT_DESTROY_DURING_WAR	Cannot destroy contested title during war
+NOT_IS_ALLOWED_TO_LOOT	Is NOT allowed to raid
+settled_adventurer	Settled Adventurer
+desc_settled_adventurer	This county have been settled by a raiding adventurer and can not be raided.
+LOOTING_SETTLED_ADVENTURER	This county has recently been settled by a raider adventurer.
+TOGGLE_LOOTER_FAIL_FORCED_NOT_LOOT	 Unit is allowed to raid
+SPAWN_UNIT_EFFECT_FORCED_NOT_LOOTING	These troops cannot raid.
+SPAWN_UNIT_EFFECT_LOOTING	These troops will start off as raiders.
+tut_0a_6	Click the portrait. All characters have a view like this. This is the King of Scotland, and here you can see that his parents and grandparents are dead. He has three children and three siblings.
+REALM_LEVY_DIFF_LOWER_THAN	Current realm levy difference between §Y$FIRST$§! and §Y$SECOND$§! lower than §Y$VAL$§!
+REALM_LEVY_DIFF_AT_LEAST	Current realm levy difference between §Y$FIRST$§! and §Y$SECOND$§! at least §Y$VAL$§!
+MAX_REALM_LEVY_DIFF_LOWER_THAN	Maximum realm levy difference between §Y$FIRST$§! and §Y$SECOND$§! lower than §Y$VAL$§!
+MAX_REALM_LEVY_DIFF_AT_LEAST	Maximum realm levy difference between §Y$FIRST$§! and §Y$SECOND$§! at least §Y$VAL$§!
+REALM_LEVY_LESS	Current realm levies less than ?$VAL$?
+REALM_LEVY_LEAST	Current realm levies at least ?$VAL$?
+MAX_TROOP_STRENGTH_LESS	Maximum realm levies less than ?$VAL$?
+MAX_TROOP_STRENGTH_LEAST	Maximum realm levies at least ?$VAL$?
+ANY_UNIT	Any Unit
+ALL_UNITS	All Units
+IS_SEAFARER	Is seafarer
+NOT_IS_SEAFARER	Is NOT seafarer
+IS_ISLAND	Is an island
+NOT_IS_ISLAND	Is NOT an island
+DYNAMIC_MERCENARY_COMPANY	[Root.GetFirstName]'s [Root.Culture.GetName] Band
+create_mercenary_company	Send Away as Mercenary
+create_mercenary_company_desc	Send §Y[Root.GetFirstName]§! away to seek experience, fame and fortune as a mercenary, taking some soldiers from your current levy with [Root.GetHerHim] as a starting force. You will be able to recall [Root.GetHerHim] to §Y[From.Capital.GetName]§! at any time, and hopefully by then [Root.GetSheHe] will have brought honor to your dynasty by amassing a suitably impressive amount of gold and prestige.
+maintaining_mercenary_band	Maintaining Mercenary Band
+desc_maintaining_mercenary_band	This holding is used to refill mercenary bands
+ANY_MERCENARY_BAND_STARTS	Any mercenary band
+TRIGGER_BAND_CREATOR	Band creator
+DEMESNE_GARRISON_MORE_THAN	Garrison of entire demesne is more or equal to 
+DEMESNE_GARRISON_LESS_THAN	Garrison of entire demesne is less than 
+AIREASON_NOT_DUCHY	Desires a duchy
+AIREASON_NO_PORT	Desires coastal counties
+SETTLE_ADVENTURER_INTERACTION_LETTER	We offer you the landed title of [ThirdPartyTitle.GetFullName] in exchange for your protection against future raids in this area.
+SETTLE_ADVENTURER_INTERACTION_OFFER	[Actor.GetBestName] wants to offer us the landed title of [ThirdPartyTitle.GetFullName] in exchange for our protection.
+SETTLE_ADVENTURER_INTERACTION_DECLINE_SETUP	Offer to Settle Adventurer Declined
+SETTLE_ADVENTURER_INTERACTION_DECLINE_LOG	§Y[Recipient.GetBestName]§W refused §Y[Actor.GetBestName]§W's offer to settle in [Actor.GetHerHis] lands.
+dissolve_mercenary_company	Recall to Court
+dissolve_mercenary_company_desc	Order [Root.GetFirstName] to disband [Root.GetHerHis] mercenary band and return home.
+is_mercenary_leader_YEAR	Has been leading the company for five years\n
+HAS_NOT_RAISED_STANDING_TROOPS	Has not raised standing troops
+HAS_RAISED_STANDING_TROOPS	Has raised standing troops
+EVTDESC288	I accept your offer of settling down.
+EVTDESC289	I refuse to accept your offer of settling down.
+INTERACTION_REQUIRES_NO_ACTOR_MERCENARY_TITLE	§Y[Actor.GetTitledFirstName]§! must not be a Mercenary
+INTERACTION_REQUIRES_NO_RECIPIENT_MERCENARY_TITLE	§Y[Recipient.GetTitledFirstName]§! must not be a Mercenary
+started_mercenary_company	Started Mercenary Company
+IS_ADVENTURER	Is adventurer
+IS_NOT_ADVENTURER	Is not adventurer
+TRIGGER_MOST_PART_CRUSADER	Most Contributing Crusader
+INTERACTION_REQUIRES_RECIPIENT_FEUDAL	§Y[Recipient.GetTitledFirstName]§! is feudal.
+CHRONICLE_DIVORCED	[New.GetTitledFirstName] announced the formal annulment of [From.GetTitledFirstName]s marriage with [Root.GetTitledName].
+CHRONICLE_DIVORCED_NO_HEAD	[From.GetTitledFirstName] divorced [Root.GetTitledName].
+LAW_ALLOWED	Can enact §Y$LAW$§! law
+LAW_NOT_ALLOWED	Can NOT enact §Y$LAW$§! law
+LAW_POTENTIAL	Eligible to enact §Y$LAW$§! law
+LAW_NOT_POTENTIAL	NOT eligible to enact §Y$LAW$§! law
+GOVERNMENT_ALLOWED	Can enact §Y$GOVERNMENT$§! government
+GOVERNMENT_NOT_ALLOWED	Can NOT enact §Y$GOVERNMENT$§! government
+GOVERNMENT_POTENTIAL	Eligible to enact §Y$GOVERNMENT$§! government
+GOVERNMENT_NOT_POTENTIAL	NOT eligible to enact §Y$GOVERNMENT$§! government
+DECISION_ALLOWED	Can take §Y$DECISION$§! decision
+DECISION_NOT_ALLOWED	Can NOT take §Y$DECISION$§! decision
+DECISION_POTENTIAL	Eligible to take §Y$DECISION$§! decision
+DECISION_NOT_POTENTIAL	NOT eligible to take §Y$DECISION$§! decision
+TARGETTED_DECISION_ALLOWED	Can take §Y$DECISION$§! decision against §Y$CHARACTER$§!
+TARGETTED_DECISION_NOT_ALLOWED	Can NOT take §Y$DECISION$§! decision against §Y$CHARACTER$§!
+TARGETTED_DECISION_POTENTIAL	Eligible to take §Y$DECISION$§! decision against §Y$CHARACTER$§!
+TARGETTED_DECISION_NOT_POTENTIAL	NOT eligible to take §Y$DECISION$§! decision against §Y$CHARACTER$§!
+TITLE_DECISION_ALLOWED	Can take §Y$DECISION$§! decision for §Y$TITLE$§!
+TITLE_DECISION_NOT_ALLOWED	Can NOT take §Y$DECISION$§! decision for §Y$TITLE$§!
+TITLE_DECISION_POTENTIAL	Eligible to take §Y$DECISION$§! decision for §Y$TITLE$§!
+TITLE_DECISION_NOT_POTENTIAL	NOT eligible to take §Y$DECISION$§! decision for §Y$TITLE$§!
+SETTLEMENT_DECISION_ALLOWED	Can take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!
+SETTLEMENT_DECISION_NOT_ALLOWED	Can NOT take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!
+SETTLEMENT_DECISION_POTENTIAL	Eligible to take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!
+SETTLEMENT_DECISION_NOT_POTENTIAL	NOT eligible to take §Y$DECISION$§! decision in §Y$SETTLEMENT$§!
+PROV1293	Gulf of Kutch
+PROV1382	Gulf of Suez
+PROV1383	Northern Red Sea
+PROV1384	Central Red Sea
+PROV1385	Southern Red Sea
+PROV1386	Strait of Mandeb
+PROV1387	Gulf of Aden
+PROV1388	Horn of Africa
+PROV1389	Coast of Dhofar
+PROV1390	Southern Coast of Oman
+PROV1391	Coast of Muscat
+PROV1392	Gulf of Oman
+PROV1393	Strait of Hormuz
+PROV1394	Eastern Persian Gulf
+PROV1395	Western Persian Gulf
+PROV1396	Coast of Makran
+PROV1397	Indus Delta
+PROV1398	Coast of Gujarat
+PROV1399	Coast of Konkan
+PROV1400	Coast of Malabar
+PROV1401	Karnataka Coast
+PROV1402	Gulf of Mannar
+PROV1403	South Lanka Coast
+PROV1404	Palk Strait
+PROV1405	North Lanka Coast
+PROV1406	South Coromandel Coast
+PROV1407	North Coromandel Coast
+#PROV1408	Outer Mongolia
+PROV1409	Coast of Orissa
+PROV1410	Coast of Kataka
+PROV1411	Ganges Delta
+PROV1412	Arabian Sea
+EVTDESC_HL_101	[From.GetBestName] has gathered a band of warriors with the intention to raid foreign lands to create a fortune of [From.GetPossPronoun] own.
+EVTDESC_HL_112	The [GetRootFromInsult] [From.GetBestName] has declared [From.GetHerHis] intentions of trying to seize land from your realm by force with [From.GetHerHis] band of thieves and robbers.
+EVTOPTA_HL_112	We must stop [From.GetHerHim].
+EVTDESC_HL_121	Dear [GetFromReverseRelation],\n[From.Religion.GetRandomGodNameCap] has smiled upon me the during my recent adventures. I now have so much wealth that I'm having trouble spending it all. However I would like to have a realm of my own fitting for a warrior of my rank, therefore I propose a small exchange.\n\nSigned,\nyour [GetFromRelation] [From.GetFirstName]
+world_europe_west_brittania	Britannia
+world_europe_west_germania	Germania
+world_europe_west_francia	Francia
+world_europe_west_iberia	Iberia
+world_europe_west	Western Europe
+world_europe_north	Northern Europe
+world_europe_south_east	South-East Europe
+world_europe_south_italy	Italia
+world_europe_south	Southern Europe
+world_europe_east	Eastern Europe
+world_asia_minor	Asia Minor
+world_middle_east_jerusalem	Jerusalem
+world_middle_east_arabia	Arabian Peninsula
+world_india_deccan	Deccan
+world_india_bengal	Bengal
+world_india_rajastan	Rajastan
+world_persia	Persia
+world_africa_north	North Africa
+world_africa_west	West Africa
+world_africa_east	East Africa
+world_africa	Africa
+world_steppe_west	Western Steppes
+world_steppe_east	Eastern Steppes
+world_steppe	Steppes
+world_europe	Europe
+world_middle_east	Middle-East
+world_india	India
+world_steppe_tarim	Tarim Basin
+custom_eastern_baltic	Eastern Baltic
+custom_frisia	Frisia
+custom_england	England
+custom_castillian	North Iberia
+custom_catalan	East Iberia
+custom_andalusian	South Iberia
+custom_portuguese	North-West Iberia
+custom_swedish	Sweden
+custom_danish	Denmark
+custom_norwegian	Norway
+custom_scotland	Scotland
+opinion_humiliated_rival	Humiliated by rival
+MAPMODE_REALM	§YRealms§!
+PROV1347	Taklamakan Desert
+pyramid	Pyramid
+k_mongolia	Mongolia
+k_mongolia_adj	Mongolian
+d_altay	Altay
+d_otuken	Ötüken
+d_khangai	Khangai
+d_ikh_bogd	Ikh Bogd
+k_khotan	Khotan
+d_kashgar	Kashgar
+d_khotan	Khotan
+d_karashar	Karashar
+d_kumul	Kumul
+EVTOPTA_WOL_415	I have butterflies in my stomach!
+EVTTOOLTIP_CM_4332	[This.GetTitledFirstName] becomes a member of the Haruriyyah Order
+tower_topples	Tower topples.
+tower_stands	Tower stands.
+promised_to_clear_out_heresy	Promised to clear out heresy
+alert_can_tech_name	You can invest in technology
+MAPMODE_REALM_DESC	This map mode shows all independent Realms and it's substructure.
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC1	Press §GControl + Left Click§! to show Sub-Realms of §Y$REALM$§!
+MAPMODE_REALM_ONMAP_TOOLTIP_DESC2	Press §GControl + Right Click§! to hide Sub-Realms of §Y$REALM$§!
+MAPMODE_GOVERNMENTS	§YGovernments§!
+MAPMODE_GOVERNMENTS_DESC	This map mode shows the different governments.
+#REVOKE_TITLE_INTERACTION_2G	Our $GOVERNMENT$ administration allows us to revoke Emirates without objections from the aristocracy.
+EVTDESC_SoA_566	It's time to rescind that old and absurd decree banning Jews from the realm.
+EVTOPTA_SoA_566	Let such injustices be consigned to history.
+BARONY_DESTROYED	This barony has been destroyed
+DEJURE_LIEGE_STARTS	De Jure Liege
+DEFACTO_LIEGE_STARTS	De Facto Liege
+destroy_settlement	§Y$SETTLEMENT$§! will be destroyed.\n
+make_capital_holding	§Y$SETTLEMENT$§! will become the primary settlement in §Y$COUNTY$§!.\n
+make_primary	Make County Capital
+make_primary_desc	I can make this holding the county capital of this county.
+nomad_ARMY_OF	Nomads of $CHARACTER$
+nomad_ARMY	$CULTURE$ Nomads
+EVTDESC_HL_10101	Warriors serving with your [GetFromRelation] [From.GetFirstName] have sent word to inform you that they have recently observed a marked improvement in [From.GetHerHis] military leadership abilities.
+EVTOPTA_HL_10101	There is no substitute for experience!
+EVTDESC_HL_10201	Rumors reach you regarding [GetFromRelation] [From.GetFirstName], the mercenary. You always knew him as a coward, but now the word is that [From.GetSheHe] has been cured of [From.GetHerHis] shameful fear of battle.
+EVTOPTA_HL_10201	Finally, my [GetFromRelation] is a real [From.GetManWoman]!
+EVTDESC_HL_10211	Life as a mercenary seems to have hardened your [GetFromRelation] [From.GetFirstName]. Words of [From.GetHerHis] courage in battle reach you every so often.
+EVTOPTA_HL_10211	[From.GetHerHisCap] deeds honor the [Root.GetOnlyDynastyName] dynasty!
+EVTDESC_HL_10221	It is said that your [GetFromRelation] [From.GetFirstName] has become known as a very energetic and tenacious mercenary leader.
+EVTOPTA_HL_10221	A fine example to all!
+EVTDESC_HL_10231	People say that your [GetFromRelation] [From.GetFirstName] has changed since [From.GetSheHe] took up leadership of [From.GetHerHis] mercenary band. [From.GetSheHeCap] now rarely shows the kindness to others that [From.GetSheHe] used to be known for.
+EVTOPTA_HL_10231	How this world changes [From.GetMenWomen].
+EVTDESC_HL_10241	It is said that [From.GetHerHis] time as a mercenary leader has changed the outlook of your [GetFromRelation] [From.GetFirstName]. [From.GetSheHeCap] no longer shows the same humble spirit as before.
+EVTOPTA_HL_10241	A predictable effect of [From.GetHerHis] station, surely.
+EVTDESC_HL_10251	During [From.GetHerHis] time as a mercenary leader, your [GetFromRelation] [From.GetFirstName] has become quite famed for [From.GetHerHis] taste for lustful escapades.
+EVTOPTA_HL_10251	Perhaps it was only to be expected.
+EVTDESC_HL_10261	It is said that the mercenaries who serve in your your [GetFromRelation] [From.GetFirstName]'s band all have come to fear [From.GetHerHis] frequent outbursts of rage.
+EVTOPTA_HL_10261	I'm sure they deserve it.
+EVTDESC_HL_10271	Your [GetFromRelation] [From.GetFirstName] has gained a reputation as a very cruel mercenary leader.
+EVTOPTA_HL_10271	People had best not get in [From.GetHerHis] way.
+EVTDESC_HL_10301	News reach you that your [GetFromRelation] [From.GetFirstName] has fought a glorious battle against [FromFrom.GetTitledName].
+EVTOPTA_HL_10301	[From.GetSheHeCap] measures [From.GetHerselfHimself] against the great!
+EVTDESC_HL_10401	Mercenary leaders frequently have to deal with people of foreign cultures and religions. Now people are saying that your [GetFromRelation] [From.GetFirstName] has developed a particular interest in the [merc_location.Holder.Religion.GetName] ways.
+EVTOPTA_HL_10401	So [From.GetSheHe] finds [merc_location.Holder.Religion.GetName]s interesting?
+EVTDESC_HL_10411	You receive news that your [GetFromRelation] [From.GetFirstName] has converted to the [merc_location.Holder.Religion.GetName] faith.
+EVTOPTA_HL_10411	So [From.GetSheHe] worships [merc_location.Holder.Religion.GetRandomGodName] now?
+INTERACTION_REQUIRES_RECIPIENT_NOT_SAME_COURT_AS_SPOUSE	§Y[Recipient.GetTitledFirstName]§! is not in a lesser union and in the same court as [Recipient.GetHerHis] spouse
+nomadic_government	Nomadic
+IS_NOMADIC	Is Nomadic
+ISNT_NOMDAIC	Is NOT Nomadic
+HAVE_GOVERNMENT	Has government §Y$GOVERNMENT$§!
+DONT_HAVE_GOVERNMENT	Does NOT have government §Y$GOVERNMENT$§!
+STAT_POPULATION	Population
+STAT_MANPOWER	Manpower
+STAT_CLAN_SATISFACTION	Clan Satisfaction
+STAT_CLAN_SATISFACTION_DESC	This value represents the satisfaction of the clans in your realm. The clan satisfaction is determined by how equally the realm is split between the clans. Having low clan satisfaction will increase the risk of clan revolts. You can increase clan satisfaction by handing out provinces with empty holdings to your clan vassals.
+INCOME_NOMADIC_TAX	Nomadic Tax
+adventurer	Adventurer
+adventurer_desc	This character has a background as an adventurer, which means that they might be somewhat more ambitious than others.
+mercenary_traditions	Mercenary Traditions
+mercenary_traditions_desc	This character's family has a history of being mercenaries.
+EVTDESC_HL_10601	It is said that your [GetFromRelation] [From.GetFirstName] has turned into a very experienced mercenary commander.
+EVTOPTA_HL_10601	That is good to hear.
+EVTDESC_HL_10610	You have heard interesting rumors at court about your father's past as a mercenary commander.
+EVTOPTA_HL_10610	I should ask my guardian [Guardian.GetTitledFirstName] about it.
+EVTDESC_HL_10611	My ward, [From.GetTitledFirstName], is asking me about [From.GetHerHis] father's past as a mercenary.
+EVTOPTA_HL_10611	Ah, do I have stories for [From.GetHerHim]...
+EVTOPTB_HL_10611	[From.GetSheHeCap] is better off not knowing.
+EVTDESC_HL_10612	My [GetFromRelation] [From.GetFirstName] is asking me about my past as a mercenary.
+EVTDESC_HL_10613	[From.GetTitledFirstName] stayed up late into the night, and [From.GetSheHe] told me many stories of my father's past adventures.
+EVTOPTA_HL_10613	Fascinating!
+EVTDESC_HL_10614	[From.GetFirstName] refused to tell me anything.
+EVTOPTA_HL_10614	But why?
+EVTDESC_HL_10515	Apparently there was a fight between your son and the mercenary [From.GetDynName]. As luck would have it, no one came to harm.
+EVTOPTA_HL_10515	I am glad it ended well.
+EVTDESC_HL_10516	Apparently your son was in a violent fight with his employer's son. It seems that no one came to harm, however.
+EVTOPTA_HL_10516	I am not pleased.
+EVTDESC_HL_10517	Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was wounded.
+EVTOPTA_HL_10517	Woe!
+EVTDESC_HL_10518	Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was lightly injured.
+EVTOPTA_HL_10518	Better luck next time!
+EVTDESC_HL_10519	Apparently there was a fight between your son and the mercenary [From.GetDynName]. Your son was maimed in the fight.
+EVTDESC_HL_10520	Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was maimed.
+EVTOPTA_HL_10520	That's my boy!
+EVTDESC_HL_10521	New reach you that your son has been killed in a fight with the mercenary [From.GetDynName].
+EVTOPTA_HL_10521	I will have my revenge, I swear it!
+EVTDESC_HL_10522	Apparently your son [From.GetFirstName] was in a violent fight with his employer's son, who was killed.
+EVTDESC_HL_10530	That mercenary band that you hired a while back seems to still be in the region.... maybe you should invite the commander to a small feast?
+EVTOPTA_HL_10530	Yes, I think I will!
+EVTOPTB_HL_10530	No, mercenaries are best kept at a proper distance.
+EVTDESC_HL_10532	[From.GetDynName] came to feast with you and you found that you have much in common.
+EVTOPTA_HL_10532	A new friend, maybe I should give [From.GetHerHim] some land...
+EVTDESC_HL_10533	[From.GetTitledName] refused to come and feast with you.
+EVTOPTA_HL_10533	Who does [From.GetSheHe] think [From.GetSheHe] is?
+MUST_NOT_BE_EMPLOYED_MERCENARY	Must not currently be employed
+IS_NOT_OVER_TRADEPOST_LIMIT	Is not over Trade Post Limit (§Y$TRADE_POSTS$§!/§Y$MAX_TRADE_POSTS$§!)
+CALL_ALL_NOT_INDEPENDENT	Cannot Call Tribal or Nomadic Vassals since you are not an independent ruler.
+tribal_contract	Tribal Levies
+tribal_contract_desc	Tribal Levy Laws control the obligations of tribes to provide troops for their liege.
+tribal_contract_0	Minimal Tribal Levies
+tribal_contract_0_desc	The Tribes are expected to provide a small amount of troops for the defense of the realm.
+tribal_contract_1	Normal Tribal Levies
+tribal_contract_1_desc	The Tribes are expected to provide a moderate amount of troops for the defense of the realm.
+tribal_contract_2	Large Tribal Levies
+tribal_contract_2_desc	The Tribes are expected to provide a substantial amount of troops for the defense of the realm.
+tribal_contract_3	Maximum Tribal Levies
+tribal_contract_3_desc	The Tribes are expected to provide a large amount of troops for the defense of the realm.
+tribal_tax	Tribal Taxation
+tribal_tax_desc	Tribes do not generate much gold, but their taxation can be adjusted by laws.
+tribal_tax_0	No Tribal Tax
+tribal_tax_0_desc	Tribes are exempt from taxes.
+tribal_tax_1	Minimal Tribal Tax
+tribal_tax_1_desc	Tribes are expected to make a small financial contribution to the greater good of the realm.
+tribal_tax_2	Medium Tribal Tax
+tribal_tax_2_desc	Tribes are expected to make a moderate financial contribution to the greater good of the realm.
+tribal_tax_3	Large Tribal Tax
+tribal_tax_3_desc	Tribes are expected to make a substantial financial contribution to the greater good of the realm.
+HORDE_CANNOT_BUY_RET_ROOM	\nYou cannot create this Horde, your §YMaximum Manpower§! size has been reached.
+CANNOT_BUY_RET_CURRENT_MANPOWER	\nYou cannot create this retinue, you do not have enough §YManpower§!.
+INTERACTION_REQUIRES_COMMANDER	§Y[Actor.GetTitledFirstName]§! must have an available commander slot that §Y[Recipient.GetTitledFirstName]§! can hold
+CLAN_FALLS_SETUP	Clan Falls
+CLAN_FALLS_LOG	With the death of §Y$CLAN$§!, the mighty clan §Y$DYNASTY$§! has become extinct.
+CLAN_RISES_SETUP	Clan Rises
+CLAN_RISES_LOG	A new clan has risen in $TITLE_ADJ$, under §Y$CLAN$§!.
+opinion_spared_at_blot	Spared at Blot
+nomad	Nomad
+EVTDESC_91377	My husband, [From.GetName], has in a sudden fit of religious piety gone off to join the [From.Liege.PrimaryTitle.GetName]. This effectively annuls our marriage...
+GOOD_RIDDANCE	Good riddance!
+EVTDESC_SoA_2862	My husband, [FromFromFrom.GetName], has gone off to join the [FromFromFrom.Liege.PrimaryTitle.GetName]. This effectively annuls our marriage...
+EVTDESC_SoA_2863	My husband, [From.GetName], has gone off to join the [From.Liege.PrimaryTitle.GetName]. This effectively annuls our marriage...
+LOOTING_ADVENTURER	Is an adventurer.
+LOOTING_ADVENTURER_DESC	Any gold this unit loots will be added to its owner's treasury directly, since it is a raiding adventurer.
+INTERACTION_GOVERNMENT_MUST_MARRY_REGULARLY	$GOVERNMENT$ characters cannot marry Matrilineally
+HORDE_RETINUE_OF	Horde of $CHARACTER$
+HORDE_RETINUES_NOT_REINFORCING	§YHorde is set to not reinforce.§!
+HORDE_RETINUES_HALF_REINFORCING	§YHorde is set to reinforce at half speed.§!
+HORDE_RETINUES_FULL_REINFORCING	§YHorde is set to reinforce at maximum speed.§!
+HORDE_RETINUES_NOT_REINFORCING_BUTTON	§YSet Horde to not reinforce.§!
+HORDE_RETINUES_HALF_REINFORCNIG_BUTTON	§YSet Horde to reinforce at half speed.§!
+HORDE_RETINUES_FULL_REINFORCING_BUTTON	§YSet Horde to reinforce at maximum speed.§!
+HORDE_MIL_RETINUES	Horde
+HORDE_BUY_RETINUE	Create a §Y$NAME$§! horde, this will start out almost empty but reinforce up to the specified size.
+HORDE_RETINUE_UPKEEP	Horde Upkeep
+HORDE_CONFIRM_DISBAND_NO_RET	\nNo Horde will be disbanded.
+HORDE_CONFIRM_DISBAND_RET	\n§RAll Horde troops will be disbanded!§!
+HORDE_CANNOT_BUY_RET_WEALTH	\nYou cannot create this Horde, you cannot afford it.
+HORDE_CREATE_RETINUE_EFFECT	$WHO$ gets a §Y$RETINUE$§! Horde
+HORDE_CAN_BUY_RETINUE_TRIGGER_NOT	$WHO$ does not have at least §Y$NEED$§! unused manpower
+HORDE_CAN_BUY_RETINUE_TRIGGER	$WHO$ has at least §Y$NEED$§! unused manpower
+HORDE_RETINUE_EXPL	§YHorde§!\nThese numbers are the current size of your Horde and the maintenance you pay for it.
+HORDE_RETINUE_EXPL_DEL	Your Horde is your personal professional and standing army ready to do as you order at all times. Your Horde is always on the map and reinforce slowly. The maximum number of Horde regiments you can field depends on your §YMaximum Manpower§!, which is determined by your §YMaximum Population§!.
+RETINUE_EXPL_DEL	Your Retinue is your personal professional and standing army ready to do as you order at all times. Unlike Army Levies, retinues are always on the map and reinforce slowly. The maximum number of retinue regiments you can field depends on your §YMilitary Organization§! technology and the size of all the levies in your realm.
+HORDE_SPLIT_RETINUES_OPTION	Split off Horde
+nomadic_king	Khan
+nomadic_emperor	Khagan
+nomadic_empire	Khaganate
+nomadic_empire_of	Khaganate of
+nomadic_kingdom	Khanate
+nomadic_kingdom_of	Khanate of
+MAKE_TRIBUTARY_EFFECT	§Y$TRIBUTARY$§! becomes tributary of §Y$OVERLORD$§!.
+REMOVE_TRIBUTARY_EFFECT	§Y$TRIBUTARY$§! stops being tributary of §Y$OVERLORD$§!.
+CB_NAME_TRIBUTARY	Make Tributary
+WAR_NAME_TRIBUTARY	$ORDER$$FIRST_ADJ$ War to Make $DEFENDER$ Pay Tribute
+CB_NAME_FREE_TRIBUTARY	Free Tributary
+CLAN_SATISFACTION_REASON	$CLAN$ holds only §R$EMPTY_HOLDINGS$§! empty holdings compared to liege's §Y$LIEGE_EMPTY_HOLDINGS$§!.
+EMPTY_HOLDINGS_LIEGE_CAPITAL	Empty holdings in nomad capital are not included when calculating clan satisfaction.
+EMPTY_HOLDINGS_BY_CLAN	§YEmpty Holdings by Clan§!:
+TITLE_NOT_NOMAD	Title is not a Clan title
+CLAN_NAME	$DYNASTY$ Clan
+INTERACTION_TITLE_NOT_NOMAD	Title cannot be a clan title
+WAR_NAME_FREE_TRIBUTARY	$ORDER$$FIRST_ADJ$ War to Free $ATTACKER$ from Suzerain
+REMOVE_PREVIOUS_SUZERAIN	Remove any previous suzerain of §Y[This.GetTitledFirstName]§!\n
+DISTANCE_FROM_REALM_LESS_THAN	Distance from realm less than 
+DISTANCE_FROM_REALM_AT_LEAST	Distance from realm at least 
+MAX_POPULATION_FORMULA	Maximum Population Formula
+MAX_MANPOWER_FORMULA	Maximum Manpower Formula
+EMPTY_HOLDINGS	Empty Holdings
+alert_decadence_instant	§YDecadent Relatives§!
+alert_decadence_delayed	You have decadent relatives. You should ask them to straighten up or in other ways take care of them.
+HIGH_DECADENCE	Your dynasty is seen as hopelessly decadent. There is a risk of a massive revolt.
+LOW_CLAN_SATISFACTION	The Clans in your realm are deeply dissatisfied with the current distribution of land. There is a risk of a Clan revolt.
+silk_road	Silk Road
+IS_ON_TRADE_ROUTE	Province is located on a major trade route
+IS_PROVINCE_OWNER	Directly Owns Province
+MODIFIER_TRADE_ROUTE_VALUE	Trade Route Income
+CB_NAME_CLAN_REVOLT	Clan Revolt for [Title.GetBaseName]
+WAR_NAME_CLAN_REVOLT	$ORDER$$ATTACKER$ Clan Revolt for $OTHER_TITLE$
+clan_revolt_desc	Clan revolts can rise up if the clan satisfaction is too low, and will try to better distribute the lands in a nomadic realm.
+CLAN_REVOLT	[Root.County.GetAdjective] Clan Revolt
+MODIFIER_TRADE_ROUTE_WEALTH	Trade Route Wealth
+tr_silk_road_1	Silk Road Trade Post
+tr_silk_road_1_desc	This is a small but vibrant trading post on the Silk Road.
+tr_silk_road_2	Silk Road Market
+tr_silk_road_2_desc	This Silk Road trading post has grown into a large town, offering more protection against raiders and brigands and thus attracting more merchants who prefer to stay here and trade.
+tr_silk_road_3	Major Silk Road City
+tr_silk_road_3_desc	This is a major trading hub on the Silk Road, where merchants come from all directions to trade their wares. All goods and services known to civilized man can be found here, and a myriad of languages echo through the many streets and alleys.
+EVTDESC_HL_210	Another clan has risen up in [From.GetName], reinforcing the ongoing revolt!
+TRIBUTARY	Tributary
+UNUSED_MANPOWER	Unused Manpower
+#MAXIMUM_POPULATION	Maximum Population
+RAISED_MANPOWER	Raised Manpower
+MAXIMUM_MANPOWER	Maximum Manpower
+#MONTHLY_POPULATION_GROWTH	Monthly Population Growth
+#MONTHLY_POPULATION_DECLINE	Monthly Population Decline
+MONTHLY_MANPOWER_GROWTH	Monthly Manpower Growth
+MONTHLY_MANPOWER_DECLINE	Monthly Manpower Decline
+TAXABLE	Taxable
+ERA_CHAR_INFO_30809	Isabelle was born in 1212 in southern Italy as the only child of Maria de Montferrat, Queen of Jerusalem. Her mother died shortly after giving birth, and the newborn Isabelle was proclaimed Queen with her father Jean de Brienne acting as her regent. At the age of 13, Isabelle was wed to the Holy Roman Emperor Friedrich II, effectively being used as a pawn to encourage the Emperor to participate in the Fifth Crusade. The wedding saw the Emperor crowned King of Jerusalem and Isabelle’s father stripped of all his powers. Isabelle herself was kept in seclusion by her husband. She lost a baby daughter before herself dying while giving birth to her son Conrad in 1228. Shortly after her death, Friedrich finally embarked on the promised crusade.
+ERA_CHAR_INFO_93052	Inheriting the Khwarezmian Empire after the death of his father, Mohammed was immediately faced with an invasion by the Ghurids. Several chaotic years of intermittent war between the Khwarezmids, Ghurids and the Kara-Khitans ensued. Mohammed was at one point taken prisoner and held captive in the Kara-Khitan Khanate for a year, but changing fortunes would see him come out on top against his enemies, and he eventually managed to conquer Samarkand, Balochistan and Afghanistan and declare himself Shah. His reign came to an end sooner than expected, however, as Genghis Khan and the Mongols entered the scene in 1218. Within two short years, the Mongols had overrun his domain and he died a fugitive on a small island in the Caspian Sea in 1220.
+ERA_CHAR_INFO_170193	Mystery surrounds Iltutmish’s early years, though it is said he was named for an eclipse that occurred during his birth. He was sold into slavery at an early age, and eventually ended up being bought by Aibak, the ruler of Lahore. Aibak valued his new servant highly and kept giving Iltutmish increasing responsibilities and corresponding honors, eventually marrying him to his own daughter. When Aibak died in 1210, Iltutmish enjoyed strong support as he claimed the throne. Years of turmoil ensued as he fought off contenders and then strengthened his position. He subsequently managed to avoid open conflict with the Mongols, founding the Delhi Sultanate that was to last into the 16th century.
+ERA_CHAR_INFO_125501	Temujin was born in Mongolia, the son of the leader of the Borjigin clan. He was only a child when his father died, and he and his mother were ostracized from the clan due to his young age and competing pretenders. Once he reached maturity, however, Temujin began to forge his own destiny. Over several decades, he increased his reputation and prestige among his people, and eventually led them in the successful conquest of all Mongolia. After this, he went on to conquer northern China, all of Central Asia and parts of Persia and the western steppes. He became recognized as one of the greatest conquerors in the history of humanity, and the Mongols would continue expanding on these conquests after his death.
+HAS_LOWER_CLAN_SATISFACTION_THAN	Have lower Clan Satisfaction than 
+HAS_HIGHER_CLAN_SATISFACTION_THAN	Have higher Clan Satisfaction than 
+HAS_LOWER_MANPOWER_THAN	Have lower Manpower than 
+HAS_HIGHER_MANPOWER_THAN	Have higher Manpower than 
+HAS_LOWER_MAX_MANPOWER_THAN	Have lower Max Manpower than 
+HAS_HIGHER_MAX_MANPOWER_THAN	Have higher Max Manpower than 
+HAS_LOWER_MANPOWER_GROWTH_THAN	Have lower Manpower Growth than 
+HAS_HIGHER_MANPOWER_GROWTH_THAN	Have higher Manpower Growth than 
+HAS_LOWER_POPULATION_THAN	Have lower Population than 
+HAS_HIGHER_POPULATION_THAN	Have higher Population than 
+HAS_LOWER_MAX_POPULATION_THAN	Have lower Max Population than 
+HAS_HIGHER_MAX_POPULATION_THAN	Have higher Max Population than 
+HAS_LOWER_POPULATION_GROWTH_THAN	Have lower Population Growth than 
+HAS_HIGHER_POPULATION_GROWTH_THAN	Have higher Population Growth than 
+khalka	Khalka
+buryat	Buryat
+naiman	Naiman
+oirat	Oirat
+uyghur	Uyghur
+basmyl	Basmyl
+yagma	Yagma
+chigil	Chigil
+khitan	Khitan
+sogdian	Sogdian
+nomad_succession	Nomad Succession
+succ_nomadic	Nomad Succession
+TITLE_NEW_PRIMARY_IS_NOMADIC	§RNomads cannot set Primary Title!§!
+tributary_cb_desc	Make the target realm your tributary forcing them to pay you 40% of their monthly income in tribute to you.
+CALL_ALL_TRIBAL_CONTROL	Cannot Call Tribal or Nomadic Vassals as they give us Liege Levies instead
+CALL_ALL_NOT_TRIBAL	Cannot Call Tribal or Nomadic Vassals since you are not Tribal
+CALL_ALL_TRIBAL_VASSALS	Call all Tribal and Nomadic Vassals to War
+NOMAD_CANT_BUILD_HOLDINGS_DESC	Empty Holding slots actually provide more population and manpower for Nomads, which allows bigger armies and more taxes. To build proper Holdings you need to become either a Feudal state or a Republic (check your Decisions.)
+enables_tribal_levy_laws	Enables Tribal Levy Laws.\n
+disables_tribal_levy_laws	Disables Tribal Levy Laws\n
+enables_tribal_tax_laws	Enables Tribal Tax Laws\n
+disables_tribal_tax_laws	Disables Tribal Tax Laws\n
+CB_NAME_RIVALRY	Rivalry
+rivalry_cb_desc	§Y$TARGET$§! is your bitter rival and you can't imagine anything better than throwing the blighter into your dungeons.
+WAR_NAME_RIVALRY	$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ Rivalry War
+TRIBUTARY_RELATIONSHIP	§Y$TRIBUTARY$§! is a tributary of §Y$SUZERAIN$§!.
+AIREASON_TRIBUTARY_WAR_AGAINST_TRIBUTARY	Tributary war against my Tributary
+AIREASON_WAR_AGAINST_TRIBUTARY	War against my Tributary
+AIREASON_WAR_FROM_TRIBUTARY	Interests in my Tributary
+AIREASON_ENEMY_IS_TRIBUTARY	Enemy is my Tributary
+NOT_USES_DECADENCE	Does NOT use Decadence
+USES_DECADENCE	Use Decadence
+EVTDESC_HL_5000	A traveller from the east reaches your court along with his personal bodyguard. Reading from a scroll, he states that the Great Emperor of China demands a tribute of a thousand 'heavenly horses' from your lands.
+EVTOPTA_HL_5000	These are the finest and strongest horses.
+EVTOPTB_HL_5000	Your Emperor has no power here!
+EVTDESC_HL_5001	Another envoy from China arrives at your court. He tells you that he himself is a gift - a token of gratitude from the Emperor - and that he is an excellent governor of trade if you need his services.
+EVTOPTA_HL_5001	I'll let him govern the trade.
+EVTOPTB_HL_5001	He can muck the stables.
+EVTOPTC_HL_5001	Politely decline the offer.
+EVTDESC_HL_5005	I've noticed an increase in traders coming from the east since I employed [chinese_envoy.GetBestName] as a trade governor.
+EVTOPTA_HL_5005	Let the silk flow.
+EVTDESC_HL_5006	[chinese_envoy.GetBestName] has managed to acquire a collection of rare gemstones on your behalf.
+EVTOPTA_HL_5006	Sell them for profit.
+EVTOPTB_HL_5006	These will fit great in a pendant.
+EVTOPTC_HL_5006	I'll make some earrings for my [Root.Spouse.GetHusbandWife].
+EVTDESC_HL_5007	A couple of travelling merchants claim that their goods were stolen while they stayed on your premises.
+EVTOPTA_HL_5007	Apologize and reimburse them.
+EVTOPTB_HL_5007	That's their loss.
+EVTDESC_HL_5008	Enthusiastic and blabbering [chinese_envoy.GetFirstName] pulls a large sack into the room. [chinese_envoy.GetSheHeCap] apparently found valuable goods laying on the premises and wants to share it with you.
+EVTOPTA_HL_5008	I wonder if this is just a coincidence?
+EVTOPTB_HL_5008	Find the merchants and return their lost cargo.
+EVTDESC_HL_5017	[From.GetBestName] entered my chamber with [From.GetHerHis] newly acquired pet snake wrapped around [From.GetHerHis] neck. [From.GetSheHeCap] asks if I want to pet it.
+EVTOPTA_HL_5017	I hope it doesn't bite.
+EVTOPTB_HL_5017	It seems a bit dangerous.
+EVTOPTC_HL_5017	Forbid [chinese_envoy.GetHerHim] from keeping the snake.
+EVTDESC_HL_5011OTHER	I hear a scream outside and rush out only to see [From.GetFirstName]'s snake swallowing the dog of [FromFrom.GetFirstName] in a single gulp.
+EVTOPTA_WOL_5011	That's the way of life.
+EVTOPTB_WOL_5011	Someone slay that beast before it does more harm!
+EVTDESC_HL_5011SELF	I hear a dog barking outside and rush out only to see [From.GetFirstName]'s dastardly snake swallowing my beloved dog in a single gulp.
+EVTOPTC_WOL_5011_FAITHFUL	Poor Faithful!
+EVTOPTC_WOL_5011_HUNTER	Poor Hunter!
+EVTOPTC_WOL_5011_TRICKY	Poor Tricky!
+EVTOPTC_WOL_5011_LUCIFER	Poor Lucifer!
+EVTOPTC_WOL_5011_SHAYTAN	Poor Shaytan!
+EVTOPTC_WOL_5011_FENRIR	Poor Fenrir!
+EVTOPTC_WOL_5011_ERLIK	Poor Erlik!
+EVTOPTC_WOL_5011_VELNIAS	Poor Velnias!
+EVTOPTC_WOL_5011_TUONI	Poor Tuoni!
+EVTOPTC_WOL_5011_XOLOTL	Poor Xolotl!
+EVTOPTC_WOL_5011_VELES	Poor Veles!
+EVTOPTC_WOL_5011_GURUHI	Poor Guruhi!
+EVTOPTC_WOL_5011_DARKNESS	Poor Darkness!
+EVTOPTC_WOL_5011_AHRIMAN	Poor Ahriman!
+EVTOPTC_WOL_5011_SATAN	Poor Satan!
+EVTOPTC_WOL_5011_VINAYAKA	Poor Vinayaka!
+EVTOPTC_WOL_5011_MARA	Poor Mara!
+EVTOPTC_WOL_5011_PUNISHER	Poor Punisher!
+EVTOPTD_WOL_5011	I'll have [FromFrom.GetHerHis] head for this!
+EVTDESC_HL_5014	You are out taking a walk together with [FromFrom.GetFirstName] when [From.GetFirstName] approaches you with a concern. According to Chinese law [From.GetSheHe] is required to get a woman to continue his services more permanently.
+EVTOPTA_HL_5014	Ahem.. We were just discussing that matter, [FromFrom.GetFirstName]. Right?
+EVTOPTB_HL_5014	I guess I have no more need of your services then.
+EVTDESC_HL_5016	Dust rise in your wake as you head for the local tavern with heavy steps. As you enter, you instantly notice [From.GetFirstName], seemingly involved in a game of chance. You approach [From.GetHerHim] and realize that [From.GetSheHe] is betting your money on games of chance... and losing. [From.GetFirstName] looks up at you with a smile and says: 'Hey. Your drinksch are taschty'.
+EVTOPTA_HL_5016	Just stay away from these people.
+EVTOPTB_HL_5016	Arrest this [From.GetManWoman].
+EVTDESC_HL_5045	[Root.GetTitledFirstName],\n\nI hereby inform you that I'm leaving the position at your court because of the less than preferable way that you have treated me.\n\nSigned\n[From.GetFirstName]
+EVTOPTA_HL_5045	That's too bad.
+EVTDESC_HL_5048	[Root.GetTitledFirstName]\n\nYour insolence has not gone unnoticed. I will henceforth punish all travellers who are suspected of having have visited your city. \n\nSigned,\nThe Emperor.
+EVTOPTA_HL_5048	This could be bad for trade.
+EVTDESC_HL_5050	Reports have reached us that traders and travellers are being harassed by raiders in your lands of [Root.GetName].
+EVTOPTA_HL_5050	I'll let them continue if they share the loot.
+EVTOPTB_HL_5050	Send my marshal to hunt them down.
+EVTOPTC_HL_5050	Ready my horse. I'll get rid of the scoundrel.
+LOST_CONTROL_PROVINCE	Lost control of §Y$PROVINCE$§W
+HAS_CONTROL_PROVINCE	Occupation of §Y$PROVINCE$§W
+NOMAD_TECH_POINTS	Nomads do not generate technology points.
+fort	Fort
+convert_fort_to_city	Upgrade to City
+convert_fort_to_castle	Upgrade to Castle
+convert_fort_to_temple	Upgrade to Temple
+convert_fort_to_tribal	Upgrade to Tribal
+HOLY_SITE_NO_SETTLEMENT	(not settled)
+CANNOT_BUILD	Your government doesn't allow you to build this.
+b_argh	Argh
+b_anthrachs	Anthrachs
+b_dunkheger	Dünkheger
+b_muztau	Muztau
+b_kyzyl	Kyzyl
+b_otuken	Ötüken
+b_erchis	Erchis
+b_gorgol	Gorgol
+b_khangai	Khangai
+b_kara_khorum	Kara Khorum
+b_baygal	Baygal
+b_aj_bogd	Aj Bogd
+b_ikh_bogd	Ikh Bogd
+b_tsagaannuur	Tsagaanuur
+b_yarkand	Yarkand
+b_kashgar	Kashgar
+b_aksu_mongolia	Aksu
+b_tumshuk	Tumshuk
+b_khotan	Khotan
+b_keriya	Keriya
+b_niya	Niya
+b_cherchen	Cherchen
+b_charkliq	Charkliq
+b_miran	Miran
+b_karashar	Karashar
+b_kucha	Kucha
+b_kara_khoja	Kara Khoja
+b_luntai	Luntai
+b_dunhuang	Dunhuang
+b_anxi	Anxi
+b_kumul	Kumul
+b_gobi	Gobi
+d_trondelag	Nidaros
+c_trondelag	Nidaros
+c_trondelag_adj	Trondish
+PROV275	Nidaros
+PROV1438	Yarkand
+PROV1439	Kashgar
+PROV1440	Khotan
+PROV1441	Cherchen
+PROV1442	Charkliq
+PROV1443	Karashar
+PROV1444	Kucha
+PROV1445	Aksu
+PROV1446	Kara Khoja
+PROV1447	Loulan
+PROV1448	Dunhuang
+PROV1449	Luntai
+PROV1450	Kumul
+PROV1451	Altay
+PROV1452	Dünkheger
+PROV1453	Aj Bogd
+PROV1454	Muztau
+PROV1455	Tsagaannuur
+PROV1456	Ikh Bogd
+PROV1457	Kara Khorum
+PROV1458	Khangai
+PROV1459	Kyzyl
+PROV1460	Baygal
+PROV1461	Ötüken
+PROV1462	Gorgol
+PROV1463	Erchis
+PROV1408	Anxi
+empire_of_altaic	Empire of
+duke_sogdian	Ikhshid
+create_title_interaction_TITLE	Create Title
+destroy_title_interaction_TITLE	Destroy
+make_primary_title_interaction_TITLE	Make Primary Title
+make_primary_title_interaction_DESC	I can declare this my primary title.
+UNREFORMED_TRIBAL_VASSAL_OPINION	Unreformed Pagan Tribal Vassal Opinion
+EVTDESC8031	For too long, you have restricted our rights. The time has come to Lower Tribal Organization! With your regent, [Root.Regent.GetTitledName], among my supporters you have no other choice than to accept.\n\nSigned,\n[From.GetTitledName]
+tribal_contract_0_option	Min
+tribal_contract_1_option	Normal
+tribal_contract_2_option	Large
+tribal_contract_3_option	Max
+tribal_tax_0_option	None
+tribal_tax_1_option	Min
+tribal_tax_2_option	Medium
+tribal_tax_3_option	Large
+TRIBAL_CANT_BUILD_HOLDINGS_DESC	Empty Holding slots actually provide more troops for Tribes. To build proper Holdings you need to become either a Feudal state or a Republic (check your Decisions.)
+GREAT	Great!
+GLORY	Glory!
+alert_powerful_factions_name	Dangerous Factions
+has_fewer_trade_post_than	Has fewer than §Y$NUM$§! Trade Posts
+has_more_trade_post_than	Has at least §Y$NUM$§! Trade Posts
+num_trade_post_diff_lower_than	Difference between §Y$FIRST$§! and §Y$SECOND$§!'s Trade Posts lower than §Y$VAL$§!
+num_trade_post_diff_at_least	Difference between §Y$FIRST$§! and §Y$SECOND$§!'s Trade Posts at least §Y$VAL$§!

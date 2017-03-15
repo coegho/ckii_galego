@@ -1,0 +1,1812 @@
+#CODE	ENGLISH
+haughty	Haughty
+#haughty_desc	This child is proud and vain, convinced of their own superiority.
+affectionate	Affectionate
+#affectionate_desc	This child is kind and is quick to show love and affection.
+timid	Timid
+#timid_desc	This child is shy and quiet and usually avoids open conflicts.
+rowdy	Rowdy
+#rowdy_desc	This child is loud and lively and usually prefers rough physical activity over calmer pursuits.
+willful	Willful
+#willful_desc	This child is stubborn and strong-willed, and doesn't obey or give way easily.
+brooding	Brooding
+#brooding_desc	This child is a quiet thinker, often sitting inside in deep ponderings as others play outside in the sun.
+indolent	Indolent
+#indolent_desc	This child is very averse to any kind of exertion, be it mental or physical.
+playful	Playful
+#playful_desc	This child loves to engage in fun and games, almost always turning any activity into an excuse to play.
+conscientious	Conscientious
+#conscientious_desc	This child is unusually scrupulous and responsible, taking delight in completing any chores and tasks to perfection.
+fussy	Fussy
+#fussy_desc	This child is very particular about details which seem trivial to others, sometimes to the point of causing anxiety and frustration.
+curious	Curious
+#curious_desc	This child has an inquisitive nature and is constantly asking questions and poking around looking for new and interesting things.
+idolizer	Idolizer
+#idolizer_desc	This child is easily impressed and also has a fervent desire to seek for ultimate truths.
+no_objective_title	No Focus Chosen
+focus_ch_pride	Pride
+focus_ch_pride_title	Pride
+focus_ch_pride_desc	[This.GetTitledFirstName] is tutored by councillors and noblemen, being groomed for rulership. Common trait outcomes for this Focus are §YHaughty§! and §YBrooding§!.
+focus_ch_humility	Humility
+focus_ch_humility_title	Humility
+focus_ch_humility_desc	[This.GetTitledFirstName] is tutored by servants at court, focusing on service and humility. Common trait outcomes for this Focus are §YTimid§! and §YAffectionate§!.
+focus_ch_duty	Duty
+focus_ch_duty_title	Duty
+focus_ch_duty_desc	[This.GetTitledFirstName] is tutored by guards and retainers at court, focusing on duty and diligence. A common trait outcome for this Focus is §YConscientious§!.
+focus_ch_etiquette	Etiquette
+focus_ch_etiquette_title	Etiquette
+focus_ch_etiquette_desc	[This.GetTitledFirstName] is tutored by councillors and other courtiers, focusing on courteous behavior and etiquette. Common trait outcomes for this Focus are §YPlayful§! and §YIndolent§!.
+focus_ch_thrift	Thrift
+focus_ch_thrift_title	Thrift
+focus_ch_thrift_desc	[This.GetTitledFirstName] is tutored by artisans and merchants, focusing on mathematics and invention. Common trait outcomes for this Focus are §YCurious§! and §YFussy§!.
+focus_ch_faith	Faith
+focus_ch_faith_title	Faith
+focus_ch_faith_desc	[This.GetTitledFirstName] is tutored by priests, focusing on the §Y[This.Educator.Religion.GetName]§! faith and religious learning. A common trait outcome for this Focus is §YIdolizer§!.
+focus_ch_struggle	Struggle
+focus_ch_struggle_title	Struggle
+focus_ch_struggle_desc	[This.GetTitledFirstName] is very loosely tutored, chiefly being left to [This.GetHerHis] own devices and competing with other children. Common trait outcomes for this Focus are §YRowdy§! and §YWillful§!.
+focus_ch_heritage	Heritage
+focus_ch_heritage_title	Heritage
+focus_ch_heritage_desc	[This.GetTitledFirstName] is tutored by various courtiers and family members, focusing on assimilating §Y[This.Educator.Culture.GetName]§! culture and the §Y[This.Educator.Religion.GetName]§! faith. No specific traits are associated with this Focus.
+focus_ed_diplomacy	Diplomacy
+focus_ed_diplomacy_title	Diplomatic Education
+focus_ed_diplomacy_desc	[This.GetTitledFirstName] focuses [This.GetHerHis] studies on the ways of diplomacy and statesmanship.\n§GAffectionate§! and §GCurious§! children will do better with this education, while §RWillful§! and §RFussy§! children will be hampered.
+focus_ed_martial	Martial
+focus_ed_martial_title	Martial Education
+focus_ed_martial_desc	[This.GetTitledFirstName] focuses [This.GetHerHis] studies on the ways of military strategy and war.\n§GRowdy§! and §GWillful§! children will do better with this education, while §RTimid§! children and §RIdolizers§! will be hampered.
+focus_ed_stewardship	Stewardship
+focus_ed_stewardship_desc	[This.GetTitledFirstName] focuses [This.GetHerHis] studies on bookkeeping and administration.\n§GBrooding§! and §GConscientious§! children will do better with this education, while §RIndolent§! and §RHaughty§! children will be hampered.
+focus_ed_stewardship_title	Stewardship Education
+focus_ed_intrigue	Intrigue
+focus_ed_intrigue_title	Intrigue Education
+focus_ed_intrigue_desc	[This.GetTitledFirstName] focuses [This.GetHerHis] studies on the ways of intrigue and acting in the shadows.\n§GPlayful§! and §GFussy§! children will do better with this education, while §RRowdy§! and §RAffectionate§! children will be hampered.
+focus_ed_learning	Learning
+focus_ed_learning_title	Learning Education
+focus_ed_learning_desc	[This.GetTitledFirstName] focuses [This.GetHerHis] studies on learning, philosophy and religion.\n§GTimid§! children and §GIdolizers§! will do better with this education, while §RBrooding§! and §RPlayful§! children will be hampered.
+INSULT_USELESS	useless
+INSULT_SNEAK	sneak
+silence_is_golden	Silence is Golden
+silence_is_golden_desc	This character wisely chose to keep quiet.
+EVTDESCA_ZE_12000	I've come across [haughty_events_char_1.GetTitledFirstNameWithNick] kissing one of the servant folk in a hallway.
+EVTOPTA_ZE_12000	It's inappropriate, and I will tell [haughty_events_char_1.GetHerHim]!
+EVTOPTB_ZE_12000	It's our secret, right?
+EVTDESCB_ZE_12000	Walking across the yard, I see [haughty_events_char_1.GetTitledFirstName] angrily beating a dog with a heavy stick.
+EVTDESCC_ZE_12000	Walking outside, I come upon some commoners along the road. One of them calls out, saying I look lovely today.
+EVTOPTE_ZE_12000	I'll see him punished for addressing me like that!
+EVTOPTF_ZE_12000	I'll nod and accept the compliment graciously.
+EVTOPTE_ZE_12000_TOOLTIP1	Peasants get angry.
+EVTOPTE_ZE_12000_TOOLTIP2	Peasants are subdued.
+EVTOPTC_ZE_12000	I'll pick up a stick and beat him instead!
+EVTOPTD_ZE_12000	I think I'll join in!
+EVTDESCA_ZE_12002	As I'm spending a pleasant moment alone with the attractive cook, the wretched child [From.GetFirstName] comes upon us and promptly starts chiding me about morals!
+EVTDESCB_ZE_12002	As I'm spending a pleasant moment alone with the attractive cook, young [From.GetFirstName] comes upon us. However, [From.GetSheHe] only winks in complicity and sneaks away.
+EVTOPTA_ZE_12002	I'll catch the brat and give [From.GetHerHim] a good hiding!
+EVTOPTB_ZE_12002	It doesn't matter.
+#EVTOPTC_ZE_12002	I should bring [FRom.GetHerHim] soime candy later.
+EVTDESCA_ZE_12004	[From.GetTitledFirstName] didn't take kindly to my chiding. [From.GetSheHeCap] caught me and gave me a good beating.
+EVTOPTA_ZE_12004	The [GetRootFromInsult]! I will tell everyone!
+EVTOPTB_ZE_12004	I'll hide so [From.GetSheHe] doesn't find me again.
+EVTDESCA_ZE_12006	[From.GetFirstName], the [GetRootFromInsult], went around and told everyone lies about me, as childish revenge for the deserved beating I gave [From.GetHerHim].
+EVTDESCB_ZE_12006	As I turned, the dog bit me in the ankle and [From.GetFirstName] managed to get away, but has since been skulking around eyeing me with hatred.
+EVTDESCC_ZE_12002	As I'm beating a rabid dog in the yard, the little cur [From.GetFirstName] runs up and starts hitting me with a stick.
+EVTDESCD_ZE_12002	As I'm beating a rabid dog in the yard, little [From.GetFirstName] runs up and joins in the beating.
+EVTOPTD_ZE_12002	I'll show the [GetRootFromInsult]!
+EVTOPTE_ZE_12002	How weak, how adorable.
+EVTOPTF_ZE_12002	There's room for everyone.
+EVTDESCB_ZE_12004	As I hit [From.GetHerHim], [From.GetTitledFirstName] turned [From.GetHerHis] anger on me but I managed to escape as the dog bit [From.GetHerHim] in the ankle.
+EVTOPTC_ZE_12004	[From.GetSheHeCap] will find I am a fierce enemy!
+EVTOPTD_ZE_12004	Now, where are my toys...?
+opinion_complicity	Complicity
+opinion_contempt	Contempt
+EVTDESCC_ZE_12004	My treatment of that uppity peasant had the unfortunate effect of making more of them angry.
+EVTDESCD_ZE_12004	My treatment of that uppity peasant really put him and the others in their place.
+EVTOPTE_ZE_12004	We'll deal with them as they deserve.
+EVTOPTF_ZE_12004	I know how to handle these things.
+EVTDESCA_ZE_13001	I am practically an adult now, and people had better listen to me if they know what's good for them.
+EVTDESCB_ZE_13001	Rules are for the weak. I know what I want.
+EVTDESCC_ZE_13001	I know my worth, and people had better not stand in my way.
+EVTOPTA_ZE_13001	I shall bow to no one.
+EVTOPTB_ZE_13001	And I know where to get it.
+EVTOPTC_ZE_13001	If they protest I will crush them.
+EVTDESCA_ZE_13002	Young [From.GetFirstName] is showing strong tendencies towards prideful behavior.
+EVTDESCB_ZE_13002	Young [From.GetFirstName] is developing an arbitrary streak. It's showing more clearly every day.
+EVTDESCC_ZE_13002	Young [From.GetFirstName] is showing much petty cruelty towards others.
+EVTOPTA_ZE_13002	[From.GetSheHeCap] should show more ambition.
+EVTOPTB_ZE_13002	It's fine, I don't need more competition.
+haughty_may_become_ambitious	Chance of [From.GetFirstName] becoming Ambitious.
+EVTDESCA_ZE_13004	[From.GetTitledFirstName] disapproves of my tendencies towards pride and has told me that I should show more ambition.
+EVTDESCB_ZE_13004	[From.GetTitledFirstName] disapproves of my tendencies towards arbitrariness and has told me that I should show more ambition.
+EVTDESCC_ZE_13004	[From.GetTitledFirstName] disapproves of my tendencies towards cruelty and has told me that I should show more ambition.
+EVTOPTA_ZE_13004	[From.GetSheHeCap] is right - I am destined for greatness.
+EVTOPTB_ZE_13004	[From.GetSheHeCap] can't tell me what to do!
+EVTOPTC_ZE_13004	Yes, [From.GetTitledFirstName]'.
+EVTOPTD_ZE_13004	[From.GetSheHeCap]'ll be lucky if I don't poison [From.GetHerHis] food.
+EVTDESCA_ZE_13011	I find that it brings me great joy to bring joy to others.
+EVTDESCB_ZE_13011	I get on well with others, while some people only chase ambitions and get into needless conflicts.
+EVTDESCC_ZE_13011	I have learned that most people are kind, and it brings no benefit to walk with mistrust and suspicion.
+EVTOPTA_ZE_13011	Kindness binds us all together.
+EVTOPTB_ZE_13011	I have what I need right here.
+EVTOPTC_ZE_13011	Why would anyone want to harm me?
+EVTDESCA_ZE_13012	Young [From.GetFirstName] is developing a kind disposition towards others.
+EVTDESCB_ZE_13012	Young [From.GetFirstName] is very easily satisfied and obviously lacking in ambition.
+EVTDESCC_ZE_13012	Young [From.GetFirstName] seems to trust everyone, lacking any notion of the evil in man.
+EVTOPTA_ZE_13012	[From.GetSheHeCap] should be more charitable.
+EVTOPTB_ZE_13012	[From.GetSheHeCap] can only be [From.GetHerselfHimself].
+affectionate_may_become_charitable	Chance of [From.GetFirstName] becoming Charitable.
+EVTDESCA_ZE_13014	[From.GetTitledFirstName] says [From.GetSheHe] appreciates my kind disposition but thinks I could do even more to help others.
+EVTDESCB_ZE_13014	[From.GetTitledFirstName] says [From.GetSheHe] thinks I am being too passive and would like me to do more to help others in need.
+EVTDESCC_ZE_13014	[From.GetTitledFirstName] would like me to be less naive and make more efforts to actually help others.
+EVTOPTA_ZE_13014	[From.GetSheHeCap] is right, I should do more.
+EVTOPTB_ZE_13014	I will try.
+EVTOPTC_ZE_13014	I help when I can, but rarely see a need.
+EVTOPTD_ZE_13014	But the [Root.TopLiege.GetTitle] provides for all, surely?
+EVTDESCA_ZE_13021	As I keep getting older, I find that humility comes naturally to me.
+EVTDESCB_ZE_13021	I've always felt more comfortable being silent and letting others talk.
+EVTDESCC_ZE_13021	As I learn more about life, I find it is generally wise to stay out of danger as much as possible.
+EVTOPTA_ZE_13021	I should avoid the dangers of pride.
+EVTOPTB_ZE_13021	There is no need to be noisy.
+EVTOPTC_ZE_13021	Only the foolish take risks.
+EVTDESCA_ZE_13022	Young [From.GetFirstName] is developing a demeanor of natural humility.
+EVTDESCB_ZE_13022	I have observed that young [From.GetFirstName] usually tries to stay out of the way of others.
+EVTDESCC_ZE_13022	Young [From.GetFirstName] seems to constantly avoid taking any risks.
+EVTOPTA_ZE_13022	[From.GetSheHeCap] shouldn't try so hard.
+EVTOPTB_ZE_13022	All is as it should be.
+timid_may_become_content	Chance of [From.GetFirstName] becoming Content.
+EVTDESCA_ZE_13024	[From.GetTitledFirstName] says I shouldn't try so hard to be humble but instead just be myself.
+EVTDESCB_ZE_13024	[From.GetTitledFirstName] says I am too shy and should try to relax more and just be myself among people.
+EVTDESCC_ZE_13024	[From.GetTitledFirstName] says I am too fearful and should try to relax more and just be myself
+EVTOPTA_ZE_13024	[From.GetSheHeCap] is right, I should let go of it.
+EVTOPTB_ZE_13024	I'm not trying, it's who I am.
+EVTOPTC_ZE_13024	I'd rather be myself by myself.
+EVTOPTD_ZE_13024	There is nothing wrong with being cautious.
+EVTDESCA_ZE_13031	I like to climb, wrestle and run - and as I grow older I am beginning to notice that I am physically stronger than others.
+EVTDESCB_ZE_13031	I like to play hard and talk straight. I have no time for nonsense.
+EVTDESCC_ZE_13031	Playing outside and scratching my knees has taught me to act quickly without unnecessary pause for thinking.
+EVTOPTA_ZE_13031	It feels good to be strong!
+EVTOPTB_ZE_13031	I will always speak my mind.
+EVTOPTC_ZE_13031	Thinking was never my strong side anyway!
+EVTDESCA_ZE_13032	Young [From.GetFirstName] loves physical games and is developing a strong physique.
+EVTDESCB_ZE_13032	Young [From.GetFirstName] plays hard and talks straight.
+EVTDESCC_ZE_13032	Young [From.GetFirstName] is showing tendencies to be more of a doer than a thinker. Yes, that would be a kind way to describe it...
+EVTOPTA_ZE_13032	I should focus on teaching [From.GetHerHim] bravery.
+EVTOPTB_ZE_13032	[From.GetSheHeCap] should do [From.GetHerHis] own thing.
+rowdy_may_become_brave	Chance of [From.GetFirstName] becoming Brave.
+EVTDESCA_ZE_13034	[From.GetTitledFirstName] sees that I am growing stronger but tries to encourage me to be more courageous.
+EVTDESCB_ZE_13034	[From.GetTitledFirstName] appreciates my honest ways but tries to encourage me to be more courageous.
+EVTDESCC_ZE_13034	[From.GetTitledFirstName] says I need to put more thought into my actions, but without compromising my physical courage.
+EVTOPTA_ZE_13034	Yes, I want to be brave like [From.GetHerHim]!
+EVTOPTB_ZE_13034	My strength is all I need.
+EVTOPTC_ZE_13034	Honestly, I don't care.
+EVTOPTD_ZE_13034	I don't even know what that means.
+EVTDESCA_ZE_13041	I've read about the great [Root.GetMenWomen] in history, and someday I want to be like them.
+EVTDESCB_ZE_13041	I know what I can do and have no reason to be afraid of anything.
+EVTDESCC_ZE_13041	I've learned that if I put my mind to something I will usually get it.
+EVTOPTA_ZE_13041	I will be the greatest.
+EVTOPTB_ZE_13041	What is there to fear? Nothing.
+EVTOPTC_ZE_13041	I was just born stubborn.
+EVTDESCA_ZE_13042	[From.GetFirstName] is developing into an ambitious young [From.GetManWoman].
+EVTDESCB_ZE_13042	Young [From.GetFirstName] is more and more becoming known for [From.GetHerHis] great bravery.
+EVTDESCC_ZE_13042	Young [From.GetFirstName] is developing a stubborn streak.
+EVTOPTA_ZE_13042	I should teach [From.GetHerHim] to be more proud instead.
+EVTOPTB_ZE_13042	[From.GetSheHeCap] could never be like me anyway.
+willful_may_become_proud	Chance of [From.GetFirstName] becoming Proud.
+EVTDESCA_ZE_13044	[From.GetTitledFirstName] says that my ambition is good but [From.GetSheHe] thinks I should be more proud of what I have.
+EVTDESCB_ZE_13044	[From.GetTitledFirstName] approves of my bravery but thinks I should be more proud of my achievements.
+EVTDESCC_ZE_13044	[From.GetTitledFirstName] thinks I should be proud of what I have but try to be less stubborn.
+EVTOPTA_ZE_13044	[From.GetSheHeCap] is right, I should be proud!
+EVTOPTB_ZE_13044	But I don't have enough!
+EVTOPTC_ZE_13044	I have nothing yet, but [Root.GetSheHe] who dares wins!
+EVTOPTD_ZE_13044	I'll decide for myself, thank you.
+EVTDESCA_ZE_13051	The more I think about it, the more I see that fairness and justice are things worth striving for.
+EVTDESCB_ZE_13051	The world is full of things that make me angry.
+EVTDESCC_ZE_13051	The more I think about it, the more I see how things are wrongfully denied me.
+EVTOPTA_ZE_13051	It's what separates us from the wild beasts.
+EVTOPTB_ZE_13051	I can't stand it sometimes!
+EVTOPTC_ZE_13051	It should all be mine.
+EVTDESCA_ZE_13052	Young [From.GetFirstName] seems to think a lot about justice, fairness and righting the many wrongs in the world.
+EVTDESCB_ZE_13052	I have noticed that young [From.GetFirstName] seems to carry a lot of anger around.
+EVTDESCC_ZE_13052	Young [From.GetFirstName] seems to be envious of everything and everyone.
+EVTOPTA_ZE_13052	[From.GetSheHeCap] should learn temperance.
+EVTOPTB_ZE_13052	I should resist the temptation to intervene.
+brooding_may_become_temperate	Chance of [From.GetFirstName] becoming Temperate.
+EVTDESCA_ZE_13054	[From.GetTitledFirstName] thinks I should not speak so much of righting the wrongs of others.
+EVTDESCB_ZE_13054	[From.GetTitledFirstName] thinks I should learn to better temper my anger.
+EVTDESCC_ZE_13054	[From.GetTitledFirstName] thinks I should learn to temper my envy.
+EVTOPTA_ZE_13054	[From.GetSheHeCap] is right, I should calm down.
+EVTOPTB_ZE_13054	It would be wrong to not care!
+EVTOPTC_ZE_13054	I don't care what that [GetRootFromInsult] thinks!
+EVTOPTD_ZE_13054	That's easy for [From.GetHerHim] to say!
+EVTDESCA_ZE_13061	I don't need many things - I can share what I have.
+EVTDESCB_ZE_13061	There are so many things in the world that are just not worth expending energy on.
+EVTDESCC_ZE_13061	I find there is nothing that pleases me so much as just sitting down for hours, eating.
+EVTOPTA_ZE_13061	It's not worth the effort accumulating things anyway.
+EVTOPTB_ZE_13061	It's true of almost everyhing, really.
+EVTOPTC_ZE_13061	It is truly the ultimate good in life.
+EVTDESCA_ZE_13062	Young [From.GetFirstName] seems to always be willing to share.
+EVTDESCB_ZE_13062	Young [From.GetFirstName] seems to be showing more and more signs of laziness.
+EVTDESCC_ZE_13062	Young [From.GetFirstName] never stops eating, always staying longer than anyone at the table.
+EVTOPTA_ZE_13062	[From.GetSheHeCap] should get out more and talk to people.
+EVTOPTB_ZE_13062	Ah, the young will be as they are!
+indolent_may_become_gregarious	Chance of [From.GetFirstName] becoming Gregarious.
+EVTDESCA_ZE_13064	[From.GetTitledFirstName] says I should talk more to people, give them more of myself.
+EVTDESCB_ZE_13064	[From.GetTitledFirstName] thinks I should get out more and talk to people.
+EVTDESCC_ZE_13064	[From.GetTitledFirstName] thinks I spend too much time eating and should pause to converse once in a while.
+EVTOPTA_ZE_13064	Very well, I'll make the effort!
+EVTOPTB_ZE_13064	I'd rather give them my things.
+EVTOPTC_ZE_13064	Why bother?
+EVTOPTD_ZE_13064	I'd rather not talk with food in my mouth.
+EVTDESCA_ZE_13071	I've always loved playing with others - and I still do!
+EVTDESCB_ZE_13071	I love fun and games, but the best game of all is the one of tricking people into doing things for me.
+EVTDESCC_ZE_13071	Playing games and pranks is the best fun! I do think I never want to grow up.
+EVTOPTA_ZE_13071	And people seem to like me.
+EVTOPTB_ZE_13071	I pull the strings.
+EVTOPTC_ZE_13071	The world is made of pixie dust!
+EVTDESCA_ZE_13072	Young [From.GetFirstName] seems to have a natural charm and way with words.
+EVTDESCB_ZE_13072	Young [From.GetFirstName] seems to be developing a rather devious and manipulative streak.
+EVTDESCC_ZE_13072	Young [From.GetFirstName] seems to often react in erratic and strange ways in perfectly everyday situations. There is something not quite right there...
+EVTOPTA_ZE_13072	I shall beat it out of [From.GetHerHim]!
+EVTOPTB_ZE_13072	I'm sure [From.GetSheHe] will suffer in life.
+playful_may_become_cruel	Chance of [From.GetFirstName] becoming Cruel.
+EVTDESCA_ZE_13074	[From.GetTitledFirstName] does not approve of my open and talkative nature and decided to beat it out of me.
+EVTDESCB_ZE_13074	[From.GetTitledFirstName] does not approve of my cleverness and cunning and decided to beat it out of me.
+EVTDESCC_ZE_13074	[From.GetTitledFirstName] thinks I am too 'strange' and decided to beat it out of me.
+EVTOPTA_ZE_13074	One day I'll do the same unto others.
+EVTOPTB_ZE_13074	I'll speak of [From.GetHerHis] cruelty to everyone!
+EVTOPTC_ZE_13074	I'll let [From.GetHerHim] think it's working.
+EVTOPTD_ZE_13074	But I was invisible the whole time.
+EVTDESCA_ZE_13081	I've always been one to finish my chores properly. And those of others.
+EVTDESCB_ZE_13081	It's important to do things right, which includes not doing them too much.
+EVTOPTA_ZE_13081	I just like getting things done.
+EVTOPTB_ZE_13081	Self-control is the first step to greatness.
+EVTDESCA_ZE_13082	Young [From.GetFirstName] is full of energy and a will to get things done.
+EVTDESCB_ZE_13082	Young [From.GetFirstName] is impressing everyone with [From.GetHerHis] sensible choices and great capacity for self-restraint.
+EVTOPTA_ZE_13082	[From.GetSheHeCap] should use that power for good.
+EVTOPTB_ZE_13082	Life will reward [From.GetHerHim].
+conscientious_may_become_just	Chance of [From.GetFirstName] becoming Just.
+EVTDESCA_ZE_13084	[From.GetTitledFirstName] thinks I should employ my considerable energies toward just causes.
+EVTDESCB_ZE_13084	[From.GetTitledFirstName] commends me on my temperance and wisdom and wishes that I employ it in the service of just causes.
+EVTOPTA_ZE_13084	Sage advice.
+EVTOPTB_ZE_13084	I already know what I want to do.
+EVTOPTC_ZE_13084	It's not wise to be overly zealous.
+EVTDESCA_ZE_13091	I love it when everything is in good order, and I'm willing to spend the time that it takes.
+EVTDESCB_ZE_13091	I love keeping an eye on things, and I love counting them. Coins especially.
+EVTDESCC_ZE_13091	I know how things should be done, but I fear others are always trying to sabotage my efforts.
+EVTOPTA_ZE_13091	One shouldn't rush things needlessly.
+EVTOPTB_ZE_13091	They are so shiny.
+EVTOPTC_ZE_13091	I must be wary of their envy.
+EVTDESCA_ZE_13092	Young [From.GetFirstName] loves keeping [From.GetHerHis] things in order and patiently spends lots of time on it.
+EVTDESCB_ZE_13092	Young [From.GetFirstName] seems to love ordering and counting things, coins especially.
+EVTDESCC_ZE_13092	Young [From.GetFirstName] loves doing things [From.GetHerHis] own way, and often takes it personally and gets angry when others offer opinions.
+EVTOPTA_ZE_13092	I should help guide [From.GetHerHim] in the right direction.
+EVTOPTB_ZE_13092	[From.GetSheHeCap] is a busy soul, just like me.
+fussy_may_become_diligent	Chance of [From.GetFirstName] becoming Diligent.
+EVTDESCA_ZE_13094	[From.GetTitledFirstName] approves of my patient diligence but thinks I should be even more focused on the results of my efforts.
+EVTDESCB_ZE_13094	[From.GetTitledFirstName] approves of my active mind but thinks I spend too much time thinking about gold and silver.
+EVTDESCC_ZE_13094	[From.GetTitledFirstName] says it's good that I have my own strong ideas, but [From.GetSheHe] wants me to focus more on the results of my actions than on worrying about the envy of others.
+EVTOPTA_ZE_13094	I should be more like [From.GetHerHim].
+EVTOPTB_ZE_13094	Now, don't be hasty, [From.GetLordLady] [From.GetFirstName].
+EVTOPTC_ZE_13094	But gold is so pretty!
+EVTOPTD_ZE_13094	But they hate me!
+EVTDESCA_ZE_13101	Thinking about things, I have concluded that everything in the world is not as the priests say it is.
+EVTDESCB_ZE_13101	There are people I know that follow different traditions than those of the [Root.Religion.GetName] faith. I have spoken to them and asked them about it, and now it doesn't seem so strange to me.
+EVTDESCC_ZE_13101	I spend a lot of time exploring and thinking about how things work..
+EVTOPTA_ZE_13101	They are all liars!
+EVTOPTB_ZE_13101	We are all the same, I guess.
+EVTOPTC_ZE_13101	It feels great to learn!
+EVTDESCA_ZE_13102	Young [From.GetFirstName] seems to have a lot of independent opinions and refuses to listen to the priests.
+EVTDESCB_ZE_13102	Young [From.GetFirstName] seems to be taking a curious interest in other traditions than the [From.Religion.GetName] ones.
+EVTDESCC_ZE_13102	Young [From.GetFirstName] seems to be a real explorer and experimenter, constantly finding new ideas and topics that fascinate [From.GetHerHim].
+EVTOPTA_ZE_13102	I should try to stop these tendencies..
+#EVTOPTB_ZE_13102	[From.GetBoyGirl]s will be [From.GetBoyGirl]s.
+curious_may_become_patient	Chance of [From.GetFirstName] becoming Patient.
+EVTDESCA_ZE_13104	[From.GetTitledFirstName] thinks I should be less quick to question the words of the priests.
+EVTDESCB_ZE_13104	I love studying foreign customs, but [From.GetTitledFirstName] thinks I should look to my own virtues instead.
+EVTDESCC_ZE_13104	[From.GetTitledFirstName] seems to think I'm too clever for my own good, or so [From.GetSheHe] said.
+EVTOPTA_ZE_13104	[From.GetSheHe] is right, I should calm down.
+EVTOPTB_ZE_13104	But they are fools!
+EVTOPTC_ZE_13104	Is [From.GetSheHe] not interested in the world at all?
+EVTOPTD_ZE_13104	Too clever for [From.GetHerHim], maybe.
+EVTDESCA_ZE_13111	As I grow older, I increasingly find that my faith is a true fountain of strength.
+EVTDESCB_ZE_13111	The more I hear of the words of the wise [Root.GetMenWomen] of old, the more I want to be like them.
+EVTDESCC_ZE_13111	It gives me great joy to admire the achievements of others. Especially as I am so weak myself.
+EVTOPTA_ZE_13111	And I praise [Root.Religion.GetRandomGodName]!
+EVTOPTB_ZE_13111	Only from knowledge comes true strength.
+EVTOPTC_ZE_13111	They strike me with awe.
+EVTDESCA_ZE_13112	Young [From.GetFirstName] seems to be developing very strong religious sentiments.
+EVTDESCB_ZE_13112	Young [From.GetFirstName] often speaks in reverence of the wise [From.GetMenWomen] of old, saying [From.GetSheHe] wants to be like them.
+EVTDESCC_ZE_13112	Young [From.GetFirstName] seems to be quick to praise the deeds of others around [From.GetHerHim], while neglecting [From.GetHerHis] own physical activity and development.
+EVTOPTA_ZE_13112	[From.GetSheHeCap] should focus on helping others instead.
+EVTOPTB_ZE_13112	What a lovely child!
+idolizer_may_become_kind	Chance of [From.GetFirstName] becoming Kind.
+EVTDESCA_ZE_13114	[From.GetTitledFirstName] seems to think that I should replace my reverence for [Root.Religion.GetRandomGodName] with love for my fellow man.
+EVTDESCB_ZE_13114	I worship the memory of the wise [From.GetMenWomen] of old, but [From.GetTitledFirstName] thinks that I should focus on loving the living around me instead.
+EVTDESCC_ZE_13114	I easily adore the virtues of others, but [From.GetTitledFirstName] thinks I'm too passive and should should focus more on helping people, lest I grow weak.
+EVTOPTA_ZE_13114	[From.GetSheHeCap] is right.
+EVTOPTB_ZE_13114	No, [Root.Religion.GetRandomGodName] is the greatest!
+EVTOPTC_ZE_13114	I shall love them when they have something interesting to say.
+EVTOPTD_ZE_13114	I'm fine.
+EVTDESCA_ZE_14100	I have finished my education in diplomacy. I found the lessons rather tedious.
+EVTDESCB_ZE_14100	I have finished my education in diplomacy. It is a fascinating subject.
+EVTDESCC_ZE_14100	I have finished my education in diplomacy. I find that I have some talent for it.
+EVTDESCD_ZE_14100	I have finished my education in diplomacy. I feel that I have truly found my calling.
+EVTOPTA_ZE_14100	Speak frankly and all will love you.
+EVTOPTB_ZE_14100	Never hate your enemies. It affects your judgment.
+EVTOPTC_ZE_14100	Speak softly and carry a big stick.
+EVTOPTD_ZE_14100	The best way to keep one's word is to not give it.
+EVTDESCA_ZE_14110	Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It turned out less well than expected.
+EVTDESCB_ZE_14110	Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It seems [From.GetSheHe] has learned all the basic skills required.
+EVTDESCC_ZE_14110	Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.
+EVTDESCD_ZE_14110	Young [From.GetFirstName] has finished [From.GetHerHis] education in diplomacy. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.
+EVTOPTA_ZE_14110	Oh well.
+EVTOPTB_ZE_14110	Very good.
+EVTOPTC_ZE_14110	This pleases me.
+EVTDESCA_ZE_14200	I have finished my education in the ways of war. I found the lessons rather tedious.
+EVTDESCB_ZE_14200	I have finished my education in the ways of war. It is a fascinating subject.
+EVTDESCC_ZE_14200	I have finished my education in the ways of war. I find that I have some talent for it.
+EVTDESCD_ZE_14200	I have finished my education in the ways of war. I feel that I have truly found my calling.
+EVTOPTA_ZE_14200	Courage is all a soldier needs.
+EVTOPTB_ZE_14200	Know your enemy.
+EVTOPTC_ZE_14200	It is wise to attack the enemy's strategy.
+EVTOPTD_ZE_14200	War is a continuation of politics.
+EVTDESCA_ZE_14210	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It turned out less well than expected.
+EVTDESCB_ZE_14210	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It seems [From.GetSheHe] has learned all the basic skills required.
+EVTDESCC_ZE_14210	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.
+EVTDESCD_ZE_14210	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of war. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.
+EVTDESCA_ZE_14300	I have finished my education in stewardship. I found the lessons rather tedious.
+EVTDESCB_ZE_14300	I have finished my education in stewardship. It is a fascinating subject.
+EVTDESCC_ZE_14300	I have finished my education in stewardship. I find that I have some talent for it.
+EVTDESCD_ZE_14300	I have finished my education in stewardship. I feel that I have truly found my calling.
+EVTOPTA_ZE_14300	How hard can it be?
+EVTOPTB_ZE_14300	A coin saved is a coin earned.
+EVTOPTC_ZE_14300	Accumulate! Accumulate!
+EVTOPTD_ZE_14300	Wealth is the slave of a wise man, and the master of a fool.
+EVTDESCA_ZE_14310	Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It turned out less well than expected.
+EVTDESCB_ZE_14310	Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It seems [From.GetSheHe] has learned all the basic skills required.
+EVTDESCC_ZE_14310	Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.
+EVTDESCD_ZE_14310	Young [From.GetFirstName] has finished [From.GetHerHis] education in stewardship. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.
+EVTDESCA_ZE_14400	I have finished my education in the ways of intrigue. I found the lessons rather tedious.
+EVTDESCB_ZE_14400	I have finished my education in the ways of intrigue. It is a fascinating subject.
+EVTDESCC_ZE_14400	I have finished my education in the ways of intrigue. I find that I have some talent for it.
+EVTDESCD_ZE_14400	I have finished my education in the ways of intrigue. I feel that I have truly found my calling.
+EVTOPTA_ZE_14400	Intrigue must be conducted with honor.
+EVTOPTB_ZE_14400	Never interrupt your enemy when [Root.GetSheHe] is making a mistake.
+EVTOPTC_ZE_14400	To subdue the enemy without fighting is supreme.
+EVTOPTD_ZE_14400	Events which can not be prevented must be directed.
+EVTDESCA_ZE_14410	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It turned out less well than expected.
+EVTDESCB_ZE_14410	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It seems [From.GetSheHe] has learned all the basic skills required.
+EVTDESCC_ZE_14410	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.
+EVTDESCD_ZE_14410	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of intrigue. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.
+EVTDESCA_ZE_14500	I have finished my education in the ways of faith and learning. I found the lessons rather tedious.
+EVTDESCB_ZE_14500	I have finished my education in the ways of faith and learning. It is a fascinating subject.
+EVTDESCC_ZE_14500	I have finished my education in the ways of faith and learning. I find that I have some talent for it.
+EVTDESCD_ZE_14500	I have finished my education in the ways of faith and learning. I feel that I have truly found my calling.
+EVTOPTA_ZE_14500	Learning is dull but important.
+EVTOPTB_ZE_14500	The world is a book.
+EVTOPTC_ZE_14500	Learning never exhausts the mind.
+EVTOPTD_ZE_14500	A room without books is like a body without a soul.
+EVTDESCA_ZE_14510	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It turned out less well than expected.
+EVTDESCB_ZE_14510	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It seems [From.GetSheHe] has learned all the basic skills required.
+EVTDESCC_ZE_14510	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. It is evident that [From.GetSheHe] has excelled in [From.GetHerHis] studies.
+EVTDESCD_ZE_14510	Young [From.GetFirstName] has finished [From.GetHerHis] education in the ways of faith and learning. I notice with pride that [From.GetSheHe] has attained nothing less than a masterful level of knowledge.
+mysterious_charm	Mysterious Charm
+mysterious_charm_desc	This character doesn't talk much, but there is something interesting about them...
+EVTDESCA_ZE_12010	I have seen [affectionate_events_char_1.GetFirstName] looking at my new wooden toy animals.
+EVTDESCB_ZE_12010	My nannies are away and as I roam around the grounds I come upon [affectionate_events_char_1.GetTitledFirstName]. [affectionate_events_char_1.GetSheHeCap] looks up and seems interested in conversation.
+EVTDESCC_ZE_12010	As I am out playing by myself and taking a break to eat some bread I brought from the kitchens, I suddenly notice a young peasant child staring at me. [Root.GetSheHeCap] looks hungry.
+EVTOPTA_ZE_12010	I could let [affectionate_events_char_1.GetHerHim] play with them.
+EVTOPTB_ZE_12010	Yes, I have nicer toys than [affectionate_events_char_1.GetHerHim].
+EVTOPTC_ZE_12010	I'll talk to [affectionate_events_char_1.GetHerHim]!
+EVTOPTD_ZE_12010	I'll stick my tongue out at [affectionate_events_char_1.GetHerHim] and run away!
+EVTOPTE_ZE_12010	I'll share my bread with [Root.GetHerHim]!
+EVTOPTF_ZE_12010	I'll leave before [Root.GetSheHe] tries to steal from me!
+EVTOPTE_ZE_12010_TOOLTIP1	You do a good deed.
+EVTOPTE_ZE_12010_TOOLTIP2	You do a good deed, but someone sees you...
+EVTDESCA_ZE_12012	[From.GetFirstName] has much nicer toys than me, and [From.GetSheHe] asked me if I want to play with them.
+EVTDESCB_ZE_12012	[From.GetFirstName] has really nice toys but [From.GetSheHe] won't share them with me.
+EVTDESCC_ZE_12012	Young [From.GetTitledFirstName] just walked up to me today, striking up conversation. We ended up having a long talk, about a great many things.
+EVTDESCD_ZE_12012	Young [From.GetTitledFirstName] just walked up to me today, and as I was about to greet [From.GetHerHim], [From.GetSheHe] just stuck [From.GetHerHis] tongue out and ran away...
+EVTOPTA_ZE_12012	Yes, that would be nice!
+EVTOPTB_ZE_12012	No, those toys are silly anyway!
+EVTOPTC_ZE_12012	I hate [From.GetHerHim]!
+EVTOPTD_ZE_12012	How nice!
+EVTOPTE_ZE_12012	Begone, [GetRootFromInsult]!
+EVTOPTF_ZE_12012	What a strange child.
+EVTDESCA_ZE_12014	[From.GetFirstName] and me played all day with my toys.
+EVTDESCB_ZE_12014	I talked for a long while with [From.GetTitledFirstName]. [From.GetSheHeCap] had many funny things to tell me and we had a really good time.
+EVTDESCC_ZE_12014	You shared your bread with the peasant child, and then you played together for several hours before parting ways. [Root.GetSheHeCap] waved happily as [Root.GetSheHe] ran home.
+EVTDESCD_ZE_12014	You shared your bread with the child and then you played together for a while, until your nannies came and angrily interrupted you. As your friend ran away, the nannies said they'd tell [Educator.GetTitledFirstName] that you had been bad.
+EVTOPTA_ZE_12014	It's so nice to share with others!
+EVTOPTB_ZE_12014	Let's play again soon!
+EVTOPTC_ZE_12014	I want more friends like this!
+EVTOPTD_ZE_12014	I'll come see you again tomorrow!
+EVTOPTE_ZE_12014	This was fun!
+EVTOPTF_ZE_12014	But [Root.GetSheHe] is my friend!
+EVTDESCA_ZE_12016	[From.GetFirstName] let me play with [From.GetHerHis] toys all day and it was so much fun.
+EVTDESCB_ZE_12016	I spoke at length with [From.GetFirstName] about a great many things. We laughed a lot, and it seems I have made a new friend.
+EVTOPTA_ZE_12016	Let's play again sometime!
+EVTOPTB_ZE_12016	What a nice child!
+EVTDESCA_ZE_12020	I saw [timid_events_char_1.GetTitledFirstName] being chided publicly for stealing food from the personal stores of the [Root.Liege.GetTitle], but I know [timid_events_char_1.GetSheHe] was elsewhere at the time.
+EVTDESCB_ZE_12020	[timid_events_char_1.GetFirstName] seems very nice. Maybe I should ask if [timid_events_char_1.GetSheHe] wants to play?
+EVTDESCC_ZE_12020	There's a big dinner feast tonight with many prominent people invited, and it has been decided that I shall perform a song in praise of [Root.Religion.GetRandomGodName] for the guests.
+EVTOPTA_ZE_12020	No one would listen to me anyway...
+EVTOPTB_ZE_12020	I must speak up for [timid_events_char_1.GetHerHim]!
+EVTOPTC_ZE_12020	I'll wait a little, [timid_events_char_1.GetSheHe] could come to me...
+EVTOPTD_ZE_12020	Yes, we should play!
+EVTOPTE_ZE_12020	No way!
+EVTOPTF_ZE_12020	Yes, I will sing.
+EVTOPTE_ZE_12020_TOOLTIP1	Guests are amused.
+EVTOPTE_ZE_12020_TOOLTIP2	Guests are offended.
+EVTDESCA_ZE_12022	I was wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. I also know that young [From.GetFirstName] can confirm I was elsewhere when it happened, but [From.GetSheHe] has refused to step forward and confirm my innocence.
+EVTDESCB_ZE_12022	I was strangely and wrongfully accused of stealing fine foods from the personal stores of the [Root.Liege.GetTitle]. However, young [From.GetFirstName] stepped forward to confirm that I was elsewhere at the time and so the suspicions against me were lifted.
+EVTDESCC_ZE_12022	[From.GetFirstName] seems to be checking me out, but doesn't come over and talk.
+EVTDESCD_ZE_12022	[From.GetFirstName] came over to me and said [From.GetSheHe] wanted us to be friends!
+EVTOPTA_ZE_12022	The little wretch!
+EVTOPTB_ZE_12022	Alas, I cannot blame the child for being timid.
+EVTOPTC_ZE_12022	All is good then!
+EVTOPTD_ZE_12022	I'll go and talk to [From.GetHerHim]!
+EVTOPTE_ZE_12022	What's [From.GetSheHe] staring at? It's annoying!
+EVTOPTF_ZE_12022	How nice!
+EVTDESCA_ZE_12024	[From.GetTitledFirstName] is very angry with me for not speaking up in [From.GetHerHis] defence.
+EVTDESCB_ZE_12024	[From.GetFirstName] came over and talked to me, asking if I wanted to be friends.
+EVTDESCC_ZE_12024	A roar of laughter rolled through the hall when the guests were told that I had hid in a chest in order to avoid having to sing for them. Several of them then called me over and offered me food and candies.
+EVTDESCD_ZE_12024	The guests were all very offended at my refusal to sing for them.
+EVTOPTA_ZE_12024	What? It's not my problem!
+EVTOPTB_ZE_12024	I should step forward now, it's not too late!
+EVTOPTC_ZE_12024	Umm... no, I have to go.
+EVTOPTD_ZE_12024	Yes, let's play!
+EVTOPTE_ZE_12024	Oh yes!
+EVTOPTF_ZE_12024	I don't care.
+EVTDESCA_ZE_12026	Since [From.GetFirstName] refused to defend me, many people think I'm a thief and I have lost prestige at court.
+EVTDESCB_ZE_12026	[From.GetFirstName] eventually stepped forward to defend my honor.
+EVTOPTA_ZE_12026	I shall remember this.
+EVTOPTB_ZE_12026	I can tell it took courage to speak up.
+EVTDESCA_ZE_12030	[rowdy_events_char_1.GetFirstName] is always so annoying. I think [rowdy_events_char_1.GetSheHe] tries to win against me in games just to spite me!
+EVTDESCB_ZE_12030	There are so many fun things to do, so many forbidden things. I wonder if [rowdy_events_char_1.GetFirstName] would like to join me in some fun pranks?
+EVTOPTA_ZE_12030	I'll tell [rowdy_events_char_1.GetHerHim] to stop!
+EVTOPTA_ZE_12030_TOOLTIP1	The matter escalates...\n
+EVTOPTB_ZE_12030	It doesn't matter, [rowdy_events_char_1.GetSheHe] can win.
+EVTOPTC_ZE_12030	I'll ask [rowdy_events_char_1.GetHerHim]!
+EVTOPTD_ZE_12030	Or maybe we should just play dice instead.
+EVTDESCA_ZE_12032	[From.GetFirstName] is angry with me because I am always winning against [rowdy_events_char_1.GetHerHim] in games.
+EVTDESCB_ZE_12032	[From.GetFirstName] seems content to let me win when we play games.
+EVTDESCC_ZE_12032	[From.GetFirstName] excitedly asks me if I wanted to come along and to forbidden things, pranks and the like.
+EVTDESCD_ZE_12032	[From.GetFirstName] asks me if I wanted to play dice.
+EVTOPTA_ZE_12032	I'll tell [From.GetHerHim] to get lost!
+EVTOPTB_ZE_12032	I'll just avoid [From.GetHerHim] from now on.
+EVTOPTC_ZE_12032	That's all fine then.
+EVTOPTD_ZE_12032	Yes!
+EVTOPTE_ZE_12032	No, I'm a good [Root.GetBoyGirl].
+EVTOPTF_ZE_12032	Sounds like fun!
+EVTDESCA_ZE_12034	[From.GetFirstName] got angry and told me to get lost!
+EVTDESCB_ZE_12034	[From.GetFirstName] joined me and we did all kinds of pranks and tricks, everything except summoning [Root.Religion.GetRandomEvilGodName]!
+EVTDESCB2_ZE_12034	[From.GetFirstName] didn't want to play.
+EVTOPTE_ZE_12034	What a shame.
+EVTOPTA_ZE_12034	Fist fiiiiight!
+EVTOPTB_ZE_12034	I'll walk away, it's not worth it.
+EVTOPTC_ZE_12034	We should do this every day!
+EVTOPTD_ZE_12034	That was fun, now let's play dice.
+EVTDESCA_ZE_12036	[From.GetFirstName] went crazy and started a fist fight with me!
+EVTDESCB_ZE_12036	Me and [From.GetFirstName] did all kinds of crazy and forbidden things. It was fun!
+EVTOPTA_ZE_12036	Come on then, you [GetRootFromInsult]!
+EVTOPTB_ZE_12036	Let's do it again sometime!
+playing_dice	Playing Dice
+playing_dice_desc	Playing dice successfully requires a sharp eye and a quick mind.
+EVTDESCC_ZE_12030	We are playing outside today, and several of the other children are daring me to climb the tallest watchtower.
+EVTOPTE_ZE_12030	I'm not afraid!
+EVTOPTE_ZE_12030_TOOLTIP1	Slipped while climbing.
+EVTOPTE_ZE_12030_TOOLTIP2	Up and down like a squirrel.
+EVTOPTF_ZE_12030	No... it's too high.
+EVTDESCC_ZE_12034	I rapidly climbed up to the top of the tower. But when climbing down again, I slipped. The fall was very painful, but luckily I wasn't very high up.
+EVTDESCD_ZE_12034	Agile as a squirrel, I rapidly climbed up the tower and then down again. Everyone was very impressed.
+EVTOPTF_ZE_12034	Owww!
+EVTOPTG_ZE_12034	Ha!
+EVTDESC_ZE_12230	Languishing in the dungeon, I have realized that there is someone in the cell next to me. I can hear [event_ze_12230_prisoner.GetHerHim] sighing, coughing and complaining sometimes.
+EVTOPTA_ZE_12230	I'll try and talk to [event_ze_12230_prisoner.GetHerHim]!
+EVTOPTB_ZE_12230	What's the point?
+EVTDESCA_ZE_12232	Languishing in the dungeon, I suddenly one day hear a small voice calling to me. It seems there is a young child in the cell next to mine...
+EVTDESCB_ZE_12232	Languishing in the dungeon, I suddenly one day hear a voice calling out. It seems there is another child in these dungeons, in the cell next to mine...
+EVTOPTA_ZE_12232	Finally someone to talk to!
+EVTOPTB_ZE_12232	I have no need for friends here.
+EVTDESC_ZE_12234	It turns out that my fellow prisoner's name is [From.GetTitledName]. We have had many whispered conversations in the darkness, quickly becoming friends under these dismal circumstances.
+EVTOPTA_ZE_12234	I feel less lonely now.
+EVTDESC_ZE_12236	My attemps to make contact with the other prisoner were met only with silence.
+EVTOPTA_ZE_12236	Everybody hates me.
+pet_rat_dungeon	Pet Rat
+pet_rat_dungeon_desc	This character has befriended a rat in the dungeon.
+EVTDESC_ZE_12210	Languishing in the dungeon, you have recently made a new friend. It's a small, scruffy rat that keeps coming up to you and cuddling up in your lap.
+EVTOPTA_ZE_12210	I name you Flipper.
+EVTOPTB_ZE_12210	I name you Cuddles.
+EVTOPTC_ZE_12210	I name you Smelly.
+EVTOPTD_ZE_12210	Hello, food...
+EVTDESCA_ZE_12211	Recently, you notice that there is something wrong with Flipper. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.
+EVTDESCB_ZE_12211	Recently, you notice that there is something wrong with Cuddles. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.
+EVTDESCC_ZE_12211	Recently, you notice that there is something wrong with Smelly. [Root.GetSheHeCap] doesn't scurry around and play like [Root.GetSheHe] used to, [Root.GetSheHe] just lies down and moans pitifully, peering at you with [Root.GetHerHis] little beady eyes. [Root.GetSheHeCap] is obviously sick and starving.
+EVTOPTA_ZE_12211	I'll share my food with [Root.GetHerHim].
+EVTOPTB_ZE_12211	There's not enough.
+rat_dies_tooltip_1	Flipper dies!
+rat_dies_tooltip_2	Cuddles dies!
+rat_dies_tooltip_3	Smelly dies!
+EVTDESCA_ZE_12219	As the guards release you from the dungeon, you take one last look back. You see Flipper staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.
+EVTDESCB_ZE_12219	As the guards release you from the dungeon, you take one last look back. You see Cuddles staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.
+EVTDESCC_ZE_12219	As the guards release you from the dungeon, you take one last look back. You see Smelly staring at you intently for a moment, [Root.GetHerHis] little eyes shining strangely in the half-darkness. Then [Root.GetSheHe] scurries away into a corner and out of sight.
+EVTOPTA_ZE_12219	I'll never forget you, Flipper!
+EVTOPTB_ZE_12219	I'll never forget you, Cuddles!
+EVTOPTC_ZE_12219	I'll never forget you, Smelly!
+EVTDESC_ZE_12220	Languishing in my dungeon, one night I suddenly wake up with a cold feeling of apprehension. As I stare into the darkness, a hissing, evil voice speaks to me: 'I am the Dread King of Darkness. This dungeon is my realm, and I demand that you serve me.'.
+EVTOPTA_ZE_12220	Yes, I will serve you!
+EVTOPTB_ZE_12220	Never!
+EVTDESC_ZE_12221	Late one night, the Dread King of Darkness appears to me again: 'Servant! You must find me the three dark stones of sorcery. They have been stolen from me and hidden in this dungeon. Know that I do not abide failure!'
+EVTOPTA_ZE_12221	I will use force to find them!
+EVTOPTB_ZE_12221	I shall use my cunning!
+EVTDESC_ZE_12222	Eventually, I managed to recover the three dark stones of sorcery for the Dread King of Darkness. They only look like three ordinary little stones, but surely the King will be pleased.
+EVTOPTA_ZE_12222	I am a hero, his most valuable servant!
+EVTDESC_ZE_12223	I never managed to recover the three dark stones of sorcery. I now fear that the Dread King of Darkness will come and punish me for my failure.
+EVTOPTA_ZE_12223	If I hide in the corner maybe he won't find me.
+EVTDESC_ZE_12225	My war with the Dread King of Darkness has begun. Every night he sends his legions of ghosts and shadows to assault me.
+EVTOPTA_ZE_12225	I must strike back with all my power!
+EVTOPTB_ZE_12225	I must evade, dodge and use my cunning!
+EVTDESC_ZE_12226	In my valiant nightly battles against the Dread King of Darkness, I have finally reached the tipping point and forced my enemy to his knees.
+EVTOPTA_ZE_12226	I rule in this dungeon!
+EVTDESC_ZE_12227	I am exhausted from my nightly battles with the Dread King of Darkness, yet he is steadily advancing against me. It seems that the time for surrender has come.
+EVTOPTA_ZE_12227	I should never have challenged him!
+12220_submit_to_king	Submits to the Dread King of Darkness.
+12220_fight_king	Fights the Dread King of Darkness.
+found_dark_stones	Dark Stones of Sorcery
+found_dark_stones_desc	This character has imagined strange and fantastic adventures in the dungeons, finding the Dark Stones of Sorcery.
+defeated_dread_king	Defeated the Dread King of Darkness
+defeated_dread_king_desc	This character has imagined strange and fantastic adventures in the dungeons, defeating the Dread King of Darkness.
+dread_king_martial_tooltip	Apply martial skill.
+dread_king_intrigue_tooltip	Apply intrigue skill.
+CHILDHOOD_FOCUS_PRIDE	Childhood Focus: Pride
+CHILDHOOD_FOCUS_HUMILITY	Childhood Focus: Humility
+CHILDHOOD_FOCUS_DUTY	Childhood Focus: Duty
+CHILDHOOD_FOCUS_ETIQUETTE	Childhood Focus: Etiquette
+CHILDHOOD_FOCUS_THRIFT	Childhood Focus: Thrift
+CHILDHOOD_FOCUS_FAITH	Childhood Focus: Faith
+CHILDHOOD_FOCUS_STRUGGLE	Childhood Focus: Struggle
+CHILDHOOD_FOCUS_HERITAGE	Childhood Focus: Heritage
+EDUCATION_FOCUS_DIPLOMACY	Education Focus: Diplomacy
+EDUCATION_FOCUS_MARTIAL	Education Focus: Martial
+EDUCATION_FOCUS_STEWARDSHIP	Education Focus: Stewardship
+EDUCATION_FOCUS_INTRIGUE	Education Focus: Intrigue
+EDUCATION_FOCUS_LEARNING	Education Focus: Learning
+erudite	Erudite
+erudite_desc	This character has a scholarly and bookish disposition.
+stubborn	Stubborn
+stubborn_desc	This character is stubborn as a mule.
+INSULT_WINDBAG	windbag
+INSULT_BLATHERING	blathering
+INSULT_MULE	mule
+INSULT_PIGHEADED	pigheaded
+REMOVE_GUARDIAN_EFFECT	$GUARDIAN$ stops being the guardian of $WHO$.\n
+ALL_CHARACTERS	All Characters
+ALL_PROVINCES	All Counties
+ALL_LANDED_TITLES	All Landed Titles
+ANY_CHAR_STARTS	Any character
+ANY_LANDED_TITLE_STARTS	Any landed title
+LOG_IN	Log In
+LOG_OUT	Log Out
+NOT_LOGGED_IN	Not Logged In
+LOGGED_IN	Logged In
+#CREATE_ACCOUNT	Create Account
+NEWSFEED_LOADING	Loading News Feed...
+PARADOX_ACCOUNT	Paradox Account
+CREATE_ACCOUNT	Create Account
+#NAME	Name
+PERFORMING_LOGIN	Logging in...
+Not%authorized	§REmail or password incorrect§!
+LOGIN_TIMEOUT	§RLogin timed out§!
+EMAIL	Email
+PASSWORD	Password
+EMAIL_REQUIRED	Email§R *§!
+EMAIL_HINT	Enter a valid email address
+PASSWORD_REQUIRED	Password§R *§!
+PASSWORD_HINT	Enter Password
+REPEAT_PASSWORD_REQUIRED	Repeat Password§R *§!
+REPEAT_PASSWORD_HINT	Repeat Password
+LANGUAGE_REQUIRED	Language§R *§!
+LANGUAGE_HINT	Enter Language
+ENTER_LANGUAGE	Enter Language
+COUNTRY_REQUIRED	Country§R *§!
+COUNTRY_HINT	Enter Country
+ENTER_COUNTRY	Enter Country
+DATE_OF_BIRTH_REQUIRED	Date of birth§R *§!
+DATE_OF_BIRTH_HINT	YYYY-MM-DD
+FIRST_NAME	First Name
+LAST_NAME	Last Name
+ADDRESS	Address
+ADDRESS_LINE_1	Address Line 1
+ADDRESS_LINE_2	Address Line 2
+ADDRESS_CITY	City
+ADDRESS_CITY_HINT	Enter City/Town
+ADDRESS_STATE	State
+ADDRESS_STATE_HINT	Enter State
+ADDRESS_ZIP_CODE	Zip Code
+ADDRESS_ZIP_CODE_HINT	Enter Zip Code
+PHONE	Phone
+PHONE_HINT	Enter Phone/Mobile
+ACCEPT_AND_SUBMIT	Accept and Submit
+CLICK_TO_OPEN_IN_BROWSER	Click to open in browser:
+HAVE_READ_TOS	I have read and agree to the Terms of Use
+TERMS_OF_USE	Terms of Use
+PRIVACY_POLICY	Privacy Policy
+REQUIRED_FIELD_DESCRIPTION	§R* §! Required Field
+ONE_MOMENT	One moment...
+NOT_READ_TOS_ERROR	§RYou must read the Terms of Use to create an account§!
+MISSING_REQUIRED_FIELD	§RYou are missing a required field§!
+INVALID_EMAIL	§REmail address is not valid§!
+PASSWORDS_DONT_MATCH	§RPasswords do not match§!
+INVALID_PASSWORD	§RPassword is not valid§!
+PASSWORD_DONT_MATCH	§RPasswords don't match§!
+WRONG_DOB_FORMAT	Date of birth is not valid
+SUCCESS_VERIFICATION_EMAIL_SENT	Account Created! A validation email has been sent to you.
+SERVER_ERROR	Server Error
+COULD_NOT_FIND_ACCOUNT	Could not find account.
+EVTTITLE_ZE_8001	Spouse visit
+MINOR_TITLE_REVOKABLE	$TITLE$ can be revoked
+FAVOR_EXPIRES_IN	The active favor expires in $FAVOR_EXPIRATION|Y$ month(s)
+BUY_FAVOR_INTERACTION_ACCEPT_SETUP	Favor Bought
+BUY_FAVOR_INTERACTION_ACCEPT_LOG	§Y[Actor.GetDynName]§! bought a favor from §Y[Recipient.GetDynName]§!
+ATTRITION_WEIGHT_SELECTION	Total troops when our armies arrive: $VALUE$
+UNITS_CROSS_WATER	$VALUE|Y$ of our selected units will cross water to reach this county
+ALL_CROSS_WATER	§YAll§! selected armies will cross water to reach this county
+PROVINCE_TOOLTIP_MILITARY_HEADER	Military Information
+SEPARATOR	---
+opinion_recently_fired	Recently Fired
+AIREASON_USED_FAVOR	§Y[Actor.GetBestName]§! called in the favor that §Y[Recipient.GetBestName]§! owed [Actor.GetObjectPronoun]
+DIPLO_USE_FAVOR	Call in the favor §Y[Recipient.GetBestName]§! owes you to make [Recipient.GetObjectPronoun] accept
+CANNOT_DECLINE_FAVOR	You cannot decline because §Y[Actor.GetBestName]§! called in the favor you owed [Actor.GetObjectPronoun]
+#ASK_TO_DECLARE_WAR_INTERACTION_TITLE	Ask Liege to Press Claims
+ASK_TO_DECLARE_WAR_INTERACTION_LONG_DESC	By calling in a §YFavor§! you can ask your liege to §Ydeclare war§! and press your claims.
+ASK_TO_DECLARE_WAR_INTERACTION_DESC	This calls in a §YFavor§! to ask your liege to §Ydeclare war§! and press your claims.
+ASK_TO_DECLARE_WAR_INTERACTION_LETTER	 I request that you repay the favor you owe me by declaring $CB$ against $RECIPIENT$. If you decline my rightful request, I will make sure the council hears of it.
+COUNCIL_MUST_AGREE	The council must agree
+PRESS_CLAIMS_RECENTLY_REFUSED	$LIEGE|Y$ has not recently refused to press $ACTOR|Y$'s claims
+INTERACTION_REQUIRES_PEACE	$ATTACKER|Y$ must be at peace
+INTERACTION_REQUIRES_NO_TRUCE	$ATTACKER|Y$ and $DEFENDER|Y$ must not have a truce
+ENFORCEABLE_CBS	$ACTOR|Y$ must have claims that $LIEGE|Y$ can press
+VALID_CB	$LIEGE|Y$ can press $CB|Y$
+LIEGE_WAR_VALID	The war must be valid for $LIEGE|Y$
+opinion_refused_press_claims	Refused to press claims
+REFUSED_TO_PRESS_CLAIM	Refused to press claims
+INTERACTION_FAVOR_FORCED_SETUP	Our Favor used
+INTERACTION_FAVOR_FORCED_LOG	$ACTOR|Y$ used the §YFavor§! that $RECIPIENT|Y$ owed them to force $INTERACTION$.
+INTERACTION_FAVOR_FORCED_LETTER	$ACTOR|Y$ used the §YFavor§! we owed them to convince us to $INTERACTION$.
+#FAVOR_NOT_MATRILINEAL	Not a matrilineal union
+FAVOR_INTERACTION_VALID	Interaction is valid
+FAVOR_NOT_RULER	$TARGET|Y$ is not a ruler
+ARMY_EXPL_DEL	Your Army Levies can be raised from your Demesne holdings and your direct vassals.\nYou pay maintenance for levies from your own holdings, but your vassals will pay for the levies they provide to you (which makes them unhappy).
+YOU_IN_UNIT	§YRuler Present§!\nYou are currently marching with this Army, bravely risking your own life.
+#COUNCILOR_VOTES	Council votes on $ISSUE|Y$
+CHARACTER_POWERFUL_EXPLANATION	Is a major vassal and expects to be on §YThe Council§!
+COUNCIL_TABS_JOBS	Positions
+loyalist	§YLoyalist§!
+malcontent	§YMalcontent§!
+zealot	§YZealot§!
+pragmatist	§YPragmatist§!
+glory_hound	§YGlory Hound§!
+LAWS_COUNCIL_POWER	Council Law
+councillors_changed_jobs	Changed Council Position Recently
+COUNCIL_JOBS_TITLE	§YPositions§!
+change_council_job	Change Council Position
+#change_council_job_desc	[Root.GetTitledName] will no longer be your [Root.GetJobTitle] and can be assigned a new council position.
+EVTDESC_ZE_6021	What would be a suitable position for [moving_councillor.GetTitledName] on the Council?
+REQUEST_SUPPORT_INTERACTION_LONG_DESC	Request that [Recipient.GetBestName] will vote like you on the Council. In exchange you will owe [Recipient.GetObjectPronoun] a Favor.
+REGENCY_VOTING	During a §YRegency§! the council votes on all issues, even those normally outside their purview.
+WAR_ENFORCED_PEACE	\nRealm Peace is enforced in the realm
+INTERACTION_LIEGE_HAS_NOT_ENFORCED_PEACE	Realm Peace is not being enforced in the realm
+alert_peace_soon_enforced_instant	§YLiege enforcing Realm Peace!§!
+alert_peace_soon_enforced_delayed	The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nAll internal wars waged between vassals of $LIEGE|Y$ will end with a §YWhite Peace§! in $MONTHS|Y$ months!\n\nIf you are on the Council you can call in a §YFavor§! from $LIEGE|Y$ to prevent the §YRealm Peace§! from being enforced.
+alert_peace_being_enforced_instant	§YLiege has Enforced Realm Peace!§!
+alert_peace_being_enforced_delayed	The Council of $LIEGE|Y$ has declared that peace shall reign in all the realm! \nVassals of $LIEGE|Y$ are unable to wage war on each other for another $MONTHS|Y$ months!
+ENFORCEPEACE_SETUP	Realm Peace
+ENFORCEPEACE_LOG	$LIEGE|Y$ has notified his vassal $VASSAL|Y$ about the decision to enforce peace.
+ENFORCEPEACE_LETTER	\nWith the support of my Council I decree that there shall be Peace in all my realm. You have three months to end your conflicts.
+ENFORCE_PEACE	Realm Peace
+OWES_FAVOR	$RECIPIENT|Y$ must owe $ACTOR|Y$ a favor
+STOP_ENFORCE_PEACE_INTERACTION_TITLE	Prevent Realm Peace
+STOP_ENFORCE_PEACE_INTERACTION_LONG_DESC	By calling in a §YFavor§!, you can prevent your liege from enforcing §YRealm Peace§! this time. Your liege will be prevented from using the §YCouncil§! to invoke §YRealm Peace§! again for two years.
+STOP_ENFORCE_PEACE_INTERACTION_DESC	This spends a §YFavor§! to stop §YRealm Peace§! from being enforced. Your liege can not attempt to enforce §YRealm Peace§! for two years after this.
+STOP_ENFORCE_PEACE_INTERACTION_LETTER	My liege, I want to remind you that you owe me a favor, and your decree of peace in the realm goes against my interests...
+STOP_ENFORCE_PEACE_INTERACTION_ACCEPT_LOG	§Y[Actor.GetBestName]§! called in a §YFavor§! from §Y[Recipient.GetBestName]§! to stop §YRealm Peace§! from being enforced.
+CAN_VOTE_ON_ENFORCE_PEACE	Council is allowed to enforce peace.
+PEACE_NOT_ENFORCED	Peace is not already being enforced.
+PEACE_ENFORCED_NOT_BLOCKED	§YRealm Peace§! has not been blocked by a §YFavor§!.
+#PEACE_ENFORCE_NOT_ON_COOLDOWN	§YRealm Peace§! has not been used in the last §Y10 years§!.
+ENFORCE_PEACE_BUTTON_DESC_TITLE	§YEnforce Realm Peace§!
+horse_group	Horse
+horse	Horse
+horse_desc	This is a horse...
+opinion_my_master	My Master
+opinion_my_horse	My Horse
+disorganised_swarm_tactic	Disorganised Swarm Tactic
+disorganised_harass_tactic	Disorganised Harass Tactic
+STEAL_POPULATION_SCALED_EFFECT	Steal $PERCENTAGE|Y%$ §YPopulation§! from $FROM|Y$ to $TO|Y$\n
+CB_NAME_HUMILIATE	Humiliate
+WAR_NAME_HUMILIATE	$ORDER$$FIRST_ADJ$ War to Humiliate $DEFENDER$
+nomad_humiliate_cb_desc	Humiliate the enemy and steal their people to strengthen your own clan.
+DECLINE_LAW	Decline 
+EVTOPTC290	Decline
+INFAMY_HISTORY_STR	$TEXT$: §Y$VALUE$%§!
+#INFAMY	§YInfamy§!
+INFAMY_DECAY	Monthly Decay: §Y$DECAY$%§!
+#INFAMY_DESC	§YInfamy§! is a measure of how feared a Realm is. If the value increases above §Y25%§!, nearby rulers might form a §YCoalition§! to hinder further expansion. §YInfamy§! increases when a Realm expands too quickly - the larger the Realm already is, the more §YInfamy§! it will get. §YInfamy§! decreases when a Realm shrinks, and it also decays over time. The stronger the realm is, the slower the decay will be.
+VASSAL_REALM_INFAMY	Ruler of $REALM|Y$
+ADJUST_SIPHON_FACTOR_EFFECT	Increases the payment factor for $TITLE$ by $VALUE1|%$ to $VALUE2$%.
+ADJUST_SIPHON_FACTOR_EFFECT_NEGATIVE	Increases the payment factor for $TITLE$ by $VALUE1|%$ to $VALUE2$%.
+SET_SIPHON_FACTOR_TO_EFFECT	The payment factor for $TITLE$ is set to $VALUE$%.
+CREATE_DYNAMIC_MERC_TOOLTIP	§Y[Root.GetFirstName]§! brings together a band of soldiers and starts to look for employment.
+EVTDESC_ZE_10031	[Root.PrimaryTitle.GetFOA],\nMy men and I have had trouble finding a battlefield where our expertise could be employed for payment in gold, and unfortunately our rations are now running low. I therefore request additional funding to keep the men from starving.\n\nRegards,\n[From.GetTitledName]
+EVTOPTA_ZE_10031	I'll cover the cost for extra rations.
+EVTOPTB_ZE_10031	Starvation might serve as a lesson to [From.GetHerHim].
+EVTDESC_ZE_10033	[Root.PrimaryTitle.GetFOA],\nThe money you sent was well needed. However we had to spend the whole lot of it on food. We could need some better equipment to have better chances of success once we reach the battlefield. Equipment is rather expensive for our empty purse and I know that you will see the benefit of such an investment.\n\nRegards,\n[From.GetTitledFirstName]
+EVTOPTA_ZE_10033	I'll send a contribution at once.
+EVTOPTB_ZE_10033	I can't spare you a single coin.
+EVTOPTC_ZE_10033	Remind [From.GetFirstName] of [From.GetHerHis] obligations.
+EVTDESC_ZE_10071	[Root.PrimaryTitle.GetFOA],\nWar is a harsh business and the soldiers are demanding more money. I have no regrets in informing you that this money will come from your cut, since it's the people fighting that's doing all the work and not the people sitting on high chairs.\n\nRegards,\n[From.GetTitledFirstName]
+EVTOPTA_10071	Of course the men should be rewarded generously.
+EVTOPTB_10071	Let them keep a little of the money.
+EVTOPTC_10071	I need to remind [From.GetName] that this would be a breach of contract.
+MERCENARY_SIPHON_FACTOR_LOWER	The payment factor for $TITLE$ is higher than $VALUE|%$.
+MERCENARY_SIPHON_FACTOR_HIGHER	The payment factor for $TITLE$ is lower than $VALUE|%$.
+tax_levy_law_feudal	Noble
+tax_levy_law_feudal_desc	Noble Obligation Laws
+tax_levy_law_feudal_0	Heavily Tax Focused Noble Obligations
+tax_levy_law_feudal_0_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_1	Tax Focused Noble Obligations
+tax_levy_law_feudal_1_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_2	Slightly Tax Focused Noble Obligations
+tax_levy_law_feudal_2_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_3	Tax Shifted Noble Obligations
+tax_levy_law_feudal_3_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_4	Balanced Noble Obligations
+tax_levy_law_feudal_4_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_5	Levy Shifted Noble Obligations
+tax_levy_law_feudal_5_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_6	Slightly Levy Focused Noble Obligations
+tax_levy_law_feudal_6_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_7	Levy Focused Noble Obligations
+tax_levy_law_feudal_7_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_feudal_8	Heavily Levy Focused Noble Obligations
+tax_levy_law_feudal_8_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_republic	Burgher
+tax_levy_law_republic_desc	Burgher Obligation Laws
+tax_levy_law_republic_0	Heavily Tax Focused Burgher Obligations
+tax_levy_law_republic_0_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_1	Tax Focused Burgher Obligations
+tax_levy_law_republic_1_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_2	Slightly Tax Focused Burgher Obligations
+tax_levy_law_republic_2_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_3	Tax Shifted Burgher Obligations
+tax_levy_law_republic_3_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_4	Balanced Burgher Obligations
+tax_levy_law_republic_4_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_5	Levy Shifted Burgher Obligations
+tax_levy_law_republic_5_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_6	Slightly Levy Focused Burgher Obligations
+tax_levy_law_republic_6_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_7	Levy Focused Burgher Obligations
+tax_levy_law_republic_7_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_republic_8	Heavily Levy Focused Burgher Obligations
+tax_levy_law_republic_8_desc	This law governs how much tax and levies the mayors in the realm are obliged to contribute. The mayors tend to favor supplying troops for their liege over paying taxes.
+tax_levy_law_theocracy	Church
+tax_levy_law_theocracy_desc	Church Obligation Laws
+tax_levy_law_theocracy_0	Heavily Tax Focused Church Obligations
+tax_levy_law_theocracy_0_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops.
+tax_levy_law_theocracy_1	Tax Focused Church Obligations
+tax_levy_law_theocracy_1_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_2	Slightly Tax Focused Church Obligations
+tax_levy_law_theocracy_2_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_3	Tax Shifted Church Obligations
+tax_levy_law_theocracy_3_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_4	Balanced Church Obligations
+tax_levy_law_theocracy_4_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_5	Levy Shifted Church Obligations
+tax_levy_law_theocracy_5_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_6	Slightly Levy Focused Church Obligations
+tax_levy_law_theocracy_6_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_7	Levy Focused Church Obligations
+tax_levy_law_theocracy_7_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_theocracy_8	Heavily Levy Focused Church Obligations
+tax_levy_law_theocracy_8_desc	This law governs how much tax and levies the church in the realm is obliged to contribute. The priesthood tends to favor supplying their liege with a mix of taxes and troops
+tax_levy_law_tribal	Tribal
+tax_levy_law_tribal_desc	Tribal Obligation Laws
+tax_levy_law_tribal_0	Heavily Tax Focused Tribal Obligations
+tax_levy_law_tribal_0_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_1	Tax Focused Tribal Obligations
+tax_levy_law_tribal_1_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_2	Slightly Tax Focused Tribal Obligations
+tax_levy_law_tribal_2_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_3	Tax Shifted Tribal Obligations
+tax_levy_law_tribal_3_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_4	Balanced Tribal Obligations
+tax_levy_law_tribal_4_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_5	Levy Shifted Tribal Obligations
+tax_levy_law_tribal_5_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_6	Slightly Levy Focused Tribal Obligations
+tax_levy_law_tribal_6_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_7	Levy Focused Tribal Obligations
+tax_levy_law_tribal_7_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_tribal_8	Heavily Levy Focused Tribal Obligations
+tax_levy_law_tribal_8_desc	This law governs how much tax and levies the tribes in the realm is obliged to contribute. The tribal chiefs tend to favor supplying their liege with a balanced mix of taxes and troops
+tax_levy_law_iqta	Iqta
+tax_levy_law_iqta_desc	Iqta Obligation Laws
+tax_levy_law_iqta_0	Heavily Tax Focused Iqta Obligations
+tax_levy_law_iqta_0_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_1	Tax Focused Iqta Obligations
+tax_levy_law_iqta_1_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_2	Slightly Tax Focused Iqta Obligations
+tax_levy_law_iqta_2_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_3	Tax Shifted Iqta Obligations
+tax_levy_law_iqta_3_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_4	Balanced Iqta Obligations
+tax_levy_law_iqta_4_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_5	Levy Shifted Iqta Obligations
+tax_levy_law_iqta_5_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_6	Slightly Levy Focused Iqta Obligations
+tax_levy_law_iqta_6_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_7	Levy Focused Iqta Obligations
+tax_levy_law_iqta_7_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+tax_levy_law_iqta_8	Heavily Levy Focused Iqta Obligations
+tax_levy_law_iqta_8_desc	This law governs how much tax and levies the gentry in the realm are obliged to contribute. The gentry tend to favor paying taxes over making troops available for their liege.
+execution_voting_power	Execution
+execution_voting_power_desc	The Council's ability to influence executions.
+execution_voting_power_0	Ruler Execution Sovereignty
+execution_voting_power_0_desc	The Ruler has full authority on Executions.\n
+execution_voting_power_0_option	Ruler
+execution_voting_power_1	Execution Committee
+execution_voting_power_1_desc	Council members vote on Executions.\n
+execution_voting_power_1_option	Council
+DYNAMIC_MERCENARY_COMPANY_FEUDAL	[Prev.Capital.County.GetAdjective] Band
+LAW_REJECTED_LOG	§Y$VASSAL$§! has rejected the proposed §Y$LAW$§! Law in §Y$TITLE$§!
+LAW_REJECTED_SETUP	Vassal Rejects a Law
+EVTDESC8218	Rather than risking civil war tearing the realm apart, I have decided to give in to your demand and give the [Root.GetCouncilName] more powers in deciding the policies of the realm. But this treacherous act of blackmail will not be forgotten...\n\nSigned,\n[From.GetTitledName]
+EVTDESC8217	Under pressure from a powerful Faction, §Y[From.GetTitledName]§! has agreed to increase the power of the [Root.GetCouncilName].
+EVTDESC8216	Rather than letting civil war tear the realm apart, [From.GetTitledName] has agreed to give the [Root.GetCouncilName] more powers in deciding the policies of the realm. Your valuable support in this matter will not be forgotten.\n\nSincerely,\n[FromFrom.GetTitledName]
+faction_increase_council_power_ultimatum	Demand Increased Council Power
+faction_increase_council_power_ultimatum_desc	Present an ultimatum to §Y[Root.Liege.GetBestName]§!, demanding increased power for the Council. If [Root.Liege.GetSubjectPronoun] refuses to comply, your Faction will rise in revolt.
+faction_increase_council_power_short	Increased Council Power
+faction_increase_council_power_title	Increased Council Power in [This.GetName]
+faction_increase_council_power_desc	Members seek to increase the amount of decisions made by the council rather than decreed by the ruler alone. Once this faction is sufficiently powerful, §Y[From.GetBestName]§! may present an ultimatum to §Y[From.Liege.GetBestName]§!.
+opinion_increased_council_power	Increased Council Power
+opinion_decreased_council_power	Decreased Council Power
+opinion_likes_new_obligation_law	Likes New Obligation Law
+opinion_dislikes_new_obligation_law	Dislikes New Obligation Law
+out_of_realm_inheritance_law_0	Free Inheritance
+out_of_realm_inheritance_law_0_desc	Vassal titles do not have any special regulations on inheritance outside the realm.
+out_of_realm_inheritance_law_0_option	Free
+out_of_realm_inheritance_law_1	Regulated Inheritance
+out_of_realm_inheritance_law_1_desc	Vassal title inheritance is regulated to disallow a title to pass to another realm.
+out_of_realm_inheritance_law_1_option	Illegal
+out_of_realm_inheritance_law_desc	Passing the controlled realm inheritance law will protect titles within the realm from being inherited by characters loyal to another liege.
+out_of_realm_inheritance_law	Controlled Realm Inheritance
+status_of_women	Status of Women
+status_of_women_desc	Medieval societies usually function under a patriarchal social structure where women are kept from positions of power and influence. A ruler can alter this state of affairs by issuing decrees that give women increased access to higher positions in society.
+status_of_women_0	Traditional Status of Women
+status_of_women_0_desc	Women are prohibited from holding all job positions. Some government types will be restricted to Agnatic inheritance laws.
+status_of_women_0_option	Tradition
+status_of_women_1	Marginal Status of Women
+status_of_women_1_desc	Women are allowed to hold some power, occupying background positions behind the people in charge.
+status_of_women_1_option	Marginal
+status_of_women_2	Significant Status of Women
+status_of_women_2_desc	Women have been granted official power and are allowed to hold public offices.
+status_of_women_2_option	Significant
+status_of_women_3	Notable Status of Women
+status_of_women_3_desc	Restrictions on female power have been officially repealed. All career paths are open for prominent women.
+status_of_women_3_option	Notable
+status_of_women_4	Full Status of Women
+status_of_women_4_desc	Powerful legislation removing old restrictions has finally had the effect of affecting the general opinion on women in positions of power across society.
+status_of_women_4_option	Full
+TOOLTIP_ALLOW_FEMALE_SPYMASTER	Women related to the ruler are allowed to hold the office of [Root.Holder.GetSpymasterName]\n
+TOOLTIP_DISALLOW_FEMALE_SPYMASTER	Women are no longer allowed to hold the office of [Root.Holder.GetSpymasterName]\n
+TOOLTIP_ALLOW_FEMALE_CHANCELLOR	Women related to the ruler are allowed to hold the office of [Root.Holder.GetChancellorName]\n
+TOOLTIP_DISALLOW_FEMALE_CHANCELLOR	Women are no longer allowed to hold the office of [Root.Holder.GetChancellorName]\n
+TOOLTIP_ALLOW_FEMALE_TREASURER	Women related to the ruler are allowed to hold the office of [Root.Holder.GetTreasurerName]\n
+TOOLTIP_DISALLOW_FEMALE_TREASURER	Women are no longer allowed to hold the office of [Root.Holder.GetTreasurerName]\n
+TOOLTIP_ALLOW_FEMALE_MARSHAL	Women related to the ruler are allowed to hold the office of [Root.Holder.GetMarshalName]\n
+TOOLTIP_DISALLOW_FEMALE_MARSHAL	Women are no longer allowed to hold the office of [Root.Holder.GetMarshalName]\n
+EVTDESC_ZE_2100	I've gotten an increased amount of questions from [target_child.GetFirstName] lately about [Root.Religion.GetHighGodName] and the rituals of the [Root.Religion.GetName] faith.
+EVTOPTA_ZE_2100	Time to teach [target_child.GetHerHim] about [Root.Religion.GetHighGodName].
+EVTOPTB_ZE_2100	It will be better for [target_child.GetHerHim] not to know.
+EVTDESC_ZE_2101	Over the past weeks I've grown more and more curious about the beliefs and rituals of my [GetFromRelation]. Today [From.GetSheHe] finally began to answer my repeated questions about [From.Religion.GetHighGodName].
+EVTOPTA_ZE_2101	Glory to [From.Religion.GetHighGodName]!
+EVTOPTB_ZE_2101	What repugnant ideas!
+EVTDESC_ZE_2102	Your [GetFromRelation], [From.GetFirstName] has, through the teachings of [FromFrom.GetTitledFirstName], been studying the principles of the [FromFrom.Religion.GetName] faith
+EVTOPTA_ZE_2102	Interesting.
+EVTDESC_ZE_2120	During the past few months, [target_child.GetFirstName] has shown dogged determination in [target_child.GetHerHis] studies of our language and has now also expressed a desire to study the history of my people's ancestors.
+EVTOPTA_ZE_2120	I should encourage it.
+EVTOPTB_ZE_2120	Make sure [target_child.GetSheHe] learns about [target_child.GetHerHis] own customs.
+EVTDESC_ZE_2121	Pleased with the progress I'm making with learning the local language, [From.GetFirstName] has brought me a book about the ancestry of the [From.Culture.GetName] people.
+EVTOPTA_ZE_2121	How fascinating.
+EVTOPTB_ZE_2121	I'd rather study my own family's heritage.
+EVTDESC_ZE_2122	Rumor has it that your [GetFromRelation] [From.GetFirstName] has been influenced by [From.GetHerHis] guardian's splendor. It is said that [From.GetFirstName] is now considered properly [From.Culture.GetName].
+EVTOPTA_ZE_2122	I hope it's a beneficial influence.
+EVTDESC_ZE_2130	To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] [FromFrom.Culture.GetName] upbringing.\n\nSigned [FromFrom.GetTitledFirstName].
+EVTOPTA_ZE_2130	That seems appropriate.
+EVTOPTB_ZE_2130	I will never allow [From.GetHerHim] to turn into a savage!
+EVTDESC_ZE_2131	Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about your heritage is most welcome.
+EVTOPTA_ZE_2131	I'll teach [FromFrom.GetHerHim] well.
+EVTDESCA_ZE_2132	Dear, [GetFromRootCompliment] [Root.GetFirstName].\n\nWhile I admire your enthusiasm for the upbringing of [FromFrom.GetFirstName] I do believe that it's best to continue with the current plan of education for [FromFrom.GetHerHim].
+EVTDESCB_ZE_2132	To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nClearly you can understand what an outlandish suggestion you are making. [FromFrom.GetFirstName] is supposed to grow up to be a fine and cultured [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and repulsive manners.
+EVTOPTA_ZE_2132	Not the response I had hoped for.
+EVTOPTB_ZE_2132	What a rude response!
+ask_wards_liege_to_allow_culture_religion_swap	Ask Permission for Heritage Focus
+ask_wards_liege_to_allow_culture_religion_swap_desc	Send a letter to §Y[Root.Liege.GetTitledFirstName]§! asking for permission to change the focus for the upbringing of §Y[Root.GetFirstName]§!. Focusing on your heritage will make §Y[Root.GetFirstName]§! adopt your religion and culture.
+EVTDESC_ZE_13610	I've been having these special feelings for a special someone lately. The strange urges to find myself embraced and close to another person. If I could only find myself alone with...
+EVTOPTA_ZE_13610	...the Farrier's apprentice.
+EVTOPTA_ZE_13610_MALE	...the Carpenter's daughter.
+EVTOPTB_ZE_13610	...the Carpenter's daughter.
+EVTOPTB_ZE_13610_MALE	...the Farrier's apprentice.
+EVTOPTC_ZE_13610	...no, I had better keep these thoughts for myself.
+EVTOPTD_ZE_13610	...no, these feelings are wrong!
+EVTDESCA_ZE_13611	After weeks of waiting for the right opportunity I find myself behind the barn alone with the Farrier's apprentice that my heart has been longing for. My palms are sweaty and my chest is pounding.
+EVTDESCB_ZE_13611	After weeks of waiting for the right opportunity I find myself behind the barn alone together with the Carpenter's daughter that my heart has been longing for. My palms are sweaty and my chest is pounding.
+EVTOPTA_ZE_13611_CARP	Declare my eternal love for her.
+EVTOPTA_ZE_13611_FERR	Declare my eternal love for him.
+EVTOPTB_ZE_13611_CARP	Kiss her on the cheek.
+EVTOPTB_ZE_13611_FERR	Kiss him on the cheek.
+EVTOPTC_ZE_13611_CARP	Suggest a secluded cuddle inside the barn.
+EVTOPTC_ZE_13611_FERR	Suggest a secluded cuddle inside the barn.
+revoke_title_law	Revoke Title
+revoke_title_law_desc	Laws governing the right of a ruler to revoke titles from its subjects.
+revoke_title_law_0	Title Revocation Disallowed
+revoke_title_law_0_desc	The ruler is not under any circumstances allowed to interfere in the ownership of hereditary titles.
+revoke_title_law_0_option	None
+revoke_title_law_1	Title Revocation Allowed
+revoke_title_law_1_desc	The ruler is allowed to legally seize hereditary titles from traitors and unlawful subjects.
+revoke_title_law_1_option	Allowed
+revoke_title_law_2	Religious Control Mandate
+revoke_title_law_2_desc	The ruler has acquired the right to enforce religious control upon subjects and may now seize the titles of heathens and heretics freely.
+revoke_title_law_2_option	Religious
+ze_administration_laws	Administration
+ze_administration_laws_desc	These laws govern how society controls and organizes ownership of property and wealth.
+ze_administration_laws_1	Late Feudal Administration
+ze_administration_laws_1_desc	Late feudal lords realize the importance of keeping the inheritance together to facilitate their dynasty's long-term increase in power and wealth. In this system, there is a tendency for vassals to grow more and more powerful with time if not kept in check.
+ze_administration_laws_1_option	Late
+#CB_NAME_INCREASE_COUNCIL_POWER	Increase Council Power
+#WAR_NAME_INCREASE_COUNCIL_POWER	$ORDER$$FIRST_ADJ$ League to Increase Council Power War
+#EVTDESC8215	For too long, the crown has restricted our rightful influence over the realm. The time has come to increase the power of the [Root.GetCouncilName]! Submit to this demand peacefully or face the consequences. Rest assure that I have gathered the support of others who are equally angered...\n\nSigned,\n[From.GetTitledName]
+pattern_this_is_not_my_war_target_custom_tooltip	There are other wars that are more important for me right now.\n
+title_councilmember_king_desc	The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.
+title_councilmember_emperor_desc	The Advisor is a respected member of the realm's council and is responsible for giving sound advice on any matters that the ruler has to deal with.
+your_allies	§YAllies joining on your side.§!
+enemy_allies	§YAllies joining on the enemy's side.§!
+relations_instant	§Y$NAME$'s Relations§!
+relations_delayed	Friends, Rivals, Marriage Ties and Lovers
+enforce_realm_peace	Enforce Realm Peace
+EVTDESC_ZE_11001	Your mercenary band captain [From.GetTitledName] has shown much interest in your [chosen_child.GetSonDaughter] [chosen_child.GetFirstName]. Now [From.GetSheHe] approaches you with a marriage proposal. Any children in such a marriage would be of [From.GetTitledName]'s dynasty.
+EVTOPTA_ZE_11001	Not a bad idea.
+EVTOPTB_ZE_11001	Outrageous!
+EVTOPTA_ZE_9100_TOOLTIP	All port counties experience tax collecting issues\n
+EVTOPTB_ZE_8112	[From.GetFirstName] should stay out of my business.
+EVTDESC_ZE_8113	[From.GetTitledName] seemed very grateful for my help, and promised to return the favor whenever possible.
+EVTOPTA_ZE_8113	I'm glad it worked out for them.
+EVTDESC_ZE_8114	[From.GetTitledName] was upset that I interrupted a private discussion, [From.GetSheHe] wanted me to stay out of their business in the future.
+EVTOPTA_ZE_8114	[From.GetTitledName] should be grateful for my help!
+EVTDESC_ZE_11011	[From.GetFullName] proposes that we send more troops making them a bigger, better mercenary band. [From.GetSheHeCap] insists that with the experience [From.GetSheHe] has gained, trusting [From.GetHerHim] with a greater force is a natural way of showing mutual respect and trust.
+EVTOPTA_ZE_11011	Accept proposal.
+EVTOPTB_ZE_11011	Respectfully disagree.
+EVTDESC_ZE_11021	[From.GetFullName] was not happy with your decision to dissolve '[From.GetHerHis]' mercenary band. [From.GetSheHeCap] is reported to have taken your soldiers as [From.GetHerHis] own and disappeared.
+EVTOPTA_ZE_11021	When I find [From.GetHerHim]...
+EVTOPTA_ZE_11021_TOOLTIP	Who knows what they will be up to.
+#dissolve_mercenary_company_feudal	Dissolve the Mercenary Company
+dissolve_mercenary_company_feudal_desc	This will put an end to the Mercenary Company. Your current Mercenary Captain may not like this.
+law_voting_power	Council Power
+law_voting_power_desc	Empowers and abolishes the Council.
+law_voting_power_0	Absolute Rule
+law_voting_power_1	Empowered Council
+law_voting_power_0_desc	The ruler has full authority over politics and laws.\n
+law_voting_power_1_desc	This empowers the Council.\n
+law_voting_power_0_option	Abolish
+law_voting_power_1_option	Empower
+banish_voting_power	Banishment
+banish_voting_power_desc	The Council's ability to influence banishment of characters from the realm.
+banish_voting_power_0	Ruler Banishment Sovereignty
+banish_voting_power_1	Banishment Committee
+banish_voting_power_0_desc	The ruler has full authority on Banishments.\n
+banish_voting_power_1_desc	Council members vote on Banishments.\n
+banish_voting_power_0_option	Ruler
+banish_voting_power_1_option	Council
+revoke_title_voting_power	Revoke Titles
+revoke_title_voting_power_desc	The Council's ability to influence Title Revocation.
+revoke_title_voting_power_0	Ruler Title Revocation Sovereignty
+revoke_title_voting_power_1	Title Revocation Committee
+revoke_title_voting_power_0_desc	The ruler has full authority on Title Revocation issues.\n
+revoke_title_voting_power_1_desc	Council members vote on Title Revocation issues.\n
+revoke_title_voting_power_0_option	Ruler
+revoke_title_voting_power_1_option	Council
+grant_title_voting_power	Grant Titles
+grant_title_voting_power_desc	The Council's ability to influence Title Grant decisions.
+grant_title_voting_power_0	Ruler Title Grant Sovereignty
+grant_title_voting_power_1	Title Grant Committee
+grant_title_voting_power_0_desc	The ruler has full authority on Title Grants.\n
+grant_title_voting_power_1_desc	Council members vote on Title Grants.\n
+grant_title_voting_power_0_option	Ruler
+grant_title_voting_power_1_option	Council
+imprison_voting_power	Imprisonment
+imprison_voting_power_desc	The Council's ability to influence Imprisonment decisions.
+imprison_voting_power_0	Ruler Imprisonment Sovereignty
+imprison_voting_power_1	Imprisonment Committee
+imprison_voting_power_0_desc	The Ruler has full authority on Imprisonment issues.\n
+imprison_voting_power_1_desc	Council members vote on imprisonment issues.\n
+imprison_voting_power_0_option	Ruler
+imprison_voting_power_1_option	Council
+war_voting_power	War Declaration
+war_voting_power_desc	The Council's ability to influence Declarations of War.
+war_voting_power_0	Ruler War Declaration Sovereignty
+war_voting_power_1	War Declaration Committee
+war_voting_power_0_desc	The Ruler has full authority on War Declarations.\n
+war_voting_power_1_desc	Council members vote on War Declarations.\n
+war_voting_power_0_option	Ruler
+war_voting_power_1_option	Council
+opinion_lowered_tribal_organization	Lowered Tribal Organization
+EVTDESC38315	I am speaking in tongues and screaming obscenities at random times, people believe me to be possessed.
+EVTOPTA_ZE_6021	[moving_councillor.GetSheHeCap] should be my [Root.GetChancellorName].
+EVTOPTB_ZE_6021	[moving_councillor.GetSheHeCap] should be my [Root.GetMarshalName].
+EVTOPTC_ZE_6021	[moving_councillor.GetSheHeCap] should be my [Root.GetTreasurerName].
+EVTOPTD_ZE_6021	[moving_councillor.GetSheHeCap] should be my [Root.GetSpymasterName].
+EVTOPTE_ZE_6021	[moving_councillor.GetSheHeCap] should be my [Root.GetLordSpiritualName].
+EVTOPTF_ZE_6021	I've changed my mind.
+EVTDESCA_ZE_12100	Today [curious_events_char_1.GetFullName] said [curious_events_char_1.GetSheHe] had to attend to various important matters, and I would have to spend the day alone.
+EVTDESCB_ZE_12100	I woke up early and found a sealed letter addressed to [curious_events_char_2.GetTitledName]. I wonder what it could say?
+EVTDESCC_ZE_12100	Suddenly I hear something moving around in the bushes next to me. I ask who's there but there's no response.
+EVTOPTA_ZE_12100	I will follow [curious_events_char_1.GetHerHim] to see what [curious_events_char_1.GetSheHe] is up to!
+EVTOPTB_ZE_12100	I can play all day!
+EVTOPTC_ZE_12100	Place it on the table and ask about it later.
+EVTOPTD_ZE_12100	I should find out. It could be important.
+EVTOPTE_ZE_12100	I should investigate.
+EVTOPTF_ZE_12100	I should tell someone.
+EVTDESCA_ZE_12102	I had told [From.GetFirstName] to stay at home, but just as I finish purchasing my gift to [From.GetHerHim] I turn around and see [From.GetHerHim] trying to hide from me. The surprise is ruined.
+EVTDESCB_ZE_12102	I come back after a day out fetching some things at the market and see [From.GetFirstName] patiently waiting for me like I asked.
+EVTDESCC_ZE_12102	I could hear someone sneaking around inside and believed it to be a burglar. When I went downstairs I discovered [From.GetFirstName] opening one of my letters.
+EVTDESCD_ZE_12102	I had expected some letters today but couldn't find any. I was suspicious at first but when I asked [From.GetFirstName] [From.GetSheHe] pointed to a table where they were already sorted for me, untouched.
+EVTOPTA_ZE_12102	I'll grab [From.GetHerHim] by the ear and have a serious talk.
+EVTOPTB_ZE_12102	I can't blame [From.GetHerHim].
+EVTOPTC_ZE_12102	I should give [From.GetHerHim] some treats.
+EVTOPTD_ZE_12102	I'll teach [From.GetHerHim] to be less nosy.
+EVTOPTE_ZE_12102	[From.GetSheHeCap] could use some practice reading.
+EVTOPTF_ZE_12102	[From.GetSheHeCap] is a joy to have around.
+EVTDESCA_ZE_12104	[From.GetTitledName] was buying things at the market and [From.GetSheHe] saw me there. Then [From.GetSheHe] pinched my ear and said I should do what I am told. [From.GetSheHeCap] was getting me a treats at the market but now I won't get any!
+EVTDESCB_ZE_12104	I followed [From.GetTitledName] to the market, but then [From.GetSheHe] caught me. [From.GetSheHeCap] laughed and said I was hopeless.
+EVTDESCC_ZE_12104	[From.GetTitledName] saw me opening the letter and grabbed me by the hand. Then he cut my finger with the paper and said I should keep my nose out of others business.
+EVTDESCD_ZE_12104	[From.GetTitledName] came downstairs just as I was opening the letter but [From.GetSheHe] wasn't angry with me. [From.GetSheHeCap] told me it is considered rude to go through other people's belongings.
+EVTDESCE_ZE_12104	It was a big disgusting rat. It hissed and bit me in the hand and now it hurts, a lot!
+EVTDESCF_ZE_12104	I found an injured bird, it seems to have fallen from its nest. Maybe I can keep it as a pet while it recovers.
+EVTOPTA_ZE_12104	[From.GetSheHeCap] is hiding something.
+EVTOPTB_ZE_12104	I should apologize.
+EVTOPTC_ZE_12104	[From.GetSheHeCap] is so much fun!
+EVTOPTD_ZE_12104	That was a secret letter!
+EVTOPTE_ZE_12104	It wasn't mine to read.
+EVTOPTF_ZE_12104	It's probably a boring letter anyway.
+EVTOPTG_ZE_12104	I'm glad I found out!
+EVTOPTH_ZE_12104	I was meant to learn.
+EVTOPTI_ZE_12104	What a great day.
+EVTDESCA_ZE_12106	[From.GetFirstName] didn't react well to my way of correcting [From.GetHerHis] behavior. I fear [From.GetSheHe] is even more suspicious towards me now.
+EVTDESCB_ZE_12106	[From.GetFirstName] Seems regretful that [From.GetSheHe] disobeyed me. Hopefully It won't happen again.
+EVTDESCC_ZE_12106	[From.GetFirstName] seems even more interested in the letter now that [From.GetSheHe] knows it's forbidden.
+EVTDESCD_ZE_12106	After talking to [From.GetFirstName] [From.GetSheHe] seems to understand the concept of privacy better.
+EVTOPTA_ZE_12106	Worrying.
+EVTOPTB_ZE_12106	There is hope for the child.
+EVTOPTC_ZE_12106	Maybe I should have dealt with it differently.
+EVTOPTD_ZE_12106	A step in the right direction.
+EVTOPTE_ZE_12100_TOOLTIP1	Find something nasty.
+EVTOPTE_ZE_12100_TOOLTIP2	Find a friend.
+EVTDESCA_ZE_12080	I saw that the private chambers of [conscientious_events_char_1.GetFullName] were very messy. Papers, books and things lying around everywhere!
+EVTDESCB_ZE_12080	After supper, me and [conscientious_events_char_2.GetFirstName] were supposed to help do the dishes. But [conscientious_events_char_2.GetFirstName] hid the dirty dishes and wants to go play instead.
+EVTDESCC_ZE_12080	It's getting late but I lost my new vest when I was playing somewhere. If i come back without it everyone will think I'm sloppy!
+EVTOPTA_ZE_12080	I will sort it out for [conscientious_events_char_1.GetHerHim].
+EVTOPTB_ZE_12080	So much to do outside.
+EVTOPTC_ZE_12080	I have to tell on [conscientious_events_char_2.GetHerHim].
+EVTOPTD_ZE_12080	No one will find out!
+EVTOPTE_ZE_12080	I have to go look for it.
+EVTOPTF_ZE_12080	I can explain when I get back.
+EVTOPTE_ZE_12080_TOOLTIP1	Becoming ill
+EVTOPTE_ZE_12080_TOOLTIP2	Successfull find
+EVTDESCA_ZE_12082	As I enter my chambers, all of the work I had done in my spare time seems to have been cleaned up and put back. Books are neatly set in alphabetical order and notes have been thrown away. [From.GetFullName] was apparently 'cleaning' earlier.
+EVTDESCB_ZE_12082	After supper, me and [From.GetFirstName] were forced to do dishes. But I was clever and hid them, until [From.GetFirstName] told on me and now I have to do all of it.
+EVTDESCC_ZE_12082	After supper, me and [From.GetFirstName] had to clean up. But we hid all the dishes where no one could see and now we have been playing all evening.
+EVTOPTA_ZE_12082	I'll mess up [From.GetHerHis] chambers.
+EVTOPTB_ZE_12082	Cleaning is not my virtue...
+EVTOPTC_ZE_12082	Unfair! I'll run away.
+EVTOPTD_ZE_12082	Stupid dishes.
+EVTOPTE_ZE_12082	We had so much fun together.
+EVTDESCA_ZE_12084	[From.GetTitledName] didn't like that I was cleaning [From.GetHerHis] chambers, [From.GetSheHe] could not find important books. Now [From.GetSheHe] messed mine up and said I wasn't allowed back in [From.GetHersHis] anymore.
+EVTDESCB_ZE_12084	[From.GetFirstName] ran away when I told on him. The others said I don't have to do all the work alone. But I was a good [Root.GetBoyGirl] for telling them.
+EVTDESCC_ZE_12084	[From.GetFirstName] was angry with me, but we did finish all the work together. Maybe [From.GetSheHe] doesn't like me any more.
+EVTDESCD_ZE_12084	I was out too long in the evening, and it hurts when I breathe. The adults say I have to rest a lot.
+EVTDESCE_ZE_12084	Yes! I found my vest and no one will even know it was missing.
+EVTOPTA_ZE_12084	Now I have to clean again.
+EVTOPTB_ZE_12084	[From.GetSheHeCap] is a meanie and I will tell everyone!
+EVTOPTC_ZE_12084	I will do it myself.
+EVTOPTD_ZE_12084	I can spend time reading.
+EVTOPTE_ZE_12084	The grownups are happy.
+EVTOPTF_ZE_12084	I feel terrible.
+EVTOPTG_ZE_12084	Next time I will take my things with me.
+EVTDESCA_ZE_12086	[From.GetFirstName] is quietly cleaning [From.GetHerHis] chambers after my episode in there. Seems like this is a very thorough child.
+EVTDESCB_ZE_12086	[From.GetFirstName] was very upset with me and told everyone what I did.
+EVTOPTA_ZE_12086	Maybe I shouldn't have.
+EVTOPTB_ZE_12086	That little monster.
+EVTDESCA_ZE_12090	It's bedtime but I can't find my favorite toy. I have it when I go to sleep.
+EVTDESCB_ZE_12090	Food is on my plate, but steam is coming out of it. I wonder if it's safe to eat? [fussy_events_char_2.GetTitledName] is looking at me.
+EVTDESCC_ZE_12090	I was invited to the servants' quarters to eat cake with them tonight. But just as I was going there, it started raining.
+EVTOPTA_ZE_12090	I can't sleep without it!
+EVTOPTB_ZE_12090	I'm a big [Root.GetBoyGirl] now.
+EVTOPTC_ZE_12090	It's too hot.
+EVTOPTD_ZE_12090	I should trust [fussy_events_char_2.GetFirstName].
+EVTOPTE_ZE_12090	I can make it if I run.
+EVTOPTF_ZE_12090	I don't want to get wet, I'll wait.
+EVTOPTE_ZE_12090_TOOLTIP1	Make it with no effort
+EVTOPTE_ZE_12090_TOOLTIP2	Out in the cold too long
+EVTDESCA_ZE_12092	[From.GetFirstName] says [From.GetHerHis] favorite toy is missing and [From.GetSheHe] won't go to bed without it. I may have thrown it out today when I was tidying up.
+EVTDESCB_ZE_12092	[From.GetFirstName] was a bit worried about not finding [From.GetHerHis] favorite toy, but seems to have settled down and is now sound asleep. 
+EVTDESCC_ZE_12092	At the table today, [From.GetFirstName] complained about the food being too hot without even touching it.
+EVTDESCD_ZE_12092	[From.GetFirstName] was very happy at dinner today, eating with great appetite.
+EVTOPTA_ZE_12092	I'll offer to buy a new one.
+EVTOPTB_ZE_12092	Guess I have to go find it.
+EVTOPTC_ZE_12092	One more step towards growing up.
+EVTOPTD_ZE_12092	Touch the food to make sure.
+EVTOPTE_ZE_12092	Let [From.GetHerHim] wait.
+EVTOPTF_ZE_12092	That's nice.
+EVTDESCA_ZE_12094	[From.GetFirstName] offered to get me a new toy. [From.GetSheHeCap] said we could go find something nice tomorrow.
+EVTDESCB_ZE_12094	[From.GetFirstName] finally found my toy after looking for it everywhere. It was in the trash.
+EVTDESCC_ZE_12094	[From.GetFirstName] reached over the table and touched my food with [From.GetHerHis] whole hand. [From.GetSheHeCap] said it was not too hot to eat.
+EVTDESCD_ZE_12094	[From.GetFirstName] seemed angry with me and told me to wait until I felt the food's temperature was just right. Now its cool enough.
+EVTDESCE_ZE_12094	I ran very fast and I made it in time. We had lots of fun and the servants seem to like me.
+EVTDESCF_ZE_12094	I made it to the servants' quarters, but I got very wet. Then we had a good time and they felt sorry for me having to go out in the cold..
+EVTOPTA_ZE_12094	It's not the same, I want my toy!
+EVTOPTB_ZE_12094	Ok then.
+EVTOPTC_ZE_12094	It stinks!
+EVTOPTD_ZE_12094	Oh I thought I had lost it.
+EVTOPTE_ZE_12094	But now [From.GetSheHe] touched it.
+EVTOPTF_ZE_12094	I guess it's fine.
+EVTOPTG_ZE_12094	But now some of it is too cold.
+EVTOPTH_ZE_12094	Alright, I'll eat the cold food.
+EVTOPTI_ZE_12094	Yum yum.
+EVTOPTJ_ZE_12094	I don't feel so good.
+EVTDESCA_ZE_12096	My offer to purchase a new toy was rejected by [From.GetFirstName]. [From.GetSheHeCap] is upset I would even suggest such a thing.
+EVTDESCB_ZE_12096	[From.GetFirstName] agreed to go get a new toy the next day and finally settled down.
+EVTDESCC_ZE_12096	I found the toy [From.GetFirstName] was crying about after going through the trash. But now [From.GetSheHe] is not satisfied because it smells.
+EVTDESCD_ZE_12096	[From.GetFirstName] finally fell asleep after I found [From.GetHerHis] toy.
+EVTDESCE_ZE_12096	No matter what I do or avoid doing, there seems to be no good way to make [From.GetFirstName] relax. [From.GetSheHeCap] won't eat at all now and I have no more energy to deal with it.
+EVTDESCF_ZE_12096	[From.GetFirstName] finally decided to eat [From.GetHerHis] food.
+EVTOPTA_ZE_12096	There is no pleasing this child.
+EVTOPTB_ZE_12096	What a relief.
+EVTOPTC_ZE_12096	It stinks!
+EVTOPTD_ZE_12096	Oh I thought I had lost it.
+EVTOPTE_ZE_12096	Hopeless.
+EVTOPTF_ZE_12096	Peace at last.
+EVTDESCA_ZE_12110	[idolizer_events_char_1.GetTitledName] is so kind to me. And [idolizer_events_char_1.GetSheHe] seems to know so much about everything.
+EVTDESCB_ZE_12110	Spending time with [idolizer_events_char_2.GetFirstName] is great. We get along so well. Even when we do chores together time goes by so fast.
+EVTDESCC_ZE_12110	I have been praying with the [Root.Religion.GetPriestTitle] for a while and some of the other people in the temple are getting ready to leave.
+EVTOPTA_ZE_12110	I'll write [idolizer_events_char_1.GetHerHim] a song!
+EVTOPTB_ZE_12110	I should tell the courtiers that I like it here.
+EVTOPTC_ZE_12110	Everything is better when [idolizer_events_char_2.GetSheHe] is around.
+EVTOPTD_ZE_12110	I will stay friends with [idolizer_events_char_2.GetHerHim] forever.
+EVTOPTE_ZE_12110	[Root.Religion.GetRandomGodNameCap] will notice my dedication.
+EVTOPTF_ZE_12110	I can collect alms to keep for myself.
+EVTDESCA_ZE_12112	[From.GetFirstName] has written a song in my honor. Apparently [From.GetSheHe] wants me to know that I'm the best person in the world.
+EVTDESCB_ZE_12112	[From.GetFirstName] told me that everyone is so kind here. [From.GetSheHeCap] would make sure everyone knew how grateful [From.GetSheHe] is.
+EVTDESCC_ZE_12112	[From.GetFirstName] tells me that [From.GetSheHe] really loves spending time with me. I make [From.GetHerHis] days so much better.
+EVTDESCD_ZE_12112	[From.GetFirstName] and I always get along well and now [From.GetSheHe] told me that we should stay friends forever.
+EVTOPTA_ZE_12112	I can tell stories to impress [From.GetHerHim].
+EVTOPTB_ZE_12112	I'm just a responsible adult.
+EVTOPTC_ZE_12112	[From.GetSheHeCap] is a joy to have around.
+EVTOPTD_ZE_12112	I'll kiss [From.GetFirstName] on the cheek.
+EVTOPTE_ZE_12112	[From.GetSheHeCap] is kind. But I don't feel that way.
+EVTOPTF_ZE_12112	I can always count on [From.GetFirstName].
+EVTDESCA_ZE_12114	[From.GetFirstName] was very happy for my gesture. [From.GetSheHeCap] agreed that [From.GetHerHis] exceptional personality and skill is worthy of songs and praise. Now the others could see [From.GetHerHim] for what [From.GetSheHe] is.
+EVTDESCB_ZE_12114	[From.GetFirstName] was humbled by the song I had written. But [From.GetSheHeCap] wanted to make a point of being just an ordinary person, and that I shouldn't give [From.GetHerHim] more credit than [From.GetSheHe] deserves.
+EVTDESCC_ZE_12114	[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.
+EVTDESCD_ZE_12114	[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.
+EVTDESCE_ZE_12114	After a whole night of religious ritual, I started getting hungry and my mind wandered. Maybe [Root.Religion.GetRandomGodName] is happy with the time I spent here.
+EVTOPTA_ZE_12114	I wish [From.GetSheHe] was my [From.GetFatherMother].
+EVTOPTB_ZE_12114	What a dufus.
+EVTOPTC_ZE_12114	What a hero.
+EVTOPTD_ZE_12114	Grownups can do anything.
+EVTOPTE_ZE_12114	[From.GetSheHeCap] is the best.
+EVTOPTF_ZE_12114	This is not what I meant.
+EVTOPTG_ZE_12114	I shouldn't have said anything.
+EVTOPTH_ZE_12114	I am being tested, I must stay here.
+EVTOPTI_ZE_12114	I can't miss fencing practice.
+EVTDESCA_ZE_12116	[From.GetFirstName] is no less impressed by me now. It seems I'm quite the idol for [From.GetHerHim].
+EVTDESCB_ZE_12116	[From.GetFirstName] seems to have lost [From.GetHerHis] overwhelming affection for me. For better or worse, it's good to learn moderation. I might not be that special after all.
+EVTDESCC_ZE_12116	[From.GetFirstName] said that I'm also wonderful to be around. Then [From.GetSheHe] gave me a kiss on the cheek and ran away.
+EVTDESCD_ZE_12116	[From.GetFirstName] seemed a bit uneasy when I told [From.GetHerHim] how I felt. [From.GetSheHeCap] said that it was a nice thing to say, but maybe we should spend less time together.
+EVTOPTA_ZE_12116	I hope I'm a good influence on [From.GetHerHim].
+EVTOPTB_ZE_12116	The older they get...
+EVTOPTC_ZE_12116	What a sweetie.
+EVTOPTD_ZE_12116	I don't like [From.GetHerHim] anyway...
+INHERITANCE_INFAMY	Inheritance from $FROM$
+INDEPENDENCE_INFAMY	$VASSAL$ Independence
+VASSELIZATION_INFAMY	$VASSAL$ Vassalization
+EVTDESCA_ZE_12070	It has been a long day outside and [playful_events_char_1.GetTitledName] says it is time to head back home. [playful_events_char_1.GetSheHeCap] is carrying some heavy bags, maybe this time I can beat [playful_events_char_1.GetHerHim].
+EVTDESCB_ZE_12070	It's late at night and I get out of bed to use the chamberpot. [playful_events_char_2.GetFirstName] starts calling my name and I see a man hiding under the dining table. He notices me and whispers 'psst, come over here'. 
+EVTDESCC_ZE_12070	Today I had to help out digging in the garden, but gardening is boring. The gardener is boring too, but maybe?
+EVTOPTA_ZE_12070	Race me!
+EVTOPTB_ZE_12070	Help [playful_events_char_1.GetHerHim] with the bags.
+EVTOPTC_ZE_12070	Hide with the man.
+EVTOPTD_ZE_12070	Answer [playful_events_char_2.GetFirstName].
+EVTOPTE_ZE_12070	I can tickle her.
+EVTOPTF_ZE_12070	Hard work is good for discipline.
+EVTOPTE_ZE_12070_TOOLTIP1	Gardener is tickly.
+EVTOPTE_ZE_12070_TOOLTIP2	Gardener doesn't appreciate tickling.
+EVTDESCA_ZE_12072	After I told [From.GetFirstName] it was time to head on home, [From.GetSheHe] looked at me with a grin on [From.GetHerHis] face and told me to race [From.GetHerHim] home, leaving me to carry everything on my own.
+EVTDESCB_ZE_12072	After some hours running errands I was heading back home with [From.GetFirstName]. Just as I told [From.GetHerHim] we were going home [From.GetSheHe] took one of the bags to help carry it without me even asking.
+EVTDESCC_ZE_12072	[playful_events_char_2.GetFirstName] stops calling for me after a while. The man says 'I bet you this gold coin you can't hold your breath until I'm outside'.
+EVTDESCD_ZE_12072	[From.GetFirstName] was not in [From.GetHerHis] his room and I was starting to get worried. When [From.GetSheHe] finally answered I found [From.GetHerHim] staring at a burglar who was trying to hide from me.
+EVTOPTA_ZE_12072	Race [From.GetHerHim].
+EVTOPTB_ZE_12072	Lecture [From.GetHerHim] about responsibilities.
+EVTOPTC_ZE_12072	Bless the child.
+EVTOPTD_ZE_12072	Easy money.
+EVTOPTE_ZE_12072	Call for [playful_events_char_2.GetFirstName].
+EVTOPTF_ZE_12072	Guards!
+EVTDESCA_ZE_12074	[From.GetFirstName] chased and caught me. Maybe next time I can run fast enough.
+EVTDESCB_ZE_12074	[From.GetFirstName] was not happy that I ran away from [From.GetHerHim] without helping. Now I have to stay indoors all day tomorrow.
+EVTDESCC_ZE_12074	Before I knew it, the man was running out through the door. He didn't even look back once.
+EVTDESCD_ZE_12074	[From.GetFirstName] seemed shocked when [From.GetSheHe] found me. The guards came and took the man hiding under the table. They said he was a bad man and I should stay away from strangers.
+EVTDESCE_ZE_12074	We had some time to play before we finished all of the work.
+EVTDESCF_ZE_12074	She was not ticklish, and now she is telling everybody what a hassle I am to have around.
+EVTOPTA_ZE_12074	[From.GetSheHeCap] is so fast.
+EVTOPTB_ZE_12074	[From.GetFirstName] is a cheater.
+EVTOPTC_ZE_12074	Everyone here is so boring.
+EVTOPTD_ZE_12074	I win, easy.
+EVTOPTE_ZE_12074	I wonder who that was.
+EVTOPTF_ZE_12074	Nothing has to be boring.
+EVTOPTG_ZE_12074	She is stupid.
+EVTDESCA_ZE_12076	[From.GetFirstName] never seems to be grumpy, always playing without a care in the world.
+EVTDESCB_ZE_12076	[From.GetFirstName] was a little bit let down that I caught up with [From.GetHerHim] and even called me a cheater. Not always winning is a good thing for children to learn.
+EVTDESCC_ZE_12076	I heard noises in the middle of the night and when I got up to check on [From.GetFirstName] I had to call out several times. Then [From.GetSheHe] finally answered and I found [From.GetHerHim] under the dining table with a burglar. The guards made quick work of the burglar.
+EVTOPTA_ZE_12076	It will change.
+EVTOPTB_ZE_12076	[From.GetSheHeCap] will thank me later.
+EVTOPTC_ZE_12076	Thank [Root.Religion.GetRandomGodName] I found [From.GetHerHim].
+EVTDESCA_ZE_12060	[indolent_events_char_1.GetFirstName] has come to get my help, today we are going to cut down some trees. Very hard work [indolent_events_char_1.GetSheHe] says.
+EVTDESCB_ZE_12060	I've been asked to go fetch some supplies at the market but it's a long walk. [indolent_events_char_2.GetFirstName] is already going to get other things.
+EVTDESCC_ZE_12060	I'm reading a poetry book in my room but the weather is so nice outside. There are some children playing in the sun.
+EVTOPTA_ZE_12060	Ouch, my stomach hurts suddenly.
+EVTOPTB_ZE_12060	I'll cut down the biggest one.
+EVTOPTC_ZE_12060	Pay [indolent_events_char_2.GetHerHim] to get your groceries.
+EVTOPTD_ZE_12060	Join up with [indolent_events_char_2.GetHerHim].
+EVTOPTE_ZE_12060	Go see what they are doing.
+EVTOPTF_ZE_12060	Keep on reading.
+EVTDESCA_ZE_12062	As soon as I came to pick up [From.GetFirstName] to help me out cutting down some trees [From.GetSheHe] starts complaining. Apparently [From.GetSheHe] has a nasty stomach ache.
+EVTDESCB_ZE_12062	Today me and [From.GetFirstName] spent some time outside cutting down trees, no complaints from the young [From.GetBoyGirl] and work was finished early.
+EVTDESCC_ZE_12062	[From.GetFirstName] asked me to get some things for [From.GetHerHim] at the market as I am already going there. [From.GetSheHeCap] is even paying me
+EVTDESCD_ZE_12062	[From.GetFirstName] came with me to the market today, we both had to go get some groceries and had time to talk a lot.
+EVTOPTA_ZE_12062	Indolent brat, I'll show [From.GetHerHim].
+EVTOPTB_ZE_12062	Maybe there's something wrong with [From.GetHerHim]?
+EVTOPTC_ZE_12062	Job well done.
+EVTOPTD_ZE_12062	Very easy money.
+EVTOPTE_ZE_12062	I refuse!
+EVTOPTF_ZE_12062	[From.GetFirstName] is so kind.
+EVTDESCA_ZE_12064	[From.GetFirstName] spanked me when I complained about my stomach ache. Then [From.GetSheHe] grabbed my arm and told me we were going outside.
+EVTDESCB_ZE_12064	[From.GetFirstName] seemed worried and brought me some tea. I have to drink it to get better. I also got some freshly baked bread for when I feel better.
+EVTDESCC_ZE_12064	[From.GetFirstName] agreed to go get everything if I gave [From.GetHerHim] some extra coin. I should stay in my room so no one knows I'm still home. I've got some time to spend while I'm in here.
+EVTDESCD_ZE_12064	[From.GetFirstName] didn't want to help me out. [From.GetSheHeCap] is already heading out.
+EVTDESCE_ZE_12064	The other children are chasing each other, lots of running and jumping.
+EVTOPTA_ZE_12064	Now I can't use my arm to cut trees.
+EVTOPTB_ZE_12064	I'm coming, I'm coming!
+EVTOPTC_ZE_12064	Oh tea and fresh bread!
+EVTOPTD_ZE_12064	Maybe I should help [From.GetHerHim].
+EVTOPTE_ZE_12064	I could use a nap right now.
+EVTOPTF_ZE_12064	Read a book about money.
+EVTOPTG_ZE_12064	I guess I'll have to go then.
+EVTOPTH_ZE_12064	Maybe I'll just watch them.
+EVTOPTI_ZE_12064	I'll join in.
+EVTDESCA_ZE_12066	[From.GetFirstName] apparently has pains in [From.GetHerHis] arm now after I grabbed it and 'cannot use it to cut trees'.
+EVTDESCB_ZE_12066	[From.GetFirstName] was happy when I brought [From.GetHerHim] some tea and bread. [From.GetSheHe] should recover soon.
+EVTDESCC_ZE_12066	Some motivation can give good results, apparently the pain is all gone now after some convincing and [From.GetFirstName] will come join me.
+EVTOPTA_ZE_12066	Hopeless...
+EVTOPTB_ZE_12066	Poor child.
+EVTOPTC_ZE_12066	Suddenly better, that's great.
+EVTDESCA_ZE_12050	[brooding_events_char_1.GetTitledName] promised to take me riding today, but when I came to see [brooding_events_char_1.GetHerHim] [brooding_events_char_1.GetSheHe] was drunk and half asleep.
+EVTDESCB_ZE_12050	'Try it again,' [brooding_events_char_2.GetFirstName] says. But I can't do it! I can't whistle.
+EVTDESCC_ZE_12050	Everyone was busy at home, so I snuck out to the commoners market. When I got there some children were being mean to a smaller child in ragged clothes.
+EVTOPTA_ZE_12050	Pour some water on [brooding_events_char_1.GetHerHim].
+EVTOPTB_ZE_12050	Leave [brooding_events_char_1.GetHerHim] alone.
+EVTOPTC_ZE_12050	How come you can do it?
+EVTOPTD_ZE_12050	Keep trying.
+EVTOPTE_ZE_12050	Stop them.
+EVTOPTF_ZE_12050	Noone can know I'm here.
+EVTDESCA_ZE_12052	Sure, I forgot about my promise to take [From.GetFirstName] riding. But now... Now [From.GetSheHe] poured water on me when I was resting. I only had a little bit to drink, and and and I am the [Root.PrimaryTitle.GetRulerTitle]!
+EVTDESCB_ZE_12052	I woke up feeling a bit hung over, and it's already evening. I vaguely recall [From.GetFirstName] looking at me before I fell asleep. I think I had plans with [From.GetHerHim].
+EVTDESCC_ZE_12052	[From.GetFirstName] wanted to learn to whistle. After trying for a while [From.GetSheHe] asked me 'How come you can do it?'
+EVTDESCD_ZE_12052	[From.GetFirstName] asked me to teach [From.GetHerHim] how to whistle. I must have inspired [From.GetHerHim], now [From.GetSheHe] has been at it for hours.
+EVTOPTA_ZE_12052	I'll show [From.GetHerHim]!
+EVTOPTB_ZE_12052	I'm sorry [From.GetFirstName].
+EVTOPTC_ZE_12052	I feel sick.
+EVTOPTD_ZE_12052	It's easy, you can do it.
+EVTOPTE_ZE_12052	Not everyone can do it.
+EVTOPTF_ZE_12052	[From.GetSheHeCap]'ll get it right soon.
+EVTDESCA_ZE_12054	[From.GetFirstName] tried to say something, but I couldn't hear what it was. Then [From.GetSheHeCap] got up and raised [From.GetHerHis] fist at me before stumbling and falling. Now [From.GetSheHe] is snoring.
+EVTDESCB_ZE_12054	[From.GetFirstName] is quietly mumbling some words and rubbing [From.GetHerHis] face. 'Sorry, I'm sorry' [From.GetSheHe] says..
+EVTDESCC_ZE_12054	[From.GetFirstName] told me that whistling is easy. That I can do it if I try. But I've tried many times already.
+EVTDESCD_ZE_12054	[From.GetFirstName] said that not everyone learns to whistle. Some can never do it.
+EVTDESCE_ZE_12054	The bullies all scatter when I tell them to stop. The small child looks at me and asks for food without mentioning the others and what they did. Is this how commoners live?
+EVTOPTA_ZE_12054	My life will never be like this.
+EVTOPTB_ZE_12054	Take some money while [From.GetSheHe] is sleeping.
+EVTOPTC_ZE_12054	[From.GetFirstName] is not a grown up.
+EVTOPTD_ZE_12054	Comfort [From.GetHerHim].
+EVTOPTE_ZE_12054	Everyone can do it but me.
+EVTOPTF_ZE_12054	I am good at other things.
+EVTOPTG_ZE_12054	Donate some money for food and clothes.
+EVTOPTH_ZE_12054	Tell child to ask their mom and dad.
+EVTDESCA_ZE_12056	I have a bad headache, and my episode with [From.GetFirstName] is slowly coming back to me. There is no excuse for my behavior. What's worse is that I even got lectured by a child.
+EVTDESCB_ZE_12056	Waking up in my room, I seem to be missing some money. I vaguely remember [From.GetFirstName] being here. Wasn't [From.GetSheHe]?
+EVTDESCC_ZE_12056	The last thing I remember before falling asleep is apologizing to [From.GetFirstName]. It seems my apology was not what [From.GetSheHe] wanted.
+EVTDESCD_ZE_12056	I wake up, and [From.GetFirstName] is still by my side. [From.GetSheHeCap] has brought me some water to drink, and covered me with a blanket. I don't deserve treatment like this. But if [From.GetSheHe] sees good in me...
+EVTDESCE_ZE_12056	[From.GetFirstName] seems a bit frustrated by [From.GetHerHis] failed attempts. [From.GetSheHeCap] doesn't seem to respond well to my encouraging words.
+EVTDESCF_ZE_12056	[From.GetFirstName] went back to [From.GetHerHis] room to do other things now.
+EVTOPTA_ZE_12056	I have seen better days.
+EVTOPTB_ZE_12056	That brat.
+EVTOPTC_ZE_12056	I'm in a sad state.
+EVTOPTD_ZE_12056	I can change. I will change.
+EVTOPTE_ZE_12056	Many things seem to trouble this child.
+EVTOPTF_ZE_12056	I'm glad [From.GetSheHe] doesn't dwell too much on these things.
+EVTDESCA_ZE_12040	[willful_events_char_1.GetFirstName] is frowning at me. 'Waste of time. It will never fit, you've grown out of it.' [willful_events_char_1.GetSheHe] says. But it's my favorite hat!
+EVTDESCB_ZE_12040	I'm out playing with [willful_events_char_2.GetFirstName] and we're close to the abandoned haunted house, we're not supposed to go there and [willful_events_char_2.GetFirstName] is looking frightened.
+EVTDESCC_ZE_12040	I've been out fishing for hours. I still haven't caught a fish as big as that servant's child got yesterday.
+EVTOPTA_ZE_12040	It will fit if you help me.
+EVTOPTB_ZE_12040	Give the hat to someone younger.
+EVTOPTC_ZE_12040	Go inside.
+EVTOPTD_ZE_12040	Turn back.
+EVTOPTE_ZE_12040	If I wait long enough.
+EVTOPTF_ZE_12040	Go home.
+EVTOPTE_ZE_12040_TOOLTIP1	Catch something.
+EVTOPTE_ZE_12040_TOOLTIP2	Waste time.
+EVTDESCA_ZE_12042	[From.GetFirstName] insists that I help [From.GetHerHim] get an old hat to fit. A very futile task as [From.GetSheHe]'s too big for it now as I've already told [From.GetHerHim] several times.
+EVTDESCB_ZE_12042	[From.GetFirstName] really wants to go inside the scary haunted house. It looks like it's dangerous and we have been told not to go near it.
+EVTOPTA_ZE_12042	No child tells me what to do.
+EVTOPTB_ZE_12042	Give in to demands.
+EVTOPTC_ZE_12042	I don't want to go in there.
+EVTOPTD_ZE_12042	I can do this.
+EVTDESCA_ZE_12044	[From.GetFirstName] hit me over the head for not listening to [From.GetHerHim].
+EVTDESCB_ZE_12044	[From.GetFirstName] says we have to go back now, and if we don't [From.GetSheHe] will tell on me.
+EVTDESCC_ZE_12044	After a few more hours, I finally feel something bite. It's a huge fish, probably the biggest fish in [Root.Capital.GetName].
+EVTDESCD_ZE_12044	I'm just about to give up, but then it happened. I caught a fish, but it's not very big.
+EVTOPTA_ZE_12044	[From.GetSheHeCap]'s a meanie!
+EVTOPTB_ZE_12044	Someone else can make it fit.
+EVTOPTC_ZE_12044	Come, or I'll say it was your idea.
+EVTOPTD_ZE_12044	You're right.
+EVTOPTE_ZE_12044	They will tell stories of today.
+EVTOPTF_ZE_12044	At least I tried.
+EVTDESCA_ZE_12046	[From.GetFirstName] thinks I'm mean for not helping. [From.GetSheHeCap] even stuck [From.GetHerHis] tongue out at me.
+EVTDESCB_ZE_12046	[From.GetFirstName] says [From.GetSheHe] will get someone else to help [From.GetHerHim].
+EVTDESCC_ZE_12046	[From.GetFirstName] still wants to go, and will lie and say it was my idea unless I go with [From.GetHerHim].
+EVTDESCD_ZE_12046	[From.GetFirstName] said I was right and we went back home, away from the scary house.
+EVTOPTA_ZE_12046	Well [From.GetSheHe]'s stupid.
+EVTOPTB_ZE_12046	At least [From.GetSheHe] knows what [From.GetSheHe] wants.
+EVTOPTC_ZE_12046	I'm so angry!
+EVTOPTD_ZE_12046	Don't mess with [Root.GetFirstName].
+EVTDESCA_ZE_13700	I wake up in the middle of the night, my heart racing and my whole body is feeling strange. What was I really dreaming about?
+EVTOPTA_ZE_13700	That farmer [Root.GetBoyGirl] I met earlier.
+EVTOPTB_ZE_13700	[lustful_target.GetFirstName], kissing me.
+EVTOPTC_ZE_13700	Whatever it was is not important.
+EVTOPTD_ZE_13700	I should just try to get to sleep.
+EVTDESCA_ZE_13701	Oh it's just something about [Root.GetHerHim] that I can't get off my mind. [Root.GetHerHisCap] hair, the way [Root.GetSheHe] moved. I'm getting all worked up just thinking about [Root.GetHerHim] again.
+EVTOPTA_ZE_13701	What would it be like to hold [Root.GetHerHim]?
+EVTOPTB_ZE_13701	[Root.GetSheHeCap] is the one for me.
+EVTOPTC_ZE_13701	If I see [Root.GetHerHim] again we'll have some fun.
+EVTOPTD_ZE_13701	I shouldn't. It's a sin.
+EVTDESCA_ZE_13702	[lustful_target.GetHerHisCap] lips touching mine. My hands, touching [lustful_target.GetHerHim] gently. I wonder if [lustful_target.GetFirstName] feels the same way about me?
+EVTOPTA_ZE_13702	I will save myself for [lustful_target.GetHerHim].
+EVTOPTB_ZE_13702	[lustful_target.GetSheHeCap] gets me all excited.
+EVTDESCA_ZE_13703	These kind of thoughts have been distracting me lately. I don't find them very interesting and they are disturbing my sleep.
+EVTOPTA_ZE_13703	I would do well to focus on other things.
+EVTOPTB_ZE_13703	Maybe it will change with time.
+EVTDESCA_ZE_13704	[From.GetFirstName] has been looking at me in a new way lately. Giggling whenever I talk to [From.GetHerHim], laughing at things that are not meant to be funny.
+EVTOPTA_ZE_13704	It seems as [From.GetSheHe] is infatuated with me...
+EVTOPTD63041	In exchange for a favor.
+EVTOPTC_ZE_12060_TOOLTIP	May not take the offer.\n
+EVTDESC20134	My liege, my work in [FromFrom.Location.GetName] seem to have come to fruition. By bribing, cajoling, extorting, threatening and forging documents, I have managed to fabricate a claim on the [FromFrom.Location.Kingdom.GetFullName] presently held by [From.GetTitledName]. I leave it up to you whether to press it or not.\n\nYour humble [Root.GetChancellorName],\n[FromFrom.GetTitledName]
+EVTDESCA_ZE_14700	I have finished my education but without any clear purpose. I found some joy in studying diplomacy but without guidance I didn't do very well.
+EVTDESCB_ZE_14700	I have finished my education but without any clear purpose. I found some joy in studying military arts but without guidance I didn't do very well.
+EVTDESCC_ZE_14700	I have finished my education but without any clear purpose. I found some joy in studying stewardship but without guidance I didn't do very well.
+EVTDESCD_ZE_14700	I have finished my education but without any clear purpose. I found some joy in studying intrigue but without guidance I didn't do very well.
+EVTDESCE_ZE_14700	I have finished my education but without any clear purpose. I found some joy in studying learning but without guidance I didn't do very well.
+EVTOPTA_ZE_14700	No one told me it was important.
+EVTDESCA_ZE_14710	Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study diplomacy, unfortunately to no avail.
+EVTDESCB_ZE_14710	Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study military arts, unfortunately to no avail.
+EVTDESCC_ZE_14710	Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study stewardship, unfortunately to no avail.
+EVTDESCD_ZE_14710	Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study intrigue, unfortunately to no avail.
+EVTDESCE_ZE_14710	Young [From.GetFirstName] has finished [From.GetHerHis] education. With a complete lack of guidance [From.GetSheHe] still tried [From.GetHerHis] best to study learning, unfortunately to no avail.
+EVTOPTA_ZE_14710	I have failed [From.GetHerHim].
+loyalist_desc	A Loyalist councillor will generally be a faithful servant to the ruler. They will support their liege in all actions except those that will directly decrease their own power.
+#zealot_desc	A Zealot councillor will strive towards bringing religion to the forefront of the realm's political agenda. If religious war targets are available this councillor might oppose wars against other targets. The councillor will also be more inclined to accept hostile action against heathen and heretic characters.
+pragmatist_desc	A Pragmatist councillor will always aim for the path of least resistance when it comes to strengthening the realm and gaining power for themselves. They are inclined to support wars for reclaiming of de-jure land or counties with the ruler's culture. They might also support wars against weak opponents. This councillor will oppose the creation of other strong vassals in the realm and will support the revoking of titles from already powerful vassals.
+glory_hound_desc	A Glory Hound councillor will always push for the realm to make prestigious advances for glory. They will oppose attacking weak neighbours, but against more powerful opponents they will not care much for the reason of the war as long as it will strengthen the realm. This councillor also prefers a strong and centralized realm.
+#malcontent_desc	A Malcontent councillor is unhappy with the current state of affairs in the realm. They are a troublesome force on the council and will always oppose the will of the ruler unless they directly stand to gain power.
+LAWS_TAB_INHERITANCE	Inheritance
+LAWS_TAB_COUNCIL	Council
+LAWS_TAB_OBLIGATIONS	Obligations
+LAWS_TAB_REALM	Realm
+TAX	Tax
+LEVY	Levy
+INTERACTION_REQUIRES_COUNCIL_APPROVAL	Needs to be approved by your council
+COUNCIL_VOTER_NAME	$VOTER_TITLE$\n[GetFirstName]
+title_councilmember_king	Advisor
+title_councilmember_emperor	Advisor
+LAWS_VASSAL_OBLIGATIONS	Vassal Obligations
+LAWS_CIVIC_RELIGIOUS	Civic and Religious Law
+war_taxes	War Taxes
+war_taxes_desc	This character is levying war taxes on their subjects.
+extra_tax	Triple Taxation!
+extra_tax_desc	This county has been taxed so much that the peasants barely have anything left!
+extra_tax_kind	Necessary Extra Tax
+extra_tax_kind_desc	The ruler of this county has taxed the peasants of this county extra in preparation for an upcoming war.
+seize_church_assets	Church Assets Plundered
+seize_church_assets_desc	This church has been plundered of anything valuable!
+extort_subjects	Extort Subjects
+extort_subjects_desc	Extorting your subjects is a great way of quickly raising funds for your War Chest - beware though, for this action will be seen as tyrannical by your subjects. The mental health of rulers who care for their subjects may take damage from this action.
+obj_build_a_war_chest_title	Build a War Chest
+obj_build_a_war_chest_desc	[This.GetTitledFirstName] wants to build a war chest and prepare [This.GetHerHis] realm for war!
+obj_build_a_war_chest_success_custom_tooltip	Has amassed a suitably large amount of money for [This.GetHerHis] realm: 300¤if ruling a County, 500¤if ruling a Duchy, 700¤if ruling a Kingdom or 1000¤if ruling an Empire.
+extort_consequences_custom_tooltip	See what options lie before you.
+extort_cooldown_custom_tooltip	May not have extorted your subjects within the last six months.
+EVTTOOLTIP_ZE_21100	Collect an 'extra' tax from the peasants of [extra_tax_target.GetName].
+EVTDESC_ZE_21000	The money for that War Chest is not going to raise itself! You have decided to take matters into your own hands and see to that the chest gets filled to the brim with 'donations' from your loyal subjects. How should you proceed?
+EVTOPTA_ZE_21000	The peasants of [extra_tax_target.GetName] can pay an extra tax!
+EVTOPTB_ZE_21000	[extortion_target.GetFullName] is wealthy, [extortion_target.GetSheHe] can part with some gold!
+EVTOPTC_ZE_21000	The clergy of [seize_church_target.GetName] surely does not need all that wealth!
+EVTOPTD_ZE_21000	Maybe this is a bad idea after all...
+extort_tyrant_custom_tooltip	Doing this is viewed as tyrannical, and will lower all of your subjects' opinion of you by §R-10§!.\n
+EVTDESC_ZE_21100	The peasants of [extra_tax_target.GetName] did, as expected, not appreciate the 'extra' tax we forced upon them. The peasants even elected a leader amongst them who started asking questions why this tax was necessary, and exclaimed that they would now have to starve! Perhaps something should be done before they get the pitchforks?
+EVTOPTA_ZE_21100	Explain how this tax is necessary, and give them a temporary tax relief.
+EVTOPTB_ZE_21100	The tax is obviously necessary, the peasants are just greedy!
+EVTTOOLTIP_ZE_21200	Use brute force to extort [extortion_target.GetFullName].
+EVTDESC_ZE_21200	Even though you have explained it in detail to [extortion_target.GetFirstName], [extortion_target.GetSheHe] still does not understand why you are plundering [extortion_target.GetHerHis] mansion. It would seem evident that giving up some of your wealth in support of the realm is the right thing to do, but [extortion_target.GetFirstName] is having none of it.
+EVTOPTA_ZE_21200	Apologize and explain how this will help save the realm.
+EVTOPTB_ZE_21200	Why, you should be honored by me letting you contribute this much!
+EVTTOOLTIP_ZE_21300	Order your men to seize the wealth of the [seize_church_target.GetFullName].
+EVTDESC_ZE_21300	As your men load the wealth of the [seize_church_target.GetFullName] onto several wagons, you are approached by a raving group of clergymen. Apparently they are not too happy about you seizing their valuable idols, they claim that you will be punished by [Root.Religion.GetRandomEvilGodName] if you cannot justify this blasphemy!
+EVTOPTA_ZE_21300	[Root.Religion.GetRandomGodNameCap] told me that this had to be done!
+EVTOPTB_ZE_21300	[Root.Religion.GetRandomEvilGodNameCap] be damned, the wealth does more good in my coffers!
+extort_dynasty_upset_custom_tooltip	This gravely upsets §Y[extortion_target.GetFullName]'s§! entire Dynasty!\n
+sensitive_character_custom_tooltip	As your character does not have a tyrannical personality, this action may affect you negatively.\n
+EVTDESC_ZE_22000	Your loyal vassal, [From.GetFullName], has sent you a courier with an offer. [From.GetSheHeCap] is willing to make a significant donation to your War Chest, but in return you must promise to return the favor in the future. A most generous offer!
+EVTOPTA_ZE_22000	This is just what we need!
+EVTOPTB_ZE_22000	[From.GetSheHeCap] is just trying to gain leverage on me! I refuse.
+EVTOPTC_ZE_22000	A generous donation from a good friend!
+EVTDESC_ZE_22100	[From.GetFullName] has decided to accept your donation offer! Now we have leverage on [From.GetHerHim], we must make sure to use it wisely.
+EVTDESC_ZE_22200	[From.GetFullName] has refused your generous donation offer. [From.GetSheHeCap] claims that you are just trying to gain leverage on [From.GetHerHim], outrageous!
+EVTOPTA_ZE_22200	A shame.
+donate_to_liege	Offer a 200¤ Donation to your Liege
+donate_to_liege_desc	As your Liege is building a War Chest you can seize the opportunity and send a generous donation. By sending 200¤at this precarious time you might gain the favor of your liege!
+offer_donation_custom_tooltip	Your liege receives a donation offer from you.\n
+donation_cooldown_custom_tooltip	May not have had a donation offer refused within the last 5 years.
+HIRED_MERCENARIES_INCOME_ENTRY	$HOLDER$: $INCOME|Y$
+INCOME_MERCENARY_HIRED	Mercenaries Hired
+HAS_MERCENARY_MAINTENANCE_MODIFIER	$TITLE|Y$ has the $MOD|Y$ modifier
+HAS_MERCENARY_MAINTENANCE_MODIFIER_NOT	$TITLE|Y$ does not have the $MOD|Y$ modifier
+HAS_MERCENARY_BAND	$CHARACTER|Y$ has mercenary bands\n
+HAS_MERCENARY_BAND_NOT	$CHARACTER|Y$ does not have any mercenary bands\n
+CUT_MERCENARY_CREATOR_RELATION	$MERCENARY|Y$ cut the relation with $CREATOR|Y$
+CUT_MERCENARY_CREATOR_RELATION_NOT	$MERCENARY|Y$ did not cut the relation with $CREATOR|Y$
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_TITLE	Replace Mercenary Captain
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_DESC	Replace Mercenary Captain Desc
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_LONG_DESC	Change this captain for a suitable replacement
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECT	Select a new captain to replace $CURRENT|Y$
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_SELECTED	Make $REPLACEMENT|Y$ the new captain of $BAND|Y$
+REPLACE_MERCENARY_CAPTAIN_INTERACTION_REQ	Has suitable replacement
+ENABLE_COUNCIL_VOTING_ON_ISSUE	$ISSUE|Y$ can be voted on by the council\n
+DISABLE_COUNCIL_VOTING_ON_ISSUE	$ISSUE|Y$ can not be voted on by the council\n
+declare_war_interaction_voting	War Declarations
+REJECTED_LAW_TIMEOUT	§RThe Council has rejected this law. You can attempt to change this law again at $DATE$§!
+CAN_SWAP_JOB_TITLE	$CHARACTER|Y$ and $TARGET|Y$ can swap job titles
+CAN_NOT_SWAP_JOB_TITLE	$CHARACTER|Y$ and $TARGET|Y$ can not swap job titles
+FORM_ALLIANCE_NOT_LANDLESS	Is NOT Landless
+SET_FACTION_JOIN_RESTRICTION_ON	Vassals can not join factions against their liege\n
+SET_FACTION_JOIN_RESTRICTION_OFF	Vassals can now join factions against their liege\n
+HAS_FACTION_JOIN_RESTRICTION	Has faction join restriction
+HAS_NO_FACTION_JOIN_RESTRICTION	Has no faction join restriction
+EVTDESC750	I have been convinced by [From.GetLawProposer] to institute the [From.GetProposedLaw] Law. All that is needed is the support of yourself and my other loyal vassals.\n\nYour [From.Holder.GetTitle]
+#EVTDESC751	I have been convinced by [From.GetLawProposer] to institute the [From.GetProposedLaw] Law in the [From.GetFullName]. Your status as my de jure vassal entitles you to vote on the matter.\n\n[From.Holder.GetTitledName]
+#EVTDESC752	I have been convinced by [From.GetLawProposer] to institute the [From.GetProposedLaw] Law in the [From.GetFullName]. Since this is a Crown Law and you are a formal elector of [From.GetName], you may vote, even though you are not my vassal... yet.\n\n[From.Holder.GetTitledName]
+COUNCIL_LAW_VOTING_DISABLED	§RYou may not suggest a law change under the current law§!
+COUNCIL_LAW_VOTING_DISABLED_BY_FAVOR_OWNER	§RYou may not suggest a law change while under a favor§!
+LAW_VOTE_DISABLED_UNDER_FAVOR	§RYou may not vote on a law change while under a favor§!
+#VOTE_AS_FAVOR_OWNER_LAW_CHANGE_SETUP	Vote on law change by called in favor
+VOTE_AS_FAVOR_OWNER_LOG	$CHARACTER|Y$ has voted $VOTE$ $LAW|Y$ due to returning a favor to $TARGET|Y$.
+CALL_IN_FAVOR_INTERACTION_ACCEPT_SETUP	Call in favor
+CALL_IN_FAVOR_INTERACTION_ACCEPT_LOG	$ACTOR|Y$ has called in a favor on $RECIPIENT|Y$.
+BUY_FAVOR_INTERACTION_DECLINE_SETUP	Favor not for sale
+BUY_FAVOR_INTERACTION_DECLINE_LOG	§Y[Recipient.GetDynName]§! refused to sell a favor to §Y[Actor.GetDynName]§!
+LOAD_OLD_SAVE_TO_ZEUS_TITLE	Load Old Save to New Version
+LOAD_OLD_SAVE_TO_ZEUS_DESC	You are about to load a save started in a previous version of the game into a newer version of the game. This may cause unforseen consequences and is not recommended. Proceed?
+LOAD_ZEUS_SAVE_TO_OLD_VERSION	§RThis save was created using the Conclave DLC and needs it to continue.§!
+FIRE_COUNCILOR_INTERACTION_LAW_CHANGE_DESC	$RECIPIENT|Y$ is not voting on a Law Change.
+LAW_VIEW_NO_COUNCIL_LAWS_TRIBAL_DESC	You have no Council Laws available. You need to increase Tribal Organization in order to unlock them.
+LAW_VIEW_NO_COUNCIL_LAWS_DESC	You have no Council Laws available at the current time.
+COUNCIL_JOBS_INSTANT	This view shows the advisors that affect the stats of your realm.
+COUNCIL_JOBS_DELAYED	The advisors have specialized jobs in your realm that affect its stats. Your advisors perform their jobs better if the appropriate stats are higher.
+MINOR_TITLES_TITLE	§YMinor Titles§!
+MINOR_TITLES_INSTANT	This view shows a collection of your honorary titles and commander titles.
+MINOR_TITLES_DELAYED	Honorary titles can be given to your characters to change their opinion and commanders are used to lead your troops. You can appoint characters to these titles directly from this view.
+MY_COUNCIL_TITLE	§YMy Council§!
+MY_COUNCIL_INSTANT	This view shows you an overview of your council.
+MY_COUNCIL_DELAYED	You can see all councilors and empty council positions. You can also see the position of a councilor which affects how they vote.
+LIEGE_COUNCIL_TITLE	§YLiege Council§!
+LIEGE_COUNCIL_INSTANT	This view shows you an overview of your liege's council.
+LIEGE_COUNCIL_DELAYED	You can see all councilors and empty council positions of your liege's council. You can also see the position of a councilor which affects how they vote.
+#ENFORCE_PEACE_BUTTON_DESC_INSTANT	Enforcing Realm Peace will end all internal wars between your direct vassals. The peace will take effect 3 months after it has been decreed. Use this ability to keep your vassals from growing too strong within your realm.
+ENFORCE_PEACE_EXECUTE_BUTTON_TITLE	§YEnforce§!
+ENFORCE_PEACE_EXECUTE_BUTTON_DESC_DELAYED	Approved by Council
+LAW_COUNCIL_REJECTED_LOG	The council of $TITLE$ has rejected the institution of the "$LAW$" Law.
+tut_9b_6	In the Realm and Obligations tabs you will find laws affecting not only yourself but also how much levies and taxes your vassals provide. You will be able to customize your Realm according to your preference. Click next to end this part.
+tut_8b_6	In the Realm tab you can find the Investiture Law. This can either be set to papal, which means the pope elects the bishops, or free, which means that you can select your bishops by yourself. The pope will not be happy of course. Click next to learn about crusades.
+tut_9c_6	In the Realm tab you see the laws that are not related to Succession. On the top you have the laws marked with a crown, which means they are crown laws. They concern how much freedom a king or emperor has. Your vassals will be hard to convince, but if they like you enough and you have high prestige, they will pose but a minor problem.
+HINT_CHAR_VIEW_TEXT_2	The bottom half of the Character View is dedicated to close relations. Vassals are feudal lords in fief to the selected character. The Court tab lists the people at the court of the character. Pacts lists rulers with whom you have a diplomatic relation with, like an alliance, and the 'Abroad' tab lists courtiers who are currently away for some reason.
+HINT_COUNCIL_VIEW_TEXT_4	Some characters dream of attaining a Council position. Granting them their wish will make them grateful towards you.
+tut_4b_9	Temporary modifiers have an expiration date. Certain events for example can give you an opinion modifier towards other characters and these will usually last a limited time (like a year or two). Click next to continue.
+EVTDESC107301	If you have allies they will always join automatically in all your wars. Some allies (like Tribal Vassals) will have to be called into your wars to join them (if they accept).
+INTERACTION_REQUIRES_NO_ACTIVE_FAVOR	$OWES_FAVOR|Y$ is not already influenced by a §YFavor§!
+BUY_FAVOR_INTERACTION_LETTER	\nI offer you a gift of $GOLD$§W¤§! to repay the Favor I owe you.
+BUY_FAVOR_INTERACTION_LETTER_GET	\nI offer you a gift of $GOLD$§W¤§! and in return you will owe me a Favor.
+INTERACTION_REQUIRES_NOT_INFLUENCED_BY_TARGET	§Y[Recipient.GetTitledFirstName]§! cannot be influenced by a §YFavor§! from §Y[Actor.GetTitledFirstName]§!
+INTERACTION_REQUIRES_NOT_OWING_FAVOR	$OWES_FAVOR|Y$ cannot owe $HAS_FAVOR|Y$ a §YFavor§!
+EVTDESC_ZE_1031	Your daughter [target_daughter_killed_her_friend.GetFirstName] is furious with you: 'Damn you, [Root.GetFatherMother] - you killed [From.GetFirstName], I will never forgive you!'.
+EVTDESC_ZE_2061B	The coffers are left open and unattended again. Surely, this is [Root.Liege.GetTitledFirstName]'s way of telling me that a small bonus is in order. [Root.Liege.GetSheHeCap] knows the other councillors would object if it were mentioned in their presence.
+EVTOOLTIP38228	[Root.Guardian.GetFullName] responds to [Root.GetFirstName]'s question.
+EVTDESC1928	Visitors arrived today and, despite their peculiar clothes, strange language and strangely colored skin, they were warmly greeted by [Root.Guardian.GetFullName]. I wanted to talk to them and find out where they came from and who they were, but I was not sure if [Root.Guardian.GetTitledFirstName] would approve.
+EVTDESC3516	I offered to hand [From.GetTitledFirstName]'s buzzard to the falconer, but was careless enough to forget to put on its hood, and then lost my grip on the jesses as the bird flew to freedom.
+EVTDESC_SOA_4111	The inquisitors are returning home after failing to accomplish much in [Root.GetName] - aside from riling up the peasants.
+EVTDESC_SOA_4113	After successfully stomping out the heresy in [Root.GetName], the inquisitors are returning home.
+EVTDESC_SOA_4131	The theologians dispatched to [Root.GetName] by the [FromFrom.PrimaryTitle.GetRulerTitle] are returning home with their tails between their legs.
+EVTDESC_SOA_4133	The theologians dispatched to [Root.GetName] by the [FromFrom.PrimaryTitle.GetRulerTitle] are returning home in triumph. The heretics have renounced their false beliefs!
+RESIGN_COMMANDER_INTERACTION_ACCEPT_LOG	§Y[Actor.GetBestName]§W has Relieved §Y[Recipient.GetTitledFirstName]§W of [Recipient.GetHerHis] duty as Commander
+EVTDESCdiploresponse.1	I, [From.GetBestName], accept your proposal for an Alliance!
+EVTDESCdiploresponse.2	I, [From.GetBestName], unfortunately have to decline your proposal for an Alliance!
+EVTOPTC_ZE_12002	I should bring [From.GetHerHim] some candy later.
+EVTDESC_ZE_3001	A merchant approaches the court and carefully pleads to make a payment plan for the recent loan taken by [target_treasurer.GetTitledFirstName]. It seems the fruits of [target_treasurer.GetHerHis] labor may have been exaggerated, and since the loan was made in your name, you now have to repay the debt with interest. What will the consequence be for [target_treasurer.GetTitledFirstName]?
+EVTDESC_ZE_8000	[target_spouse.GetTitledName], the [target_spouse.GetHusbandWife] of [target_ruler.GetTitledName], has been spending a few days in [capital.GetName]. It has been a very nice experience meeting [target_spouse.GetHerHim] - maybe our peoples are not that different after all.
+EVTDESC_ZE_8001	Dear [target_ruler.GetTitledName],\nDuring your [target_ruler.GetHusbandWifeOpp]'s recent visit to [capital.GetName] we had a great time discussing the similarities between our people. I suggest a non-aggression pact between us for the near future, and we will welcome any visitors from your realm with open arms.\n\nKind regards,\n[From.GetTitledFirstName]
+EVTDESC_ZE_8002	Dear [Root.GetTitledName],\n\nIf this agreement can lead to a better understanding between our peoples, I will put effort into opening our borders to visitors from your realm.\n\nYours truly,\n [target_ruler.GetTitledName].
+EVTDESC_ZE_2075	I've received a request for additional funds from my [Root.GetSpymasterName] [Root.job_spymaster.GetFirstName]. [Root.job_spymaster.GetSheHeCap] is worried that it is too easy for spies to make their way inside your home and wants to take precautionary measures against hostile operations.
+MERCENARY_ON_CONTRACT	On Contract
+LAW_VOTER	$NAME$\n
+LAW_VOTER_X	$NAME$ x$NUM|Y$\n
+CANCEL_LAW_VOTE	§YCancel the current law change§!
+VOTE_FOR_LAW	§YVote for the current law change§!
+VOTE_AGAINST_LAW	§YVote against the current law change§!
+OPEN_LIST_OF_UNDECIDED_VOTERS	§YOpen list of voters that have not yet voted.§!
+LAW_VOTE_STATUS_ZEUS	Voting for: §Y$LAW$§! ( $YES|G$/$NO|R$/$WAITING$ )
+REQUEST_SUPPORT_INTERACTION_ACCEPT_SETUP	Support Request Accepted
+REQUEST_SUPPORT_INTERACTION_ACCEPT_LOG	§Y[Actor.GetDynName]§W accepted to support §Y[Recipient.GetDynName]§W
+REQUEST_SUPPORT_INTERACTION_DECLINE_SETUP	Support Request Refused
+REQUEST_SUPPORT_INTERACTION_DECLINE_LOG	§Y[Actor.GetDynName]§W refused to support §Y[Recipient.GetDynName]§W
+FAM_EDUCATOR	Educator
+ZEUS_WARD_DESC	Adult characters can take on two children as their wards.
+ZEUS_GUARDIAN_DESC	A guardian is a teacher and mentor to a child character. The child goes to live in the same court as the guardian, and it's not possible to declare war on someone who has a close relative child in their court.
+ZEUS_EDUCATOR_DESC	An educator is a teacher and mentor to a child character, the educator is selected automatically and can be changed by assigning the child to a guardian. If a guardian is assigned, the child goes to live in the same court as the guardian, and it's not possible to declare war on someone who has a close relative child in their court.
+HOSTAGE_NAME	\n        $WHO|Y$
+CHANGE_MERCENARY_COMPOSITION_CONVERT	Convert $COUNT|Y$ $FROM$ into $TYPE$\n
+CHANGE_MERCENARY_COMPOSITION	$TYPE$: $COUNT|=-+$\n
+alert_child_needs_focus_instant	§Y$NUM$ Children Lack a Childhood Focus§!
+alert_child_needs_focus_delayed	The following Children need a Childhood Focus:\n$LIST$
+alert_child_needs_focus_name	Children lack a Childhood Focus
+alert_adolescent_needs_focus_instant	§Y$NUM$ Children Lack an Education Focus§!
+alert_adolescent_needs_focus_delayed	The following Children need an Education Focus:\n$LIST$
+alert_adolescent_needs_focus_name	Children lack an Edcuation Focus
+GOV_FLAVOR	$TYPE$
+#gov_default	Despotic [PrimaryTitle.GetTier]
+gov_feudal_monarchy	Fedual Monarchy
+#gov_prince_electorate	Prince Electorate
+opinion_inherited	Opinion of Predecessor
+opinion_inherited_negative	Opinion of Predecessor
+CHARACTER_POWERFUL_TOOLTIP	§YPowerful Vassal§!
+CHARACTER_POWERFUL_TOOLTIP_ANGRY	§RAngry for not being on the council.§!
+alert_has_favor_instant	§Y$NUM$ Characters owe you a Favor§!
+alert_has_favor_delayed	The following Characters owe you a Favor:\n$LIST$\n\nFavors can be used for the following:\n$ACTIONS$
+alert_has_favor_name	Characters owe you Favors
+HAS_FAVOR_ON	\n§YHas a Favor from:§!\n
+OWES_FAVOR_TO_TOOLTIP	\n§YOwes a Favor to:§!\n
+COUNCIL_LAW_VOTING_DISABLED_FOR_GROUP	\n§YThe council is not allowed to initiate voting for this type of law.§!
+COUNCIL_LAW_VOTING_ENABLED_FOR_GROUP	\n§YA councillor is allowed to initiate voting for this type of law by spending a Favor on their liege.§!
+tribal_duchy	High Chiefdom
+tribal_duchy_norse	Jarldom
+duchy_norse	Jarldom
+gov_default	Anarchy
+gov_electorial_absolute_autocracy	Elective Absolute Imperial Autocracy
+gov_electorial_absolute_autocracy_norse	Elective Absolute Imperial Autocracy
+gov_electorial_absolute_autocracy_tengri	Elective Absolute Imperial Autocracy
+gov_electorial_absolute_monarchy	Elective Absolute [PrimaryTitle.GetTier]
+gov_electorial_absolute_monarchy_norse	Elective Absolute [PrimaryTitle.GetTier]
+gov_electorial_absolute_monarchy_tengri	Elective Absolute [PrimaryTitle.GetTier]
+gov_electorial_aristocratic_autocracy	Elective Aristocratic Imperial Autocracy
+gov_electorial_aristocratic_autocracy_norse	Elective Aristocratic Imperial Autocracy
+gov_electorial_aristocratic_autocracy_tengri	Elective Aristocratic Imperial Autocracy
+gov_electorial_aristocratic_monarchy	Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_aristocratic_monarchy_norse	Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_aristocratic_monarchy_tengri	Elective Aristocratic [PrimaryTitle.GetTier]
+gov_electorial_despotic_autocracy	Elective Despotic Imperial Autocracy
+gov_electorial_despotic_autocracy_norse	Elective Despotic Imperial Autocracy
+gov_electorial_despotic_autocracy_tengri	Elective Despotic Imperial Autocracy
+gov_electorial_despotic_monarchy	Elective Despotic [PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_zoro	Elective Despotic [PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_norse	Elective Despotic [PrimaryTitle.GetTier]
+gov_electorial_despotic_monarchy_tengri	Elective Despotic [PrimaryTitle.GetTier]
+gov_hereditary_absolute_autocracy	Hereditary Absolute Imperial Autocracy
+gov_hereditary_absolute_autocracy_indian	Absolute Imperial Autocracy
+gov_hereditary_absolute_autocracy_norse	Hereditary Absolute Imperial Autocracy
+gov_hereditary_absolute_autocracy_tengri	Hereditary Absolute Imperial Autocracy
+gov_hereditary_absolute_monarchy	Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_indian	Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_norse	Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_monarchy_tengri	Hereditary Absolute [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_autocracy	Hereditary Aristocratic Imperial Autocracy
+gov_hereditary_aristocratic_autocracy_indian	Aristocratic Imperial Autocracy
+gov_hereditary_aristocratic_autocracy_norse	Hereditary Aristocratic Imperial Autocracy
+gov_hereditary_aristocratic_autocracy_tengri	Hereditary Aristocratic Imperial Autocracy
+gov_hereditary_aristocratic_monarchy	Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_indian	Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_norse	Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_aristocratic_monarchy_tengri	Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_autocracy	Hereditary Despotic Imperial Autocracy
+gov_hereditary_despotic_autocracy_indian	Despotic Imperial Autocracy
+gov_hereditary_despotic_autocracy_norse	Hereditary Despotic Imperial Autocracy
+gov_hereditary_despotic_autocracy_tengri	Hereditary Despotic Imperial Autocracy
+gov_hereditary_despotic_monarchy	Hereditary Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_zoro	Hereditary Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_indian	Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_norse	Hereditary Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_monarchy_tengri	Hereditary Despotic [PrimaryTitle.GetTier]
+gov_muslim_absolute_autocracy	Absolute Imperial Autocracy
+gov_muslim_absolute_monarchy	Absolute [PrimaryTitle.GetTier]
+gov_muslim_aristocratic_autocracy	Aristocratic Imperial Autocracy
+gov_muslim_aristocratic_monarchy	Aristocratic [PrimaryTitle.GetTier]
+gov_muslim_despotic_autocracy	Despotic Imperial Autocracy
+gov_muslim_despotic_monarchy	Despotic [PrimaryTitle.GetTier]
+gov_aristocratic_republic	Aristocratic [PrimaryTitle.GetTier]
+gov_plutocratic_republic	Plutocratic [PrimaryTitle.GetTier]
+gov_oligarchic_republic	Oligarchic [PrimaryTitle.GetTier]
+gov_patrician	[GetOnlyDynastyName] Patriciate
+gov_prince_electorate	Prince Electorate
+gov_king_electorate	King Electorate
+gov_carolingian_hegemony	Carolingian Hegemony
+gov_imperial_carolingian_hegemony	Imperial Carolingian Hegemony
+gov_chiefdom	[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_grand_chiefdom	[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_noble_chiefdom	Noble [Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_crusader_state	Crusader State
+gov_crusader_kingdom	Crusader Kingdom
+gov_hereditary_zun	Hereditary [PrimaryTitle.GetTier] of the Sun
+gov_electorial_zun	Elective [PrimaryTitle.GetTier] of the Sun
+gov_terror	[PrimaryTitle.GetTier] of Terror
+gov_duchy_viceroy	[Liege.PrimaryTitle.GetAdjective] Minor Viceroyalty
+gov_king_viceroy	[Liege.PrimaryTitle.GetAdjective] Viceroyalty
+gov_duchy_viceroy_byz	[Liege.PrimaryTitle.GetAdjective] Theme
+gov_king_viceroy_byz	[Liege.PrimaryTitle.GetAdjective] Exarchate
+gov_aztec	Aztec Colony
+gov_electorial_absolute_hre	Elective Absolute [PrimaryTitle.GetTier]
+gov_hereditary_absolute_hre	Hereditary Absolute [PrimaryTitle.GetTier]
+gov_electorial_despotic_hre	Elective Despotic [PrimaryTitle.GetTier]
+gov_hereditary_despotic_hre	Hereditary Despotic [PrimaryTitle.GetTier]
+gov_aristocratic_electorial_hre	Elective Aristocratic [PrimaryTitle.GetTier]
+gov_aristocratic_hereditary_hre	Hereditary Aristocratic [PrimaryTitle.GetTier]
+gov_nomadic_mongol_empire	Ikh Mongol Uls
+gov_khaganate	[Culture.GetName] [PrimaryTitle.GetTier]
+gov_clan	[GetOnlyDynastyName] [PrimaryTitle.GetTier]
+LAW_COUNCIL_REJECTED_SETUP	The Council Rejects a Proposed Law
+ALLOW_FEMINISM_ON	Female rulers do not incur negative opinion modifiers\n
+ALLOW_FEMINISM_OFF	Female rulers incur negative opinion modifiers\n
+ALLOW_GENDER_LAWS_ON	Allow change of Gender Preference Laws\n
+ALLOW_GENDER_LAWS_OFF	Revoke allowing change of Gender Preference Laws\n
+alert_my_peace_soon_enforced_instant	§YYou are enforcing Realm Peace!§!
+alert_my_peace_soon_enforced_delayed	Your Council has declared that peace shall rule the realm! \nAll internal wars waged between your vassals will end with a §YWhite Peace§! in $MONTHS|Y$ months!
+alert_my_peace_being_enforced_instant	§YRealm Peace Enforced!§!
+alert_my_peace_being_enforced_delayed	Your Council has declared that peace shall rule the realm! \nYour vassals are unable to wage war on each other for another $MONTHS|Y$ months!
+tribal_county	Chiefdom
+tribal_kingdom_old_saxon	Grand Chiefdom
+tribal_kingdom_altaic	Khanate
+tribal_empire_altaic	Khaganate
+tribal_kingdom_arabic	Sultanate
+tribal_empire_russian	Tsardom
+duchy_russian	Grand Principality
+empire_russian	Tsardom
+gov_revolt	[PrimaryTitle.GetAdjective] Revolt
+gov_romuva_eldership	[Religion.GetName] Eldership
+gov_noble_romuva_eldership	Noble [Religion.GetName] Eldership
+gov_norse_chiefdom	[Religion.GetName] [PrimaryTitle.GetTier]
+gov_noble_norse_chiefdom	Noble [Religion.GetName] [PrimaryTitle.GetTier]
+gov_muslim_chiefdom	[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_noble_muslim_chiefdom	Noble [Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_african_chiefdom	[Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_noble_african_chiefdom	Noble [Religion.GetGroupName] [PrimaryTitle.GetTier]
+gov_hereditary_danelaw	Hereditary Danelaw
+gov_electorial_danelaw	Elective Danelaw
+COUNCIL_DISCONTENT_FROM_SUCCESSION	Succession always makes the council discontent.
+FAVOR_ALERT_ACTION	 §Y- $ACTION$§!\n
+FAVOR_FORCE_VOTE	Make someone vote like you on council or law issues
+#FAVOR_PREVENT_ENFORCE_PEACE	Prevent a Realm Peace from your liege
+FAVOR_PRESS_CLAIM	Ask your liege to press one of your claims in a war
+FAVOR_START_LAW_VOTE	Start a law vote for your liege
+FAVOR_FORCE_MARRIAGE	Force acceptance of a Arrange Marriage proposal
+FAVOR_FORCE_GUARDIANSHIP	Force acceptance of an Educate Child proposal
+FAVOR_END_PLOT	Force acceptance of an End Plot or Stop Backing Plot request
+COUNCIL_CONTENT	Council is Content
+COUNCIL_DISCONTENT	Discontent until $UNTIL$
+COUNCIL_STATUS_LONG_CONTENT_PLAYER	Your [Actor.GetCouncilName] is §YContent§!
+COUNCIL_STATUS_LONG_CONTENT_LIEGE	The [Actor.GetCouncilName] of §Y[Actor.GetBestName]§! is §YContent§!
+COUNCIL_STATUS_LONG_DISCONTENT_PLAYER	Your [Actor.GetCouncilName] has been §YDiscontent§! for $DISCONTENT_DURATION$ month(s).
+COUNCIL_STATUS_LONG_DISCONTENT_LIEGE	The [Actor.GetCouncilName] of [Actor.GetBestName] has been §YDiscontent§! for $DISCONTENT_DURATION$ month(s).
+#COUNCIL_DISCONTENT_EFFECT	Councillors cannot join or start §YFactions§! while the council is §YContent§! (Nomadic and Tribal councillors can always join and start factions).\nThe liege cannot §YEnforce Realm Peace§! while the council is §YDiscontent§!.
+COUNCIL_REASON_FOR_DISCONTENT	Reason for being discontent:\n$REASON|Y$\n\n
+GENERIC_DISCONTENT_REASON	Made a decision that the Council had voted no for
+INHERITANCE_TAB	§YInheritance Laws§!
+INHERITANCE_TAB_DELAYED	These laws control how succession is done and who will inherit what.
+REALM_TAB	§YRealm Laws§!
+REALM_TAB_DELAYED	These laws control how the realm is ruled and what the liege is allowed to do.
+OBLIGATIONS_TAB	§YObligation Laws§!
+OBLIGATIONS_TAB_DELAYED	These laws control how much taxes and levies vassals have to provide to the liege.
+COUNCIL_LAW_TAB	§YCouncil Laws§!
+COUNCIL_LAW_TAB_DELAYED	These laws control if there is a council or not and what issues the council is allowed to influence.
+revoke_title_interaction_voting	Revocation of Titles
+imprison_character_interaction_voting	Imprisonment
+grant_landed_title_interaction_voting	Granting Titles
+exile_imprisoned_interaction_voting	Banishment
+execute_imprisoned_interaction_voting	Execution of Prisoners
+laws_voting	Law Changes
+IMPRISON_DISCONTENT_REASON	[Actor.GetBestName] tried to imprison [Recipient.GetBestName] even though the Council voted no.
+EXECUTE_DISCONTENT_REASON	[Actor.GetBestName] executed [Recipient.GetBestName] even though the Council voted no.
+REVOKE_TITLE_DISCONTENT_REASON	[Actor.GetBestName] revoked the [ThirdPartyTitle.GetFullName] from [Recipient.GetBestName] even though the Council voted no.
+GRANT_TITLE_DISCONTENT_REASON	[Actor.GetBestName] granted the [ThirdPartyTitle.GetFullName] to [Recipient.GetBestName] even though the Council voted no.
+EXILE_IMPRISONED_DISCONTENT_REASON	[Actor.GetBestName] banished [Recipient.GetBestName] even though the Council voted no.
+CB_NAME_INCREASE_COUNCIL_POWER	Increase Council Power
+WAR_NAME_INCREASE_COUNCIL_POWER	$ORDER$$SECOND_ADJ$ Civil War to increase Council Power
+council_off_custom	Disables use of §YRealm Peace§!
+council_on_custom	Unlocks additional Council power laws\nEnables use of §YRealm Peace§!
+#opinion_increased_council_power	Increased Council Power
+EVTDESC8215	For too long, you have restricted the political influence of your vassals. The time has come to give the [Root.GetCouncilName] more power! Submit to this demand peacefully or face the consequences. Rest assure that I have gathered others who are equally upset...\n\nSigned,\n[From.GetTitledName]
+opinion_childhood_sweetheart	Childhood Sweetheart
+pattern_loyalist_vote_as_liege_custom_tooltip	This voter is a Loyalist and will vote like the liege\n
+pattern_pragmatist_weak_opponent_custom_tooltip	The opponent is much weaker than us\n
+pattern_pragmatist_de_jure_or_culture_custom_tooltip	The targeted land is part of our De Jure territory or it is of our Culture Group\n
+pattern_pragmatist_strong_opponent_custom_tooltip	The opponent is too strong for us to take on\n
+pattern_pragmatist_dislike_large_demesne_custom_tooltip	The targeted characters demesne is 4 or larger\n
+pattern_glory_hound_glorious_war_custom_tooltip	The opponent is stronger than us, this war will be glorious!\n
+pattern_glory_hound_preferred_war_custom_tooltip	This is my preferred war target!\n
+pattern_glory_hound_land_grab_custom_tooltip	Winning this war will grow the realm!\n
+pattern_glory_hound_opponent_too_weak_custom_tooltip	There is no glory in this war, the enemy is too weak\n
+pattern_zealot_depose_wicked_pope_custom_tooltip	The war would depose a wicked pope\n
+pattern_zealot_dislikes_heathens_heretics_custom_tooltip	The war is against a religious enemy!\n
+pattern_attacking_excom_or_antipope_custom_tooltip	The war is against an Excommunicated character or an Antipope\n
+pattern_zealot_not_other_religion_antipope_custom_tooltip	The target is not an antipope of another religion\n
+pattern_malcontent_vote_against_liege_custom_tooltip	This voter is Malcontent and will oppose the liege\n
+pattern_selfish_gain_title_custom_tooltip	I would gain a title!\n
+pattern_selfish_save_my_hide_custom_tooltip	I am losing a war, this would save my hide!\n
+pattern_selfish_save_ally_custom_tooltip	My ally is losing a war, this would help them\n
+pattern_selfish_lose_title_custom_tooltip	I would lose a title!\n
+pattern_selfish_affects_me_custom_tooltip	This affects me negatively\n
+pattern_i_am_unlanded_custom_tooltip	I am unlanded, I should get the title!\n
+pattern_my_de_jure_title_custom_tooltip	The title is part of my De Jure territory, it should be mine!\n
+pattern_i_desire_this_title_custom_tooltip	I desire this title\n
+pattern_selfish_i_am_winning_custom_tooltip	I am winning a war\n
+pattern_selfish_ally_is_winning_custom_tooltip	My ally is winning a war\n
+pattern_family_member_gain_title_custom_tooltip	My family member would gain a title!\n
+pattern_family_against_family_custom_tooltip	This war is against one of my family members\n
+pattern_family_member_lose_title_custom_tooltip	My family member would lose a title!\n
+pattern_family_member_affected_negatively_custom_tooltip	My family member would be affected negatively\n
+pattern_this_is_my_war_target_custom_tooltip	This is my preferred war target!\n
+pattern_interaction_dislike_custom_tooltip	I dislike this character\n
+pattern_interaction_like_custom_tooltip	I like this character\n
+pattern_interaction_dont_dislike_unlanded_custom_tooltip	I do not dislike this character and the character is unlanded\n
+#your_allies	§YAllies joining on your side.§!
+#enemy_allies	§YAllies joining on the enemy's side.§!
+#relations_instant	§Y$NAME$'s Relations§!
+#relations_delayed	Friends, Rivals, Marriage Ties and Lovers
+PICK_CHILDHOOD_FOCUS_DESC	Once set, you will not be able to change the childhood focus.\n§RIf not set, the child's upbringing will be more randomly selected.§!
+PICK_ADOLESCENCE_FOCUS_DESC	Once set, you will not be able to change the education focus.\n§RIf not set, the child will get a random education with a significantly worse outcome than if you select an education.§!
+CANNOT_CHANGE_CHILDHOOD_FOCUS	§RChildhood focus cannot be changed when set.§!\n§YThe childhood focus will automatically be removed when the character turns 12 and allow you to select an education instead.§!
+CANNOT_CHANGE_EDUCATION_FOCUS	§REducation focus cannot be changed when set.§!\n§YThe education focus will automatically be removed when the character becomes adult.§!
+LAW_CHANGE_TIMEOUT	§RThe Council recently rejected a law change. You can attempt to make a law change again at $DATE$§!
+dissolve_mercenary_company_feudal	Dissolve Mercenary Company
+INTERACTION_TITLE_REVOCATION_ALLOWED	Title Revocation Law enabled in §Y$TITLE$§!
+EVTOPTB63043	This is futile.
+EVTOPTB63043_TOOLTIP	Abandon your ambition.
+EVTOPTB_ZE_13102	Boys will be boys.
+EVTOPTC_ZE_13102	Girls will be girls.
+SAME_POSITION_AS	has the same voting attitude ($POSITION$) as $TARGET|Y$
+HAS_POSITION	has $POSITION|Y$ voting attitude
+HAS_MERCENARY_UNITS	$CHARACTER$ owns mercenary units
+COUNCILOR_VOTES	Votes for $ISSUE|Y$
+#TRANSFER_INFAMY	Infamy from $SOURCE$
+#INFAMY_NON_RULER_DESC	Cannot gain infamy since $CHARACTER|Y$ is not a ruler.

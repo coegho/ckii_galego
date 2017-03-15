@@ -1,0 +1,777 @@
+#CODE	ENGLISH
+CONVERTING	CONVERTING
+opinion_humiliated_family	Humiliated Family
+opinion_humiliated_close_kin	Humiliated Close Kin
+gov_mercenary	Mercenary Band
+RULE_NOMAD_STABILITY	§BHorse Lords:§! Nomad Stability
+RULE_OPTION_NOMAD_STABILITY_UNSTABLE	Unstable
+RULE_OPTION_NOMAD_STABILITY_UNSTABLE_DESC	Upon succession of the Khagan, vassals of Nomadic hordes have a chance to declare independence. The succeeding ruler will have just cause to reclaim the land.
+RULE_OPTION_NOMAD_STABILITY_STABLE	Stable
+RULE_OPTION_NOMAD_STABILITY_STABLE_DESC	Nomad vassals will NOT have the opportunity to go independent on succession of the Khagan.
+RULE_DE_JURE_REQUIREMENT	De Jure Requirement
+RULE_DE_JURE_REQUIREMENT_DEFAULT_DESC	Titles with De Jure land will be kept regardless of the circumstances.
+RULE_OPTION_DE_JURE_REQUIREMENT_REQUIRED	Required
+RULE_OPTION_DE_JURE_REQUIREMENT_REQUIRED_DESC	Titles with De Jure land will eventually be destroyed if a character holds no De Jure land of the title within their realm.
+EVTDESC_GR_1	As you hold no De Jure land within the [title_to_destroy.GetTier] of [title_to_destroy.GetName] you can no longer rightfully claim to be its ruler. You are now regarded as a mere claimant to a throne outside your reach.
+EVTOPTA_GR_1	But [title_to_destroy.GetName] was to be mine!
+EVTDESC_GR_11	The tumultuous death of [From.GetFullName] presents an excellent opportunity for us to declare our independence. Of course, [nomadic_heir.GetFullName] might strike at us with vengeance for defying [nomadic_heir.GetHerHis] rule...
+EVTOPTA_GR_11	No, we shall stay loyal.
+EVTOPTB_GR_11	We are masters of our own destiny!
+EVTDESC_GR_12	My former subject, [From.GetFirstName], has chosen independence from my rule.
+EVTOPTA_GR_12	I shall have their heads!
+RULE_SUPERNATURAL_UNRESTRICTED_DESC	AI rulers will be eligible to receive supernatural events such as the Demon Child, Wolf's Blood and Immortality event chains.
+EVTDESC_NE_1	[invited_character.GetFullName] has arrived at your court, ready for employment.
+EVTOPTA_NE_1	I shall make [invited_character.GetFirstName] a commander.
+EVTOPTB_NE_1	[invited_character.GetFirstName] is not what I asked for, begone!
+RULE_OPTION_DELAYED_RANDOM	Delayed Random
+RULE_MONGOL_INVASION_DELAYED_RANDOM_DESC	The Mongol Horde will invade at a random date, though at the earliest at the year 1000, and 50 years after the game has started.
+RULE_AZTEC_INVASION_DELAYED_RANDOM_DESC	The Aztec Invasion will occur at a random date, though at the earliest at the year 1000, and 50 years after the game has started.
+RIP.30300.title	Rumors of an Immortal
+RIP.30300.title.b	A scrawled letter arrives
+RIP.30300.d.highlander	Word has reached you that there is another Immortal, Ramirez, who is seeking you out. This Spaniard has heard of your Immortality and has vowed to put it to an end. While his motivations are unknown, his intentions appear clear and it is only a matter of time until he finds you.
+RIP.30300.d.evildude	Word of a monstrous man has reached you. This sadistic creature, known as Uran, is also Immortal and has dedicated his long life to inflicting cruelty upon others in the most terrible ways he can imagine. Rumors say his cruelty is only outmatched by his all-consuming jealousy, and hearing of another Immortal has driven him into a frothing rage. If these rumors are to be believed, he is certain track you down and attempt to kill you sooner rather than later...
+RIP.30300.d.goodguy	Of late you have been hearing tales of another Immortal, Arthur. This man, this paragon of goodness, seems to have devoted his life to helping others and righting wrongs. It seems like a dull life, but everyone needs a hobby you suppose. You have never considered yourself a bad sort, perhaps a little boisterous at times, but Arthur seems to have some kind of grudge against you. Phrases such as 'ending the reign of terror' and 'stopping the unending bloodshed' have been bandied about. It all seems very excessive.
+RIP.30300.d.shieldmaiden	Bards sing of a Shieldmaiden named Torhild, or perhaps she is a Valkyrie walking the earth. Regardless, it is said she is another Immortal and that she thrives on battle. In the most popular ballad she fights her greatest duel against an immortal man named Caine, and after her victory she weeps because she will never again find such a worthy foe. If these tales are true, she may well seek you out and challenge you to a duel.
+RIP.30300.d.horse	While the penmanship is atrocious you notice that, curiously, the word-choice indicates a fairly intelligent writer:\n'I do not appreciate imitators, especially in such a blatant display which could draw attention to all of our kind. I am coming for you. You cannot outrun me. I shall burn your city to the ground, it won't be the first I have destroyed. I shall lay waste to your people and trample your legacy into the dirt, as I have done before to greater men. History will view you as a lunatic who destroyed themselves through pride and folly. Await me in terror.'\nThe letter is not signed.
+RIP.30300.a	Bring them on!
+RIP.30300.b	I don't like the sound of this!
+RIP.30300.c	It's not as if I flay people. Often.
+RIP.30301.title	Your Rival has found you!
+RIP.30301.d.highlander	As you step out your rooms you barely have time to wonder where your guards are before you are confronted by [immortal_rival.GetFirstName]\n'Your life ends now!' he shouts, raising his sword.
+RIP.30301.d.evildude	As you step out your rooms you barely have time to wonder where your guards are before you are confronted by [immortal_rival.GetFirstName]\n 'Time to die, you [GetFromRootInsult]!' he growls, hefting his sword.
+RIP.30301.d.goodguy	As you step out your rooms notice the odd absence of your guards for a moment before [immortal_rival.GetFirstName] steps out in front of you.\n'It is time to bring an end to you,' he says, somewhat sadly, 'make your peace with your god.'
+RIP.30301.d.shieldmaiden	The hallway is deserted of everyone except an armored women you suspect is [immortal_rival.GetFirstName]. Your suspicions are confirmed when she introduces herself and challenges you to a duel.
+RIP.30301.d.horse	The corridor is splatted with blood and the bodies of your guards lie broken and trampled everywhere you look. A massive horse stands in the midst of the slaughter, steam rising from his flanks. You notice the mangled body of [immortal_horse_victim.GetBestName] by his hooves.\n'I am Incitatus, trampler of nations!' he announces 'I brook no imitations. You're next.'
+RIP.30301.d.horse2	The corridor is splatted with blood and the bodies of your guards lie broken and trampled everywhere you look. A massive horse stands in the midst of the slaughter, steam rising from his flanks. You notice the mangled body of [immortal_horse_victim.GetBestName] by his hooves.\n'I am Incitatus, trampler of nations!' he announces 'I herd you had put a horse on your council, but it seems I was misinformed. Nonetheless, you're next.'
+RIP.30302.d	Without hesitation you tear your sword from its sheath and leap to the attack. [immortal_rival.GetFirstName] seems startled by the ferocity of your onslaught is barely able to parry your first few blows. You feign a small overextension of your thrust and [immortal_rival.GetSheHe] takes the bait: As [immortal_rival.GetSheHe] attempt a counter-attack your blade snaps down and takes [immortal_rival.GetHerHis] hand clean off at the wrist. Before [immortal_rival.GetSheHe] can do more than gasp at the sudden pain your sword whips up and around, slicing [immortal_rival.GetHerHis] head from [immortal_rival.GetHerHis] shoulders.
+RIP.30302.a	All too easy, [immortal_rival.GetFirstName]!
+RIP.30303.d	Overcoming your brief surprize, you snatch a dagger from your belt and launch yourself at [immortal_rival.GetFirstName]! [immortal_rival.GetSheHe] appears to be startled by the speed of your assault, but manages a hasty block and counter-attack. However, they are completely unprepared for you catching [immortal_rival.GetHerHis] blade in your free hand and plunging your dagger into [immortal_rival.GetHerHis] wide-open eye.
+RIP.30303.a	Another victory, another scar.
+RIP.30304.d	As [immortal_rival.GetFirstName] rushes towards you with [immortal_rival.GetHerHis] sword held high. You barely have time to draw your own dagger and launch a desperate thrust as [immortal_rival.GetSheHe] it swings down at you. Your knife pierces [immortal_rival.GetHerHis] heart at the same time as [immortal_rival.GetHerHis] blade cuts into your flesh.
+RIP.30304.a	Urgh... Still alive. Still alive!
+RIP.30305.d	You fumble for your sword as [immortal_rival.GetFirstName] charges at you, blade hissing towards your face. Somehow you manage to parry [immortal_rival.GetHerHis] first blow, and then [immortal_rival.GetHerHis] second, but you know you are out-matched. Desperately you launch a flurry of blows, but all of a sudden there is a flash of steel coming at you and your vision begins to spin.
+RIP.30305.a	???
+RIP.30306.d	With a sudden jolt your vision clears. For a moment, before darkness closes over you, you are puzzled to see [immortal_rival.GetFirstName] standing over a headless body. You briefly wonder where it came from.
+RIP.30306.a	...
+#sea_queen is just a gender swap of seaking, so much of that translation may apply:	
+sea_queen	Sea Queen
+sea_queen_desc	This character is known and feared far and wide. Wherever salt water can be found, there is terror of the Sea Queen.
+88017.cannibal	A shame about [From.GetBestName], but at least I have a snack!
+8469.a	[Root.Religion.GetHighGodNameCap] be praised!
+tengri_warrior	Skylord
+tengri_warrior_desc	The epitome of a Steppe Warrior, this character has fought for the glory of Tengrism.
+romuvas_own	Hound of Dievas
+romuvas_own_desc	This character has fought to defend the Holy Forest.
+ukkos_shield	Ukko's Hammer
+ukkos_shield_desc	Striking like the lightning of Ukko, this character has fought for the Suomenusko faith.
+eagle_warrior	Eagle Knight
+eagle_warrior_desc	The life of Aztec warriors is one of constant battle, and the Eagle Knights are the bravest and most fearsome. Their primary purpose is to capture prisoners to be sacrificed to their Gods.
+peruns_chosen	Perun's Chosen
+peruns_chosen_desc	The axes of Perun's Chosen hew the enemies of the Slavic faith with the power of His lightning.
+nyames_shield	Nyame's Shield
+nyames_shield_desc	This character is one of the chosen warriors who fight for the West African faith.
+sun_warrior	Warrior of the Sun
+sun_warrior_desc	The Warriors of the Sun strike with all the fiery power of Zun Himself.
+ares_own	Ares' Own
+ares_own_desc	Ares' Own are overwhelming, insatiable in battle, destructive, and man-slaughtering. They fight for the Hellenic faith.
+sacrificed_head_bad	Our Religious Head was sacrificed to Heathen Gods.
+sacrificed_head_good	We sacrificed the Head of a false Religion!
+EVTOPTA_TOG_611_Pope	All the power of your Church cannot save you, [From.GetBestName]!
+EVTOPTA_TOG_612_Caliph	There shall be no peace upon you, [From.GetBestName]!
+crazymurderdog_tooltip	Their family will be rather upset. 
+crazymurderdog_court_tooltip	The Court is shocked! 
+cannibal_trait	Cannibal
+cannibal_trait_desc	This character seeks to serve man.
+INSULT_CANNIBAL	cannibal
+INSULT_CANNIBALISTIC	man-eating
+DEATH_PLATYPUS_NO_KILLER	was horribly killed by platypuses
+DEATH_PLATYPUS	was horribly killed by the platypuses of $KILLER$
+trapped_immortal	Perpetual Motion Machine
+trapped_immortal_desc	A trapped Immortal is consigned to run within a wheel here for all eternity. A system of pulleys and gears attached to the wheel run various sawmills, grindstones, and other useful machinery.
+placeholdername_3	As the red mist begins to overcome you, you are conscious of grabbing a battleaxe from the wall and swinging it at [immortal_rival.GetFirstName] with a bestial scream of pure fury...\nWhen you come back to yourself you are coated head-to-toe in blood, [immortal_rival.GetFirstName]'s body is in numerous small pieces, and the hallway is in thorough need of a cleaning. You brush some entrails from your shoulder and continue about your business.
+placeholdername_4	I wonder who that was?
+placeholdername_5	GRRRRRAAARGH!
+placeholdername_6	Huh, picked up a scratch.
+placeholdername_7	As [immortal_rival.GetFirstName] rushes towards you, you let out a high-pitched scream and throw yourself to the floor. This seems to take [immortal_rival.GetHerHim] by surprize as [immortal_rival.GetSheHe] trips over your sprawled form. You leap to your feet and are about to flee the scene when you realize [immortal_rival.GetFirstName] is not getting up again, [immortal_rival.GetSheHe] somehow landed on [immortal_rival.GetHerHis] own sword.
+placeholdername_8	That was lucky!
+placeholdername_9	Oh [Root.Religion.GetHighGodName], I'm dying!
+placeholdername_10	Not today, [immortal_rival.GetFirstName]!
+placeholdername_11	Thinking quickly you step backwards into your chambers and press the concealed button in the door frame. The hidden trapdoor outside opens under [immortal_rival.GetFirstName]'s feet as [immortal_rival.GetHerHis] charge carries [immortal_rival.GetHerHim] towards you, turning [immortal_rival.GetHerHis] scream of anger into a squeal of surprize. While you are not sure if the spikes at the bottom can kill an Immortal, your are sure they will ruin [immortal_rival.GetHerHis] day.
+placeholdername_12	Fill the pit with rocks, it's the only way to be sure.
+placeholdername_13	Perhaps we can put [immortal_rival.GetFirstName] to good use...
+placeholdername_14	As [immortal_rival.GetFirstName] makes some kind of threatening speech, you reflect that it was for exactly this kind of situation that you had concealed guard posts built throughout your home. You discreetly pull the silent-alarm rope and several squads of soldiers rush from their secret posts to swarm [immortal_rival.GetFirstName]. Although [immortal_rival.GetSheHe] seems to put up a good fight, they are no match for your well-equipped guards and are soon subdued.\n 'An excellent investment!' you think to yourself.
+placeholdername_15	Take [immortal_rival.GetHerHim] to the cells.
+placeholdername_16	Take [immortal_rival.GetHerHim] outside and burn [immortal_rival.GetHerHim].
+placeholdername_17	Time to feed my special pets...
+placeholdername_18	Wait! Let's talk about this!
+placeholdername_19	Using all of your natural charm and wit you are able to engage [immortal_rival.GetFirstName] in conversation before [immortal_rival.GetSheHe] can attack. You quickly find common ground and form a strong rapport with [immortal_rival.GetFirstName], soon you are chatting away like old friends. After what seems like minutes you realize you have been talking for hours, and [immortal_rival.GetFirstName] reflects that [immortal_rival.GetSheHe] cannot believe they came here to kill you.\n 'I was so foolish,' [immortal_rival.GetSheHe] says, 'violence is never the answer!'
+placeholdername_20	I keep my fiends close
+placeholdername_21	but my enemies CLOSER!
+placeholdername_22	Engage them in scholarly debate
+placeholdername_23	You call out a number of theorems about the nature of mortality which sound high-minded but have some obvious flaws if given more than a cursory thought. [immortal_rival.GetFirstName] is clearly torn by their desire to kill you and begone, but [immortal_rival.GetSheHe] clearly cannot resist the urge to point out the errors in your logic. Exasperated, [immortal_rival.GetSheHe] begins an exhaustive refutation of your points, one by one.
+placeholdername_24	Raise new arguments
+placeholdername_25	Refuse to acknowledge your errors
+placeholdername_26	[immortal_rival.GetFirstName] is clearly getting highly invested in your debate. Your deliberate errors in your opening arguments have convinced [immortal_rival.GetHerHim] that [immortal_rival.GetSheHe] has the upper hand. Finding broad gestures are not enough to emphasize their points they sheath their sword, pull out some chalk, and begin to scrawl notes and graphs on the wall of the corridor.
+placeholdername_27	Spring a logical trap
+placeholdername_28	While they are distracted, smash their head with a candlestick.
+placeholdername_29	[immortal_rival.GetFirstName] has taken the bait and is vigorously arguing against what [immortal_rival.GetSheHe] believes to be your latest nonsensical point.\n'So you see,' they conclude angrily, 'immortals cannot possibly exist!'\nThere is a brief pause wherein you think you start to see a look of startled realization begin to form on [immortal_rival.GetFirstName]'s face, but before it can fully take shape there is a clap of displaced air and [immortal_rival.GetFirstName] vanishes from existence.
+placeholdername_30	I think, therefore I am.
+placeholdername_31	Fight!
+placeholdername_32	Die
+placeholdername_33	Rage...taking...control!
+placeholdername_34	Perhaps a change of clothes is needed though.
+placeholdername_35	You give up. 
+placeholdername_36	[immortal_rival.GetFirstName] is disgusted by your cowardice and leaves.
+immortal_loyalty	Immortal Loyalty
+placeholdername_38	This character is devoted to their Immortal Liege and hopes to one day learn their secret.
+immortal_suspicions	Immortal suspicions
+placeholdername_40	This character is deeply suspicions of their possibly Immortal Liege.
+immortal_hate	Immortal disgust
+placeholdername_42	This character is disgusted by the unnatural Immortality of their Liege.
+placeholdername_43	Some of my vassals are beginning to suspect my reign has lasted too long. While they are not yet fully convinced of my Immortality, they are suspicious and will likely make trouble if they remain in power.
+placeholdername_44	The suspicious vassals are now certain there is something unnatural about me, and are certainly plotting my demise. They must be stamped out, root and branch.
+appeased_religious	Blessed People
+ask_wards_liege_to_allow_faith_focus	Ask Permission for Faith Focus
+ask_wards_liege_to_allow_faith_focus_desc	Send a letter to §Y[Root.Liege.GetTitledFirstName]§! asking for permission to change the childhood focus of §Y[Root.GetFirstName]§!. Focusing on faith will make §Y[Root.GetFirstName]§! adopt your religion.
+change_wards_focus_to_faith	Change Childhood Focus to Faith
+change_wards_focus_to_faith_desc	Change the focus of §Y[Root.GetFirstName]§!. Focusing on faith will make §Y[Root.GetFirstName]§! adopt your religion.
+EVTDESC_ZE_2140	To the [GetFromFromRootCompliment] [Root.GetTitledNameWithNick],\n\nI write to ask for your permission to give my ward, [From.GetFirstName], a proper [FromFrom.Religion.GetName] upbringing and learn the ways of [FromFrom.Religion.GetScriptureName].\n\nSigned [FromFrom.GetTitledFirstName].
+EVTDESC_ZE_2141	Dear [Root.GetTitledNameWithNick],\n\nYour initiative to teach [FromFrom.GetFirstName] about your religion is most welcome and I accept your proposal.
+EVTDESCB_ZE_2142	To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nI am certain you can understand what a blasphemous suggestion you are making! [FromFrom.GetFirstName] is supposed to grow up to be a fine and dutiful [FromFrom.GetManWoman], something which will obviously not be possible with your strange rituals and profane manners.
+RULE_VASSAL_LIMIT	Vassal Limit
+RULE_VASSAL_LIMIT_DEFAULT_DESC	The Vassal Limit and number of vassals a ruler can control without penalties is at the default level.
+RULE_VASSAL_LIMIT_HALF_DESC	The Vassal Limit is reduced to half the default level.
+RULE_VASSAL_LIMIT_QUARTERED_DESC	The Vassal Limit is reduced to a fourth of the default level.
+RULE_VASSAL_LIMIT_UNLIMITED_DESC	There is no limit to the number of vassals a ruler can control.
+RULE_GRANT_INDEPENDENCE	Grant Independence
+RULE_GRANT_INDEPENDENCE_RESTRICTED_DESC	The Grant Independence action is restricted.
+RULE_GRANT_INDEPENDENCE_UNRESTRICTED_DESC	The Grant Independence action is unrestricted and can be used to grant independence to anyone.
+ATTACHED_UNIT	£4£
+ATTACHED_TO_UNIT	£5£
+GOV_LANDED_CAN_NOT_INHERIT	Landed characters can not inherit
+RULE_DEMESNE_SIZE	Demesne Size
+RULE_DEMESNE_SIZE_DEFAULT_DESC	The Demesne Size and amount of land a ruler can control is at the default level.
+RULE_OPTION_HALF	Half
+RULE_DEMESNE_SIZE_HALF_DESC	The Demesne Size is reduced to a half the default level.
+RULE_OPTION_QUARTERED	Quartered
+RULE_DEMESNE_SIZE_QUARTERED_DESC	The Demesne Size is reduced to a fourth of the default level.
+RULE_OPTION_UNLIMITED	Unlimited
+RULE_DEMESNE_SIZE_UNLIMITED_DESC	There is no limit to the amount of land a ruler can control.
+RULE_TURKIC_INVASIONS	Turkic Conquerors
+RULE_TURKIC_INVASIONS_HISTORICAL_DESC	The great Central Asian Turkic conquerors Sabuktigin, Seljuk and Timur will tend to rise in their historical timeframes.
+RULE_TURKIC_INVASIONS_RANDOM_DESC	Sabuktigin, Seljuk and Timur can appear in a wider time span.
+RULE_TURKIC_INVASIONS_OFF_DESC	The great Turkic conquerors will never rise.
+RULE_DYNASTY_TITLE_NAMES	Titles Named After Dynasties
+RULE_DYNASTY_TITLE_NAMES_ON_DESC	Many cultures name their titles after the ruling dynasty (e.g. Abbasids, Bavandids, etc.)
+RULE_DYNASTY_TITLE_NAMES_OFF_DESC	The base name is always used for titles, regardless of the ruler's culture.
+RULE_CULTURAL_TITLE_NAMES	Cultural Title Names
+RULE_CULTURAL_TITLE_NAMES_ON_DESC	The names of titles may change depending on the ruling culture (e.g. 'Sviþjod' instead of Sweden.)
+RULE_CULTURAL_TITLE_NAMES_OFF_DESC	The English name is used for all titles regardless of the ruling culture.
+good_times	Cheery
+desc_good_times	This character had a great time, resulting in a cheery disposition enjoyed by everyone.
+EVTDESC72030	I saw my mortal enemy [feast_duel_target.GetTitledFirstName] as soon as I stepped into [Root.Liege.GetTitledFirstName]'s castle. [feast_duel_target.GetHerHisCap] presence was almost more than I could bear and I longed to pick up my sword and impale [feast_duel_target.GetHerHim] with it!
+EVTTOOLTIP72031	[feast_duel_target.GetTitledFirstName] is challenged to a duel by [Root.GetTitledFirstName]
+EVTDESC72034	'How dare you spoil my feast with your silly quarrel?!'\n\nI managed to stop the duel before anyone was killed but I could tell [From.GetTitledFirstName] did not really listen to me, [From.GetSheHe] looked as eager as ever to settle the scores with [From.GetHerHis] 'mortal enemy' [feast_duel_target.GetTitledFirstName].
+EVTDESC72035	[From.GetTitledFirstName] managed to kill [From.GetHerHis] opponent [feast_duel_target.GetTitledFirstName] before I managed to stop the duel.
+EVTDESC72036	The duel was over when I reached them, [From.GetTitledFirstName]'s opponent, [feast_duel_target.GetTitledFirstName], lay wounded at [From.GetHerHis] feet.
+EVTDESC72037	[From.GetTitledFirstName]'s maimed opponent, [feast_duel_target.GetTitledFirstName], tried to stand up when I reached them, but collapsed once again at [From.GetTitledFirstName]'s feet.
+EVTOPTA72037	Don't just stand there, help [feast_duel_target.GetHerHim]!
+EVTOPTB72037	[feast_duel_target.GetTitledFirstName] surely deserved it
+opinion_betrayed	Betrayed Me
+EVTDESC107100	Congratulations on your marriage! While Alfonso is busy trying to get [Root.Spouse.GetFirstName] with child, you might want to select a new, family oriented Ambition.
+EVTDESC_HL_8005_father	As your father's heir, it falls on you to take him to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.
+EVTDESC_HL_8005_brother	Without any heirs of his own, it falls on you to take your brother to the mountains. He will be offered to the birds of prey and in death he will generously share his flesh with all living creatures. May his spirit soar into the heavens.
+EVTDESC_HL_8005_other	As per custom, you should take your predecessor to the mountains. They will be offered to the birds of prey and in death they will generously share their flesh with all living creatures. May their spirit soar into the heavens.
+EVTDESC_HL_8005_mother	As your mother's heir it falls upon you to bring her to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.
+EVTDESC_HL_8005_sister	Without any heirs of her own, it falls upon you to bring your sister to the mountains. She will be offered to the birds of prey, and in death she will generously share her flesh with all living creatures. May her spirit soar into the heavens.
+EVTDESC20147	During a mission to try and fabricate a claim to a title in [From.Location.GetName], my [Root.GetChancellorName] has been murdered!
+EVTOPTA_WOL_2080_TOOLTIP	The liege of §Y[target_spy_on.GetTitledFirstName]§! will decide how to deal with [target_spy_on.GetHerHim].\n
+EVTOPTC_WOL_2080_TOOLTIP	§Y[target_spy_on.GetTitledFirstName]§! will either stay out of factions or be exposed, giving you the right to imprison [target_spy_on.GetHerHim].\n
+EVTOPTD_WOL_2080_TOOLTIP	§Y[target_spy_on.GetTitledFirstName]§! will either join your factions or be exposed, giving you the right to imprison [target_spy_on.GetHerHim].\n
+EVTOPTE_WOL_2080_TOOLTIP	Do not use the information, but keep spying on §Y[target_spy_on.GetTitledFirstName]§!.\n
+EVTOPTF_WOL_2080_TOOLTIP	Do not use the information and stop spying on §Y[target_spy_on.GetTitledFirstName]§!.\n
+EVTOPTE_WOL_2082_TOOLTIP	Do not use the information against §Y[target_spy_on.GetTitledFirstName]§!.\n
+will_not_marry	Will Not Marry
+will_not_marry_desc	For one reason or another, this character will not get married.
+EVTDESCZE15002	Some nights you are beset by terrible nightmares in which you witness the death of your trusted steed, [From.GetBestName]. How will you be able to live without [From.GetHerHim]?
+EVTOPTAZE15002	I shall offer [From.GetFirstName] my magical blood!
+EVTOPTBZE15002	Immortality is my gift, and my gift alone!
+opinion_given_council_position_1	Given Council Position
+opinion_given_council_position_2	Given Council Position
+opinion_given_council_position_3	Given Council Position
+scandalous_councillor_1_desc	This character's choice of councillor has been the cause of some dismay.
+scandalous_councillor_2_desc	This character's choice of councillor has been the cause of some dismay.
+scandalous_councillor_3_desc	This character's choice of councillor has been the cause of some dismay.
+opinion_distressing_encounter	Distressing Encounter
+commit_suicide_immortal	Commit Suicide
+commit_suicide_immortal_desc	At first the prospect of eternal life seemed to be the sweetest dream imaginable. In hindsight, eternity is a very, very long time.
+attempting_suicide_tooltip	Has not attempted to commit suicide recently.
+EVTDESC_RIP_30200_A	Eternal life brings nothing but heartbreak and sorrow. While everything and everyone around you ages and withers away, you remain unchanged. Each dreary day blurs into the next. You have decided to end your life… if you can.
+EVTDESC_RIP_30200_B	You tried. You really, really did, but the endless, dreary days and even longer, empty nights have gotten the better of you. With no one to call your love, no friends to brighten your days and no children bringing dreams of a better tomorrow… life is not really worth living anymore.
+EVTDESC_RIP_30200_C	You tried. You really, really did, but dark thoughts creep uninvited into your mind none the less. You know that you are not alone, although it sure feels that way. Being surrounded by people who do not see, cannot understand… some days that is worse than total isolation.
+EVTOPTA_RIP_30200	I will meet my end in a duel to the death.
+EVTOPTA_RIP_30200_TOOLTIP	You challenge your rival §Y[suicide_duel_target.GetTitledFirstName]§! to a duel.
+EVTOPTB_RIP_30200	Poison will gift me sweet oblivion.
+EVTOPTC_RIP_30200	I will have a quick and painless death by the noose.
+EVTOPTD_RIP_30200	The highest balcony in the keep offers one last view of my realm.
+EVTDESC_RIP_30202	To the [GetFromRootInsult] [Root.GetBestName],\nYou have tainted this world with your presence for too long. I challenge you to a duel. In a month's time, bring your sword and meet me in [From.Location.GetName], or forfeit your honor. Only one of us will return alive.\n\nSigned, [From.GetBestName]
+EVTOPTA_RIP_30202	I will have that [GetFromRootInsult]'s head!
+EVTOPTB_RIP_30202	No, that sounds dangerous...
+EVTDESC_RIP_30203	To the [GetFromRootInsult] [Root.GetBestName],\nI will gladly rid this world of your foul presence. Get your affairs in order, for I will show you no mercy.\n\nSigned, [From.GetBestName]
+EVTOPTA_RIP_30203	[From.GetSheHeCap] is playing right into my hands.
+EVTDESC_RIP_30204	To the [GetFromRootInsult] [Root.GetBestName],\nI neither have the time nor desire to indulge you in your petty pastimes. Have you no better to do, such as running your realm, for one? \n\nSigned, [From.GetBestName]
+EVTOPTA_RIP_30204	That blasted coward...
+EVTOPTA_RIP_30204_TOOLTIP	Your plans to end your life have been foiled. Perhaps you will make another attempt, in time...\n
+EVTDESC_RIP_30205_LOST	[suicide_duel_target.GetTitledFirstName] was easy enough to fool. [suicide_duel_target.GetSheHeCap] was so thirsty for your blood that [suicide_duel_target.GetSheHe] did not notice the feebleness of your attempts to defend yourself. It was only a moment before [suicide_duel_target.GetHerHis] blade found the hollow of your throat.
+EVTDESC_RIP_30205_WON	That useless [suicide_duel_target.GetManWoman] is good for absolutely nothing! Despite your attempts to give [suicide_duel_target.GetHerHim] every possible opening [suicide_duel_target.GetTitledFirstName] only managed to give you a few scratches.
+EVTDESC_RIP_30205_INCAPABLE	Everything seemed to go according to plan. [suicide_duel_target.GetTitledFirstName] did not mind your feeble attempts at defense and soon you were on your knees, ready to feel the kiss of [suicide_duel_target.GetHerHis] blade on your neck. Instead, it was the pommel which [suicide_duel_target.GetSheHe] smashed into the back of your head...
+EVTOPTA_RIP_30205	A noble death.
+EVTOPTB_RIP_30205	This is useless. There must be another way.
+EVTOPTC_RIP_30205	For this failure, [From.GetFirstName] is the one who will lose their head!
+EVTOPTD_RIP_30205	I wanted death, not this! Not another prison...
+EVTDESC_RIP_30206_WON	As soon as you drew your blades, you knew something was wrong. [From.GetTitledFirstName] barely attempted to parry your blows. Perhaps it was dishonorable of you to take advantage of the situation, although no one will know...
+EVTDESC_RIP_30206_LOST	Perhaps your thirst for [From.GetTitledFirstName]'s blood got the better of you. As soon as your blades met for the first time, it felt as if you stood no chance. Yet [Root.Religion.GetHighGodName] must have been on your side, for instead of slaying you, [From.GetFirstName] cast away [From.GetHerHis] sword in anger...
+EVTOPTA_RIP_30206	That [GetRootFromInsult] is with [Root.Religion.GetRandomEvilGodName] now.
+EVTOPTB_RIP_30206	[From.GetFirstName] has pestered me for the last time!
+EVTOPTC_RIP_30206	I am lucky to be alive.
+EVTDESC_RIP_30207_SUCCESS	It had barely been a few moments before you started to cough blood after ingesting the poisonous brew you had concocted. Finally, you would be released from this dreary world...
+EVTDESC_RIP_30207_FAIL	It had barely been a few moments before you started to cough blood after ingesting the poisonous brew you had concocted. Finally, you would be released… At least so you thought. Soon the coughing stopped, and all you were left with was a faint nausea.
+EVTOPTA_RIP_30207	Now, the endless rest...
+EVTOPTB_RIP_30207	[Root.Religion.GetHighGodName], why do you deny me death?!
+EVTDESC_RIP_30208_SUCCESS	Once, you had been told that hanging was the preferable method of ending one's life. You told yourself this as you put the noose around your neck. The feeling of dread was short-lived as the quick fall blessed you with nothingness.
+EVTDESC_RIP_30208_FAIL	Once, a man told you that hanging was the preferable method of ending one's life. Perhaps he should have told you about the importance of a long drop… Instead you were left hanging, the rope slowly cutting into you neck, until [found_hanger.GetTitledFirstName] happened to stumble upon you...
+EVTDESC_RIP_30209_SUCCESS	You indulged in one last look at the surrounding landscape before you climbed the railing. It was a beautiful sight, yet you would not miss it. A deep breath, and then you fell, free as a bird…
+EVTDESC_RIP_30209_FAIL	You had one last look at the surrounding landscape before you climbed the railing and stepped into nothingness. Impact was swifter than you had anticipated. Instead of oblivion you were overcome with excruciating pain. As from thousands of leagues away, you could hear screaming...
+EVTDESC_RIP_30210_A	Your body has become a prison. This is no way to live. During one of your rare moments of clear though, you notice [suicide_assistant.GetTitledFirstName] sitting by your bedside. [suicide_assistant.GetSheHeCap] must help you… must end it…
+EVTDESC_RIP_30210_B	Your body has become a prison. This is no way to live. During one of your rare moments of clear thought, you notice someone sitting at your bedside. They must help you… must end it…
+EVTOPTA_RIP_30210	Mercy, [suicide_assistant.GetFirstName]. No more… Please…
+EVTOPTB_RIP_30210	I beg of you, mercy. No more… Please…
+EVTDESC_RIP_30211	You are sitting by your [GetFromRelation] [From.GetTitledFirstName]'s sickbed, half asleep, when [From.GetHerHis] faint voice pierces through your foggy mind. You lean in, urging [From.GetHerHim] to repeat [From.GetHerselfHimself]. [From.GetHerHisCap] words leave you cold. "End it… please."
+EVTOPTA_RIP_30211	I will release you from your suffering, dear [GetFromRelation].
+EVTOPTB_RIP_30211	You are speaking nonsense! I will do no such thing!
+EVTDESC_RIP_30212_SUCCESS_A	Your [GetFromRelation] [From.GetTitledFirstName]'s hand clutches yours, and through the fog of your mind you hear [From.GetHerHis] voice. "Do not worry, [Root.GetFirstName]. It will be over soon…" A heavy weight presses down on your throat. Weakly, you struggle… Then you are no more.
+EVTDESC_RIP_30212_SUCCESS_B	A hand clutches yours, and through the fog of your mind you hear a voice. "Do not worry, [Root.GetFirstName]. It will be over soon…" A heavy weight presses down on your throat. Weakly, you struggle… Then you are no more.
+EVTDESC_RIP_30212_FAIL	The sound of something as it clatters to the floor pierces through the fog of your mind. You hear [From.GetTitledFirstName]'s voice, from far away… It is tinged with fear, denial. Hurried footsteps. You are alone once more.
+EVTOPTB_RIP_30212	Come back... [From.GetFirstName]...
+commit_suicide_allow_tooltip	§Y[Root.GetTitledFirstName]§! must have a reason to commit suicide.\n
+EVTDESC_RIP_30222	Some days being [Root.GetTitle] is no easy thing. There is always business to attend to, subjects seeking audiences and vassals complaining about imagined injustices. Finally you are having a moment to yourself, strolling the gardens. In the distance you spot a stranger dressed in a simple garb.
+EVTOPTA_RIP_30222	I shall invite this [From.GetManWoman] to walk with me!
+EVTOPTB_RIP_30222	I'd rather be alone.
+EVTDESC_RIP_30223_A	It turns out that the stranger, [From.GetFirstName], is a nun on [From.GetHerHis] way back to the cloister after several months on the road. As the evening light grows dimmer, you converse about life and death, faith and doubt. When you excuse yourself to return home, the nun asks if you can offer room and board for a few days.
+EVTDESC_RIP_30223_B	It turns out that the stranger, [From.GetFirstName], is a monk on his way back to the cloister after several months on the road. As the evening light grows dimmer, you converse about life and death, faith and doubt. When you excuse yourself to return home, the monk asks if you can offer room and board for a few days.
+EVTDESC_RIP_30223_C	It turns out that the stranger, [From.GetFirstName], is a Catholic nun on her way back to the cloister after several months on the road. As the evening light grows dimmer, you converse about life and death, her God and [Root.Religion.GetHighGodName]. When you excuse yourself to return home, the nun asks if you can offer room and board for a few days.
+EVTDESC_RIP_30223_D	It turns out that the stranger, [From.GetFirstName], is a Catholic monk on his way back to the cloister after several months on the road. As the evening light grows dimmer, you converse about life and death, his God and [Root.Religion.GetHighGodName]. When you excuse yourself to return home, the monk asks if you can offer room and board for a few days.
+EVTOPTA_RIP_30223	Of course, [From.GetFirstName]! You shall find rest by my hearth.
+EVTOPTA_RIP_30223_TOOLTIP	Invite §Y[From.GetFirstName]§! to stay with you for a few days.\n
+EVTOPTB_RIP_30223	There is an excellent inn not far from here.
+EVTOPTB_RIP_30223_TOOLTIP	Give §Y[From.GetFirstName]§! some money and direct [From.GetHerHim] to the inn.\n
+EVTOPTC_RIP_30223_A	Isn't a bit of suffering the point of a pilgrimage?
+EVTOPTC_RIP_30223_B	I will not have an infidel under my roof!
+EVTOPTC_RIP_30223_TOOLTIP	Turn away §Y[From.GetFirstName]§!.\n
+EVTNAME_RIP_30224	For Whom The Bells Toll
+EVTDESC_RIP_30224_A	More often than not, you retreat to your chambers in the evening feeling exhausted and weary. Tonight is no exception. Falling asleep is usually easy after a long and taxing day, however recently, sleep seems to elude you. You are sitting in your study, idly moving chess pieces on the board before you, sipping a glass of wine hoping that it shall give you the rest you seek.\n\nSuddenly, someone knocks. Who could it be at this hour? Before you can shout at the intruder to leave you alone, the door opens and [From.GetFirstName] strides in. "Good evening, my [Root.GetLordLady]. I realized that I never introduced myself properly. I am Death, and I am here to collect you." A dagger is glinting in [From.GetHerHis] hand…
+EVTDESC_RIP_30224_B	More often than not, you retreat to your chambers in the evening feeling exhausted and weary. Tonight is no exception. Falling asleep is usually easy after a long and taxing day, however recently, sleep seems to elude you. You are sitting in your study, idly moving chess pieces on the board before you, sipping a glass of wine hoping that it shall give you the rest you seek.\n\nSuddenly, you hear a sound behind you, and you turn around in your chair. There stands the [From.GetManWoman] you walked with a few days ago. "Good evening, my [Root.GetLordLady]. I realized that I never introduced myself properly. I am Death, and I am here to collect you." A dagger is glinting in [From.GetHerHis] hand…
+EVTDESC_RIP_30224_C	More often than not, you retreat to your chambers in the evening feeling exhausted and weary. Tonight is no exception. Falling asleep is usually easy after a long and taxing day, however recently, sleep seems to elude you. You are sitting in your study, idly moving chess pieces on the board before you, sipping a glass of wine hoping that it shall give you the rest you seek.\n\nSuddenly, you hear a sound behind you, and you turn around in your chair. There stands a [From.GetManWoman] you have never seen before, a faint smile on [From.GetHerHis] lips. "Good evening, my [Root.GetLordLady]. I am Death, and I am here to collect you." A dagger is glinting in [From.GetHerHis] hand…
+EVTOPTA_RIP_30224	I… I challenge you to a game of chess!
+EVTOPTA_RIP_30224_TOOLTIP	Attempt to buy yourself time by challenging §Y[From.GetFirstName]§! to a game of chess.
+EVTOPTB_RIP_30224	Not today!
+EVTOPTB_RIP_30224_TOOLTIP	Launch yourself at §Y[From.GetFirstName]§! in an attempt to overpower [From.GetHerHim].\n
+EVTOPTB_RIP_30224_TOOLTIP_SURVIVE	surviving the assassination attempt, however, you are likely to be injured in the struggle.
+EVTDESC_RIP_30225	Afterwards, you barely know what happened. It was over in a few moments of blind rage and fear. The dagger clatters to the floor as you release it. Your legs buckle under you, and you fall hard in a puddle of sticky, warm blood. Yours or [From.GetHerHis]? It is unclear...
+EVTOPTB_RIP_30225	Help… guards...
+EVTDESC_RIP_30226	[From.GetFirstName] raises an eyebrow, an amused look on [From.GetHerHis] face. "Why not? I have all the time in the world. Though you are simply postponing the inevitable, [Root.GetFirstName], for you are sure to lose." [From.GetSheHeCap] settles in the chair opposite your own and places the dagger on the table. "Black or white?"
+EVTOPTA_RIP_30226	The white pieces, please.
+EVTOPTA_RIP_30226_TOOLTIP	You pick the white pieces and the game begins.
+EVTOPTB_RIP_30226	I will play as black.
+EVTOPTB_RIP_30226_TOOLTIP	You pick the black pieces and the game begins.
+EVTDESC_RIP_30226_BLACK	"Black, my lucky color… Well, it matters not", [From.GetFirstName] says with a nonchalant shrug.\n\nWhat is your strategy for the first part of the game?
+EVTDESC_RIP_30226_WHITE	"White… Yes, you will need all the help you can get", [From.GetFirstName] says with a grin.\n\nWhat is your strategy for the first part of the game?
+EVTOPTA_RIP_30227	It is safest to play defensive.
+EVTOPTB_RIP_30227	I will take advantage of any opening, no matter the risk.
+EVTOPTC_RIP_30227	I'm not above cheating, if the opportunity presents itself.
+EVTOPTD_RIP_30227	I have a well-practiced strategy in mind.
+EVTOPTE_RIP_30227	I will carefully analyze the board and take my time.
+CHESS_GREAT_MOVE	you making a great move.
+CHESS_GOOD_MOVE	you making a good move.
+CHESS_NEUTRAL_MOVE	you making a neutral move.
+CHESS_BAD_MOVE	you making a bad move.
+CHESS_TERRIBLE_MOVE	you making a terrible move.
+CHESS_GOOD_TRICK	of you cheating successfully.
+CHESS_BAD_TRICK	of you botching the attempt to cheat.
+EVTDESC_RIP_30228_GREAT	In the first few minutes of the game, you manage to advance across the board, taking out several of [From.GetFirstName]'s pieces while barely suffering any losses yourself. As you capture [From.GetHerHis] second knight, [From.GetSheHe] clicks [From.GetHerHis] tongue testily. "Do not get too confident. It is not over yet."
+EVTDESC_RIP_30228_GOOD	While [From.GetFirstName] is certainly an accomplished player, you manage to capture a few more pieces than [From.GetHerHim] during the first part of the game. You do not like the look on [From.GetHerHis] face, however…
+EVTDESC_RIP_30228_NEUTRAL	It is impossible to tell who has the upper hand after the first part of the game. While you have captured a few more pieces than [From.GetFirstName], [From.GetHerHis] position on the board surely looks more promising. [From.GetHerHisCap] ominous smile makes you anxious...
+EVTDESC_RIP_30228_BAD	It has only been a few minutes when you realize just how badly it is going. At first you thought you were safe, having kept almost all of your pieces, but now you can see how [From.GetFirstName] has positioned [From.GetHerHis] own. Is it too late to turn this game around?
+EVTOPTA_RIP_30228_A	Thank [Root.Religion.GetHighGodName] for my good fortune! Please let it continue...
+EVTOPTA_RIP_30228_B	Curses upon that [GetRootFromInsult]!
+EVTOPTA_RIP_30228_TOOLTIP	The game continues...
+EVTDESC_RIP_30229_GOOD	You try to keep your nerves in check, although it is nearly impossible. You are in the lead! The scowl on [From.GetFirstName] has renewed your hopes. Or is it just a trick…?\n\nWhat is your next move?
+EVTDESC_RIP_30229_NEUTRAL	The game continues in silence as both of you are fully focused on your next move. At the moment, the game seems even. At least you think it does… \n\nWhat is your next move?
+EVTDESC_RIP_30229_BAD	The game is not going well. There is a heavy, cold feeling at the pit of your stomach. You wish you could vomit, but somehow you think that would only please [From.GetFirstName] further... \n\nWhat is your next move?
+EVTOPTA_RIP_30229	If [From.GetFirstName] starts drinking, maybe [From.GetSheHe] will lose [From.GetHerHis] edge!
+EVTOPTA_RIP_30229_TOOLTIP	Pour §Y[From.GetFirstName]§! a glass and keep refilling it throughout the game. Surely you can outdrink [From.GetHerHim].
+EVTOPTB_RIP_30229	No one can withstand my charms, not even Death.
+EVTOPTB_RIP_30229_TOOLTIP	Attempt to distract §Y[From.GetFirstName]§! with your renowned skills of seduction.
+EVTOPTC_RIP_30229	I will tell [From.GetFirstName] a little tale…
+EVTOPTC_RIP_30229_TOOLTIP	Attempt to make §Y[From.GetFirstName]§! nervous by telling [From.GetHerHim] what you usually do to those you defeat.
+EVTOPTF_RIP_30229	I shall tell [From.GetFirstName] of the crushing defeat my last opponent suffered.
+EVTOPTF_RIP_30229_TOOLTIP	Attempt to make §Y[From.GetFirstName]§! nervous by bragging about your chess skills.
+EVTOPTD_RIP_30229	If I distract [From.GetFirstName], perhaps I can return one of my lost pieces to the board.
+EVTOPTD_RIP_30229_TOOLTIP	Knock over your wine glass in an attempt to distract §Y[From.GetFirstName]§!.\n
+EVTOPTE_RIP_30229	It is best to just focus on the game.
+EVTDESC_RIP_30230_DRINKING	You almost cannot believe it, but surely it is so – the plan is successful! While your mind is still sharp enough, [From.GetFirstName] seems to have lost some of [From.GetHerHis] focus. You fill up [From.GetHerHis] cup again and [From.GetSheHe] nods absentmindedly in response.
+EVTDESC_RIP_30230_SEDUCTION	You almost cannot believe it, but surely it is so – the plan is successful! You were right, not even [From.GetFirstName] is immune to your charms and seems to have lost some of [From.GetHerHis] focus. As you lean forwards over the table, pretending to contemplate your next move, you can hear [From.GetHerHis] breath hitch.
+EVTDESC_RIP_30230_INTIMIDATION	You almost cannot believe it, but surely it is so – the plan is successful! As you keep playing, you tell [From.GetFirstName] stories about your victims in intricate detail, accentuating the most shocking parts by slamming your pieces against the board. [From.GetSheHeCap] seems to have lost some of [From.GetHerHis] focus.
+EVTDESC_RIP_30230_BRAG	You almost cannot believe it, but surely it is so – the plan is successful! As you keep playing, you tell [From.GetFirstName] stories about your masterful chess skills, and prove them too by some clever moves. [From.GetSheHeCap] seems to have lost some of [From.GetHerHis] focus.
+EVTDESC_RIP_30230_GOOD_TRICK	You almost cannot believe it, but surely it is so – the plan is successful! The wine spills all over [From.GetFirstName]'s garb. As [From.GetSheHe] rubs a cloth on the huge, red stain, cursing you under [From.GetHerHis] breath, you restore one of your rooks. That was worth getting called a [GetFromRootInsult], for sure!
+EVTDESC_RIP_30230_BAD_TRICK	The wine spills all over [From.GetFirstName]'s garb. As [From.GetSheHe] rubs a cloth on the huge, red stain, cursing you under [From.GetHerHis] breath, you attempt to restore one of your rooks. For a moment, you think your move went undetected, but then [From.GetFirstName] scans the board and sighs "Oh, how I despise cheaters…"
+EVTOPTA_RIP_30230	Perhaps I can win this, after all!
+EVTOPTB_RIP_30230	No, wait, it's not what you think!
+EVTOPTB_RIP_30230_TOOLTIP	§Y[From.GetFirstName]§! reaches for the dagger...\n
+EVTDESC_RIP_30231_GOOD	Never have you met such a tenacious, unnerving opponent and never have so much been at stake. The game is nearing its end, and seemingly against all odds you have the upper hand. [From.GetFirstName] slams your captured rook down on the table. "I could be persuaded to return this to you, for the right price…"
+EVTDESC_RIP_30231_NEUTRAL	Never have you met such a tenacious, unnerving opponent and never have so much been at stake. The game is nearing its end, and it is looking even, indeed. [From.GetFirstName] is playing with your captured queen, smiling confidently. "I could be persuaded to return this to you, for the right price…"
+EVTDESC_RIP_30231_BAD	Never have you met such a tenacious, unnerving opponent and never have so much been at stake. The game is nearing its end, and it is looking grim, indeed. [From.GetFirstName] is playing with your captured queen, smiling confidently. "I could be persuaded to return this to you, for the right price…"
+EVTOPTA_RIP_30231	No, thank you. I put my trust in my skill.
+EVTOPTB_RIP_30231_A	The life of my [chess_sacrifice.GetHusbandWife], [chess_sacrifice.GetTitledFirstName]. If I lose, [chess_sacrifice.GetSheHe] is yours.
+EVTOPTB_RIP_30231_B	The life of my friend, [chess_sacrifice.GetTitledFirstName]. If I lose, [chess_sacrifice.GetSheHe] is yours.
+EVTOPTB_RIP_30231_C	The life of my lover, [chess_sacrifice.GetTitledFirstName]. If I lose, [chess_sacrifice.GetSheHe] is yours.
+EVTOPTB_RIP_30231_D	The life of my [chess_sacrifice.GetSonDaughter], [chess_sacrifice.GetTitledFirstName]. If I lose, [chess_sacrifice.GetSheHe] is yours.
+EVTNAME_RIP_30232	Dealings with Death
+EVTDESC_RIP_30232_BAD	During the last few moves, it feels as if time is standing still. Your thoughts are muddled, moving slowly as if through a thick syrup. Random, disjointed thoughts flashes through your mind. Places you once visited, old friends you have not seen in years, dreams you gave up on. So many loose ends, and now it might be too late to pick them up again. \n\n"Checkmate." Your head snaps back up, your eyes locking with [From.GetFirstName]'s. For the first time this evening, you can really see it, and it chills you to your core. The figure before you is not an ordinary [From.GetManWoman], not a [From.GetManWoman] at all. This is Death, and [From.GetSheHe] just won. "It is time then, [Root.GetFirstName]", [From.GetSheHe] sighs contentedly. "The endless rest awaits."
+EVTDESC_RIP_30232_GOOD	During the last few moves, it feels as if time is standing still. Random, disjointed thoughts flashes through your mind. Places you once visited, old friends you have not seen in years, dreams you gave up on. Is it too late…? \n\nThen suddenly, you see it. The move. With a shaking hand, you pick up the bishop and set it down across the board with a soft thud. "Checkmate", you whisper, looking up into [From.GetFirstName]'s eyes. For the first time this evening, you can really see it, and it chills you to your core. This is no mortal [From.GetManWoman], but Death [From.GetHerselfHimself]. "It seems as if you have outwitted me, [Root.GetFirstName], so I will give you a few more years", [From.GetSheHe] sighs. "It is of little consequence, for in the end all come with me." And then, as you blink, [From.GetSheHe] is gone.
+EVTOPTA_RIP_30232	That might be true, but for now, I shall live. Not a day will be wasted!
+EVTOPTB_RIP_302232_TOOLTIP	You feel stronger...\n
+EVTOPTB_RIP_30232	Please, no, no… I beg of you, mercy! Just… just one more year!
+skull_trophies	Skull Trophies
+skull_trophies_desc	This character owns the skulls of several deceased rivals.
+chess_score_number	[Root.chess_score.GetValue]
+deaths_gift	Death's Gift
+deaths_gift_desc	This character has been given a second chance at life.
+EVTOPTA_RIP_30233	Praised be [Root.Religion.GetHighGodName]!
+EVTDSC_7852_dog	Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. When I arrived I found them playing together most enthusiastically. I watched them for several minutes before I announced myself.
+EVTDSC_7852	Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. When I arrived I found [From.GetHerHim] playing most enthusiastically with the little furball. I watched them for several minutes before I announced myself.
+EVTOPTA_77852	Thank you, [From.GetFirstName], for taking such good care of my cat!
+EVTOPTA_77852_TOOLTIP	You and §Y[From.GetTitledFirstName]§! bond over your love of cats.\n
+EVTOPTA_77852_dog	Thank you, [From.GetFirstName], for taking such good care of my dog!
+EVTOPTA_77852_TOOLTIP_dog	You and §Y[From.GetTitledFirstName]§! bond over your love of dogs.\n
+EVTDSC_7853_dog	Today I decided to go and visit my dog at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the canine. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the dog a few days earlier.
+EVTDSC_7853	Today I decided to go and visit my cat at [From.GetTitledFirstName]'s residence. However, when I arrived, [From.GetSheHe] could not produce the feline. When I angrily demanded to know the truth [From.GetSheHe] admitted to having gotten rid of the cat a few days earlier.
+EVTOPTA_77853	What have you done, you [GetRootFromInsult]?!
+EVTOPTA_77853_TOOLTIP	You let §Y[From.GetTitledFirstName]§! know exactly what you think of [From.GetHerHis] behaviour.\n
+pet_best_friends	Pet Best Friends
+pet_best_friends_desc	This character has pets which are the best of friends.
+EVTDESC_77861	Your two pets truly fight like cat and dog. You can barely sleep at night unless you lock them in separate rooms. In fear of confinement, your cat has begun hiding before bedtime. Yesterday you spent the better part of an hour looking for it. You cannot stand this much longer...
+EVTOPTA_77861	They will figure it out in due time.
+EVTOPTA_77861_TOOLTIP	You give your cat and dog a chance to get used to each other.
+EVTOPTB_77861	I will find a new owner for my dog.
+EVTOPTC_77861	The cat is obviously unhappy. I will get it a new home.
+EVTDESC_77862_A	Today, when you were going for a hunt, you couldn't find your loyal canine companion anywhere. As you called its name, the stable master came over and told you that he had seen a cat chase a dog across the courtyard. Now it is nowhere to be found…
+EVTDESC_77862_B	It is time to go to bed and you are searching for your cat. You attempt your most recent trick, luring it out with small treats from the kitchen, but for the first time the method proves unsuccessful. Once an hour has passed, you give up and call for your dog. It comes running with a limp little body in its maw…
+EVTDESC_77862_C	Some time was just what your pets needed. One day they simply stopped fighting and since they have become the best of friends. Now you often find them playing or snoozing together. They really seem much happier.
+EVTOPTA_77862	The fault is mine. The cat is just an animal...
+EVTOPTB_77862	My dog is never coming back and it is all your fault, evil beast!
+EVTOPTB_77862_TOOLTIP	Get rid off your cat.\n
+EVTOPTC_77862	The fault is mine. The dog is just an animal...
+EVTOPTD_77862	How… how could you! Bad dog! BAD DOG!
+EVTOPTD_77862_TOOLTIP	Get rid off your dog.\n
+EVTOPTE_77862	How sweet! I knew they would get along in the end.
+duel_tooltip_excommunicated	Challenger is '§YZealous§!' and §Y[Root.GetTitledFirstName]§! is §YExcommunicated§! in the same religion.\n
+duel_tooltip_decadent	Challenger is '§YZealous§!' Muslim and §Y[Root.GetTitledFirstName]§! is §YDecadent§!.\n
+duel_tooltip_challenged_before	Duelers have not challenged each other to a duel before.\n
+duel_tooltip_rivals	§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are rivals.\n
+duel_tooltip_foes	§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! are foes.\n
+duel_tooltip_sickness	§Y[From.GetTitledFirstName]§! and §Y[Root.GetTitledFirstName]§! must be in a healthy condition.\n
+RULE_DUELING	§BWay of Life:§! Dueling
+RULE_DUELING_DEFAULT_DESC	Default restrictions for dueling applies.
+RULE_DUELING_RESTRICTED_DESC	You no longer need a reason to duel someone, but they must still be healthy and a valid target in your culture and religion.
+RULE_DUELING_UNRESTRICTED_DESC	Almost anyone can be dueled. Restrictions concerning gender, health and religion no longer applies.
+RULE_PUNISHMENT_RELEASE_PRISONER	Release Prisoners After Punishment
+RULE_PUNISHMENT_RELEASE_PRISONER_ON_DESC	Prisoners are released after having received their punishment.
+RULE_PUNISHMENT_RELEASE_PRISONER_OFF_DESC	Blinding, castration, torture, mutilation, humiliation, and poetry readings no longer release prisoners.
+RULE_NON_EPIDEMIC_DISEASES	§BThe Reaper's Due:§! Non-Epidemic Diseases
+RULE_NON_EPIDEMIC_DISEASES_DEFAULT_DESC	Characters will develop and contract non-epidemic diseases, such as pneumonia and cancer, at the default rate.
+RULE_NON_EPIDEMIC_DISEASES_MORE_DESC	There will be more cases of non-epidemic diseases.
+RULE_NON_EPIDEMIC_DISEASES_FEWER_DESC	There will be fewer cases of non-epidemic diseases.
+RULE_NON_EPIDEMIC_DISEASES_RARE_DESC	Cases of non-epidemic diseases will be rare.
+RULE_NON_EPIDEMIC_DISEASES_NONE_DESC	There will be practically no cases of non-epidemic diseases.
+RULE_PROVINCIAL_REVOLT_STRENGTH	§BThe Old Gods:§! Provincial Revolt Strength
+RULE_PROVINCIAL_REVOLT_STRENGTH_DEFAULT_DESC	The strength of provincial revolts is at the default level.
+RULE_PROVINCIAL_REVOLT_STRENGTH_POWERFUL_DESC	Provincial revolts are powerful. Their armies are twice as numerous as at the default level.
+RULE_PROVINCIAL_REVOLT_STRENGTH_VERY_POWERFUL_DESC	Provincial revolts are very powerful. Their armies are four times as numerous as at the default level.
+RULE_PROVINCIAL_REVOLT_STRENGTH_EXTREMELY_POWERFUL_DESC	Provincial revolts are extremely powerful. Their armies are six times as numerous as at the default level.
+RULE_OPTION_POWERFUL	Powerful
+RULE_OPTION_VERY_POWERFUL	Very Powerful
+RULE_OPTION_EXTREMELY_POWERFUL	Extremely Powerful
+RULE_MULTIPLAYER_ASSASSINATIONS	Multiplayer Assassinations
+RULE_MULTIPLAYER_ASSASSINATIONS_DEFAULT_DESC	There are no additional restrictions on whom you can plot to kill in multiplayer.
+RULE_MULTIPLAYER_ASSASSINATIONS_NO_PLAYERS_DESC	Plotting to kill other players is disabled.
+RULE_MULTIPLAYER_ASSASSINATIONS_NO_PLAYERS_OR_HEIRS_DESC	Plotting to kill other players or their heirs is disabled.
+RULE_MULTIPLAYER_ASSASSINATIONS_NO_PLAYER_DYNASTIES_DESC	Plotting to kill other players or anyone else from their dynasties is disabled.
+RULE_OPTION_NO_PLAYERS	No Players
+RULE_OPTION_NO_PLAYERS_OR_HEIRS	No Players or Heirs
+RULE_OPTION_NO_PLAYER_DYNASTIES	Player Dynasties
+pick_main_deity_tooltip	§Y[Root.GetTitledFirstName]§! gets to pick a new patron deity to worship.
+pick_main_deity_timer_tooltip	Has not picked a patron deity for 10 years.\n
+pick_main_deity	Pick Patron Deity
+pick_main_deity_desc	There are many gods and goddesses who rule over different aspects of our life. While all of them should be honored properly, it is common for people to pick a deity whom they pray and sacrifice to more often.
+EVTDESC_TOG_7110	There are many deities whom you may chose to honor. Will it be Perun, God of Thunder, the fiercest of warriors? Or perhaps his eternal nemesis Veles, God of the Underworld? Jarilo, the springtime God of Fertility, and his sister Morana, wintry God of Death and Rebirth, also possess mighty powers.
+EVTOPTA_TOG_7110	I pledge my axe to Perun. I would give my life for his honor!
+EVTOPTB_TOG_7110	Hallowed be wise Veles. No one can outwit him!
+EVTOPTC_TOG_7110	May Jarilo bring prosperity and happiness to these lands!
+EVTOPTD_TOG_7110	Mighty Morana, share your secrets with me, and I shall keep them.
+follower_of_perun	Follower of Perun
+follower_of_perun_desc	This character is a devout follower of Perun, the Slavic God of Thunder. He is also associated with fire, mountains and war.
+follower_of_veles	Follower of Veles
+follower_of_veles_desc	This character is a devout follower of Veles, the Slavic God of the Underworld. He is also associated with water, music and trickery.
+follower_of_jarilo	Follower of Jarilo
+follower_of_jarilo_desc	This character is a devout follower of Jarilo, the Slavic God of Fertility. He is also associated with spring and vegetation.
+follower_of_morana	Follower of Morana
+follower_of_morana_desc	This character is a devout follower of Morana, the Slavic Godess of Death and Rebirth. She is also associated with winter, magic and dreams.
+EVTDESC_TOG_7111	Perun, the God of Thunder, is the highest of all the gods. He sits atop the world tree from where he keeps watch over the earth and the skies. His sworn enemy is Veles the Serpent, who crawls up from the Underworld to steal his cattle and children. On stormy nights, thunder is a sign of Perun defending us against Veles.
+EVTDESC_TOG_7112	While Perun might rule our earthly world, wise and sly Veles is the God of the Underworld, where all of us will end up one day. His realm is not a dark and barren one, but wet and lush. Veles' chosen devote their life to carrying out his desires in this world, with the hopes of a glorious afterlife in the next.
+EVTDESC_TOG_7113	Jarilo, the God of Fertility, is the son of Perun. He and his sister Morana were born on new year's eve, although Jarilo was snatched from his cradle by Veles, and brought up as his son in the Underworld. When Jarilo returned to the earthly realm, he brought with him warmth and lushness, thus creating spring.
+EVTDESC_TOG_7114	Morana, the Goddess of Death and Rebirth, is a mighty but vengeful mistress. When her brother and husband Jarilo cheated on her, she slew him. Without him the world withered and froze, thus creating winter. Morana holds many secrets and spells which she bestows on her most faithful followers.
+EVTOPTA_TOG_7111	I hope to prove myself a worthy follower.
+EVTDESC_TOG_7200	There are many deities whom you can chose to follow. Will it be motherly Yemoja, Goddess of Water and Fertility? Perhaps the trickster Ekwensu, who knows how to negotiate and strike a bargain? For knowledge, turn to the sage Orunmila, while luck in battle shall be granted to those who pray to Shango.
+EVTOPTA_TOG_7200	It shall be Yemoja. May the mother protect me.
+EVTOPTB_TOG_7200	Ekwensu will bless me with riches beyond imagining.
+EVTOPTC_TOG_7200	I will dedicate my prayers to great Orunmila, the holder of truth.
+EVTOPTD_TOG_7200	Strong and mighty Shango, I will do battle in your name!
+EVTDESC_TOG_7201	Yemoja, spirit of Water and Creation, is both warm and fierce. Like all mothers, she has a gentle hand, until anyone threatens her children. She is worshiped wherever there is water, at shores and rivers alike, and is the patron of pregnant women and fishermen.
+EVTDESC_TOG_7202	Shrewd and manipulative, no one can strike a bargain like Ekwensu. Even in the most difficult mercantile situations, he can be called upon for luck and guidance. While he normally works in the shadows, Ekwensu can be a force of chaos and violence if crossed, so tread carefully.
+EVTDESC_TOG_7203	The primordial Orunmila is the holder of wisdom and truth. They are especially knowledgeable of the human form and purity. Orunmila is said to be able to cure to every illness and divine the future. Followers of Orunmila strive to live a virtuous, just life.
+EVTDESC_TOG_7204	All hail the mighty Shango, the great warrior king who transcended the bonds of mortality to rule forever! His weapons are stones and lightning, with whom he vanquishes the unworthy and brings justice wherever he goes.
+follower_of_yemoja	Follower of Yemoja
+follower_of_yemoja_desc	This character is a devout follower of Yemoja, the West African deity of water and motherhood.
+follower_of_ekwensu	Follower of Ekwensu
+follower_of_ekwensu_desc	This character is a devout follower of Ekwensu, the West African deity of trade and negotiations.
+follower_of_orunmila	Follower of Orunmila
+follower_of_orunmila_desc	This character is a devout follower of Orunmila, the West African deity of knowledge and purity.
+follower_of_shango	Follower of Shango
+follower_of_shango_desc	This character is a devout follower of Shango, the West African deity of lightning, justice and war.
+EVTDESC_RIP_12099_A	To the [GetFromRootInsult] [Root.GetTitledFirstName],\n\nDue to the affliction spreading through [Root.PrimaryTitle.GetName] I have been forced to seclude myself with my court at [From.Location.GetName]. Thus I will not fulfill my duties as [From.GetJobTitle] until the crisis is over.\n\nSigned, [From.GetTitledFirstName]
+EVTDESC_RIP_12099_B	To the most respectable [Root.GetTitledFirstName],\n\nDue to the affliction spreading through [Root.PrimaryTitle.GetName] I have been forced to seclude myself with my court at [From.Location.GetName]. Thus I unfortunately cannot fulfill my duties as [From.GetJobTitle] until the crisis is over.\n\nSigned, [From.GetTitledFirstName]
+EVTOPTA_RIP_12099_A	I never should have put that [GetRootFromInsult] on my council!
+EVTOPTA_RIP_12099_B	Regrettable, although understandable...
+EVTDESC_RIP_12100	§Y[From.GetTitledFirstName]§! has returned to my court and council. [From.GetSheHeCap] is yet again able to carry out [From.GetHerHis] duties as [From.GetJobTitle].
+EVTDESC_TOG_7300	There are many deities whom you can chose to follow. Great Ukko, God of the Sky and the bringer of good harvests, or his wife Akka, Goddess of love and protection. Perhaps you will pray to Tapio and Mielikki, Master and Mistress of the Hunt. You may also dedicate your worship to the sly tempter Lempo...
+EVTOPTA_TOG_7300	Ukko rules over them all!
+EVTOPTB_TOG_7300	I am one of Akka's children. May she protect me.
+EVTOPTC_TOG_7300	Tapio and Mielikki shall bring me good fortune in the forest!
+EVTOPTD_TOG_7300	May Lempo bestow their secrets upon me.
+EVTDESC_TOG_7301	The domain of the great and mighty Ukko is the heavens. He rules over the weather and brings us good harvests. As he rides in his chariot, swinging his great hammer, he sends lightning bolts across the sky. As the chief of all gods, he grants his followers guidance in their rule and prosperity in their realm.
+EVTDESC_TOG_7302	Akka, Goddess of love, fertility and protection, is a gentle yet powerful mistress. She cares for all of her children, although especially mothers and infants. When thunder echoes between the mountains, it is Akka making love with her husband, the chief god Ukko.
+EVTDESC_TOG_7303	The woods are ruled by Tapio and Mielikki, God and Goddess of the Hunt. Those who pledge their allegiance to them shall always be blessed with true aim and strength of body. Mielikki is also a most accomplished healer and has a vast knowledge of all the herbs in the forest.
+EVTDESC_TOG_7304	Those who worship Lempo has chosen an erratic Master. While they may share many secrets regarding love and seduction, know that matters of the heart can be as dangerous as those of the sword. However, if you keep your wits about you, Lempo's lessons shall bring you power and influence beyond comprehension.
+follower_of_ukko	Follower of Ukko
+follower_of_ukko_desc	This character is a devout follower of Ukko, the Suomenusko deity of the sky and harvests.
+follower_of_akka	Follower of Akka
+follower_of_akka_desc	This character is a devout follower of Akka, the Suomenusko deity of motherhood, protection and love.
+follower_of_taipo_and_mielikki	Follower of Tapio and Mielikki
+follower_of_taipo_and_mielikki_desc	This character is a devout follower of Tapio and Mielikki, the Suomenusko deities of forests, hunting and healing.
+follower_of_lempo	Follower of Lempo
+follower_of_lempo_desc	This character is a devout follower of Lempo, the Suomenusko deity of seduction and love.
+EVTDESC_TOG_7400	There are many deities whom you can chose to follow. The supreme ruler, our Father Dievas, or his ambitious brother Velnias, God of the Underworld. For luck in war, pray to Perkunas, God of Thunder. Zemyna, the Earth Goddess, blesses her faithful with fertility and good harvests.
+EVTOPTA_TOG_7400	Good Dievas, I shall serve you faithfully.
+EVTOPTB_TOG_7400	Velnias, share the secrets of death with me!
+EVTOPTC_TOG_7400	I will bring you honor on the battlefield, mighty Perkunas!
+EVTOPTD_TOG_7400	My prayers go to bountiful Zemyna.
+EVTDESC_TOG_7401	Dievas, our Father, is the supreme ruler of all Gods and Goddessess. He has created all that which is good and wonderful in this world, including us. His rule is one of peace and understanding, and those are his gifts to faithful followers.
+EVTDESC_TOG_7402	Velnias the Serpent is God of Death and the Underworld. He is the brother of Dievas and the enemy of Perkunas. He can shapeshift into various animals, conjure up storms, and is a master of chaos and deception. Beware those who have been given his powers.
+EVTDESC_TOG_7403	Perkunas is the God of Thunder. He rides the skies in his chariot, with his magical axe in his hand. His eternal enemy is Velnias the Serpent, Lord of the Underworld, whom he protects us from. Those who are faithful to Perkunas will be given his courage and success.
+EVTDESC_TOG_7404	The Mother, Zemyna, is the fertile earth which nourishes us all. Every man and woman, animal and plant, owe their life force to her. When our lives in her green realm is over, we return to her again, to find the endless rest in her arms.
+follower_of_dievas	Follower of Dievas
+follower_of_dievas_desc	This character is a devout follower of Dievas, the Romuva chief deity of Peace.
+follower_of_perkunas	Follower of Perkunas
+follower_of_perkunas_desc	This character is a devout follower of Perkunas, the Romuva deity of Thunder.
+follower_of_velnias	Follower of Velnias
+follower_of_velnias_desc	This character is a devout follower of Velnias, the Romuva deity of Death.
+follower_of_zemyna	Follower of Zemyna
+follower_of_zemyna_desc	This character is a devout follower of Zemyna, the Romuva deity of Earth and Motherhood.
+EVTOPTA_TOG_7500	I hope to be worthy of this blessing.
+EVTDESC_TOG_7500_DIEVAS	You have toiled devoutly in your endeavor to follow the path of Dievas. In his name you have promote peace and understanding between your subjects. As a result, your diplomatic skills have been improving.
+EVTDESC_TOG_7500_AKKA	You have toiled devoutly in your endeavor to follow the path of Akka. In her name you have promote peace and understanding between your subjects. As a result, your diplomatic skills have been improving.
+EVTDESC_TOG_7500_YEMOJA	You have toiled devoutly in your endeavor to follow the path of Yemoja. In her name you have promote peace and understanding between your subjects. As a result, your diplomatic skills have been improving.
+EVTDESC_TOG_7501_PERKUNAS	You have toiled devoutly in your endeavor to follow the path of Perkunas. In his name you have practiced your axemanship and spent many hours strategizing at the war table with your commanders. As a result, your martial skills have been improving.
+EVTDESC_TOG_7501_TM	You have toiled devoutly in your endeavor to follow the path of Tapio and Mielikki. In their name you have arranged a number grand hunts as well as spent many solitary hours tracking in the wilderness. As a result, your martial skills have been improving.
+EVTDESC_TOG_7501_SHANGO	You have toiled devoutly in your endeavor to follow the path of Shango. In his name you have practiced your spear throwing and spent many hours strategizing at the war hut with your commanders. As a result, your martial skills have been improving.
+EVTDESC_TOG_7501_PERUN	You have toiled devoutly in your endeavor to follow the path of Perun. In his name you have practiced your axemanship and spent many hours strategizing at the war table with your commanders. As a result, your martial skills have been improving.
+EVTDESC_TOG_7502_ZEMYNA	You have toiled devoutly in your endeavor to follow the path of Zemyna. In her name you have arranged harvest festivals and fertility rites, as well as spent many hours inspecting the fields of [Root.Capital.GetName]. As a result, your stewardship skills have been improving.
+EVTDESC_TOG_7502_UKKO	You have toiled devoutly in your endeavor to follow the path of Ukko. In his name you have arranged harvest festivals and fertility rites, as well as spent many hours inspecting the fields of [Root.Capital.GetName]. As a result, your stewardship skills have been improving.
+EVTDESC_TOG_7502_EKWENSU	You have toiled devoutly in your endeavor to follow the path of Ekwensu. In his name you have traveled across the realm to inspect markets and trade routes, as well as invested in several mercantile expeditions. As a result, your stewardship skills have been improving.
+EVTDESC_TOG_7502_JARILO	You have toiled devoutly in your endeavor to follow the path of Jarilo. In his name you have arranged harvest festivals and fertility rites, as well as spent many hours inspecting the fields of [Root.Capital.GetName]. As a result, your stewardship skills have been improving.
+EVTDESC_TOG_7503_VELNIAS	You have toiled devoutly in your endeavor to follow the path of Velnias. In his name you have plotted and spied, brewed poisons and manipulated. As a result, your skills of intrigue have been improving.
+EVTDESC_TOG_7503_LEMPO	You have toiled devoutly in your endeavor to follow the path of Lempo. In their name you have woven enchanting tales and spun sweet promises, seduced the longing and bedded the lusting. As a result, your skills of intrigue have been improving.
+EVTDESC_TOG_7503_VELES	You have toiled devoutly in your endeavor to follow the path of Veles. In his name you have plotted and spied, brewed poisons and manipulated. As a result, your skills of intrigue have been improving.
+EVTDESC_TOG_7503_ORUNMILA	You have toiled devoutly in your endeavor to follow the path of Orunmila. In her name you have sought out knowledge and purity, as well as taught and done good deeds wherever your travels have taken you. As a result, your learning has been improving.
+EVTDESC_TOG_7503_MORANA	You have toiled devoutly in your endeavor to follow the path of Morana. In her name you have sought out knowledge and secrets, both in the earthly realm and in her domain, the dream lands. As a result, your learning has been improving.
+EVTOPTA_TOG_7506	[From.GetFirstName], we should talk some more!
+EVTOPTA_TOG_7506_TOOLTIP	Continue the conversation with §Y[From.GetTitledFirstName]§!.\n
+EVTOPTB_TOG_7506	Actually, it is time to continue.
+EVTDESC_TOG_7506_ORUNMILA	It is early morning and you are at the shrine dedicated to Orunmila, deep in prayers. You hear soft footsteps behind you – who could it be at this hour? [From.GetTitledFirstName], as it turns out. You exchange some pleasantries and soon you find yourself in a full-fledged conversation. You have so much in common!
+EVTDESC_TOG_7506_MORANA	It is early morning and you are at the shrine dedicated to Morana, deep in prayers. You hear soft footsteps behind you – who could it be at this hour? [From.GetTitledFirstName], as it turns out. You exchange some pleasantries and soon you find yourself in a full-fledged conversation. You have so much in common!
+EVTDESC_TOG_7506_PERUN	It is a fine day and you are out hunting with a small party. As you take a break to eat your midday meal, you find yourself in a discussion on archery with [From.GetTitledFirstName]. It turns out that [From.GetSheHe] is also a devout follower of Perun. The longer you talk the more you seem to have in common!
+EVTDESC_TOG_7506_PERKUNAS	It is a fine day and you are out hunting with a small party. As you take a break to eat your midday meal, you find yourself in a discussion on archery with [From.GetTitledFirstName]. It turns out that [From.GetSheHe] is also a devout follower of Perkunas. The longer you talk the more you seem to have in common!
+EVTDESC_TOG_7506_TM	It is a fine day and you are out hunting with a small party. As you take a break to eat your midday meal, you find yourself in a discussion on archery with [From.GetTitledFirstName]. It turns out that [From.GetSheHe] is also a follower of Tapio and Mielikki. The longer you talk the more you seem to have in common!
+EVTDESC_TOG_7506_SHANGO	It is a fine day and you are out hunting with a small party. As you take a break to eat your midday meal, you find yourself in a discussion on archery with [From.GetTitledFirstName]. It turns out that [From.GetSheHe] is also a devout follower of Shango. The longer you talk the more you seem to have in common!
+EVTDESC_TOG_7506_UKKO	Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Ukko, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Ukko!
+EVTDESC_TOG_7506_ZEMYNA	Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Zemyna, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Zemyna!
+EVTDESC_TOG_7506_JARILO	Many find it odd that a [Root.GetTitle] works in the fields, but tending to the land and crops make you feel closer to Jarilo, more so than any prayer. As you take a short break, you notice [From.GetTitledFirstName] approaching. You greet and exchange some words about the harvest. It turns out that [From.GetSheHe] is also a follower of Jarilo!
+EVTDESC_TOG_7506_EKWENSU	Many find it odd that a [Root.GetTitle] barters at the market, but it makes you feel closer to Ekwensu, more so than any prayer. [From.GetTitledFirstName] approaches you, and the two of you exchange some words about the state of trading in [Root.PrimaryTitle.GetName]. It turns out that [From.GetSheHe] is also a follower of Ekwensu!
+EVTDESC_TOG_7506_YEMOJA	It is early morning and you are at the shrine dedicated to Yemoja, deep in prayers. You hear soft footsteps behind you – who could it be at this hour? [From.GetTitledFirstName], as it turns out. You exchange some pleasantries and soon you find yourself in a full-fledged conversation. You have so much in common!
+EVTDESC_TOG_7506_AKKA	It is early morning and you are at the shrine dedicated to Akka, deep in prayers. You hear soft footsteps behind you – who could it be at this hour? [From.GetTitledFirstName], as it turns out. You exchange some pleasantries and soon you find yourself in a full-fledged conversation. You have so much in common!
+EVTDESC_TOG_7506_DIEVAS	It is early morning and you are at the shrine dedicated to Dievas, deep in prayers. You hear soft footsteps behind you – who could it be at this hour? [From.GetTitledFirstName], as it turns out. You exchange some pleasantries and soon you find yourself in a full-fledged conversation. You have so much in common!
+EVTDESC_TOG_7506_VELES	When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Veles. Now you spend more time conversing than plotting...
+EVTDESC_TOG_7506_LEMPO	When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Lempo. Now you spend more time conversing than plotting...
+EVTDESC_TOG_7506_VELNIAS	When you needed an accomplice in a small scheme, [From.GetTitledFirstName] proved to be an unexpected ally. Think what mutual benefits can do to unite two souls! While it was pure business at first, it turns out you have plenty in common, such as your reverence of Velnias. Now you spend more time conversing than plotting...
+struck_by_lightning	Struck by Lightning
+struck_by_lightning_desc	This character was struck by lightning!
+comforted_opinion	Comforted
+tough_love_opinion	Tough Love
+EVTDESC_TOG_7508_PERUN	You sit huddled up together by the fire, the air thick with tension. The skies outside are dark with heavy clouds and Perun's presence is as tangible as the rain smattering on the roof. Suddenly, the room is lit by a bright flash and an ear-deafening crack cuts through the silence. Your [GetFromRelation] [From.GetFirstName] breaks into tears.
+EVTDESC_TOG_7508_PERKUNAS	You sit huddled up together by the fire, the air thick with tension. The skies outside are dark with heavy clouds and Perkunas' presence is as tangible as a lover's touch. Suddenly, the room is lit by a bright flash and an ear-deafening crack cuts through the silence. Your [GetFromRelation] [From.GetFirstName] breaks into tears.
+EVTDESC_TOG_7508_SHANGO	You sit huddled up together by the fire, the air thick with tension. The skies outside are dark with heavy clouds and Shango's presence is as tangible as a lover's touch. Suddenly, the room is lit by a bright flash and an ear-defening crack cuts through the silence. Your [GetFromRelation] [From.GetFirstName] breaks into tears.
+EVTDESC_TOG_7508_UKKO	You sit huddled up together by the fire, the air thick with tension. The skies outside are dark with heavy clouds and Ukko's presence is as tangible as a lover's touch. Suddenly, the room is lit by a bright flash and an ear-defening crack cuts through the silence. Your [GetFromRelation] [From.GetFirstName] breaks into tears.
+EVTOPTA_TOG_7508	Fear not, for the God of Thunder is our protector!
+EVTOPTA_TOG_7508_TOOLTIP	Run out into the storm to prove to §Y[From.GetTitledFirstName]§! that thunder is nothing to worry about.\n
+EVTOPTB_TOG_7508	Let me tell you a story...
+EVTOPTB_TOG_7508_TOOLTIP	You tell §Y[From.GetTitledFirstName]§! a story about the mighty God of Thunder.\n
+EVTOPTC_TOG_7508	Your cowardice shames you, [From.GetFirstName]!
+EVTOPTC_TOG_7508_TOOLTIP	Scold §Y[From.GetTitledFirstName]§! for [From.GetHerHis] cowardice.\n
+EVTDESC_TOG_7510_JARILO	You are dancing at the fertility rite held in Jarilo's honor as your eyes find [From.GetTitledFirstName]'s across the bonfire. For a moment, it is as if the whole world turns silent. The drumming is a distant thunder, yet the rhythmic vibrations run through your body, to your very core...
+EVTDESC_TOG_7510_LEMPO	You are dancing at the secret rite held in Lempo's honor as your eyes find [From.GetTitledFirstName]'s across the bonfire. For a moment, it is as if the whole world turns silent. The drumming is a distant thunder, yet the rhythmic vibrations run through your body, to your very core...
+EVTOPTA_TOG_7510_LEMPO	Tonight, I shall bed [From.GetFirstName] in the name of Lempo.
+EVTOPTA_TOG_7510_JARILO	Tonight, I shall bed [From.GetFirstName] in the name of Jarilo.
+EVTOPTB_TOG_7510	This is... something more.
+EVTOPTC_TOG_7510	[From.GetFirstName]? What was I thinking!
+EVTOPTC_TOG_7510_TOOLTIP	Ignore the strange impulse and keep dancing.
+zemynas_blessing	Zemyna's Blessing
+zemynas_blessing_desc	This character feels blessed by the Goddess Zemyna, which has improved their marriage.
+yemojas_blessing	Yemoja's Blessing
+yemojas_blessing_desc	This character feels blessed by the Goddess Yemoja, which has improved their marriage.
+akkas_blessing	Akka's Blessing
+akkas_blessing_desc	This character feels blessed by the Goddess Akka, which has improved their marriage.
+happy_parent_opinion	Happy Parent
+EVTDESC_TOG_7510_ZEMYNA	Lately, you have striven to act in the spirit of Zemyna by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.
+EVTDESC_TOG_7510_YEMOJA	Lately, you have striven to act in the spirit of Yemoja by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.
+EVTDESC_TOG_7510_AKKA	Lately, you have striven to act in the spirit of Akka by treating your [From.GetHusbandWife] [From.GetTitledFirstName] with respect and warmth. Slowly it has changed the dynamic of your relationship, and those who are closest to you have noticed it as well.
+EVTOPTA_TOG_7512	Praised be the Goddess!
+EVTOPTB_TOG_7512	Yet I cannot bring myself to touch [From.GetHerHim]...
+EVTDESC_TOG_7514	Your [GetFromRelation], little [From.GetFirstName], has sought you out with a dead bird cradled in [From.GetHerHis] arms. With a concerned look on [From.GetHerHis] face, [From.GetFirstName] asks you what happened to the animal. Why is she not flying anymore?
+EVTOPTA_TOG_7514_MORANA	The bird is in with Morana now, dearest [From.GetFirstName].
+EVTOPTA_TOG_7514_VELES	The bird is in with Veles now, dearest [From.GetFirstName].
+EVTOPTA_TOG_7514_VELNIAS	The bird is in with Velnias now, dearest [From.GetFirstName].
+EVTOPTA_TOG_7514_TOOLTIP	Tell §Y[From.GetTitledFirstName]§! a calming tale, hoping it will make [From.GetHerHim] more at ease with the concept of death.\n
+EVTOPTB_TOG_7514_MORANA	Morana is a relentless mistress. Death awaits us all.
+EVTOPTB_TOG_7514_VELES	Veles is a relentless master. Death awaits us all.
+EVTOPTB_TOG_7514_VELNIAS	Velnias is a relentless master. Death awaits us all.
+EVTOPTB_TOG_7514_TOOLTIP	Tell §Y[From.GetTitledFirstName]§! a honest tale, hoping it will harden [From.GetHerHim].\n
+EVTOPTC_TOG_7514	I'm busy, go and play with the other children...
+EVTDESC_TOG_7515_A	Your tale seemed to calm [From.GetTitledFirstName]. As you spoke, [From.GetSheHe] listened intently, while stroking the dead bird absentmindedly. When you were done, [From.GetSheHe] asked some questions, and then you buried the little feathered body together in the gardens.
+EVTDESC_TOG_7515_B	[From.GetTitledFirstName] listened to your tale for a while. Once it had calmed [From.GetHerHim], [From.GetSheHe] seemed to lose interest. You could see that there was no point in lecturing further, so you sent [From.GetHerHim] away to play. [From.GetFirstName] complied without protests.
+EVTDESC_TOG_7515_C	Little [From.GetFirstName] listened in silence, a serious look on [From.GetHerHis] face. You could tell that despite [From.GetHerHis] tender age, [From.GetSheHe] did understand something of the finality of death. [From.GetFirstName] asked some questions and you could tell [From.GetSheHe] appreciated your honest answers.
+EVTDESC_TOG_7515_D	Little [From.GetFirstName] listened in silence, a terrified look on [From.GetHerHis] face. Towards the end, [From.GetHerHis] lip started to quiver, but you bore on. [From.GetSheHeCap] was in tears by the time you were done. Perhaps you overdid it slightly...
+EVTOPTA_TOG_7515_MORANA	[From.GetFirstName] will become an excellent disciple of Morana one day!
+EVTOPTA_TOG_7515_VELES	[From.GetFirstName] will become an excellent disciple of Veles one day!
+EVTOPTA_TOG_7515_VELNIAS	[From.GetFirstName] will become an excellent disciple of Velnias one day!
+EVTOPTB_TOG_7515_MORANA	[From.GetFirstName] is clearly not one of Morana's chosen...
+EVTOPTB_TOG_7515_VELES	[From.GetFirstName] is clearly not one of Veles' chosen...
+EVTOPTB_TOG_7515_VELNIAS	[From.GetFirstName] is clearly not one of Velnias' chosen...
+EVTDESC_TOG_7516_PERKUNAS	Your reputation as a devout follower of Perkunas has spread across the lands. Many great and seasoned warriors have since traveled to [Root.Capital.GetName] to pledge their allegiance to your cause.
+EVTDESC_TOG_5716_TM	Your reputation as a devout follower of Tapio and Mielikki has spread across the lands. Many great and seasoned warriors have since traveled to [Root.Capital.GetName] to pledge their allegiance to your cause.
+EVTDESC_TOG_7516_SHANGO	Your reputation as a devout follower of Shango has spread across the lands. Many great and seasoned warriors have since traveled to [Root.Capital.GetName] to pledge their allegiance to your cause.
+EVTDESC_TOG_7516_PERUN	Your reputation as a devout follower of Perun has spread across the lands. Many great and seasoned warriors have since traveled to [Root.Capital.GetName] to pledge their allegiance to your cause.
+EVTOPTA_TOG_7516_A	Praised be the Hunter and the Huntress!
+EVTOPTA_TOG_7516_B	Glory to the Thunder God!
+inspired_warriors_desc	Seasoned warriors have traveled from far and wide, to fight for the true faith.
+EVTDESC_TOG_7518_DIEVAS	In your efforts to become more like the good Dievas, you have begun treating everyone who crosses your path with more understanding and respect. As a result, you have become known for your compassionate ways and noble nature. Some go as far as calling you "the Voice of Dievas".
+EVTDESC_TOG_7518_AKKA	In your efforts to become more like the good Akka, you have begun treating everyone who crosses your path with more understanding and respect. As a result, you have become known for your compassionate ways and noble nature. Some go as far as calling you "the Voice of Akka".
+EVTDESC_TOG_7518_YEMOJA	In your efforts to become more like the good Yemoja, you have begun treating everyone who crosses your path with more understanding and respect. As a result, you have become known for your compassionate ways and noble nature. Some go as far as calling you "the Voice of Yemoja".
+EVTOPTA_TOG_7518_A	I am proud to bring honor to Dievas.
+EVTOPTA_TOG_7518_B	I am proud to bring honor to the Goddess.
+voice_of_akka	Voice of Akka
+voice_of_akka_desc	It is well known that this character possesses the compassion and dignity of the Goddess Akka.
+voice_of_yemoja	Voice of Yemoja
+voice_of_yemoja_desc	It is well known that this character possesses the compassion and dignity of the Goddess Yemoja.
+voice_of_dievas	Voice of Dievas
+voice_of_dievas_desc	It is well known that this character possesses the compassion and dignity of the God Dievas.
+EVTDESC_TOG_7520_ZEMYNA	Your efforts to make the most out Zemyna's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the Goddess has blessed you with, has resulted in the richest harvest in many years. Celebrations in Zemyna's honor is held in every village.
+EVTDESC_TOG_7520_UKKO	Your efforts to make the most out Ukko's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the God has blessed you with, has resulted in the richest harvest in many years. Celebrations in Ukko's honor is held in every village.
+EVTDESC_TOG_7520_JARILO	Your efforts to make the most out Jarilo's holy soil has turned you into a true inspiration for your people. Their hard work, in combination with the fair weather which the God has blessed you with, has resulted in the richest harvest in many years. Celebrations in Jarilo's honor is held in every village.
+EVTDESC_TOG_7520_EKWENSU	Your efforts to make [Root.Capital.GetName] famous for its markets and merchants has paid of. The city is prospering like never before, and more people gather at the shrine of Ekwensu each day. You have inspired many to follow his path.
+EVTOPTA_TOG_7520	The prosperity of [Root.Capital.GetName] is a fine sight, indeed!
+blessed_lands	Blessed Lands
+blessed_lands_desc	These lands are prosperous, which many inhabitants believe is due to a blessing from the Gods.
+EVTDESC_TOG_7522_LEMPO_ME	Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!
+EVTDESC_TOG_7522_VELNIAS_ME	Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!
+EVTDESC_TOG_7522_VELES_ME	Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against none other than yourself!
+EVTDESC_TOG_7522_LEMPO	Following in the footsteps of Lempo has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...
+EVTDESC_TOG_7522_VELNIAS	Following in the footsteps of Velnias has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...
+EVTDESC_TOG_7522_VELES	Following in the footsteps of Veles has brought you down many paths you would never otherwise tread. The things one can overhear during such journeys often prove valuable, indeed. Just recently you discovered that [god_plotter.GetTitledFirstName] is plotting against [god_plot_target.GetTitledFirstName]...
+EVTOPTA_TOG_7522_A	That treacherous snake!
+EVTOPTA_TOG_7522_B	Perhaps I should warn [god_plot_target.GetHerHim].
+EVTOPTA_TOG_7522_C	If it is the God's will.
+EVTDESC_TOG_7524_ORUNMILA	In your search for wisdom in the name of Orunmila, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.
+EVTDESC_TOG_7524_MORANA	In your search for wisdom in the name of Morana, you have had more than one epiphany relevant to welfare of your lands. Spreading that knowledge is not only beneficial to your rule, but also a sacred duty in and of itself.
+EVTOPTA_TOG_7524	The Goddess' wisdom is a bottomless well. Praised be she!
+hunters_physique	Hunter's Physique
+hunters_physique_desc	Due to spending a great deal of time hunting in the wilderness, this character has acquired strength and resilience, as well as a deadly aim.
+EVTDESC_TOG_7517	After each hunt you make sure to leave an offering for Tapio and Mielikki in thanks of their great generosity. They surely must be pleased, for you have noticed that nowadays your arrows find their targets more often than they once did. You have been blessed with strength and a deadly aim.
+EVTOPTA_TOG_7517	May the Hunter and Huntress guide my arrows.
+building_monument	Building Monument
+building_monument_desc	A significant portion of this province's able-bodied men are involved in a great building project.
+EVTDESC_TOG_7526	Your [From.GetJobTitle], [From.GetTitledFirstName], has suggested that you build a great monument as a display of [Root.PrimaryTitle.GetName]'s might. While such a project would surely have its benefits, it would be costly, and you would need a great number of men to construct the monument.
+EVTOPTA_TOG_7526_PERKUNAS	I shall erect a monument in the honor of Perkunas.
+EVTOPTA_TOG_7526_TM	I shall erect a monument in the honor of Tapio and Mielikki.
+EVTOPTA_TOG_7526_SHANGO	I shall erect a monument in the honor of Shango.
+EVTOPTA_TOG_7526_PERUN	I shall erect a monument in the honor of Perun.
+EVTOPTA_TOG_7526_DIEVAS	I shall erect a monument in the honor of Dievas.
+EVTOPTA_TOG_7526_AKKA	I shall erect a monument in the honor of Akka.
+EVTOPTA_TOG_7526_YEMOJA	I shall erect a monument in the honor of Yemoja.
+EVTOPTA_TOG_7526_ZEMYNA	I shall erect a monument in the honor of Zemyna.
+EVTOPTA_TOG_7526_UKKO	I shall erect a monument in the honor of Ukko.
+EVTOPTA_TOG_7526_EKWENSU	I shall erect a monument in the honor of Ekwensu.
+EVTOPTA_TOG_7526_JARILO	I shall erect a monument in the honor of Jarilo.
+EVTOPTA_TOG_7526_VELNIAS	I shall erect a monument in the honor of Velnias.
+EVTOPTA_TOG_7526_LEMPO	I shall erect a monument in the honor of Lempo.
+EVTOPTA_TOG_7526_VELES	I shall erect a monument in the honor of Veles.
+EVTOPTA_TOG_7526_ORUNMILA	I shall erect a monument in the honor of Orunmila.
+EVTOPTA_TOG_7526_MORANA	I shall erect a monument in the honor of Morana.
+EVTOPTA_TOG_7525_TOOLTIP	When the monument is completed in one year's time, §Y[Root.GetTitledFirstName]§! receives §G250§! piety and §Y[Root.Capital.GetName]§! gets '§YHoly Monument§!' until the death of §Y[Root.GetTitledFirstName]§!, giving the following effects:\nMonthly piety gain: §G+10.0%§!\n\n
+EVTOPTB_TOG_7526	A monument dedicated to my house and the ancestors, what an excellent idea!
+EVTOPTB_TOG_7525_TOOLTIP	When the monument is completed in one year's time, §Y[Root.GetTitledFirstName]§! receives §G250§! prestige and §Y[Root.Capital.GetName]§! gets '§YAncestral Monument§!' until the death of §Y[Root.GetTitledFirstName]§!, giving the following effects:\nMonthly prestige gain: §G+10.0%§!\n\n
+EVTOPTC_TOG_7526	I cannot spare the gold, nor the men...
+EVTDESC_TOG_7527_ANCESTORS	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in house [Root.GetOnlyDynastyName]'s honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_PERKUNAS	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Perkunas' honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_TM	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Tapio's and Mielikki's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_SHANGO	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Shango's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_PERUN	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Perun's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_DIEVAS	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Dievas' honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_AKKA	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Akka's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_YEMOJA	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Yemoja's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_ZEMYNA	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Zemyna's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_UKKO	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Ukko's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_EKWENSU	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Ekwensu's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_JARILO	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Jarilo's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_VELNIAS	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Velnias' honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_LEMPO	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Lempo's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_VELES	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Veles' honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_ORUNMILA	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Orunmila's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_MORANA	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand ceremony was held in Morana's honor, and what a ceremony indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTDESC_TOG_7527_PRESTIGE	Finally the monument is finished. It turned out just as you envisioned it, or perhaps even better. To celebrate its completion, a grand celebration was held for house [Root.GetOnlyDynastyName], and what a celebration indeed! Tales of it will be told for as long as the monument stands watch over [Root.Capital.GetName].
+EVTOPTA_TOG_7527	Never has [Root.PrimaryTitle.GetName] seen such a display of greatness!
+holy_monument	Holy Monument
+holy_monument_desc	The holy monument which has been erected here brings piety to the province's ruler.
+ancestral_monument	Ancestral Monument
+ancestral_monument_desc	The ancestral monument which has been erected here brings prestige to the province's ruler.
+seizing_the_day	Seizing the Day
+seizing_the_day_desc	This character has decided to live their life to the fullest, enjoying the small things while laughing at Death.
+savoring_the_end_days	Savoring the End Days
+savoring_the_end_days_desc	This character refuses to feel guilty about secluding themselves from the disease and hardship plaguing their domain.
+bright_eyed	Bright-Eyed
+bright_eyed_desc	Where others see hardship, this character sees opportunity.
+secluded_revelry	Secluded Revelry
+secluded_revelry_desc	Through shrewd management and creative solutions this character has made confinement a lot more tolerable for their secluded court.
+RIP_12070_TITLE	The Comforts of Confinement
+EVTDESC_RIP_12070_A	Shutting the gates to [Root.Capital.Capital.GetName] and secluding ourselves from the epidemic outside was not an easy decision to make and praying to [Root.Religion.GetHighGodName] doesn't help your conscience much. However, worrying about our fellow men and women outside has lately turned into less of an issue than dealing with the droves of impatient subjects within our own castle walls. Work is dwindling as reports from the outside become more scarce, the cooking staff have lost their enthusiasm due to the rationing, and when our nobles are not complaining about being unable to visit their families, they are visibly bored. "If there is nothing else for us to do, we could at least enjoy each other's company?" [bored_courtier_target.GetTitledName] suggests. You contemplate [bored_courtier_target.GetHerHis] words. Perhaps there is nothing wrong with wanting to savor your last days on earth?
+EVTDESC_RIP_12070_B	Shutting the gates to [Root.Capital.Capital.GetName] and secluding ourselves from the epidemic outside was not an easy decision to make and you often wonder how your people fare without you. However, worrying about our fellow men and women outside has lately turned into less of an issue than dealing with the droves of impatient subjects within our own castle walls. Work is dwindling as reports from the outside become more scarce, the cooking staff have lost their enthusiasm due to the rationing, and when our nobles are not complaining about being unable to visit their families, they are visibly bored. "If there is nothing else for us to do, we could at least enjoy each other's company?" [bored_courtier_target.GetTitledName] suggests. Perhaps there is nothing wrong with wanting to savor your last days on earth?
+EVTDESC_RIP_12070_C	Shutting the gates to [Root.Capital.Capital.GetName] and secluding ourselves from the epidemic outside was the practical decision to make. Your conscience clean, there is on the other hand the newly arisen problem of dealing with the droves of impatient subjects now confined to our castle. Work is dwindling as reports from the outside become more scarce, the cooking staff have lost their enthusiasm due to the rationing, and when our nobles are not complaining about being unable to visit their families, they are unnervingly bored. "If there is nothing else for us to do, we could at least enjoy each other's company?" [bored_courtier_target.GetTitledName] suggests, as you are staring idly into your favorite wall. You cock your head at [bored_courtier_target.GetHerHim], scratching your chin.
+EVTDESC_RIP_12070_D	Shutting the gates to [Root.Capital.Capital.GetName] and secluding ourselves from the epidemic outside was the reasonable choice to make. Even if you occasionally worry about your people on the outside, another problem has arisen lately in dealing with the droves of impatient subjects now confined to the castle. Work is dwindling as reports from the outside become more scarce, the cooking staff have lost their enthusiasm due to the rationing, and when our nobles are not complaining about being unable to visit their families, they are visibly bored. "If there is nothing else for us to do, we could at least enjoy each other's company?" [bored_courtier_target.GetTitledName] suggests.\nYou scratch your chin. One could suppose there is nothing wrong with wanting to savor your last days on earth...?
+EVTDESC_RIP_12070_E	Shutting the gates to [Root.Capital.Capital.GetName] and secluding ourselves from the epidemic outside was not an easy decision to make. Watching your domain from your windows, you are reminded of the precarious situation. However, another issue has arisen lately in the matter of dealing with the droves of impatient subjects now confined to the castle. Work is dwindling as reports from the outside become more scarce, the cooking staff have lost their enthusiasm due to the rationing, and when our nobles are not complaining about being unable to visit their families, they are visibly bored. "If there is nothing else for us to do, we could at least enjoy each other's company?" [bored_courtier_target.GetTitledName] suggests.\nScratching your chin, you contemplate [bored_courtier_target.GetHerHis] words. If the end is coming, perhaps there is nothing wrong with wanting to savor your last days?
+EVTOPTA_RIP_12070	[bored_courtier_target.GetSheHeCap] is right, we should try to enjoy ourselves.
+EVTOPTA_RIP_12070_TT	You order §Y[bored_courtier_target.GetTitledName]§! to by any means find ways to increase the spirit of the castle.\n
+EVTOPTB_RIP_12070	We should all make an effort to find comfort here in [Root.Capital.Capital.GetName].
+EVTOPTB_RIP_12070_TT	You order §Y[bored_courtier_target.GetTitledName]§! to not go overboard with the arrangements.\n
+EVTOPTC_RIP_12070	If I can't protect my people, the least I can do is not enjoy it.
+EVTOPTC_RIP_12070_TT	You would rather be bored to death.\n
+EVTOPTD_RIP_12070	I'm really not in the mood.
+EVTOPTD_RIP_12070_TT	You would rather be bored to death.
+EVTOPTE_RIP_12070	Can I invite my invisible friends, too?
+EVTOPTE_RIP_12070_TT	You have been meaning to spend some quality time with them.\n§Y[bored_courtier_target.GetTitledName]§! takes this as a yes and begins preparing the castle for a more festive air.\n
+EVTOPTF_RIP_12070	I had a dream about this. DEATH will consume us all!
+EVTOPTF_RIP_12070_TT	You have seen the future and refuse to be fooled.\n§Y[bored_courtier_target.GetTitledName]§! runs along, half scared of you.\n
+EVTDESC_RIP_12071_A	[bored_courtier_target.GetFirstName] has really spruced things up. Windows are polished, there are new drapes in place and the fine cutlery is now brought out for every meal. There is even a lute player around and I've given free access to our wine-cellars. Admittedly, it is easy to ignore the hardship going on outside our safe-haven of [Root.Capital.Capital.GetName].
+EVTDESC_RIP_12071_B	[bored_courtier_target.GetFirstName] has really spruced things up! Windows are polished, there are new drapes in place and the fine cutlery is now brought out for every meal. There is even a lute player stalking me these days, but the voice in my head says he's alright. I'm starting to think my nightmares are just nightmares. [Root.Capital.Capital.GetName] is the safest place in the world.
+EVTOPTA_RIP_12071	[bored_courtier_target.GetFirstName], perhaps you can do something about the lights?
+EVTOPTA_RIP_12071_TT	You encourage §Y[bored_courtier_target.GetTitledName]§! and [bored_courtier_target.GetHerHis] staff in the lavish decorating of the castle. You continue the revelry.\n
+EVTOPTB_RIP_12071	[bored_courtier_target.GetTitledName], you've made life in seclusion bearable.
+EVTOPTB_RIP_12071_TT	You continue the revelry.\n
+EVTOPTC_RIP_12071	This is starting to feel distasteful.
+EVTOPTC_RIP_12071_TT	You call off the revelry.\n
+EVTDESC_RIP_12074_A	In spite of being cooped up in the castle while death rages on outside, the spirit of [Root.Capital.Capital.GetName] has never seemed so alive. I'm having a jolly time socializing with my court, but strangely enough there seems to be more people here than before? I don't remember inviting that stranger with the mask.
+EVTDESC_RIP_12074_B	The strange and long period of seclusion is over and much thanks to our recent efforts the general mood of [Root.Capital.Capital.GetName] has never been so great. Perhaps having survived disease through prolonged revelry does that you? However, there seems to be more people here than before. I don't remember inviting that stranger with the mask?
+EVTDESC_RIP_12074_C	Seclusion schmeclusion. I'm having a blast! I never knew my invisible friends would get along so well with my courtiers. There's a new one though, I think. I don't remember inviting that stranger with the mask? I want one just like it!
+EVTOPTA_RIP_12074	Who is [partying_stranger.GetSheHe]?
+EVTOPTA_RIP_12074_TT	§Y[partying_stranger.GetFirstName]§! seems to be looking at you from behind [partying_stranger.GetHerHis] mask.\n
+EVTOPTB_RIP_12074	Isn't there something off about [partying_stranger.GetHerHim]?
+EVTOPTB_RIP_12074_TT	§Y[partying_stranger.GetFirstName]§! leaves the room.\n
+EVTOPTC_RIP_12074	I might have to deal with that...
+EVTDESC_RIP_12075_A	During yet another evening of wine-fueled relaxation I approach [bored_courtier_target.GetTitledName] just as a tall clock strikes the hour. The sound causes the lute player to halt and my courtiers to glance cautiously at each other. "Is that masked one a friend of yours?" I inquire. [bored_courtier_target.GetFirstName] shakes [bored_courtier_target.GetHerHis] head.
+EVTDESC_RIP_12075_B	I'm in the middle of a staring contest with the masked stranger when I sneeze violently. The sound causes the lute player to halt and my courtiers to glance cautiously at each other. "D'you know where I can get a mask like that?" [bored_courtier_target.GetFirstName] shakes [bored_courtier_target.GetHerHis] head.
+EVTOPTA_RIP_12075	I should just talk to [partying_stranger.GetHerHim], before this turns awkward.
+EVTOPTA_RIP_12075_TT	You take a deep breath and decide that you will soon make time to approach the masked stranger in a casual manner.\n
+EVTOPTB_RIP_12075	How dare a stranger sneak into our midst like this?!
+EVTOPTB_RIP_12075_TT	You are outraged and decide that you'll have to approach the masked stranger with fierce determination.\n
+EVTOPTC_RIP_12075	Wait...is that who I think it is?
+EVTOPTC_RIP_12075_TT	There is something ethereal about the masked stranger and you think you know why.\n
+EVTOPTD_RIP_12075	Actually, I think I recognize that figure...
+EVTOPTD_RIP_12075_TT	There is something unnatural about the stranger and you feel a mild panic rising in your chest.\n
+EVTOPTE_RIP_12075	[bored_courtier_target.GetFirstName], you're just NO help at all!
+EVTOPTE_RIP_12075_TT	You will simply ask the darkly clad figure yourself.\n
+EVTDESC_RIP_12076	[partying_stranger.GetTitledName] has apparently disappeared from court. I've had my men look for the masked stranger, but all that has been found is their mask. It apparently smelled wretchedly, so I can't blame the servant for burning it.
+EVTOPTA_RIP_12076	I wonder who [partying_stranger.GetSheHe] was?
+EVTOPTA_RIP_12076_TT	You can't put your finger on why, but you are relieved.\n
+EVTDESC_RIP_12077	I make my way deeper into the hall where the mysterious [partying_stranger.GetManWoman] usually stands alone, a figure veiled in candlelight shadows. "Have we met?" I employ my most disarming smile - I wasn't made [Root.GetTitle] for naught! The stranger remains silent. That's when I notice the smell and I grow cold.
+EVTOPTA_RIP_12077	Wait, are those... buboes on your skin?
+RIP_12077_TT_good_outcome	Something strange happens.\n
+RIP_12077_TT_bad_outcome	Something terrible happens.\n
+EVTDESC_RIP_12078	"YOU!", I call one final evening, pointing at the masked figure. [partying_stranger.GetSheHeCap] is standing in the middle of a room, seemingly with an invisible aura repelling any company. As I get closer I understand why - the smell makes me convulse, but the [partying_stranger.GetManWoman] says nothing.
+EVTOPTA_RIP_12078	Who... WHAT are you?
+EVTOPTA_RIP_12078_TT	Something strange happens.\n
+EVTDESC_RIP_12079_A	The stranger seems curious and then taken aback as I approach. [partying_stranger.GetSheHeCap] tilts [partying_stranger.GetHerHis] head at me, questioningly. "Death, I presume?". The darkly clad figure shrugs, expression unreadable under the mask. Then [partying_stranger.GetSheHe] lunges at me while my courtiers gasp in horror.
+EVTDESC_RIP_12079_B	The stranger tilts [partying_stranger.GetHerHis] head at me as I approach. I attempt a reassuring smile. "You look like you could use a walk", I say, offering up my arm. Hesitantly, the darkly clad figure takes it. My heart pounding, I lead [partying_stranger.GetHerHim] away from my courtiers. [partying_stranger.GetHerHisCap] grip is cold as ice.
+EVTDESC_RIP_12079_C	The stranger tilts [partying_stranger.GetHerHis] head at me as I approach. "That is a beautiful mask!" I call to [partying_stranger.GetHerHim]. As if by challenge, the stranger reaches up to [partying_stranger.GetHerHis] face and removes the mask, revealing a ghastly black hole where [partying_stranger.GetHerHis] face should be.
+EVTOPTA_RIP_12079	Oh, this is not good.
+EVTOPTB_RIP_12079	You, uhm, come here often?
+EVTOPTB_RIP_12079_TT	The masked stranger remains quiet.\n
+EVTOPTC_RIP_12079	Oh, you look just like in my vision!
+EVTOPTC_RIP_12079_TT	The masked stranger remains still, but doesn't seem entirely satisfied with your reaction.\n
+RIP_12080_TITLE	Behind the Mask of Death
+EVTDESC_RIP_12080_A	"Watch out, my [Root.GetLordLady]!", [bored_courtier_target.GetFirstName] yells as the mysterious [partying_stranger.GetManWoman] reaches for you. The words ring out as you struggle to protest the motion of [partying_stranger.GetHerHis] hand and your companions gasp in horror when the blackened fingers of the creature seem to stretch into your chest itself. You throw your head back and scream as a sharp pain runs like lightning through your entire body. As you collapse to your knees you hear others screaming as well, an unholy mixture of outrage, sorrow and panic. With your last breaths you turn to see the people of your court falling to the floor as well, red light flooding the room.\n\nAnd then all was quiet.
+EVTDESC_RIP_12080_B	"Watch out, my [Root.GetLordLady]!", [bored_courtier_target.GetFirstName] yells as the mysterious [partying_stranger.GetManWoman] reaches for you. The words ring out as you struggle to protest the motion of [partying_stranger.GetHerHis] hand and your companions gasp in horror when the blackened fingers of the creature seem to stretch into your chest itself. You throw your head back and scream as a sharp pain runs like lightning through your entire body. As you collapse to your knees you hear others screaming as well, an unholy mixture of outrage, sorrow and panic. With your last breaths you turn to see the people of your court falling to the floor as well, red light flooding the room.\n\nAnd then all was quiet.
+EVTDESC_RIP_12080_C	The mysterious [partying_stranger.GetManWoman] dashes against your chest, with what you expect to be a hard push. You scream, mostly in surprise, as you realize that [partying_stranger.GetSheHe] has simply moved through you, leaving a cold sensation in your flesh. Behind you, chaos ensues as the figure moves with unnatural speed, running as a ghost through your court and its people. Black smoke trails faintly behind [partying_stranger.GetHerHim] and the screams are mingled with the sudden and loud striking of a clock, its echoes ringing in your ears as the shadowy creature turns to look at you one last time. "Seize [partying_stranger.GetHerHim]!" you yell, but no guards heed your call. As you are watching [partying_stranger.GetHerHim] the stranger becomes translucent. Before you know it, you're staring at the thin air.
+EVTDESC_RIP_12080_D	Walking side by side with [partying_stranger.GetHerHim] you are stewing over your suspicions. Would Death [partying_stranger.GetHerselfHimself] really be so brass as to show up at your court? Has the Reaper nothing better to do? Surely this is just some plague-ridden spy! Yet [partying_stranger.GetHerHis] odor really is unnaturally repugnant...\nYour ruminations are interrupted by a low hiss - it hasn't taken the mysterious [partying_stranger.GetManWoman] long to figure out your plan. The ballroom trapdoor is quite visible, even if you are not Death [partying_stranger.GetHerselfHimself] and possessing, one could presume, some measure of superior senses. By your side, you feel the nails of the creature digging into your skin, which then begins to turn black, filling with buboes. You scream.
+EVTDESC_RIP_12080_E	"Oh yeah, we've met before. We had tea?", you continue. Death shakes [partying_stranger.GetHerHis] head, black smoke twirling around [partying_stranger.GetHerHim]. Your courtiers, who have been shocked into silence, are beginning to frantically move about, looking to all at once exit the room. Stumbling over one another, Death creeps towards them, as if not really in a hurry. You notice that each person [partying_stranger.GetSheHe] brushes past gently collapses to the floor, before even having time to scream or call for help. "How dare you?!" you yell, outraged at the impudence. "Those are my guests!" [partying_stranger.GetSheHeCap] then turns to you, approaching quickly in a cloud of darkness.
+EVTOPTA_RIP_12080	Aaarrgh...
+EVTOPTA_RIP_12080_TT	Death gets what [partying_stranger.GetSheHe] came for and leaves your court.\n
+EVTOPTB_RIP_12080	Aaarrgh...
+EVTOPTB_RIP_12080_TT	Death gets what [partying_stranger.GetSheHe] came for and leaves your court.\n
+EVTOPTC_RIP_12080	Nooo!
+EVTOPTC_RIP_12080_TT	Death gets what [partying_stranger.GetSheHe] came for and leaves your court.\n
+EVTOPTD_RIP_12080	No, please! I'm too young!!!
+EVTOPTD_RIP_12080_TT	Your plan to trick Death fails. You die. Death leaves your court.\n
+EVTOPTE_RIP_12080	Wait, no!!
+EVTOPTE_RIP_12080_TT	You die. Death leaves your court.\n
+RIP_12081_TITLE	Don't Fear the Reaper
+EVTDESC_RIP_12081_A	"Watch out, my [Root.GetLordLady]!", [bored_courtier_target.GetFirstName] yells as the mysterious stranger reaches for you. You quickly duck out of [partying_stranger.GetHerHis] way, a motion accompanied by an appreciative gasp from your courtiers. The creature seems taken aback, but slowly spins towards you again. "Take this!" a guard bellows as a tall candelabra is thrown to you, candlelights ablaze. Hesitating for only a second, you decide to wield it as you would any fighting cane - you begin swinging the fiery weapon passionately in the direction of what you decide must be Death [partying_stranger.GetHerselfHimself]. "LEAVE this place!" you roar, ushering [partying_stranger.GetHerHim] away from the crowd. Then, in a sudden poof of black smoke, you find your opponent gone. The room grows quiet.
+EVTDESC_RIP_12081_B	"Watch out, my [Root.GetLordLady]!", [bored_courtier_target.GetFirstName] yells as the mysterious stranger reaches for you. You quickly duck out of [partying_stranger.GetHerHis] way, a motion accompanied by an appreciative gasp from your courtiers. The creature seems taken aback, but slowly spins towards you again. "Take this!" a guard bellows as a tall candelabra is thrown to you, candlelights ablaze. Hesitating for only a second, you decide to wield it as you would any fighting cane - you begin swinging the fiery weapon passionately in the direction of what you decide must be Death [partying_stranger.GetHerselfHimself]. "LEAVE this place!" you roar, ushering [partying_stranger.GetHerHim] away from the crowd. Then, in a sudden poof of black smoke, you find your opponent gone. The room grows quiet.
+EVTDESC_RIP_12081_C	The sensation of being run through by Death itself is not something that you could quite explain. As it happens you inhale sharply, expecting pain to shoot through your body, expecting your vision to blur, or at least your knees to give way. When nothing happens, the ghostly apparition of a [partying_stranger.GetManWoman] turns around, throwing [partying_stranger.GetHerHis] hands out in the air, seemingly confused.\n"I guess it doesn't work on me?" you offer, something apologetic in your voice.
+EVTDESC_RIP_12081_D	Sweat begins to trickle down the side of your brow as you get closer to your goal. You realize that the ballroom trapdoor is clearly visible, if one knows what to look for. "So the weather we've been having lately, eh?", you blabber nervously. The masked figure by your side stiffens a little before exhaling deeply, causing a cold draft through the room and your hairs to stand on end. [partying_stranger.GetSheHeCap] answers in a hollow voice: "It's such a chore, this job, honestly. It's easier when you folks make war, reaping each oth-".\nThe words are cut short as you hit the switch on the wall, sending the creature falling to your basement. A small puff of black smoke lingers by your side and your courtiers begin to clap as you drag the carpet back over the trapdoor.
+EVTDESC_RIP_12081_E	"Oh yeah, we've met before. We had tea?", you continue. Death shakes [partying_stranger.GetHerHis] head, black smoke twirling around [partying_stranger.GetHerHim]. Your courtiers, who have been shocked into silence, are beginning to frantically move about, looking to all at once exit the room. Stumbling over one another, Death creeps towards them, as if not really in a hurry. "Wait!" you yell. "Can't we make a deal? I hear you like that?" Your invisible friend Jarvis nods solemnly as you offer him up to Death in exchange for the lives of your courtiers. Death appears to throw [partying_stranger.GetHerHis] head back, as if in a hearty chuckle. People stare at you in awe as the darkness suddenly leaves the room. You'll miss Jarvis, but this is exactly what happened in your dream. He knew the stakes.
+EVTOPTA_RIP_12081	That was close.
+EVTOPTA_RIP_12081_TT	Death leaves your court.\n
+EVTOPTB_RIP_12081	That was close.
+EVTOPTB_RIP_12081_TT	Death leaves your court.\n
+EVTOPTC_RIP_12081	Hey, it was weird for me too!
+EVTOPTC_RIP_12081_TT	Outraged, Death leaves your court. 
+EVTOPTD_RIP_12081	I really don't get to use these enough.
+EVTOPTD_RIP_12081_TT	Unsure whether you are on their to-do-list or not, it would seem that Death leaves your court for now.\n
+EVTOPTE_RIP_12081	I guess we'll meet again...
+EVTOPTE_RIP_12081_TT	Having struck a deal with Death, it would seem that [partying_stranger.GetSheHe] leaves your court for now.\n
+shaddai	Kanai
+shaddai_desc	Kanai is a term for a zealot or fanatic. They fight for the Jewish faith.
+gondi_shahansha	Gond-i Shahanshah
+gondi_shahansha_desc	Taking their name from the elite 'Army of the Shahanshah', members of the Gond-i Shahanshah are the foremost fighters of the Zoroastrian faith.
+IMMORTAL_RIVAL_COMING_TOOLTIP	How ominous.
+immortal_hunter_tooltip	You are, or you believe yourself to be, a great hunter and trainer of unusual creatures. Creatures which get hungry... 
+nick_the_loyal	the Loyal

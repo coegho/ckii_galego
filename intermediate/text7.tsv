@@ -1,0 +1,65 @@
+#CODE	ENGLISH	ENGLISH
+WIKIPEDIA_LINK	§YWikipedia Link§W	§YWikipedia Link§W
+WIKIPEDIA_LINK_DESC	Opens a browser to the Wikipedia page for this character	Opens a browser to the Wikipedia page for this character
+WIKIPEDIA_LINK_MISSING	§YThis character has no Wikipedia link§W	§YThis character has no Wikipedia link§W
+WIKIPEDIA_LINK_DISABLED	Wikipedia Links are disabled	Wikipedia Links are disabled
+AIREASON_TARGET_HAS_REPENTED_SINS	§Y[GetBestName]§! has recently repented [GetPossPronoun] sins	§Y[GetBestName]§! has recently repented [GetPossPronoun] sins
+OL_DISABLED_ALERTS	Disabled Alerts	Disabled Alerts
+alert_deficits_name	Deficits	Deficits
+alert_country_at_war_name	Country at war	Country at war
+alert_casus_belli_will_expire_name	Temporary Casus belli	Temporary Casus belli
+alert_allies_not_called_in_name	We can call in allies	We can call in allies
+alert_build_province_improvement_name	Can build county improvements	Can build province improvements
+alert_troops_in_foreign_territory_name	Troops in foreign territory	Troops in foreign territory
+alert_revoltrisk_in_provinces_name	Revolts possible	Revolts possible
+alert_available_decision_name	Important Decisions	Important Decisions
+alert_noheir_name	No heir	No heir
+alert_court_not_filled_name	Open council positions	Open council positions
+alert_lose_title_on_succ_name	Title loss on succession	Title loss on succession
+alert_should_nominate_heir_name	Succession nomination	Succession nomination
+alert_you_can_create_titles_name	Can create titles	Can create titles
+alert_you_can_usurp_titles_name	Can usurp titles	Can usurp titles
+alert_ruler_should_marry_name	Ruler unmarried	Ruler unmarried
+alert_heir_should_marry_name	Heir unmarried	Heir unmarried
+alert_should_appoint_guardian_name	Children lack guardian	Children lack guardian
+alert_demesne_too_big_name	Demesne too big	Demesne too big
+alert_adult_sons_notitle_name	Unlanded sons	Unlanded sons
+alert_betrothed_should_marry_name	Betrothed can marry	Betrothed can marry
+alert_can_imprison_name	Righteous imprisonment	Righteous imprisonment
+alert_titles_may_pass_from_realm_name	Vassal inheritance warning	Vassal inheritance warning
+alert_can_call_vassals_to_arms_name	Can call vassals of former liege	Can call vassals of former liege
+alert_available_plot_name	New plots available	New plots available
+alert_vassal_levies_raised_long_name	Vassal levies raised too long	Vassal levies raised too long
+alert_owns_wrong_settlement_type_name	Wrong type of holding in demesne	Wrong type of holding in demesne
+alert_no_ambition_name	Pick an ambition	Pick an ambition
+alert_dejure_claim_name	Can press de jure claim	Can press de jure claim
+alert_truce_expiring_name	Truces are expiring	Truces are expiring
+OPINION_OF_ME	Opinion of Me	Opinion of Me
+MY_OPINION_OF_CHAR	My Opinion of $CHAR$	My Opinion of $CHAR$
+ALERT_DISABLED	Disabled	Disabled
+ALERT_DISABLED_TOOLTIP	Disabled\n§YClick to reenable§!	Disabled\n§YClick to reenable§!
+ALERT_DISMISSED	Dismissed	Dismissed
+ALERT_DISMISSED_TOOLTIP	Dismissed\n§YClick to reenable§!	Dismissed\n§YClick to reenable§!
+SAME_GUARDIAN_AS	Same Guardian as 	Same Guardian as 
+NOT_SAME_GUARDIAN_AS	NOT Same Guardian as 	NOT Same Guardian as 
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP	Reinforcement: §Y+$NUM$§!/month	Reinforcement: §Y+$NUM$§!/month
+NO_LEVY_REINF_GARRISON	§RLevy will not reinforce until the garrison is full§!	§RLevy will not reinforce until the garrison is full§!
+d_ghilman	Ghilman	Ghilman
+d_ghilman_adj	Ghilman	Ghilman
+county_isolated	Isolated County	Isolated County
+TITLE_TIER_IS_LOWER	§Y$NAME$'s§! rank is lower than §Y$RANK$§!\n	§Y$NAME$'s§! rank is lower than §Y$RANK$§!\n
+TITLE_TIER_IS_NOT_LOWER	§Y$NAME$'s§! rank is NOT lower than §Y$RANK$§!\n	§Y$NAME$'s§! rank is NOT lower than §Y$RANK$§!\n
+TITLE_TIER_IS_HIGHER	§Y$NAME$'s§! rank is higher than §Y$RANK$§!\n	§Y$NAME$'s§! rank is higher than §Y$RANK$§!\n
+TITLE_TIER_IS_NOT_HIGHER	§Y$NAME$'s§! rank is NOT higher than §Y$RANK$§!\n	§Y$NAME$'s§! rank is NOT higher than §Y$RANK$§!\n
+MSG_SETTING_PRIO6	Will pause the game.	Will pause the game.
+MSG_SETTING_CLOSE_COL	This column controls the behavior of this message when regarding you or close and unlanded family members	This column controls the behavior of this message when regarding you or close and unlanded family members
+MSG_SETTING_OTHER_COL	This column controls the behavior of this message when regarding other characters of message interest	This column controls the behavior of this message when regarding other characters of message interest
+MSG_SETTING_INTEREST_COL	This column controls the behavior of this message when regarding characters set as special interest	This column controls the behavior of this message when regarding characters set as special interest
+MSG_SETTING_CLOSE_BUT	This button shows settings for messages when regarding you or close and unlanded family members	This button shows settings for messages when regarding you or close and unlanded family members
+MSG_SETTING_INTEREST_BUT	This button shows settings for messages when regarding characters set as special interest	This button shows settings for messages when regarding characters set as special interest
+MSG_SETTING_OTHER_BUT	This button shows settings for messages when regarding other characters of message interest	This button shows settings for messages when regarding other characters of message interest
+SPECIAL_INTEREST_CHARACTERS	Characters of Special Interest	Characters of Special Interest
+CIW_MESSAGES	§YToggle Special Interest§!	§YToggle Special Interest§!
+CIW_MESSAGES_DEL	Characters of special interest are listed in the Outliner and have their own message settings	Characters of special interest are listed in the Outliner and have their own message settings
+EVTDESC24503	The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [Root.GetTitle] after my death.	The rest of my sons are nowhere near the abilities of [From.GetTitledFirstName]. He knew how to handle a sword, and would have been a great [From.GetTitle] after my death.
+EVTOPTD50006	But... didn't I release you?	But... didn't I release you?

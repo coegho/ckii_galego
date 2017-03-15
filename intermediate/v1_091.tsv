@@ -1,0 +1,7 @@
+#CODE	ENGLISH	GALEGO
+TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY	Cannot usurp the primary title of a Merchant Republic	Non se pode usurpar o título primario dunha república mercante
+DECLARE_WAR_INTERACTION_6	§RIf we become independent now, we will become a lesser republic and the game will end!§!	§RSe nos independizamos agora convertirémonos nunha república menor e rematará a partida!§!
+INTERACTION_HOLY_ORDERS_CANNOT_MARRY	Leaders of Holy Orders and Mercenary Companies cannot marry	Os líderes das ordes sagradas e as compañías de mercenarios non poden casar!
+INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST	§Y[Actor.GetTitledFirstName]§! must not be a prisoner of the enemy	[Actor.GetBestName] non pode ser un prisioneiro do inimigo
+CONTESTED_TRADEPOST_DESC	$PERC$: §Y$PERSON$§! controls all Trade Posts in §Y$TITLE$§!	$PERC$: §Y$PERSON$§! controla todos os postos comerciais en §Y$TITLE$§!
+AIREASON_IS_VASSAL_MERCHANT_REP	§Y[GetTitledName]§! is my vassal	§Y[GetTitledName]§! é o meu vasalo

@@ -1,0 +1,62 @@
+#CODE	ENGLISH	ENGLISH
+EVTNAME62951	Ragnarr's Curse	Ragnarr's Curse
+EVTDESC62951	The cowardly king Ælla is kneeling before me in the mud, refusing to meet my eyes. The men call out for various punishments - some more creative than others. I call for silence and a hush descends as the raven banner flutters eagerly above the doomed man. It is time to exact revenge for my dead father, Ragnarr...	The cowardly king Ælla is kneeling before me in the mud, refusing to meet my eyes. The men call out for various punishments - some more creative than others. I call for silence and a hush descends as the raven banner flutters eagerly above the doomed man. It is time to exact revenge for my dead father, Ragnarr...
+EVTOPTA62951	Carve the Blood Eagle!	Carve the Blood Eagle!
+EVTOPTB62951	Sacrifice him to Odin!	Sacrifice him to Odin!
+EVTOPTC62951	Four balls for the Ravens!	Four balls for the Ravens!
+EVTOPTD62951	I have other plans for Ælla...	I have other plans for Ælla...
+EVTDESC62952	The last thing I saw before the heathen savages carved out my eyes was the horrible grin on [From.GetFirstName]'s face. I tried to curl up as they prepared to unman me...	The last thing I saw before the heathen savages carved out my eyes was the horrible grin on [From.GetFirstName]'s face. I tried to curl up as they prepared to unman me...
+EVTOPTA62952	ARRRRGH!	ARRRRGH!
+AIREASON_IN_OTHER_WAR	In Other War	In Other War
+AIREASON_BUSY_RAIDING	Raiding	Raiding
+WRONG_RELIGION_MODIFIER	Wrong Religion	Wrong Religion
+WRONG_CULTURE_MODIFIER	Wrong Culture	Wrong Culture
+opinion_infidel_tribal_liege	Infidel	Infidel
+opinion_heretic_tribal_liege	Heretic	Heretic
+opinion_related_religion_tribal_liege	Religious Differences	Religious Differences
+AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT	Would cost me too much prestige	Would cost me too much prestige
+opinion_granted_other_vice_royalty	Feudal opinion of granted Viceroyalties	Feudal opinion of granted Viceroyalties
+GRANT_VICE_ROYALTY_INTERACTION_8	Granting a Viceroyalty will lower all of your feudal duke and king subjects' opinion of you by §R$OPINION$§!.	Granting a Viceroyalty will lower all of your feudal duke and king subjects' opinion of you by §R$OPINION$§!.
+NOT_ANY_PREVIOUS_HOLDER_STARTS	No Previous Holder	No Previous Holder
+tribal_build_zeal_ARMY_OF	$RELIGION$ Zealots of $CHARACTER$	$RELIGION$ Zealots of $CHARACTER$
+tribal_organize_raid_ARMY_OF	Raiders of $CHARACTER$	Raiders of $CHARACTER$
+tribal_build_legend_ARMY_OF	Warriors of $CHARACTER$	Warriors of $CHARACTER$
+tribal_build_zeal_ARMY	$RELIGION$ Zealots	$RELIGION$ Zealots
+tribal_organize_raid_ARMY	Raiders	Raiders
+tribal_build_legend_ARMY	Warriors	Warriors
+expel_saint_anthony	Expel the Order of Saint Anthony	Expel the Order of Saint Anthony
+expel_saint_anthony_desc	I can drive the Order of Saint Anthony from my realm and seize their castles. However, it is a very impious thing to do...	I can drive the Order of Saint Anthony from my realm and seize their castles. However, it is a very impious thing to do...
+ISNT_CROWN_LAW_TITLE	Is not a Crown Law title	Government changed to Feudal.\nCapital upgraded to a castle.\n
+IS_CROWN_LAW_TITLE	Is a Crown Law title	Government changed to Merchant Republic.\nCapital upgraded to a city.
+LAW_UNLOCKS	Laws unlocked: 	Upgrade Tribal Settlements
+DECISION_UNLOCKS	Decisions unlocked: 	I can upgrade my tribal settlements to proper cities.
+ALLOW_FREE_DUCHY_REVOKATION_ON	Revocation of duchy titles free.\n	Upgrade Tribal Settlements
+ALLOW_FREE_DUCHY_REVOKATION_OFF	Revocation of duchy titles no longer free.\n	I can upgrade my tribal settlements to proper castles.
+LIEGE_LEVY_DESC_VICE_ROY	\n   Viceroyalty: $VALUE$	Is not a Crown Law title
+TITLE_NOT_VICE_ROYALTY	Title is not a Viceroyalty	Is a Crown Law title
+tribal_king_female	Queen	Laws unlocked: 
+tribal_emperor_female	Empress	Decisions unlocked: 
+temple_duke_female_pagan_group	Archpriestess	Revocation of duchy titles free.\n
+temple_king_female_pagan_group	Queen-Priestess	Revocation of duchy titles no longer free.\n
+temple_emperor_female_pagan_group	Emperor	Revocation of viceroyalty duchy titles free.\n
+AIREASON_SAME_RELIGION_AS_REGENT	Same religion as me	Revocation of viceroyalty duchy titles no longer free.\n
+expel_the_haruriyyah	Expel the Haruriyyah	Our Imperial administration allows us to retract viceroyalties without objections from the aristocracy.
+expel_the_haruriyyah_desc	I can drive the Haruriyyah from my realm and seize their castles. However, it is a very impious thing to do...	\n   Viceroyalty: $VALUE$
+borrow_money_haruriyyah	Borrow 300¤ from the Haruriyyah	Will convert to §Y$NAME$§! when upgraded to a castle.
+borrow_money_haruriyyah_desc	I can borrow money from the Haruriyyah and pay back the same sum at any time. However, while I'm in their debt, the Grand Master can make various requests, like one of my sons joining their ranks.	Will convert to §Y$NAME$§! when upgraded to a city.
+not_shia_caliphate_revolt_ongoing	No ongoing revolt to create the Shia Caliphate	Cannot Call Tribal Vassals as they give us Liege Levies instead
+shia_creation_independent	Either independent or all lieges Shia\n	Cannot Call Tribal Vassals since you are not Tribal
+sunni_creation_independent	Either independent or all lieges Sunni\n	Title is not a Viceroyalty
+		Grand Chieftess
+		Empress
+		Archpriestess
+		Queen-Priestess
+		Emperor
+		Same religion as me
+		Expel the Haruriyyah
+		I can drive the Haruriyyah from my realm and seize their castles. However, it is a very impious thing to do...
+		Borrow 300¤ from the Haruriyyah
+		I can borrow money from the Haruriyyah and pay back the same sum at any time. However, while I'm in their debt, the Grand Master can make various requests, like one of my sons joining their ranks.
+		No ongoing revolt to create the Shia Caliphate
+		Either independent or all lieges Shia\n
+		Either independent or all lieges Sunni\n

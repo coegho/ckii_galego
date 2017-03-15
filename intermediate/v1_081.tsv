@@ -1,0 +1,9 @@
+#CODE	ENGLISH	GALEGO
+FACTION_LEADERSHIP_CHANGE_SETUP	Faction gets a new Leader	A facción require un novo líder
+FACTION_LEADERSHIP_CHANGE_LOG	§Y$CHARNAME$§! has become the new leader of the '$OBJECTIVE$' faction.	§Y$CHARNAME$§! é o novo líder da facción  '$OBJECTIVE$'.
+BUILDING_PREREQ_FAIL	(§RX§!)Has §G$BUILDING$§!	(§RX§!) precisa §G$BUILDING$§!
+IS_NOT_AT_SEA	Is NOT at Sea	NON está no mar
+IS_AT_SEA	Is at Sea	Está no mar
+SongsOfTheRusDLC	Songs of the Rus	Cancións do Rus
+RussianUnitPackDLC	Russian Unit Pack	Paquete de unidades rusas
+RussianPortraitsDLC	Russian Portraits	Retratos rusos

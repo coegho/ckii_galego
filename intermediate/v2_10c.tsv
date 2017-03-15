@@ -1,0 +1,72 @@
+#CODE	ENGLISH	ENGLISH
+EVTDESC_RoI_10011	My [GetFromRelation] [From.GetFirstName], [From.Reincarnation.GetTitledFirstName] reborn, is acting more like [From.GetPossPronoun] previous incarnation every day! [From.GetFirstName] is definitely expressing another of [From.Reincarnation.GetFirstName]'s personality traits...	My [GetFromRelation] [From.GetFirstName], [From.Reincarnation.GetTitledFirstName] reborn, is acting more like [From.GetPossPronoun] previous incarnation every day! [From.GetFirstName] is definitely expressing another of [From.Reincarnation.GetFirstName]'s personality traits...
+form_the_hre	Form the Holy Roman Empire	Form the Holy Roman Empire
+form_the_hre_desc	With a realm to rival that of Charlemagne, I could be recognized as his true successor and, invoking Translatio Imperii, have [Root.RelHead.GetBestName] crown me Emperor of a new Roman Empire in the west!	With a realm to rival that of Charlemagne, I could be recognized as his true successor and, invoking Translatio Imperii, have [Root.RelHead.GetBestName] crown me Emperor of a new Roman Empire in the west!
+buddhist_DESC	Buddhism was founded by the Buddha, Siddhartha Gautama, in Northeast India in the 5th century BC. The religion flourished in India for more than 1500 years, building huge libraries and monastery complexes, until Muslim invasions and the growing power of the Brahmin caste drove Buddhism out of the subcontinent. In the game, Buddhists get a significant bonus to Learning, meaning that they will research technologies faster.	Buddhism was founded by the Buddha, Siddhartha Gautama, in Northeast India in the 5th century BC. The religion flourished in India for more than 1500 years, building huge libraries and monastery complexes, until Muslim invasions and the growing power of the Brahmin caste drove Buddhism out of the subcontinent. In the game, Buddhists get a significant bonus to Learning, meaning that they will research technologies faster. Defining features in-game:\n§Y*§! There is no religious head\n§Y*§! Caste Traits do not matter\n§Y*§! Buddhists get a hefty Learning bonus\n§Y*§! Can declare Subjugation Wars against all Indian religions\n§Y*§! Can declare limited Holy Wars against non-Indian religions\n§Y*§! Hard to convert Jain and Hindu counties\n§Y*§! Can designate any valid offspring as the heir
+jain_DESC	Jainism is a religion of incredible antiquity, stemming from the ascetic Sramana tradition of India, in opposition to the priestly Brahmins and the caste system. The guiding principle of Jainism is Ahimsa - non-violence - which is more radically interpreted than in any other religion. In the game, Jains have a hard time waging offensive wars, but their remarkable tolerance means Jain rulers are well liked by all.	Jainism is a religion of incredible antiquity, stemming from the ascetic Sramana tradition of India, in opposition to the priestly Brahmins and the caste system. The guiding principle of Jainism is Ahimsa - non-violence - which is more radically interpreted than in any other religion. In the game, Jains have a hard time waging offensive wars, but their remarkable tolerance means Jain rulers are well liked by all. Defining features in-game:\n§Y*§! There is no religious head\n§Y*§! Caste Traits do not matter\n§Y*§! Cannot declare Holy Wars\n§Y*§! Can declare Subjugation Wars against all Indian religions\n§Y*§! Much lower chance of provincial revolts\n§Y*§! Large bonuses to all vassal opinions\n§Y*§! Rulers can hold larger Demesnes\n§Y*§! Can designate any valid offspring as the heir
+IndiaDLC	Rajas of India	Rajas of India
+TurkishUnitPackDLC	Turkish Unit Pack	Turkish Unit Pack
+TurkishPortraitDLC	Turkish Portraits	Turkish Portraits
+SongsOfIndiaDLC	Songs of India	Songs of India
+#opinion_vassal_king	Vassal King	Vassal King
+THREAT	Threat	Threat
+THREAT_FACTION_LEADER	Faction Leader: §Y$FACTION$§!	Faction Leader: §Y$FACTION$§!
+THREAT_FACTION_MEMBER	Faction Member: §Y$FACTION$§!	Faction Member: §Y$FACTION$§!
+THREAT_ADVENTURER	Preparing an Adventure against me	Preparing an Adventure against me
+THREAT_PREPARING_INVASION	Preparing an Invasion against me	Preparing an Invasion against me
+alert_adventurer_threat_instant	§YAdventurer Threats§!	§YAdventurer Threats§!
+alert_adventurer_threat_delayed	The following adventurers are targeting me:\n$LIST$	The following adventurers are targeting me:\n$LIST$
+alert_adventurer_threat_name	Adventurers Targeting me	Adventurers Targeting me
+opinion_targeted_by_adventurer	Targeted for Invasion	Targeted for Invasion
+opinion_revoked_honorary_title	Revoked my Honorary Title	Revoked my Honorary Title
+holding_grand_hunt	Holding Grand Hunt	Holding Grand Hunt
+TITLE_NOT_REVOKEABLE	Not Revokeable	Not Revokeable
+MODIFIER_VASSAL_OPINION	Vassal Opinion	Vassal Opinion
+MODIFIER_LIEGE_OPINION	Liege Opinion	Liege Opinion
+MODIFIER_SEX_APPEAL_OPINION	Sex Appeal	Sex Appeal
+REVOKE_HONORARY_TITLE_INTERACTION_TITLE	Revoke Honorary Title	Revoke Honorary Title
+REVOKE_HONORARY_TITLE_INTERACTION_DESC	Revoke an honorary title previously awarded to a character	Revoke an honorary title previously awarded to a character
+REVOKE_HONORARY_TITLE_INTERACTION_LONG_DESC	You can revoke honorary titles that you have awarded to characters, depriving them of the prestige and income from those titles.	You can revoke honorary titles that you have awarded to characters, depriving them of the prestige and income from those titles.
+REVOKE_HONORARY_TITLE_INTERACTION_0	Select an honorary title to revoke from §Y[Recipient.GetTitledFirstName]§W.	Select an honorary title to revoke from §Y[Recipient.GetTitledFirstName]§W.
+#REVOKE_HONORARY_TITLE_INTERACTION_1	Revoke the title of §Y[ThirdPartyTitle.GetFullName]§W from §Y[Recipient.GetTitledFirstName]§W. This will change [Recipient.GetPossPronoun] opinion of you by $OPINION$.	Revoke the title of §Y[ThirdPartyTitle.GetFullName]§W from §Y[Recipient.GetTitledFirstName]§W. This will change [Recipient.GetPossPronoun] opinion of you by $OPINION$.
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_SETUP	Honorary Title Revoked	Honorary Title Revoked
+REVOKE_HONORARY_TITLE_INTERACTION_ACCEPT_LOG	§Y[Actor.GetBestName]§W revoked the title of §Y[ThirdPartyTitle.GetFullName]§W from §Y[Recipient.GetBestName]§W	§Y[Actor.GetBestName]§W revoked the title of §Y[ThirdPartyTitle.GetFullName]§W from §Y[Recipient.GetBestName]§W
+CANNOT_BUY_RET_TEMP_TITLE	\nYou cannot create this retinue, you hold a temporary title.	\nYou cannot create this retinue, you hold a temporary title.
+NOT_ALLOWED_INDIAN	Not allowed to play §YIndian§! without the Rajas of India DLC!	Not allowed to play §YIndian§! without the Rajas of India DLC!
+NOT_ALLOWED_INDIAN_MP	§Y$PLAYER$§! not allowed to play §YIndian§! without the Rajas of India DLC	§Y$PLAYER$§! not allowed to play §YIndian§! without the Rajas of India DLC
+RD_NOT_PLAYABLE_WITHOUT_ROI_DLC	The Indian religions are not playable without the Rajas of India DLC	The Indian religions are not playable without the Rajas of India DLC
+#TEMP_T_HOLDER_CANT_DESTROY_T	Temporary title holders cannot destroy any titles	Temporary title holders cannot destroy any titles
+CANNOT_PLAY_INDIAN_WITHOUT_DLC	You cannot play an Indian religion without the Rajas of India DLC	You cannot play an Indian religion without the Rajas of India DLC
+CANNOT_PLAY_JUDAISM_WITHOUT_DLC	You cannot play a Jewish character without the Sons of Abraham DLC	You cannot play a Jewish character without the Sons of Abraham DLC
+DESIGNATE_HEIR_ALLOWED_SUCCESSION	Succession Law must be either Gavelkind, Primogeniture, Ultimogeniture or Open	Succession Law must be either Gavelkind, Primogeniture, Ultimogeniture or Open
+DESIGNATE_HEIR_ALLOWED_GENDER	Heir Designation must obey the Succession Gender Law	Heir Designation must obey the Succession Gender Law
+GRANT_LANDED_TITLE_CORRECT_CASTE	Character has the Correct Caste	You can only Designate your Progeny
+DESIGNATE_HEIR	Designate this Character as your Heir	Character has the Correct Caste
+opinion_former_lover	Former Lover	Designate this Character as your Heir
+IS_NOT_FORMER_LOVER_OF	Is NOT a Former Lover of §Y$WHO$§!	Former Lover
+IS_FORMER_LOVER_OF	Is a Former Lover of §Y$WHO$§!	Is NOT a Former Lover of §Y$WHO$§!
+EVTDESC60400	A brilliant Turkish mercenary and former slave warrior by the name of Sabuktigin has distinguished himself many times, leading his company of horsemen in battle and raids. My commanders think I should give him a more prominent position.	Is a Former Lover of §Y$WHO$§!
+EVTOPTA60401	Gandhara is best!	A brilliant Turkish mercenary and former slave warrior by the name of Sabuktigin has distinguished himself many times, leading his company of horsemen in battle and raids. My commanders think I should give him a more prominent position.
+EVTOPTB60401	Multan seems natural	Gandhara is best!
+EVTOPTC60401	Lahore is rich and weak	Multan seems natural
+EVTOPTD60401	Bhakkar first!	Lahore is rich and weak
+EVTNAME60406	Rise of the Ghaznavids	Bhakkar first!
+EVTDESC60406	A former Turkish mercenary and slave soldier is on the rise in the land of the Afghans. This Sabuktigin, a zealous man who loathes infidels, seems intent on creating an empire to rival that of the Caliphs of old, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of fierce tribesmen have gathered under his banner!	Rise of the Ghaznavids
+EVTOPTA60406	Infidels beware!	A former Turkish mercenary and slave soldier is on the rise in the land of the Afghans. This Sabuktigin, a zealous man who loathes infidels, seems intent on creating an empire to rival that of the Caliphs of old, as he has just finished crushing [FromFrom.GetTitledName] in a brutal war. Tens of thousands of fierce tribesmen have gathered under his banner!
+EVTOPTB60406	What a troubled region that is...	Infidels beware!
+EVTOPTC451	[From.GetSheHeCap]'s not my type	What a troubled region that is...
+EVTOPTA450	Encourage [Root.Liege.GetHerHim]	[From.GetSheHeCap]'s not my type
+EVTOPTA454	How could [From.GetSheHe] resist my charms?	Encourage [Root.Liege.GetHerHim]
+EVTDESC453	I went to [From.GetFirstName]'s chamber and gave [From.GetHerHim] a good tumble!	How could [From.GetSheHe] resist my charms?
+NOT_ALREADY_NEGOTIATED	Has NOT already negotiated	I went to [From.GetFirstName]'s chamber and gave [From.GetHerHim] a good tumble!
+force_back_tactic	Force Back	Has NOT already negotiated
+gray_wall_tactic	Gray Wall	Force Back
+crushing_charge_tactic	Crushing Charge	Gray Wall
+EVTDESC_RoI_115	The four traditions of Hinduism are Shaivism, Vaishnavism, Shaktism and Smartism. You have decided to choose a new way, but which one shall it be?	Crushing Charge
+EVTDESC_RoI_116	The three great branches of Buddhism are Mahayana, Vajrayana and Theravada. You have decided to look for a new philosophy, but which one shall it be?	The four traditions of Hinduism are Shaivism, Vaishnavism, Shaktism and Smartism. You have decided to choose a new way, but which one shall it be?
+MORAL_AUTHORITY_DESC	The moral authority of a religion affects the conversion chances of characters and counties and the susceptibility to heresies. A low authority value can prevent the chief pontiff from performing special actions like excommunication. It may also cause instability with various negative events in your realm as the religious institutions lose their grip on the populace.	The three great branches of Buddhism are Mahayana, Vajrayana and Theravada. You have decided to look for a new philosophy, but which one shall it be?
+MODIFIER_CHURCH_OPINION	Temple Vassal Opinion	The moral authority of a religion affects the conversion chances of characters and provinces and the susceptibility to heresies. A low authority value can prevent the chief pontiff from performing special actions like excommunication. It may also cause instability with various negative events in your realm as the religious institutions lose their grip on the populace.
+CANNOT_AFFORD_THE_PIETY	§RWe do not have enough $PIETYNAME$!§W\n	Temple Vassal Opinion
+HIRE_ORDER_DESC	Hire §Y$TITLE$§W for §Y$COST$§W $PIETYNAME$. (They will arrive in or nearby §Y$CAPITAL$§W.)	§RWe do not have enough $PIETYNAME$!§W\n
+expel_the_jomsvikings_desc	I can drive the Jomsvikings from my realm and seize their castles. However, it is a very impious thing to do...	Hire §Y$TITLE$§W for §Y$COST$§W $PIETYNAME$. (They will arrive in or nearby §Y$CAPITAL$§W.)
+		I can drive the Jomsvikings from my realm and seize their castles. However, it is a very impious thing to do...
