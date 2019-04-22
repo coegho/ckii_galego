@@ -1,0 +1,13 @@
+{
+    "temple_baron_west_african_pagan": "Priest",
+    "temple_baron_west_african_pagan_reformed": "Priest",
+    "temple_baron_female_west_african_pagan": "Priestess",
+    "temple_baron_female_west_african_pagan_reformed": "Priestess",
+    "MATCHMAKING_REFRESH_LAN_STOP": "Stop Refreshing",
+    "VS_REL_ENEMY": "Damage Against Religious Enemies",
+    "EXILE_IMPRISONED_INTERACTION_3": "The banishment will cost you \u00a7R$PIETY$\u00a7! $PIETYNAME$.",
+    "S_TRO": "ST",
+    "defenderbonus_jungle": "Jungle",
+    "HAS_AUTOCEPHALY": "Has Autocephaly",
+    "HAS_NOT_AUTOCEPHALY": "Does NOT have Autocephaly"
+}

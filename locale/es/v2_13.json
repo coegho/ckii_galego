@@ -1,0 +1,7 @@
+{
+    "EVTDESC91369": "[From.GetBestName] ha fallado en [From.GetPossPronoun] intento de convencer a [FromFrom.GetBestName] a enderezarse. Es un kafir y cualquier miembro de nuestra dinast\u00eda le puede imprisionar libremente.",
+    "EVTOPTA91369": "Un zapato sobre su cabeza!",
+    "EVTDESC91370": "Tu [GetFromRelation], [From.GetBestName], es un decadente que da verg\u00fcenza a la casa de [Root.GetOnlyDynastyName]!",
+    "EVTOPTA91370": "Ingrato!",
+    "GRANT_LANDED_TITLE_INTERACTION_7": "Perdida de Decadencia por conceder un t\u00edtulo a un familiar: \u00a7G$DECADENCE$%\u00a7! (el efecto es relativo a la Decadencia actual de la dinast\u00eda)"
+}

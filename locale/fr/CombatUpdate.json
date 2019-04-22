@@ -1,0 +1,20 @@
+{
+    "MOVEMENT_SPEED": "Vitesse de d\u00e9placement",
+    "EXPERIMENTALITY": "Impr\u00e9visibilit\u00e9",
+    "CU_LIGHT_INFANTRY": "Infanterie l\u00e9g\u00e8re",
+    "CU_HEAVY_INFANTRY": "Infanterie lourde",
+    "CU_CAVALRY": "Cavalerie",
+    "MORALE_DEFENCE": "Maintien du moral",
+    "DAMAGE": "D\u00e9g\u00e2ts",
+    "PURSUIT": "Poursuite",
+    "RETREAT": "Retraite",
+    "MARTIAL_INFLUENCE": "Influence martiale",
+    "FLANKING": "Attaque sur le flanc",
+    "CENTER": "M\u00e8ne le centre",
+    "DEFENCE": "D\u00e9fense",
+    "CANNOT_PLAY_MUSLIM_WITHOUT_DLC": "Vous ne pouvez jouer un seigneur musulman sans le DLC 'Sword of Islam'",
+    "NOT_ALLOWED_MUSLIM": "N'est pas autoris\u00e9 \u00e0 jouer \u00a7Yun seigneur musulman\u00a7! sans le DLC 'Sword of Islam'",
+    "NOT_ALLOWED_MUSLIM_MP": "Il n'est pas permis \u00e0 \u00a7Y$PLAYER$\u00a7! de jouer \u00a7Yun seigneur musulman\u00a7! sans le DLC 'Sword of Islam'",
+    "RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC": "Les musulmans ne sont pas jouables sans le DLC 'Sword of Islam'",
+    "MUST_SELECT_PLAYER": "Vous devez s\u00e9lectionner un personnage pour jouer"
+}

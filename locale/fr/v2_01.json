@@ -1,0 +1,7 @@
+{
+    "ENDGAME_TEXT_JEWISH": "Vous \u00eates devenu juif et n'\u00eates donc plus autoris\u00e9 \u00e0 jouer sans le DLC \u00ab\u00a0Les Fils d'Abraham\u00a0\u00bb.",
+    "NOT_ALLOWED_JEWISH": "Non autoris\u00e9 \u00e0 jouer un seigneur \u00a7Yjuif\u00a7! sans le DLC \u00ab\u00a0Les Fils d'Abraham\u00a0\u00bb",
+    "NOT_ALLOWED_JEWISH_MP": "\u00a7Y$PLAYER$\u00a7! non autoris\u00e9 \u00e0 jouer un seigneur \u00a7Yjuif\u00a7! sans le DLC \u00ab\u00a0Les Fils d'Abraham\u00a0\u00bb",
+    "RD_NOT_PLAYABLE_WITHOUT_SOA_DLC": "Il est impossible de jouer un seigneur juif sans le DLC \u00ab\u00a0Les Fils d'Abraham\u00a0\u00bb",
+    "IRONMAN_MODE_SAVEGAME_DESC": "Cette sauvegarde a \u00e9t\u00e9 modifi\u00e9e ou corrompue, elle ne peut donc plus \u00eatre jou\u00e9e en mode Iron Man."
+}
