@@ -1,8 +1,0 @@
-{
-    "TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY": "Cannot usurp the primary title of a Merchant Republic",
-    "DECLARE_WAR_INTERACTION_6": "\u00a7RIf we become independent now, we will become a lesser republic and the game will end!\u00a7!",
-    "INTERACTION_HOLY_ORDERS_CANNOT_MARRY": "Leaders of Holy Orders and Mercenary Companies cannot marry",
-    "INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST": "\u00a7Y[Actor.GetTitledFirstName]\u00a7! must not be a prisoner of the enemy",
-    "CONTESTED_TRADEPOST_DESC": "$PERC$: \u00a7Y$PERSON$\u00a7! controls all Trade Posts in \u00a7Y$TITLE$\u00a7!",
-    "AIREASON_IS_VASSAL_MERCHANT_REP": "\u00a7Y[GetTitledName]\u00a7! is my vassal"
-}

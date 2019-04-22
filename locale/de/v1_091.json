@@ -1,8 +1,0 @@
-{
-    "TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY": "Der Prim\u00e4rtitel einer Republik kann nicht \u00fcbernommen werden",
-    "DECLARE_WAR_INTERACTION_6": "\u00a7RWenn wir nun die Unabh\u00e4ngigkeit anstreben, werden wir zu einer niederen Republik und das Spiel endet damit!\u00a7!",
-    "INTERACTION_HOLY_ORDERS_CANNOT_MARRY": "Anf\u00fchrer von Ritterorden und S\u00f6ldnerbanden k\u00f6nnen nicht heiraten",
-    "INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST": "\u00a7Y[Actor.GetTitledFirstName]\u00a7! darf kein Gefangener des Feindes sein",
-    "CONTESTED_TRADEPOST_DESC": "$PERC$: \u00a7Y$PERSON$\u00a7! kontrolliert alle Handelsposten in \u00a7Y$TITLE$\u00a7!",
-    "AIREASON_IS_VASSAL_MERCHANT_REP": "\u00a7Y[GetTitledName]\u00a7! ist mein Vasall"
-}

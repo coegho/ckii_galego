@@ -40,13 +40,13 @@ for filename in os.listdir(root.directory):
         path = os.path.join(root.directory, filename)
         print(path)
         dicts = processfile(root.directory, filename)
-        with open(target.directory + '/en/' + os.path.splitext(filename)[0] + '.json', 'w') as en_json:
+        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-en.json', 'w') as en_json:
             json.dump(dicts['en'], en_json, indent=4)
-        with open(target.directory + '/fr/' + os.path.splitext(filename)[0] + '.json', 'w') as fr_json:
+        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-fr.json', 'w') as fr_json:
             json.dump(dicts['fr'], fr_json, indent=4)
-        with open(target.directory + '/de/' + os.path.splitext(filename)[0] + '.json', 'w') as de_json:
+        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-de.json', 'w') as de_json:
             json.dump(dicts['de'], de_json, indent=4)
-        with open(target.directory + '/es/' + os.path.splitext(filename)[0] + '.json', 'w') as es_json:
+        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-es.json', 'w') as es_json:
             json.dump(dicts['es'], es_json, indent=4)
     else:
         continue
