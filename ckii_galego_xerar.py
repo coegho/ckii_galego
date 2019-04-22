@@ -35,20 +35,27 @@ target = Tk()
 target.directory = filedialog.askdirectory()
 print (f'Looking for files in {root.directory}')
 
+globaldicts = {'en': {}, 'fr': {}, 'de': {}, 'es': {}}
+
 for filename in os.listdir(root.directory):
     if filename.endswith(".csv"):
         path = os.path.join(root.directory, filename)
+        base = os.path.splitext(filename)[0]
         print(path)
         dicts = processfile(root.directory, filename)
-        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-en.json', 'w') as en_json:
-            json.dump(dicts['en'], en_json, indent=4)
-        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-fr.json', 'w') as fr_json:
-            json.dump(dicts['fr'], fr_json, indent=4)
-        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-de.json', 'w') as de_json:
-            json.dump(dicts['de'], de_json, indent=4)
-        with open(target.directory + '/' + os.path.splitext(filename)[0] + '-es.json', 'w') as es_json:
-            json.dump(dicts['es'], es_json, indent=4)
+        globaldicts['en'][base] = dicts['en']
+        globaldicts['fr'][base] = dicts['fr']
+        globaldicts['de'][base] = dicts['de']
+        globaldicts['es'][base] = dicts['es']
     else:
         continue
 
+with open(target.directory + '/translation-en.json', 'w') as en_json:
+    json.dump(globaldicts['en'], en_json, indent=4)
+with open(target.directory + '/translation-fr.json', 'w') as fr_json:
+    json.dump(globaldicts['fr'], fr_json, indent=4)
+with open(target.directory + '/translation-de.json', 'w') as de_json:
+    json.dump(globaldicts['de'], de_json, indent=4)
+with open(target.directory + '/translation-es.json', 'w') as es_json:
+    json.dump(globaldicts['es'], es_json, indent=4)
 
