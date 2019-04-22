@@ -1,0 +1,23 @@
+{
+    "temple_baron_jewish": "Rabbi",
+    "temple_baron_samaritan": "Rabbi",
+    "temple_baron_karaite": "Rabbi",
+    "RETTYPE_CUL_NUBIAN": "Nubian Archers",
+    "ca_culture_nubian_1": "Nubian Warrior Barracks",
+    "ca_culture_nubian_2": "Nubian Warrior Barracks",
+    "ca_culture_nubian_3": "Nubian Warrior Barracks",
+    "ca_culture_nubian_4": "Nubian Warrior Barracks",
+    "ca_culture_nubian_1_desc": "These barracks are where the ancient Nubian warrior traditions are nurtured and developed. Nubia has since ancient times been respected for its masterful archers, and other elite units of infantry are trained and drilled to support this potent weapon of the Nubian rulers.",
+    "temple_baron_slavic_pagan": "Shaman",
+    "temple_baron_slavic_pagan_reformed": "Shaman",
+    "temple_baron_baltic_pagan": "Shaman",
+    "temple_baron_baltic_pagan_reformed": "Shaman",
+    "temple_baron_aztec": "Shaman",
+    "temple_baron_aztec_reformed": "Shaman",
+    "temple_baron_mazdaki": "Vahram",
+    "temple_baron_manichean": "Vahram",
+    "coa_plain_pagan": "Plain",
+    "coa_plain_indian": "Plain",
+    "temple_baron_hellenic_pagan": "Priest",
+    "temple_baron_female_hellenic_pagan": "Priestess"
+}

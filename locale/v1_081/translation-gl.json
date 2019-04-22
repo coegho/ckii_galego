@@ -1,0 +1,10 @@
+{
+    "FACTION_LEADERSHIP_CHANGE_SETUP": "A facci\u00f3n require un novo l\u00edder",
+    "FACTION_LEADERSHIP_CHANGE_LOG": "\u00a7Y$CHARNAME$\u00a7! \u00e9 o novo l\u00edder da facci\u00f3n  '$OBJECTIVE$'.",
+    "BUILDING_PREREQ_FAIL": "(\u00a7RX\u00a7!) precisa \u00a7G$BUILDING$\u00a7!",
+    "IS_NOT_AT_SEA": "NON est\u00e1 no mar",
+    "IS_AT_SEA": "Est\u00e1 no mar",
+    "SongsOfTheRusDLC": "Canci\u00f3ns do Rus",
+    "RussianUnitPackDLC": "Paquete de unidades rusas",
+    "RussianPortraitsDLC": "Retratos rusos"
+}
