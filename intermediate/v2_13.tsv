@@ -1,6 +1,0 @@
-#CODE	ENGLISH	GALEGO
-EVTDESC91369	[From.GetBestName] has failed in [From.GetPossPronoun] attempts to get the decadent [FromFrom.GetBestName] to straighten up. He is a kafir and can be imprisoned freely by all rulers of our shamed dynasty.	[From.GetBestName] non conseguiu endereitar ao decadente [FromFrom.GetBestName]. El é un kafir e pode ser enviado a prisión sen consecuencias por calquera gobernante da nosa avergoñada dinastía.
-EVTOPTA91369	A shoe on his head!	Un zapato na súa cabeza!
-EVTDESC91370	Your [GetFromRelation], [From.GetBestName], has become Decadent, bringing shame to the House of [Root.GetOnlyDynastyName]!	[From.GetBestName], o teu [GetFromRelation], volveuse decadente, avergoñando á Casa de [Root.GetOnlyDinastyName]!
-EVTOPTA91370	The ingrate!	O moi ingrato!
-GRANT_LANDED_TITLE_INTERACTION_7	Decadence lost from grant to dynasty member: §G$DECADENCE$%§! (the effect is relative to the dynasty's current Decadence.)	Perda de decadencia por concesión a membro da dinastía: §G$DECADENCE$%§! (o efecto é relativo á decadencia actual da dinastía.)

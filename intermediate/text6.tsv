@@ -1,9 +1,0 @@
-#CODE	ENGLISH	ENGLISH
-SELECT_CHARACTER_TO_RANSOM	Select Character to Ransom	Select Character to Ransom
-AIREASON_NEEDS_OUR_COUNCILLOR	Is our §Y[GetJobTitle]§!	Is our §Y[GetJobTitle]§!
-AIREASON_SKILLED_COURTIER	Skills of §Y[GetBestName]§!	Skills of §Y[GetBestName]§!
-AIREASON_IS_UNIMPORTANT	§Y[GetBestName]§! is unimportant	§Y[GetBestName]§! is unimportant
-INTERACTION_REQUIRES_INV_REASON	Fewer Realm holdings than §Y[ThirdPartyCharacter.GetTitledFirstName]§! or a primary title claim	Fewer Realm holdings than §Y[ThirdPartyCharacter.GetBestName]§! or a primary title claim
-TRANSFER_TREASURY_EFFECT	§Y$FROM$§! pays §Y$VALUE$§!¤ to §Y$TO$§!\n	§Y$FROM$§! pays §Y$VALUE$§!¤ to §Y$TO$§!\n
-EVTDESC3407	I tried to get away with repeating [From.GetTitledFirstName]'s opinion about the stained glass window, but [From.GetHerHis] probing questions made me confess in the end. I hated the colors and the motif was just stupid.	I tried to get away with repeating [From.GetTitledFirstName]'s opinion about the stained glass window, but [From.GetHerHis] probing questions made me confess in the end. I hated the colors and the motif was just stupid.
-EVTDESC5042	We started early, the sun had barely risen above the horizon. There was plenty of prey, the dogs caught many rabbits and I slew one great boar before he killed my horse.	We started early, the sun had barely risen above the horizon. There was plenty of prey, the dogs caught many rabbits and I slew one great boar before he killed my horse.
