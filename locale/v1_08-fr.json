@@ -1,0 +1,22 @@
+{
+    "IS_NOT_ADULT": "\u00a7YN'est pas\u00a7! adulte",
+    "IS_ADULT": "\u00a7YEst\u00a7! adulte",
+    "IS_NOT_MARRIAGE_ADULT": "\u00a7YN'est pas\u00a7! assez \u00e2g\u00e9 pour se marier",
+    "IS_MARRIAGE_ADULT": "\u00a7YEst\u00a7! assez \u00e2g\u00e9 pour se marier",
+    "DISEASE_ACTIVATED": "Une \u00e9pid\u00e9mie de $DISEASE$ peut \u00e0 pr\u00e9sent se d\u00e9clarer",
+    "AIREASON_IS_PRISONER_OF_CHAR": "Est prisonnier de \u00a7Y[GetTitledFirstName]\u00a7!",
+    "SunsetInvasionDLC": "Invasion du Soleil Couchant (Sunset Invasion)",
+    "NOT_COASTAL": "Ce comt\u00e9 n'est pas c\u00f4ti\u00e8r",
+    "NOT_FORBIDDEN_LEAD": "Ce conseiller ne s'est pas vu interdire de diriger une arm\u00e9e.\\n\u00a7GCliquez pour le rappeler et interdire \u00e0 ce conseiller d'en diriger une.\u00a7!",
+    "FORBIDDEN_LEAD": "Ce conseiller s'est vu interdire de diriger une arm\u00e9e.\\n\u00a7GCliquez pour l'autoriser \u00e0 en diriger une.\u00a7!",
+    "DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0": "\u00a7YSi [Recipient.GetFirstName] accepte, [Recipient.GetIlElle] retrouvera sa libert\u00e9.\u00a7!",
+    "opinion_fought_for_claimant": "S'est battu pour le pr\u00e9tendant ",
+    "EVTOPTD9001": "Demander poliment",
+    "EVTDESC9003": "M[Root.GetOnA] ch[Root.GetErEre] [Root.GetTitle],\\n\\nJ'ai appris l'existence dans le Royaume de certaines factions oeuvrant \u00e0 d\u00e9stabiliser mon pouvoir. Si vous \u00eates engag\u00e9[Root.Get_E] ou comptez vous engagez dans une telle entreprise, je ne peux que vous prier de cesser imm\u00e9diatement de vous compromettre dans de telles affaires.\\n\\nSign\u00e9,\\n[From.GetTitledName]",
+    "EVTOPTA9003": "Mieux vaut ne pas s'y risquer...",
+    "EVTOPTB9003": "Ha\u00a0! Cette lettre \u00e9tait un acte de d\u00e9sespoir.",
+    "EVTTOOLTIP9023": "Vous tentez une requ\u00eate polie.",
+    "EVTDESC9027": "Honorable [Root.GetTitle],\\n\\nParfait\u00a0! Je n'aime point cela, mais au nom de qui\u00e9tude et de la prosp\u00e9rit\u00e9 du Royaume, je suis d'accord pour vous apporter mon soutien aux factions que vous avez rejointe. Ne me fa\u00eetes pas regretter cette d\u00e9cision.\\n\\nSign\u00e9,\\n[From.GetTitledName]",
+    "DATA_COLLECTION_AGREEMENT": "Souhaitez-vous nous aider \u00e0 am\u00e9liorer Crusader Kings II par la collecte de donn\u00e9es concernant les habitudes de jeu, la popularit\u00e9 des contenus t\u00e9l\u00e9chargeables (DLC) et les mods\u00a0?\\nSi vous donnez votre accord, des donn\u00e9es anonymes concernant Crusader Kings II seront envoy\u00e9es \u00e0 Paradox Interactive pendant votre session de jeu. Paradox Interactive ne peut et ne pourra pas utiliser ces donn\u00e9es pour collecter d'autres informations concernant les joueurs",
+    "DATA_COLLECTION_TITLE": "Aidez-nous \u00e0 am\u00e9liorer Crusader Kings II"
+}

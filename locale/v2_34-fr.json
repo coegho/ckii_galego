@@ -1,0 +1,17 @@
+{
+    "EVTDESC_WOL_431": "Bras dessus bras dessous, [FromFrom.GetFirstName] et moi nous sommes retrouv\u00e9s au bord d'un ruisseau voisin. Nous avons ri ensemble et partag\u00e9 des secrets pendant au moins une heure. C'est le moment de v\u00e9rit\u00e9... Est-[FromFrom.GetIlElle] dans de bonnes dispositions pour une histoire d'amour\u00a0? Je me penche et chuchote \u00e0 son oreille...",
+    "EVTDESC_WOL_431_CR": "Bras dessus bras dessous, [FromFrom.GetFirstName] et moi nous nous sommes retrouv\u00e9s au bord d'un ruisseau voisin. \u00c0 l'occasion d'un moment de silence en cette bonne compagnie, je d\u00e9cide de lui r\u00e9v\u00e9ler le plus terrible des secrets\u00a0: mes sentiments pour [FromFrom.GetLuiElle]. Je me penche et chuchote \u00e0 son oreille...",
+    "EVTDESC_WOL_1003_SPY_RESULT": "Un des jeunes serviteurs \u00e0 qui j'avais demand\u00e9 de suivre [target_spy_on.GetFirstName] m'informe en bredouillant, le visage bl\u00eame, qu'il a vu m[FromFrom.GetOnA] [GetFromFromRelation] faire des choses en compagnie [From.Get_du_TitledName] dans une chambre r\u00e9serv\u00e9e aux invit\u00e9s\u00a0! Le gar\u00e7on \u00e9tait dissimul\u00e9 derri\u00e8re une tenture pendant tout ce temps...",
+    "student_of_strategy": "\u00c9tudiant en strat\u00e9gie",
+    "student_of_strategy_desc": "Ce personnage se consacre \u00e0 l'\u00e9tude de la sagesse militaire des grands commandants de l'histoire.",
+    "adept_of_strategy": "Adepte en strat\u00e9gie",
+    "adept_of_strategy_desc": "Ce personnage a consacr\u00e9 du temps \u00e0 l'\u00e9tude de la sagesse militaire des grands commandants de l'histoire.",
+    "EVTDESC94018_india": "L'histoire est un domaine qui vous a toujours fascin\u00e9, et vous avez pass\u00e9 les derni\u00e8res semaines \u00e0 \u00e9tudier les campagnes d'Ashoka le Grand. Ses conqu\u00eates sont riches de nombreux enseignements.",
+    "EVTOPTB_94018": "Je pourrais peut-\u00eatre, moi aussi, conna\u00eetre une telle gloire.",
+    "EVTOPTC_94018": "Je dois consacrer davantage de temps \u00e0 ces \u00e9tudes...",
+    "studying_strategy_tooltip": "[Root.Get_Le_TitledName] \u00e9tudie la strat\u00e9gie militaire.",
+    "EVTDESC_94019": "Apr\u00e8s des mois pass\u00e9s \u00e0 \u00e9tudier les campagnes d'Alexandre le Grand, vous avez acquis de nombreuses et fascinantes connaissances, ainsi qu'une nouvelle vision de la chose militaire. Vous pensez qu'il pourrait \u00eatre bon de vous plonger dans l'\u00e9tude de l'art de la guerre.",
+    "EVTDESC_94019_india": "Apr\u00e8s des mois pass\u00e9s \u00e0 \u00e9tudier les campagnes d'Ashoka le Grand, vous avez acquis de nombreuses et fascinantes connaissances, ainsi qu'une nouvelle vision de la chose militaire. Vous pensez qu'il pourrait \u00eatre bon de vous plonger dans l'\u00e9tude de l'art de la guerre.",
+    "EVTOPTA_94019": "Je deviendrai un ma\u00eetre en strat\u00e9gie.",
+    "EVTOPTB_94019": "Il n'y a pas que cela dans la vie."
+}

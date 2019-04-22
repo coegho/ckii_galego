@@ -1,0 +1,8 @@
+{
+    "TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY": "Non se pode usurpar o t\u00edtulo primario dunha rep\u00fablica mercante",
+    "DECLARE_WAR_INTERACTION_6": "\u00a7RSe nos independizamos agora convertir\u00e9monos nunha rep\u00fablica menor e rematar\u00e1 a partida!\u00a7!",
+    "INTERACTION_HOLY_ORDERS_CANNOT_MARRY": "Os l\u00edderes das ordes sagradas e as compa\u00f1\u00edas de mercenarios non poden casar!",
+    "INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST": "[Actor.GetBestName] non pode ser un prisioneiro do inimigo",
+    "CONTESTED_TRADEPOST_DESC": "$PERC$: \u00a7Y$PERSON$\u00a7! controla todos os postos comerciais en \u00a7Y$TITLE$\u00a7!",
+    "AIREASON_IS_VASSAL_MERCHANT_REP": "\u00a7Y[GetTitledName]\u00a7! \u00e9 o meu vasalo"
+}

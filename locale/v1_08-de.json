@@ -1,0 +1,22 @@
+{
+    "IS_NOT_ADULT": "Ist NICHT erwachsen",
+    "IS_ADULT": "Ist erwachsen",
+    "IS_NOT_MARRIAGE_ADULT": "Ist NICHT alt genug, um zu heiraten",
+    "IS_MARRIAGE_ADULT": "Ist alt genug, um zu heiraten",
+    "DISEASE_ACTIVATED": "Ausbr\u00fcche von $DISEASE$ k\u00f6nnen nun auftreten",
+    "AIREASON_IS_PRISONER_OF_CHAR": "Ist Gefangener von \u00a7Y[GetTitledFirstName]\u00a7!",
+    "SunsetInvasionDLC": "Sunset Invasion",
+    "NOT_COASTAL": "Ist KEINE K\u00fcstenprovinz",
+    "NOT_FORBIDDEN_LEAD": "Diesem Ratsmitglied ist es derzeit erlaubt, Armeen anzuf\u00fchren.\\n\u00a7GHier klicken, um das Ratsmitglied vom Kommando zu entbinden und das F\u00fchren von Armeen zu verbieten.\u00a7!",
+    "FORBIDDEN_LEAD": "Diesem Ratsmitglied ist es derzeit verboten, Armeen anzuf\u00fchren.\\n\u00a7GHier klicken, um dem Ratsmitglied das F\u00fchren von Armeen zu erlauben.\u00a7!",
+    "DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0": "\u00a7Y[Recipient.GetFirstName] wird aus dem Gef\u00e4ngnis entlassen, wenn [Recipient.GetSubjectPronoun] akzeptiert.\u00a7!",
+    "opinion_fought_for_claimant": "K\u00e4mpfte daf\u00fcr als Anspruchsteller",
+    "EVTOPTD9001": "H\u00f6flich anfragen.",
+    "EVTDESC9003": "Gesch\u00e4tzter [Root.GetTitle],\\n\\nich habe erfahren, dass es innerhalb meines Reiches Fraktionen gibt, die danach trachten, meine Herrschaft zu untergraben. Solltet Ihr Euch einer solchen Fraktion anzuschlie\u00dfen wollen oder es bereits getan haben, so erwarte ich, dass Ihr diese Ambitionen sofort einstellt.\\n\\nGezeichnet,\\n[From.GetTitledName]",
+    "EVTOPTA9003": "Es ist wohl besser, nichts zu riskieren...",
+    "EVTOPTB9003": "Ha! Dieser Brief war ein Akt der Verzweiflung.",
+    "EVTTOOLTIP9023": "Ihr verschickt eine h\u00f6fliche Aufforderung.",
+    "EVTDESC9027": "Geehrter [Root.GetTitle],\\n\\nnun gut. Ich bin nicht begeistert davon, aber zum Wohle des Reiches werde ich jede Eurer Fraktionen unterst\u00fctzen. Bitte sorgt daf\u00fcr, dass ich es nicht bereue.\\n\\nGezeichnet,\\n[From.GetTitledName]",
+    "DATA_COLLECTION_AGREEMENT": "M\u00f6chten Sie uns helfen, Crusader Kings II noch besser zu gestalten, indem Sie uns erlauben, Daten \u00fcber Ihre Spielgewohnheiten sowie benutzte DLCs und Mods zu erheben? Mit Ihrem Einverst\u00e4ndnis wird Crusader Kings II anonyme Spielinformationen an Paradox Interactive versenden, wenn Sie das Spiel spielen. Paradox Interactive kann diese Daten nicht dazu verwenden, um pers\u00f6nliche Informationen \u00fcber die Nutzer zu erhalten.",
+    "DATA_COLLECTION_TITLE": "Helfen Sie uns, Crusader Kings II zu verbessern?"
+}

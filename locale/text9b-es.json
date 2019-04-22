@@ -1,0 +1,22 @@
+{
+    "EVTDESC61152": "El desgraciado de tu anterior regente, el que te encerr\u00f3 bajo la acusaci\u00f3n de estar loco, ya no tiene ninguna influencia en la corte. El nuevo regente te ha liberado.",
+    "EVTOPTA61152": "Cuanto tiempo perdido",
+    "EVTOPTB61152": "\u00a1Atended todo el Mundo! \u00a1Estoy de vuelta!",
+    "EVTDESC61219": "Has frustrado existosamente las intenciones de tu oponente sobre tu regencia, y puedes continuar sirviando a [Root.Liege.GetTitledFirstName].",
+    "EVTDESC61245": "Como [From.GetSheHe] cobarde despreciable que es, \u00bf[From.GetTitledFirstName] se ha negado a aceptar tu desaf\u00edo!",
+    "EVTOPTA61245": "\u00a1Gallina!, \u00a1Gusano!",
+    "EVTDESC61246": "En un intento desesperado por salvar su cabeza, [From.GetTitledFirstName] ha decidido cederte su posici\u00f3n como regente.",
+    "EVTOPTA61246": "Ha sido facil",
+    "EVTDESC61226": "La sangre de tu oponente fluye por los suelos mientras te apoyas en tu espada para coger aliento. Fue un encuentro breve y violento, pero el pobre idiota yace a tus pies, arrastr\u00e1ndose y pidiendo clemencia. Es tu gran d\u00eda.",
+    "EVTDESC61225": "La sangre de tu oponente fluye por los suelos mientras te apoyas en tu espada para coger aliento. Fue un encuentro breve y violento, pero el pobre idiota yace muerto a tus pies.",
+    "EVTDESC61212": "[Root.Regent.GetFirstName] acuchilla violentamente al aire con su daga, fallando a darte por los pelos de un calvo mientras huyes presa del p\u00e1nico. Los guardias entran corriendo y le reducen mientras grita \"\u00a1\u00bfPor qu\u00e9 no te mueres?!\"",
+    "EVTTOOLTIP61213": "Encerr\u00e1dlo en la mazmorra m\u00e1s oscura.",
+    "YEARLY_INCOME_LESS_THAN": "Ingresos anual inferiores a ",
+    "YEARLY_INCOME_GREATER_THAN": "Ingresos anual superiores a ",
+    "DE_JURE_LIEGE_CHANGED_NONE_SETUP": "El t\u00edtulo nobiliario cambia se\u00f1or de facto",
+    "DE_JURE_LIEGE_CHANGED_NONE_LOG": "Despu\u00e9s de \u00a7Y$YEARS$\u00a7! a\u00f1os bajo la \u00a7Y$NEW_LIEGE$\u00a7!, el \u00a7Y$TITLE$\u00a7! ahora se considera parte de ella.",
+    "TITLE_CANNOT_USURP_REL_HEADS": "No se puede usurpar los principales t\u00edtulos religiosos",
+    "INTERACTION_REQUIRES_NOT_IN_REVOLT": "\u00a7Y[Actor.GetTitledFirstName]\u00a7! no est\u00e1 en la revuelta",
+    "INTERACTION_REQUIRES_TP_IS_NOT_LIEGE": "\u00a7Y[Actor.GetTitledFirstName]\u00a7! no es un vasallo de \u00a7Y[ThirdPartyCharacter.GetTitledFirstName]\u00a7!",
+    "BROKEN_SAVEGAME": "\u00a7RPARTIDA GUARDADA ROTO\u00a7!"
+}

@@ -1,0 +1,10 @@
+{
+    "SELECT_CHARACTER_TO_RANSOM": "Charakter ausw\u00e4hlen, f\u00fcr den L\u00f6segeld gezahlt werden soll",
+    "AIREASON_NEEDS_OUR_COUNCILLOR": "Ist unser \u00a7Y[GetJobTitle]\u00a7!",
+    "AIREASON_SKILLED_COURTIER": "F\u00e4higkeiten von \u00a7Y[GetBestName]\u00a7!",
+    "AIREASON_IS_UNIMPORTANT": "\u00a7Y[GetBestName]\u00a7! ist unbedeutend",
+    "INTERACTION_REQUIRES_INV_REASON": "Hat weniger Besitzt\u00fcmer im Reich als \u00a7Y[ThirdPartyCharacter.GetTitledFirstName]\u00a7! oder hat Anspruch auf den prim\u00e4ren Titel",
+    "TRANSFER_TREASURY_EFFECT": "\u00a7Y$FROM$\u00a7! zahlt \u00a7Y$VALUE$\u00a7!\u00a4 an \u00a7Y$TO$\u00a7!\\n",
+    "EVTDESC3407": "Ich versuchte, aus der Situation herauszukommen, indem ich [From.GetTitledFirstName]s Meinung \u00fcber das bunte Kirchenfenster wiederholte, aber [From.GetHerHis]e forschenden Fragen brachten mich schlie\u00dflich dazu, ehrlich zu sein. Ich hasste die Farben, und das Motiv war einfach nur albern.",
+    "EVTDESC5042": "Wir begannen fr\u00fch am Morgen, die Sonne war gerade erst am Horizont. Beute gab es reichlich, die Hunde schnappten viele Hasen und ich erschlug ein gro\u00dfes Wildschwein, bevor es mein Pferd und mich t\u00f6ten konnte."
+}

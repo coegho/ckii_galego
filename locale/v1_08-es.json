@@ -1,0 +1,22 @@
+{
+    "IS_NOT_ADULT": "NO es un adulto",
+    "IS_ADULT": "Es un adulto",
+    "IS_NOT_MARRIAGE_ADULT": "NO tiene la edad m\u00ednima para casarse",
+    "IS_MARRIAGE_ADULT": "Est\u00e1 en edad de casarse",
+    "DISEASE_ACTIVATED": "Pueden aparecer brotes de $DISEASE$",
+    "AIREASON_IS_PRISONER_OF_CHAR": "Es prisionero de \u00a7Y[GetTitledFirstName]\u00a7!",
+    "SunsetInvasionDLC": "Sunset Invasion",
+    "NOT_COASTAL": "Esta provincia no es costera",
+    "NOT_FORBIDDEN_LEAD": "Este consejero no tiene prohibido dirigir ej\u00e9rcitos.\\n\u00a7GPulsa para llamar y prohibir a tu consejero que lidere ej\u00e9rcitos.\u00a7!",
+    "FORBIDDEN_LEAD": "Este consejero tiene prohibido dirigir ej\u00e9rcitos.\\n\u00a7GPulsa para permitir a tu consejero que lidere ej\u00e9rcitos.\u00a7!",
+    "DEMAND_RELIGIOUS_CONVERSION_INTERACTION_0": "\u00a7Y[Recipient.GetFirstName] ser\u00e1 liberado si lo acepta.\u00a7!",
+    "opinion_fought_for_claimant": "Luch\u00f3 pos como Solicitante",
+    "EVTOPTD9001": "Pedir educadamente.",
+    "EVTDESC9003": "Mi estimado [Root.GetTitle],\\n\\nHa llegado a mis o\u00eddos que hay ciertas facciones en el reino trabajando para acabar con mi gobierno. Si est\u00e1s envuelto en ellas, o te lo est\u00e1s pensando, confi\u00f3 en que tu complicidad con estos hechos termine ya mismo.\\n\\nFirmado,\\n[From.GetTitledName]",
+    "EVTOPTA9003": "Mejor no arriesgarse...",
+    "EVTOPTB9003": "\u00a1Ja! Esta carta demuestra su desesperaci\u00f3n.",
+    "EVTTOOLTIP9023": "Env\u00edas una educada respuesta.",
+    "EVTDESC9027": "Honorable [Root.GetTitle],\\n\\n\u00a1Entendido! Pese a que no me gusta, y con motivo de la continuidad de la prosperidad del reino, estoy de acuerdo en apoyar tus facciones. Por favor no hagas que me arrepienta.\\n\\nFirmado,\\n[From.GetTitledName]",
+    "DATA_COLLECTION_AGREEMENT": "\u00bfTe gustar\u00eda ayudarnos a mejorar Crusader Kings II recolectando informaci\u00f3n sobre los h\u00e1bitos de juego y la popularidad de los contenidos descargables y mods? S\u00ed aceptas, se enviar\u00e1 informaci\u00f3n an\u00f3nima a Paradox Interactive cada vez que inicies Crusader Kings II. Paradox Interactive no usar\u00e1 ni podr\u00e1 usar esta informaci\u00f3n para conocer nada sobre los usuarios.",
+    "DATA_COLLECTION_TITLE": "Ay\u00fadenos a Mejorar Crusader Kings II?"
+}

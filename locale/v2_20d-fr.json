@@ -1,0 +1,20 @@
+{
+    "vice_royalty_2_desc": "Autorise la cr\u00e9ation de vice-royaut\u00e9s \u00e0 partir de duch\u00e9s et de royaumes.",
+    "duke_vice_royalties": "Autorise la cr\u00e9ation de vice-royaut\u00e9s \u00e0 partir de duch\u00e9s et de royaumes.",
+    "PLOT_POWER_DESC": "Un complot gagne en force gr\u00e2ce \u00e0 des comploteurs plus puissants. Avoir une force de complot sup\u00e9rieure rend disponibles de nouveaux \u00e9v\u00e9nements et d\u00e9cisions pour le complot. Avoir votre ma\u00eetre-espion en mission pour tisser un r\u00e9seau d'espionnage dans le comt\u00e9 de votre cible augmente aussi la force du complot.",
+    "LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG": "\u00a7Y$VASSAL$\u00a7! ne participe plus \u00e0 la \u00a7Y$VASSAL_WAR$\u00a7! car son seigneur lige \u00a7Y$LIEGE$\u00a7! a rejoint la \u00a7Y$LIEGE_WAR$\u00a7! du cot\u00e9 \u00a7Y$SIDE$\u00a7!.",
+    "LIEGE_ENDED_OTHER_WAR_LOG": "\u00a7YThe $VASSAL_WAR$\u00a7! s'est termin\u00e9e car \u00a7Y$LIEGE$\u00a7! a rejoint \u00a7YThe $LIEGE_WAR$\u00a7! en tant aue \u00a7Y$SIDE$\u00a7!.",
+    "NOT_ANY_WAR_STARTS": "N'est pas en guerre",
+    "not_under_attack": "Pas d\u00e9fenseur dans une guerre",
+    "temple_king_pagan_group": "Pr\u00eatre-roi",
+    "EVTTITLE_CM_1402": "L'insoumis [From.PrimaryTitle.GetRulerTitle]",
+    "EVTDESC_CM_1410": "M[Root.GetOnA][Root.GetLordLady],\\n\\n[From.GetTitledName] manque \u00e0 sa parole et refuse de vous aider contre les Omeyyades\u00a0!",
+    "TRIBAL_VASSAL_LEVY_CONTROL_ON": "Les vassaux tribaux vous fourniront maintenant des troupes.\\n",
+    "TRIBAL_VASSAL_LEVY_CONTROL_OFF": "Les vassaux tribaux ne vous fourniront plus de troupes.\\n",
+    "TRIBAL_VASSAL_TAX_INCOME_ON": "Les vassaux tribaux vous paieront d\u00e9sormais un imp\u00f4t.\\n",
+    "TRIBAL_VASSAL_TAX_INCOME_OFF": "Les vassaux tribaux ne paieront plus d'imp\u00f4t.\\n",
+    "LIEGE_TAX_TRIBAL": "Les dirigeants tribaux ou nomades ind\u00e9pendants ne re\u00e7oivent pas d'imp\u00f4t de leurs vassaux",
+    "CHRONICLE_WAR_WON": "[From.Get_only_Le_Title][From.GetTitledNameWithNick] a gagn\u00e9 la guerre contre [Root.Get_only_le_Title][Root.GetTitledNameWithNick].",
+    "CHRONICLE_WAR_WHITEPEACE": "[From.Get_only_Le_Title][From.GetTitledNameWithNick] a fait la paix avec [Root.Get_only_le_Title][Root.GetTitledNameWithNick].",
+    "CHRONICLE_WAR_LOST": "[From.Get_only_Le_Title][From.GetTitledNameWithNick] a perdu la guerre contre [Root.Get_only_le_Title][Root.GetTitledNameWithNick]."
+}
