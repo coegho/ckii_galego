@@ -20009,5 +20009,6 @@
     "LEVY_UNDER_THRESHOLD": "Levy must be at least at $PERC$% strength before it can be raised",
     "LEVY_OTHER_OCCUPIED": "We cannot raise our levy while §Y$SETTLEMENT$§R is occupied",
     "SIEGE_TO_FEW_MEN": "This siege has been abandoned and will not resume until the attacking force is larger than the defending one",
-    "k_saxony_adj": "Saxón"
+    "k_saxony_adj": "Saxón",
+    "REL_FRIEND_FEMALE": "amiga"
 }
