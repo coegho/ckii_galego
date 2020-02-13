@@ -12093,7 +12093,7 @@
     "b_guarena": "Guareña",
     "b_fuentedelmaestre": "Fuente del Maestre",
     "k_portugal": "Portugal",
-    "k_portugal_adj": "Galega",
+    "k_portugal_adj": "portuguesa",
     "d_porto": "Portucale",
     "d_porto_adj": "Portucalese",
     "c_porto_adj": "Portan",
@@ -20033,7 +20033,7 @@
     "intelligent_steward_desc": "O administrador mellora a economía.",
     "c_sudovia_adj": "sudoviana",
     "city_count_female": "Alcaldesa",
-    "EVTDESCA20110": "Durante a súa visita á miña corte, [From.GetOA] [From.GetJobTitle] de [From.Host.PrimaryTitle.GetName], [From.GetTitledName], non deixou de insistir na natureza benevolente e pacífica d[From.Host.GetOA] [From.Host.GetSeuSua] señor[From.Host.GetOA] [From.Host.GetTitledName]. Porén, outros membros da corte informáronme da fama de mentireiros que [From.GetSheHe] e [From.Host.GetOA] [From.Host.GetSeuSua] señor[From.Host.GetOA].",
+    "EVTDESCA20110": "Durante a súa visita á miña corte, [From.GetOA] [From.GetJobTitle] de [From.Host.PrimaryTitle.GetName], [From.GetTitledName], non deixou de insistir na natureza benevolente e pacífica d[From.Host.GetOA] [From.Host.GetHerHis] señor[From.Host.GetOA] [From.Host.GetTitledName]. Porén, outros membros da corte informáronme da fama de mentireiros que [From.GetSheHe] e [From.Host.GetOA] [From.Host.GetHerHis] señor[From.Host.GetOA].",
     "EVTTOOLTIPB3471": "[nonzealous_child.GetTitledFirstName] síntese abandonad[nonzealous_child.GetOA]",
     "COMBATVIEW_AVERAGE_MORALE": "Moral media: §Y$MORALE$§W (§Y+$DELTA$§W / semana)"
 }
