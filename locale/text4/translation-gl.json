@@ -134,7 +134,7 @@
     "EVTDESC70012": "Avanzamos cara a fronte no tumulto, Mais entón vin os nosos inimigos e de súpeto afrouxáronseme as tripas. Os meus camaradas miráronme todos con repulsa.",
     "EVTDESC923": "Durante a miña misión supervisando as construcións en [Root.Location.GetName] coincidiume de coñecer un Mestre Construtor. Tiña unha vasta experiencia e estaba máis que disposto a ensinarme moitas cousas sobre a construción de edificios.",
     "EVTOPTA923": "Isto farame avanzar na miña carreira",
-    "EVTDESC20230": "My liege, the construction work being done in [From.Location.GetName] is coming along well under the meticulous eyes of a Master Builder, who has taken me under his wing and is teaching me all he knows about constructing buildings. This knowledge will greatly help me in my work.\\n\\nYour humble Steward,\\n[From.GetTitledName]",
+    "EVTDESC20230": "Meu señor, as construcións feitas en [From.Location.GetName] avanzan ben baixo a minuciosa mirada dun Mestre Construtor, que me acolleu so a súa ala e estame a ensinar todo o que sabe sobre a construción de edificios. Este coñecemento axudarame enormemente no meu traballo.\\n\\nO voso humilde [Root.GetTreasurerName],\\n[From.GetTitledName]",
     "EVTDESC80057": "Feeling little loyalty to their previous far off ruler, the peasant rebels of [FromFrom.GetName] have defected and sworn allegiance to [From.County.Holder.GetTitledName]!",
     "EVTDESC80062": "Feeling little loyalty to their previous far off ruler, the peasant rebels of [Root.GetName] have defected and sworn allegiance to another ruler!",
     "EVTDESC60020": "My liege, the great [Root.GetTitledName] and all [Root.GetHerHis] vassals have converted and embraced the Catholic faith!",
